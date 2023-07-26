@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Single PDFs for CDK News articles"
+date:   2005-10-15
+---
+
+This week was the [CDK5AW](http://almost.cubic.uni-koeln.de/cdk/cdk_top/events/cdk5yearworkshop/) event, a workshop for users and
+developers of the [Chemistry Development Kit](http://cdk.sf.net/) (CDK). After talking with other developers we agreed on
+creating PDF and HTML versions of single articles that appeared in the
+[CDK News](http://almost.cubic.uni-koeln.de/cdk/cdk_news/) newsletter. Well, I haven't figured out how to create nice HTML
+(the latex2html does not give nice results, anyone ideas?), but for the PDF version I now have a pipeline.
+
+For each article, a split.config file determines which pages from the CDK News issue PDF should be extracted. To do this, I used the
+[PDF ToolKit](http://www.accesspdf.com/pdftk/), or pdftk for short (comes with Debian/Unbuntu by default). And using a Perl script to read this config files,
+the pipeline creates PDF files for each article. Currently, I'll only have it do the features articles; that is, not the
+ChangeLog, Editorial, Literature and FAQ. For those you'll need to download the full issue. If you don't like that, let me know :)
+
+Ok, you will probably have noticed that the almost server is down
+([Googling for 'CDK News'](http://www.google.com/search?q=CDK+News) allows you read the cache!), and
+I the PDF's will be uploaded there asap. For those not familiar with CDK News, the articles are FDL, so feel free to
+copy and distribute them. If you reuse the text and update it, which is allowed too, please let us know.
