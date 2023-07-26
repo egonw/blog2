@@ -2,7 +2,7 @@ title: chem-bla-ics
 description:
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://egonw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-social:
+social-links:
   github_username: egonw
   google_scholar_username: u8SjMZ0AAAAJ
   orcid_username: 0000-0001-7542-0286
