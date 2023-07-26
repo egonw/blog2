@@ -1,0 +1,11 @@
+title: chem-bla-ics
+email: egon.willighagen+chemblaics@gmail.com
+description:
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://egonw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  egonw
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
