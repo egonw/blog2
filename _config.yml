@@ -17,6 +17,12 @@ social:
   - title: Google Scholar
     platform: google_scholar
     user_url: https://scholar.google.com/citations?user=u8SjMZ0AAAAJ
+  - title: Mastodon
+    platform: mastodon
+    user_url: https://scholar.social/@egonw
+  - title: LinkedIn
+    platform: linkedin
+    user_url: https://www.linkedin.com/in/egon-willighagen/
 #  orcid: 0000-0001-7542-0286
 
 # Build settings
