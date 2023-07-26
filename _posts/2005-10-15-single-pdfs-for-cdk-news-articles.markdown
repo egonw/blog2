@@ -4,10 +4,10 @@ title:  "Single PDFs for CDK News articles"
 date:   2005-10-15
 ---
 
-This week was the [CDK5AW <i class="fa-solid fa-box-archive"></i>](https://web.archive.org/web/20080208101002/http://almost.cubic.uni-koeln.de/cdk/cdk_top/events/cdk5yearworkshop/) event, a workshop for users and
+This week was the [CDK5AW <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20080208101002/http://almost.cubic.uni-koeln.de/cdk/cdk_top/events/cdk5yearworkshop/) event, a workshop for users and
 developers of the [Chemistry Development Kit](http://cdk.sf.net/) (CDK). After talking with other developers we agreed on
 creating PDF and HTML versions of single articles that appeared in the
-[CDK News <i class="fa-solid fa-link-slash"></i>](http://almost.cubic.uni-koeln.de/cdk/cdk_news/) newsletter. Well, I haven't figured out how to create nice HTML
+[CDK News <i class="fa-solid fa-link-slash fa-xs"></i>](http://almost.cubic.uni-koeln.de/cdk/cdk_news/) newsletter. Well, I haven't figured out how to create nice HTML
 (the latex2html does not give nice results, anyone ideas?), but for the PDF version I now have a pipeline.
 
 For each article, a split.config file determines which pages from the CDK News issue PDF should be extracted. To do this, I used the
