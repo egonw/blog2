@@ -31,6 +31,8 @@ layout: base
     {{ content }}
   </div>
 
+  <div><p class="post-meta"><a class="u-url" href="https://github.com/egonw/blog/blob/main/{{ page.path }}"><i class="fa-solid fa-pen-to-square"></i></a></p></div>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
