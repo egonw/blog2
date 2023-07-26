@@ -18,6 +18,6 @@ plugins:
 
 minima:
   social-links:
-    github_username: egonw
-    google_scholar_username: u8SjMZ0AAAAJ
-    orcid_username: 0000-0001-7542-0286
+    - { platform: github, user_url: "https://github.com/egonw" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=u8SjMZ0AAAAJ" }
+    - { platform: orcid, user_url: "https://orcid.org/0000-0001-7542-0286" }
