@@ -20,6 +20,9 @@
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
+          {% if site.author.orcid -%}
+            <li>ORCID: <a class="u-email" href="https://orcid.org/{{ site.author.orcid }}">{{ site.author.orcid }}</a></li>
+          {%- endif %}
         </ul>
       {%- endif %}
       </div>
