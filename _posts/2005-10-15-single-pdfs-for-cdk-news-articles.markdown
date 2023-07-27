@@ -2,6 +2,7 @@
 layout: post
 title:  "Single PDFs for CDK News articles"
 date:   2005-10-15
+blogger-link: https://chem-bla-ics.blogspot.com/2005/10/single-pdfs-for-cdk-news-articles.html
 ---
 
 This week was the [CDK5AW <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20080208101002/http://almost.cubic.uni-koeln.de/cdk/cdk_top/events/cdk5yearworkshop/) event, a workshop for users and

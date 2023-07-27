@@ -2,6 +2,7 @@
 layout: post
 title:  "Chem-bla-ics"
 date:   2005-10-15
+blogger-link: https://chem-bla-ics.blogspot.com/2005/10/chem-bla-ics.html
 ---
 
 This new blog will deal with chemblaics in the broader sense, and will not be restricted to research in this field
