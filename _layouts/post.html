@@ -24,14 +24,20 @@ layout: base
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
+      {%- endif -%}
+      &nbsp;<a class="u-url" href="https://github.com/egonw/blog/blob/main/{{ page.path }}"><i class="fa-solid fa-pen-to-square"></i></a>
+    </p>   
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
-  <div><p class="post-meta"><a class="u-url" href="https://github.com/egonw/blog/blob/main/{{ page.path }}"><i class="fa-solid fa-pen-to-square"></i></a></p></div>
+  {% if page.tags.size > 0 %}
+    <span class="post-meta"><i class="fa-solid fa-tag"></i>&nbsp;{% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="{{ 'tag/' | append: tag_name | relative_url }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>&nbsp;{% endfor %}</span>
+  {% endif %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
