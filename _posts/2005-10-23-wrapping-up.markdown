@@ -11,12 +11,12 @@ bits of experimental research into something like a coherent article. And even l
 questions. [FreeMind](http://freemind.sourceforge.net/) is helping me organize thoughts.
 
 Opensource chemoinformatics is a welcomed diversion now and then. Working on some easy-to-fix CDK bugs yesterday, like the
-[QueryAtomContainer](http://cdk.sourceforge.net/api/org/openscience/cdk/isomorphism/matchers/QueryAtomContainer.html) now correctly
-updated for the recent [cdk.interfaces changes](http://sourceforge.net/mailarchive/forum.php?thread_id=8016575&forum_id=2178). Fixed now.
+[QueryAtomContainer <i class="fa-solid fa-recycle fa-xs"></i>](https://cdk.github.io/cdk/latest/docs/api/org/openscience/cdk/isomorphism/matchers/QueryAtomContainer.html) now correctly
+updated for the recent [cdk.interfaces changes <i class="fa-solid fa-link-slash fa-xs"></i>](http://sourceforge.net/mailarchive/forum.php?thread_id=8016575&forum_id=2178). Fixed now.
 I also touched a lot of code when updating the FSF address in the LGPL license notice, and when I modified the construction of
-[CDKException](http://cdk.sourceforge.net/api/org/openscience/cdk/exception/CDKException.html)'s to set the causing Throwable.
+[CDKException <i class="fa-solid fa-recycle fa-xs"></i>](https://cdk.github.io/cdk/latest/docs/api/org/openscience/cdk/exception/CDKException.html)'s to set the causing Throwable.
 Also helped out [Carsten](http://www.livejournal.com/users/cniehaus/) a bit with adding his data from
 [Kalzium](http://edu.kde.org/kalzium/) to the [Blue Obelisk](http://www.blueobelisk.org/)
-[data repository](http://www.blueobelisk.org/repos/blueobelisk/).
+[data repository <i class="fa-solid fa-recycle fa-xs"></i>](https://github.com/BlueObelisk/bodr).
 
 Another nice diversion is [The Battle for Wesnoth](http://wesnoth.org/). Just got killed, though.
