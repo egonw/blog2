@@ -10,6 +10,10 @@ layout: base
 {% assign inchikey_split = page.tag | split:':' %}
 {% assign inchikey = inchikey_split[1] %}
 
+{% if page.smiles %}
+<img src="https://cdkdepict.toolforge.org/depict/bow/svg?smi={{ page.smiles | escape }}&abbr=on&hdisp=bridgehead&showtitle=false&zoom=2&annotate=cip" style="width: 300px; float: right"></img>
+{% endif %}
+
 <div class="post">
 <h1 class="tag-title">{{ clean_title }}</h1>
 <p class="post-meta"><i class="fa-solid fa-flask-vial"></i> {{ page.tag }}</p>
@@ -40,6 +44,7 @@ layout: base
   "url": "{{ page.url | prepend: site.url }}",
   "name": "{{ down_title }}",
   "description": "Molecule page for {{ down_title }} with chem-bla-ics blog posts about the molecule.",
-  "inChIKey": "{{ inchikey }}"
+  "inChIKey": "{{ inchikey }}",
+  "smiles" : "{{ page.smiles }}"
 }
 </script>
