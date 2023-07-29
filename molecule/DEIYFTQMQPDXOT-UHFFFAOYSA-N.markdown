@@ -1,5 +1,5 @@
 ---
 layout: molecule
-title: "Viagra"
+title: "Molecule: Viagra"
 tag: inchikey:DEIYFTQMQPDXOT-UHFFFAOYSA-N
 ---

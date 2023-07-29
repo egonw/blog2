@@ -3,8 +3,11 @@ layout: base
 ---
 <!-- Source: https://github.com/qian256/qian256.github.io/blob/master/_includes/collecttags.html (MIT license) -->
 
+{% assign title_parts = page.title | split: ':' %}
+{% assign clean_title = title_parts[1] %}
+
 <div class="post">
-<h1 class="tag-title">{{ page.title }}</h1>
+<h1 class="tag-title">{{ clean_title }}</h1>
 <p class="post-meta"><i class="fa-solid fa-flask-vial"></i> {{ page.tag }}</p>
 <ul>
 {% for post in site.tags[page.tag] %}
@@ -31,8 +34,8 @@ layout: base
     "@id": "https://bioschemas.org/profiles/MolecularEntity/0.5-RELEASE"
   },
   "url": "{{ page.url | prepend: site.url }}",
-  "name": "{{ page.title }}",
-  "description": "Molecule page for {{ page.title }} with chem-bla-ics blog posts about the molecule.",
+  "name": "{{ clean_title }}",
+  "description": "Molecule page for {{ clean_title }} with chem-bla-ics blog posts about the molecule.",
   "inChIKey": "{{ page.tag }}"
 }
 </script>
