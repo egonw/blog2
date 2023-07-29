@@ -20,3 +20,19 @@ layout: base
 {% endfor %}
 </ul>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MolecularEntity",
+  "@id": "{{ page.url | prepend: site.url }}",
+  "http://purl.org/dc/terms/conformsTo": {
+    "@type": "CreativeWork",
+    "@id": "https://bioschemas.org/profiles/MolecularEntity/0.5-RELEASE"
+  },
+  "url": "{{ page.url | prepend: site.url }}",
+  "name": "{{ page.title }}",
+  "description": "Molecule page for {{ page.title }} with chem-bla-ics blog posts about the molecule.",
+  "inChIKey": "{{ page.tag }}"
+}
+</script>
