@@ -7,6 +7,9 @@ layout: base
 {% assign clean_title = title_parts[1] | strip %}
 {% assign down_title = clean_title | downcase %}
 
+{% assign inchikey_split = page.tag | split:':' %}
+{% assign inchikey = inchikey_split[1] %}
+
 <div class="post">
 <h1 class="tag-title">{{ clean_title }}</h1>
 <p class="post-meta"><i class="fa-solid fa-flask-vial"></i> {{ page.tag }}</p>
@@ -37,6 +40,6 @@ layout: base
   "url": "{{ page.url | prepend: site.url }}",
   "name": "{{ down_title }}",
   "description": "Molecule page for {{ down_title }} with chem-bla-ics blog posts about the molecule.",
-  "inChIKey": "{{ page.tag }}"
+  "inChIKey": "{{ inchikey }}"
 }
 </script>
