@@ -34,9 +34,28 @@ layout: base
   </div>
 
   {% if page.tags.size > 0 %}
-    <span class="post-meta"><i class="fa-solid fa-tag"></i>&nbsp;{% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a href="{{ 'tag/' | append: tag_name | relative_url }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>&nbsp;{% endfor %}</span>
+    <span class="post-meta">
+    {% for tag in page.tags %}
+      {% assign check = tag | split:':' %}
+      <!-- foo>{{ check.size }}</foo -->
+      {% if check.size == 1 %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        {% assign type = "tag" %} <!-- failsafe -->
+        {% assign icon = "tag" %}
+      {% else %}
+        {% capture tag_name %}{{ check[1] }}{% endcapture %}
+        {% if check[0] == "inchikey" %}
+          {% assign type = "molecule" %}
+          {% assign icon = "flask-vial" %}
+        {% else %}
+          {% assign type = "tag" %} <!-- failsafe -->
+          {% assign icon = "tag" %}
+        {% endif %}
+      {% endif %}
+      <i class="fa-solid fa-{{ icon }}"></i>
+      <a href="{{ type | append:'/' | append: tag_name | relative_url }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>&nbsp;
+    {% endfor %}
+    </span>
   {% endif %}
 
   {%- if site.disqus.shortname -%}
