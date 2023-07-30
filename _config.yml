@@ -29,11 +29,13 @@ social:
 
 # Build settings
 theme: minima
+paginate: 7
 show_excerpts: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll/mastodon_webfinger
+  - jekyll-paginate
 
 feed:
   tags: true
