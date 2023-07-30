@@ -7,7 +7,7 @@ tags: kde chemistry web
 ---
 
 Jerome Pansanel contributed new patches for [kfile_chemical](http://www.kde-apps.org/content/show.php?content=28995); on
-monday actually, but I have been busy with other things, among which a presentation I have to give next monday for some 100+
+Monday actually, but I have been busy with other things, among which a presentation I have to give next Monday for some 100+
 analytical chemists. The patch adds support to [KDE](http://www.kde.org/) for five new chemical MIMEs: XYZ, Mol2, SMILES,
 VMD and GenBank. Therefore, I just released a new version (0.10), and added an announcement to
 [Freshmeat.net](http://freshmeat.net/projects/kfile_chemical/).

@@ -17,4 +17,4 @@ The content contains four [communications <i class="fa-solid fa-box-archive fa-x
 * MQL - Development of a novel substructure query language
 * Stereochemistry detection in the CDK
 
-And, ofcourse, the recurrent Editorial, FAQ and ChangeLog.
+And, of course, the recurrent Editorial, FAQ and ChangeLog.
