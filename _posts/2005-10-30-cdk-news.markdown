@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "CDK News"
+date:   2005-10-30
+blogger-link: https://chem-bla-ics.blogspot.com/2005/10/cdk-news.html
+tags: cdk cheminf
+---
+
+Just finished applying the latest spelling error fixes to [CDK News 2.3](http://sourceforge.net/project/showfiles.php?group_id=20024&package_id=124796).
+Took me some three hours to finish it up the 12 pages, which has mostly to the need to recompile the PDF after each change to make sure that nothing in
+the layout got broken.
+
+The content contains four [communications](http://almost.cubic.uni-koeln.de/cdk/cdk_top/cdk_news/submitting/):
+
+* An Open Framework for Online QSAR Modeling
+* Atom types in the CDK
+* MQL - Development of a novel substructure query language
+* Stereochemistry detection in the CDK
+
+And, ofcourse, the recurrent Editorial, FAQ and ChangeLog.
