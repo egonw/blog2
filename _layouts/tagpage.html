@@ -5,7 +5,10 @@ layout: base
 
 <div class="post">
 <h1 class="tag-title">{{ page.title }}</h1>
-<p class="post-meta"><i class="fa-solid fa-tag"></i> {{ page.tag }}</p>
+<p class="post-meta">
+  <a href="{{ '/blog/feed/by_tag/' | append: page.tag | append: '.xml' }} "><i style="color: #FFA500" class="fa-solid fa-square-rss"></i></a>&nbsp;
+  <i class="fa-solid fa-tag"></i> {{ page.tag }}&nbsp;
+</p>
 <p>{{ content }}</p>
 <ul>
 {% for post in site.tags[page.tag] %}

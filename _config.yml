@@ -34,4 +34,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll/mastodon_webfinger
 
+feed:
+  tags: true
+
 tags:
