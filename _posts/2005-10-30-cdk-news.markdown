@@ -6,11 +6,11 @@ blogger-link: https://chem-bla-ics.blogspot.com/2005/10/cdk-news.html
 tags: cdk cheminf
 ---
 
-Just finished applying the latest spelling error fixes to [CDK News 2.3](http://sourceforge.net/project/showfiles.php?group_id=20024&package_id=124796).
+Just finished applying the latest spelling error fixes to [CDK News 2.3 <i class="fa-solid fa-recycle fa-xs"></i>](https://sourceforge.net/projects/cdk/files/CDK%20News/2_3/).
 Took me some three hours to finish it up the 12 pages, which has mostly to the need to recompile the PDF after each change to make sure that nothing in
 the layout got broken.
 
-The content contains four [communications](http://almost.cubic.uni-koeln.de/cdk/cdk_top/cdk_news/submitting/):
+The content contains four [communications <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20070807110111/http://almost.cubic.uni-koeln.de/cdk/cdk_top/cdk_news/submitting):
 
 * An Open Framework for Online QSAR Modeling
 * Atom types in the CDK
