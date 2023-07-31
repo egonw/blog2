@@ -8,7 +8,14 @@ layout: base
 <div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="{{ page.doi }}"></div>
 {% endif %}
 <h1 class="tag-title">{{ page.title }}</h1>
-<p class="post-meta"><i class="fa-solid fa-file"></i> {{ page.tag }}</p>
+<p class="post-meta">
+{% if page.archivedAt %}
+{% assign link_split = page.archivedAt | split:'/' %}
+{% assign link_title = link_split.last %}
+<i class="fa-solid fa-link"></i> <a href="{{ page.archivedAt }}">{{ link_title }}</a> <br />
+{% endif %}
+<i class="fa-solid fa-file"></i> {{ page.tag }}
+</p>
 <ul>
 {% for post in site.tags[page.tag] %}
   {% if post.lang %}
