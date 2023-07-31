@@ -3,7 +3,7 @@ layout: post
 title:  "Going to the German Chemoinformatics Conference"
 date:   2005-11-11
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/going-to-german-chemoinformatics.html
-tags: cheminf crystal
+tags: cheminf crystal doi:10.1107/S0108768104028344
 ---
 
 This sunday starts the first [German Chemoinformatics Conference <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20051215010113/https://www.cic-workshop.de/) in

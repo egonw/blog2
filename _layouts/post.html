@@ -48,6 +48,9 @@ layout: base
         {% if check[0] == "inchikey" %}
           {% assign type = "molecule" %}
           {% assign icon = "flask-vial" %}
+        {% elsif check[0] == "doi" %}
+          {% assign type = "work" %}
+          {% assign icon = "file" %}
         {% else %}
           {% assign type = "tag" %} <!-- failsafe -->
           {% assign icon = "tag" %}

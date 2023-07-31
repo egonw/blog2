@@ -1,0 +1,6 @@
+---
+layout: work
+title: "Work: Method for the computational comparison of crystal structures"
+tag: doi:10.1107/S0108768104028344
+doi: 10.1107/S0108768104028344
+---

@@ -1,0 +1,36 @@
+---
+layout: base
+---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div class="post">
+{% if page.doi %}
+<div style="float: right; width: 200px" class='altmetric-embed' data-badge-type='donut' data-condensed='true' data-badge-details='right' data-doi="{{ page.doi }}"></div>
+{% endif %}
+<h1 class="tag-title">{{ page.title }}</h1>
+<p class="post-meta"><i class="fa-solid fa-file"></i> {{ page.tag }}</p>
+<ul>
+{% for post in site.tags[page.tag] %}
+  {% if post.lang %}
+  <li lang="{{post.lang}}">
+  {% else %}
+  <li>
+  {% endif %}
+  	<a href="{{ post.url | relative_url }}">{{ post.title }}</a> ({{ post.date | date_to_string }})<br>
+  	{{ post.description }}
+  	<!-- Tags: {{ post.tags | join: ", " }} -->
+  </li>
+{% endfor %}
+</ul>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://doi.org/{{ page.tag }}",
+  "url": "{{ page.url | prepend: site.url }}",
+  "name": "{{ page.title }}",
+  "identifier" : "{{ page.tag }}"
+}
+</script>
