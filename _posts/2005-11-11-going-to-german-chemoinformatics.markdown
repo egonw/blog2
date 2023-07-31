@@ -6,12 +6,13 @@ blogger-link: https://chem-bla-ics.blogspot.com/2005/11/going-to-german-chemoinf
 tags: cheminf
 ---
 
-This sunday starts the first [German Chemoinformatics Conference](http://www.cic-workshop.de/) in
-[Goslar](http://www.goslar.de/). It's an interesting [programme](http://scholle.oc.uni-kiel.de/users/cic/tagungen/workshop05/programm.html), with
+This sunday starts the first [German Chemoinformatics Conference <i class="fa-solid fa-box-archive fa-xs">](https://web.archive.org/web/20051215010113/https://www.cic-workshop.de/) in
+[Goslar](http://www.goslar.de/). It's an interesting [programme <i class="fa-solid fa-box-archive fa-xs">](https://web.archive.org/web/20060206222231/http://scholle.oc.uni-kiel.de/users/cic/tagungen/workshop05/programm.html), with
 presentations on the InChI, PubChem, 25 years of chemoinformatics, the chemical semantic web, and much more.
 
 Among these presentations is mine, on comparing crystal structures
-([PDF](http://www.cac.science.ru.nl/research/publications/PDFs/willighagen2005.pdf)) and deducing cell parameters. But I'm having a poster on QSAR too.
+([PDF <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20050410111504/http://www.cac.science.ru.nl/research/publications/PDFs/willighagen2005.pdf))
+and deducing cell parameters. But I'm having a poster on QSAR too.
 
 I'll arrive on saturday afternoon in Goslar, so leave a message at the conference hotel if you want to meet up, and talk about my work, or yours, or
 the CDK, KDE, JChemPaint, Jmol, kfile_chemical, Kat/Chemistry, [BlueObelisk](http://www.blueobelisk.org/), Eclipse, R, or whatever else...
