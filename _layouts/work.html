@@ -27,10 +27,11 @@ layout: base
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "CreativeWork",
+  "@type": "{% if page.type %}{{ page.type }}{% else %}CreativeWork{% endif %}",
   "@id": "https://doi.org/{{ page.tag }}",
   "url": "{{ page.url | prepend: site.url }}",
   "name": "{{ page.title }}",
+  {% if page.archivedAt %}"archivedAt": "{{ page.archivedAt }}",{% endif %}
   "identifier" : "{{ page.tag }}"
 }
 </script>

@@ -1,6 +1,8 @@
 ---
 layout: work
 title: "Work: Method for the computational comparison of crystal structures"
+type: ScholarlyArticle
 tag: doi:10.1107/S0108768104028344
 doi: 10.1107/S0108768104028344
+archivedAt: https://web.archive.org/web/20050410111504/http://www.cac.science.ru.nl/research/publications/PDFs/willighagen2005.pdf
 ---
