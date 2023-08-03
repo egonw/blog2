@@ -10,6 +10,16 @@ between chemblaics and areas such as chem(o)?informatics, chemometrics, computat
 chemblaics only uses open source software, open data, and open standards, making experimental results
 reproducible and validatable. And this is a big difference!
 
+## Post history
+
+One reason for me to start this copy of my original blog is that each post gets a versioned history.
+This allows me to update blog posts, without loosing its history. Moreover, updated links will come with
+an icon to indicate the change:
+
+* <i class="fa-solid fa-box-archive fa-xs"></i>: this link now points to the Internet Archive archived link
+* <i class="fa-solid fa-recycle fa-xs"></i>: this link points to the current link, sometimes only equivalent
+* <i class="fa-solid fa-link-slash fa-xs"></i>: this link is no longer working, but kept for future reference
+
 ## Powered by
 
 The Jekyll layout is based on the default [minima](https://github.com/jekyll/minima) gem, version 2.5.1, but tweaked after that, e.g. with bits
@@ -19,5 +29,6 @@ This website is further powered by (in random order):
 
 * HTML, MathML
 * SMILES, CDK Depict (Toolforge), and InChI
-* DOI
+* DOI, CrossRef
+* citation.js
 * Internet Archive
