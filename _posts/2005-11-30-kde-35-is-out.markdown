@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "KDE 3.5 is out"
+date:   2005-11-30
+blogger-link: https://chem-bla-ics.blogspot.com/2005/11/kde-35-is-out.html
+tags: kde
+---
+
+[KDE](http://www.kde.org/) 3.5 was [released](http://dot.kde.org/1133270759/) with
+[lots of changes](http://www.kde.org/announcements/visualguide-3.5.php). SuperKaramba is now a standard
+KDE application and is neatly integrated. It allows embedding themelets on your desktop background.
+
+It shows several themelets: the weather, a calender, a toolbar with applications, a
+[FoldingAtHome monitor](http://wiki.jmol.org/FoldingAtHomeCommunity), the contents of the clipboard, the music that is playing
+([Cake](http://en.wikipedia.org/wiki/Cake_(band))) and a simple todo list. All customizable up to the pixel.
+
+And before I forget: a nice new [Kalzium](http://edu.kde.org/kalzium/) release!
