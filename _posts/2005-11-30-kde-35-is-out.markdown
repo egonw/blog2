@@ -11,7 +11,8 @@ tags: kde
 KDE application and is neatly integrated. It allows embedding themelets on your desktop background.
 
 It shows several themelets: the weather, a calender, a toolbar with applications, a
-[FoldingAtHome monitor](http://wiki.jmol.org/FoldingAtHomeCommunity), the contents of the clipboard, the music that is playing
+[FoldingAtHome monitor <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20060127053003/http://wiki.jmol.org/FoldingAtHomeCommunity),
+the contents of the clipboard, the music that is playing
 ([Cake](http://en.wikipedia.org/wiki/Cake_(band))) and a simple todo list. All customizable up to the pixel.
 
 And before I forget: a nice new [Kalzium](http://edu.kde.org/kalzium/) release!
