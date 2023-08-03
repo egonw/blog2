@@ -35,7 +35,7 @@ content = cite.format('bibliography', {
     return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
   }
 })
-document.getElementById('bibliography').setHTML(content)
+document.getElementById('bibliography').innerHTML = content
 </script>
 </p>
 
