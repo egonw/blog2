@@ -34,7 +34,8 @@ layout: base
     {{ content }}
   </div>
 
-  <div class="post-footer">
+{% if page.tags.size > 0 %}
+  <div class="post-footer" id="bibliographyDIV" style="visibility: hidden">
   <b class="post">References</b>
   <p id="bibliography"></p>
   </div>
@@ -49,14 +50,18 @@ cite.add("{{ doi }}")
     {% endif %}
   {% endif %}
 {% endfor %}
-content = cite.format('bibliography', {
-  format: 'html', template : 'apa',
-  append: function (entry) {
-    return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
-  }
-})
-document.getElementById('bibliography').innerHTML = content
+if (cite.getIds().length > 0) {
+  content = cite.format('bibliography', {
+    format: 'html', template : 'apa',
+    append: function (entry) {
+      return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
+    }
+  })
+  document.getElementById('bibliography').innerHTML = content
+  document.getElementById('bibliographyDIV').style.visibility = "visible"
+}
   </script>
+{% endif %}
 
   {% if page.tags.size > 0 %}
     <span class="post-meta">
