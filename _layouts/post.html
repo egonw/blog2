@@ -34,6 +34,30 @@ layout: base
     {{ content }}
   </div>
 
+  <div class="post-footer">
+  <b class="post">References</b>
+  <p id="bibliography"></p>
+  </div>
+  <script>
+const cite = new Cite()
+{% for tag in page.tags %}
+  {% assign check = tag | split:':' %}
+  {% if check.size > 1 %}
+    {% if check[0] == "doi" %}
+      {% capture doi %}{{ check[1] }}{% endcapture %}
+cite.add("{{ doi }}")
+    {% endif %}
+  {% endif %}
+{% endfor %}
+content = cite.format('bibliography', {
+  format: 'html', template : 'apa',
+  append: function (entry) {
+    return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
+  }
+})
+document.getElementById('bibliography').setHTML(content)
+  </script>
+
   {% if page.tags.size > 0 %}
     <span class="post-meta">
     {% for tag in page.tags %}
@@ -67,4 +91,5 @@ layout: base
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
 </article>
