@@ -16,6 +16,31 @@ layout: base
 {% endif %}
 <i class="fa-solid fa-file"></i> {{ page.tag }}
 </p>
+<p class="post-meta">
+<div class="post" id="bibliography"></div>
+<script>
+const cite = new Cite()
+{% for tag in page.tag %}
+  {% assign check = tag | split:':' %}
+  {% if check.size > 1 %}
+    {% if check[0] == "doi" %}
+      {% capture doi %}{{ check[1] }}{% endcapture %}
+cite.add("{{ doi }}")
+    {% endif %}
+  {% endif %}
+{% endfor %}
+content = cite.format('bibliography', {
+  format: 'html', template : 'apa',
+  append: function (entry) {
+    return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
+  }
+})
+document.getElementById('bibliography').setHTML(content)
+</script>
+</p>
+
+<p class="post">
+<h2>Blog posts</h2>
 <ul>
 {% for post in site.tags[page.tag] %}
   {% if post.lang %}
@@ -30,6 +55,7 @@ layout: base
 {% endfor %}
 </ul>
 </div>
+</p>
 
 <script type="application/ld+json">
 {
