@@ -6,7 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2005/12/jumbo-50-and-cdk.html
 tags: cdk cml java
 ---
 
-I [reported earlier](http://chem-bla-ics.blogspot.com/2005/12/jumbo-50-and-cml-support-in-cdk.html) that the CDK has been updated in CVS to use
+I [reported earlier <i class="fa-solid fa-recycle fa-xs"></i>](https://egonw.github.io/blog/2005/12/08/jumbo-50-and-cml-support-in-cdk.html) that the CDK has been updated in CVS to use
 CML from the new Jumbo 5.0. The transition actually involved a lot of changes in the CDK, some I would like to address in the following comments.
 One thing is that CML write support (not reading!) uses the new Jumbo library which requires Java 1.5. Thus, if Java 1.5 is not available,
 then CML writing should not be compiled. This is how this is done.
@@ -14,7 +14,7 @@ then CML writing should not be compiled. This is how this is done.
 ### The JavaDoc
 
 The CDK makes extensive use of [JavaDoc taglets](http://java.sun.com/j2se/1.5.0/docs/guide/javadoc/taglet/spec/com/sun/tools/doclets/Taglet.html).
-CDK uses tags of type `@cdk.SOMETAG`. And an important tag in this case, is the @cdk.require tag, becuase it allows us to make the CDK build
+CDK uses tags of type `@cdk.SOMETAG`. And an important tag in this case, is the `@cdk.require` tag, becuase it allows us to make the CDK build
 system aware that the class requires Java 5.0 to be compiled. Thus, we have for example
 [this code in CVS](http://cvs.sourceforge.net/viewcvs.py/cdk/cdk/src/org/openscience/cdk/io/CMLWriter.java?rev=1.90&view=log), of which bits are:
 
