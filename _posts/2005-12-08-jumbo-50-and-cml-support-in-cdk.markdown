@@ -3,7 +3,7 @@ layout: post
 title:  "Jumbo 5.0 and CML support in CDK"
 date:   2005-12-08
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/jumbo-50-and-cml-support-in-cdk.html
-tags: cdk blue-obelisk
+tags: cdk blue-obelisk cml
 ---
 
 Tobias [commited](http://cvs.sourceforge.net/viewcvs.py/cdk/cdk/jar/jumbo50.jar?rev=1.1&view=log)
