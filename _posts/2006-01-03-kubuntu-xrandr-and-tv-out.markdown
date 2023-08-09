@@ -10,7 +10,7 @@ One of the things I had not fully figured out up to today, was how to configure 
 using my [NVIDIA](http://www.nvidia.com/)'s TV-OUT. I've seen xorg.conf files that define a X11 server for the monitor and a second for the TV, and files
 that use TwinView. Now, I did not really like the way first option worked, so tried the second.
 
-Unfortunately, I had to reconfigure and restart my X11 each time my kids wanted to see [Bob the Builder](http://www.hitentertainment.com/bobthebuilder/).
+Unfortunately, I had to reconfigure and restart my X11 each time my kids wanted to see [Bob the Builder <i class="fa-solid fa-recycle fa-xs"></i>](https://nl.wikipedia.org/wiki/Bob_de_Bouwer).
 I already knew about [XRandR](http://wiki.x.org/X11R6.8.1/doc/Xrandr.3.html), and today finally had a look at it again, and got it to work without much
 trouble this time. (Lesson: if something does not work, let it rest and try again half a year later.)
 
