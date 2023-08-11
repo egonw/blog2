@@ -17,7 +17,7 @@ But that hangs at some point with zero load. I have no idea what is going on the
 #classpath IRC channel, and he helped me run the compile with gdb, which indicated that at some point all threads were waiting.
 
 I also tried it with kaffe 1.1.6.91-2 in sid, but now with a XML parser in the CLASSPATH, as Dalibor in
-[a previous blog item suggested](http://chem-bla-ics.blogspot.com/2006/01/open-source-java-tool-chain-cdk.html):
+[a previous blog item suggested <i class="fa-solid fa-recycle fa-xs"></i>](/blog/2006/01/06/open-source-java-tool-chain-cdk.html):
 
 ```shell
 export CLASSPATH=/usr/share/java/xercesImpl.jar:xmlParserAPIs.jar
