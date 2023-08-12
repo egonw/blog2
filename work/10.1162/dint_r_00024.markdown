@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: FAIR Principles: Interpretations and Implementation Considerations"
+type: ScholarlyArticle
+tag: doi:10.1162/dint_r_00024
+doi: 10.1162/dint_r_00024
+---
