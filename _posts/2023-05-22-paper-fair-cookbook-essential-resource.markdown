@@ -2,6 +2,7 @@
 layout: post
 title:  "Paper: The FAIR Cookbook - the essential resource for and by FAIR doers"
 date:   2023-05-22
+image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-023-02166-3/MediaObjects/41597_2023_2166_Fig2_HTML.png?as=webp
 blogger-link: https://chem-bla-ics.blogspot.com/2023/05/paper-fair-cookbook-essential-resource.html
 tags: fair doi:10.1038/s41597-023-02166-3
 ---
