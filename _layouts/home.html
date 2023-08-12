@@ -26,6 +26,8 @@ layout: base
       {%- for post in posts -%}
       <li>
         <span class="post-meta"><i class="fa-regular fa-calendar-days"></i> {{ post.date | date: date_format }}</span>
+        <div>
+        {% if post.image %}<a href="{{ post.url | relative_url }}" ><img style="float: right;" src="{{ post.image }}" width="300px" />{% endif %}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -35,6 +37,7 @@ layout: base
           {{ post.excerpt }}
         {%- endif -%}
         <span class="post-meta"><i class="fa-regular fa-clock" aria-hidden="true"></i> {% include read-time.html %}</span>
+        </div>
       </li>
       {%- endfor -%}
     </ul>
