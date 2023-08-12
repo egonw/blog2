@@ -33,7 +33,8 @@ layout: base
   </div>
   <script>
 const cite = new Cite()
-{% for tag in page.tags %}
+{% assign tags = page.tags | split:' ' %}
+{% for tag in tags %}
   {% assign check = tag | split:':' %}
   {% if check.size > 1 %}
     {% if check[0] == "doi" %}
