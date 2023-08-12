@@ -25,7 +25,7 @@ So, when last week the research event mentioned that lawyers were starting to us
 they moved ChatGPT into IR. And I already had learned (*) that ChatGPT would predict references, rather than look them up. It's a prediction method,
 not an IR method. So, how come it would accurately give citations to court cases.
 
-It didn't. It's all over the news now. If "hallucinated" legal citations.
+It didn't. It's all over the news now. It "hallucinated" legal citations.
 
 Does this matter? I think it does. This is why I moved my research focus after my PhD back to IR, away from the machine learning. Deep learning can only
 generalize the facts, so we better start accurately recording facts. This is why I study interoperable and reusable knowledge bases, like WikiPathways,
