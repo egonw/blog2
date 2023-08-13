@@ -4,8 +4,8 @@ author:
   name: Egon Willighagen
   orcid: 0000-0001-7542-0286
 description: Chemblaics (pronounced chem-bla-ics) is the science that uses open science and computers to solve problems in chemistry, biochemistry and related fields.
-baseurl: "/blog2" # the subpath of your site, e.g. /blog
-url: "http://egonw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chem-bla-ics.linkedchemistry.info" # the base hostname & protocol for your site, e.g. http://example.com
 mastodon:
   username: egonw
   instance: social.edu.nl
