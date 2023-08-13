@@ -25,3 +25,5 @@ Tip: [Finding Mastodon accounts with Wikidata (a few SPARQL queries)](https://ch
 **Update**: [Musk](https://tweakers.net/nieuws/211364/musk-blokkeren-van-niet-ingelogde-gebruikers-op-twitter-is-tijdelijke-maatregel.html) said this
 was a temporary measure. The problem was scraping of content, you know, the content we openly share on Twitter. Maybe they could have done this
 with APIs. Oh wait, they closed those behind a very expensive paywall.
+
+**Update 2**: Another rumor is that the forgot to make a deal with a cloud provider and suddenly were left with a fraction of the computing power.
