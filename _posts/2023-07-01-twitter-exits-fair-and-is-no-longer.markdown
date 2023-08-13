@@ -27,3 +27,5 @@ was a temporary measure. The problem was scraping of content, you know, the cont
 with APIs. Oh wait, they closed those behind a very expensive paywall.
 
 **Update 2**: Another rumor is that the forgot to make a deal with a cloud provider and suddenly were left with a fraction of the computing power.
+
+**Update 3**: The access has been restored, so you can start scraping/archiving all interesting tweets again.
