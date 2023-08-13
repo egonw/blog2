@@ -3,7 +3,7 @@ layout: post
 title:  "Twitter exits FAIR and is no longer a dissemination solution"
 date:   2023-07-01
 blogger-link: https://chem-bla-ics.blogspot.com/2023/07/twitter-exits-fair-and-is-no-longer.html
-tags:
+tags: twitter mastodon wikipathways
 ---
 
 And just like that, without a warning, Twitter changed policies again, and you now need a Twitter account and be logged in to see public tweets:
