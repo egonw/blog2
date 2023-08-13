@@ -11,7 +11,7 @@ mastodon:
   instance: scholar.social
 mastodon:
   username: egonw
-  instance: akademienl.social
+  instance: social.edu.nl
 social:
   - title: GitHub
     platform: github
