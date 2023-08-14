@@ -2,6 +2,7 @@
 layout: post
 title:  "Qeios, an open dissemination platform for research output"
 date:   2023-07-02
+image: /assets/images/qeios_romp.png
 blogger-link: https://chem-bla-ics.blogspot.com/2023/07/qeios-open-dissemination-platform-for.html
 tags: rom publishing justdoi:10.32388/YGIF9B.2 doi:10.32388/7MQYM4 doi:10.32388/ZJ4QDA doi:10.32388/YCHHA7 justdoi:10.32388/KBX9VO doi:10.1186/S13326-015-0005-5 justdoi:10.1016/j.impact.2021.100366 doi:10.32388/ZNWI7T justdoi:10.32388/C3SJTN
 ---
