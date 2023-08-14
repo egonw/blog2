@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: On the Use of 1H and 13C 1D NMR Spectra as QSPR Descriptors"
+type: ScholarlyArticle
+tag: doi:10.1021/CI050282S
+doi: 10.1021/CI050282S
+---
