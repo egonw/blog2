@@ -32,6 +32,39 @@ layout: base
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+
+  {% if page.tags.size > 0 %}
+    <span class="post-meta">
+    {% for tag in page.tags %}
+      {% assign check = tag | split:':' %}
+      <!-- foo>{{ check.size }}</foo -->
+      {% if check.size == 1 %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        {% assign type = "tag" %} <!-- failsafe -->
+        {% assign icon = "tag" %}
+      {% else %}
+        {% capture tag_name %}{{ check[1] }}{% endcapture %}
+        {% if check[0] == "inchikey" %}
+          {% assign type = "molecule" %}
+          {% assign icon = "flask-vial" %}
+        {% elsif check[0] == "justdoi" %}
+          {% assign type = "skip" %}
+        {% elsif check[0] == "doi" %}
+          {% assign type = "work" %}
+          {% assign icon = "file" %}
+        {% else %}
+          {% assign type = "tag" %} <!-- failsafe -->
+          {% assign icon = "tag" %}
+        {% endif %}
+      {% endif %}
+      {% if type != "skip" %}
+      <i class="fa-solid fa-{{ icon }}"></i>
+      <a href="{{ type | append:'/' | append: tag_name | relative_url }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>&nbsp;
+      {% endif %}
+    {% endfor %}
+    </span>
+  {% endif %}
+
   </div>
 
 {% if page.tags.size > 0 %}
@@ -68,38 +101,6 @@ if (cite.getIds().length > 0) {
 }
   </script>
 {% endif %}
-
-  {% if page.tags.size > 0 %}
-    <span class="post-meta">
-    {% for tag in page.tags %}
-      {% assign check = tag | split:':' %}
-      <!-- foo>{{ check.size }}</foo -->
-      {% if check.size == 1 %}
-        {% capture tag_name %}{{ tag }}{% endcapture %}
-        {% assign type = "tag" %} <!-- failsafe -->
-        {% assign icon = "tag" %}
-      {% else %}
-        {% capture tag_name %}{{ check[1] }}{% endcapture %}
-        {% if check[0] == "inchikey" %}
-          {% assign type = "molecule" %}
-          {% assign icon = "flask-vial" %}
-        {% elsif check[0] == "justdoi" %}
-          {% assign type = "skip" %}
-        {% elsif check[0] == "doi" %}
-          {% assign type = "work" %}
-          {% assign icon = "file" %}
-        {% else %}
-          {% assign type = "tag" %} <!-- failsafe -->
-          {% assign icon = "tag" %}
-        {% endif %}
-      {% endif %}
-      {% if type != "skip" %}
-      <i class="fa-solid fa-{{ icon }}"></i>
-      <a href="{{ type | append:'/' | append: tag_name | relative_url }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>&nbsp;
-      {% endif %}
-    {% endfor %}
-    </span>
-  {% endif %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
