@@ -37,7 +37,7 @@ layout: base
 {% if page.tags.size > 0 %}
   <div class="post-footer" id="bibliographyDIV" style="visibility: hidden">
   <b class="post">References</b>
-  <p id="bibliography"></p>
+  <p class="post-meta" id="bibliography"></p>
   </div>
   <script>
 const cite = new Cite()
@@ -56,6 +56,9 @@ cite.add("{{ doi }}")
 if (cite.getIds().length > 0) {
   content = cite.format('bibliography', {
     format: 'html', template : 'apa',
+    prepend: function (entry) {
+      return '<i class="fa-solid fa-file fa-xs"></i>&nbsp;'
+    },
     append: function (entry) {
       return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
     }
