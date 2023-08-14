@@ -63,7 +63,7 @@ document.getElementById('bibliography').innerHTML = content
   "@type": "{% if page.type %}{{ page.type }}{% else %}CreativeWork{% endif %}",
   "@id": "https://doi.org/{{ page.tag }}",
   "url": "{{ page.url | prepend: site.url }}",
-  "name": "{{ page.title }}",
+  "name": "{{ page.title | replace: '"', '\"' }}",
   {% if page.archivedAt %}"archivedAt": "{{ page.archivedAt }}",{% endif %}
   "identifier" : "{{ page.tag }}"
 }
