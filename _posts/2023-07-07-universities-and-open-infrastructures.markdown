@@ -20,3 +20,5 @@ on PeerTube, etc.
 
 Would it not be awesome if the Fediverse would become the new multidimensional knowledge dissemination and peer review system we have all
 been waiting for?
+
+**Update**: universities with a Mastodon listed in Wikidata on the world map: [https://w.wiki/6zR3](https://w.wiki/6zR3)
