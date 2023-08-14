@@ -1,7 +1,0 @@
----
-layout: work
-title: "Work: Relationships between Molecular Complexity, Biological Activity, and Structural Diversity"
-type: ScholarlyArticle
-tag: doi:10.1021/ci0503558
-doi: 10.1021/ci0503558
----

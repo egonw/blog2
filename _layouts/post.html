@@ -47,6 +47,9 @@ const cite = new Cite()
     {% if check[0] == "doi" %}
       {% capture doi %}{{ check[1] }}{% endcapture %}
 cite.add("{{ doi }}")
+    {% elsif check[0] == "justdoi" %}
+      {% capture doi %}{{ check[1] }}{% endcapture %}
+cite.add("{{ doi }}")
     {% endif %}
   {% endif %}
 {% endfor %}
@@ -77,6 +80,8 @@ if (cite.getIds().length > 0) {
         {% if check[0] == "inchikey" %}
           {% assign type = "molecule" %}
           {% assign icon = "flask-vial" %}
+        {% elsif check[0] == "justdoi" %}
+          {% assign type = "skip" %}
         {% elsif check[0] == "doi" %}
           {% assign type = "work" %}
           {% assign icon = "file" %}
@@ -85,8 +90,10 @@ if (cite.getIds().length > 0) {
           {% assign icon = "tag" %}
         {% endif %}
       {% endif %}
+      {% if type != "skip" %}
       <i class="fa-solid fa-{{ icon }}"></i>
       <a href="{{ type | append:'/' | append: tag_name | relative_url }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>&nbsp;
+      {% endif %}
     {% endfor %}
     </span>
   {% endif %}
