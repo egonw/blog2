@@ -12,8 +12,8 @@ depend on the 3D conformation of the molecule.
 
 Half a year later we concluded that from the data which we started with (48 compounds with binding affinity), no conclusions could be drawn
 what so ever: no statistically sound models could be build at all. So, we composed three larger data sets. These sets, all QSPR data sets,
-did give us models, but all the spectra based models were worse than a [Dragon](http://www.talete.mi.it/dragon_net.htm) descriptor based model
-using the same number of variables, without doing any variable selection.
+did give us models, but all the spectra based models were worse than a [Dragon <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20080113162439/http://www.talete.mi.it/dragon_net.htm)
+descriptor based model using the same number of variables, without doing any variable selection.
 
-I presented this work at the [7th ICCS](http://www.int-conf-chem-structures.org/) in Noordwijkerhout half a year ago, and now got published in the JCIM: DOI
-[10.1021/ci050282s](http://dx.doi.org/10.1021/ci050282s). Comments on this article are ***most*** welcome!
+I presented this work at the 7th [ICCS <i class="fa-solid fa-recycle fa-xs"></i>](https://iccs-nl.org/) in Noordwijkerhout half a year ago, and now got published in the JCIM: DOI
+[10.1021/ci050282s](https://doi.org/10.1021/ci050282s). Comments on this article are ***most*** welcome!
