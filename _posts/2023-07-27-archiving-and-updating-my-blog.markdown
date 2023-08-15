@@ -3,7 +3,7 @@ layout: post
 title:  "Archiving and updating my blog"
 date:   2023-07-27
 blogger-link: https://chem-bla-ics.blogspot.com/2023/07/archiving-and-updating-my-blog.html
-tags: markdown
+tags: markdown wikipathways
 ---
 
 This blog is [almost 18 years old](https://chem-bla-ics.blogspot.com/2005/10/chem-bla-ics.html) now. I have long wanted
