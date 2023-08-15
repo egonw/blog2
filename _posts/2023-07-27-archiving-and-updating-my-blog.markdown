@@ -2,6 +2,7 @@
 layout: post
 title:  "Archiving and updating my blog"
 date:   2023-07-27
+image: /assets/images/new_blog.png
 blogger-link: https://chem-bla-ics.blogspot.com/2023/07/archiving-and-updating-my-blog.html
 tags: markdown wikipathways
 ---
