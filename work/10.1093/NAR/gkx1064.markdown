@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research"
+type: ScholarlyArticle
+tag: doi:10.1093/NAR/GKX1064
+doi: 10.1093/NAR/GKX1064
+---
