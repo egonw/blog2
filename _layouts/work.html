@@ -20,22 +20,27 @@ layout: base
 <div class="post" id="bibliography"></div>
 <script>
 const cite = new Cite()
+dois = []
 {% for tag in page.tag %}
   {% assign check = tag | split:':' %}
   {% if check.size > 1 %}
     {% if check[0] == "doi" %}
       {% capture doi %}{{ check[1] }}{% endcapture %}
-cite.add("{{ doi }}")
+dois.push("{{ doi }}")
     {% endif %}
   {% endif %}
 {% endfor %}
-content = cite.format('bibliography', {
-  format: 'html', template : 'apa',
-  append: function (entry) {
-    return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
-  }
-})
-document.getElementById('bibliography').innerHTML = content
+if (dois.length > 0) {
+  Cite.async(dois).then(function(cite) {
+    content = cite.format('bibliography', {
+      format: 'html', template : 'apa',
+      append: function (entry) {
+        return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
+      }
+    })
+    document.getElementById('bibliography').innerHTML = content
+  })
+}
 </script>
 </p>
 

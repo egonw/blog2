@@ -74,30 +74,33 @@ layout: base
   </div>
   <script>
 const cite = new Cite()
+dois = []
 {% for tag in page.tags %}
   {% assign check = tag | split:':' %}
   {% if check.size > 1 %}
     {% if check[0] == "doi" %}
       {% capture doi %}{{ check[1] }}{% endcapture %}
-cite.add("{{ doi }}")
+dois.push("{{ doi }}")
     {% elsif check[0] == "justdoi" %}
       {% capture doi %}{{ check[1] }}{% endcapture %}
-cite.add("{{ doi }}")
+dois.push("{{ doi }}")
     {% endif %}
   {% endif %}
 {% endfor %}
-if (cite.getIds().length > 0) {
-  content = cite.format('bibliography', {
-    format: 'html', template : 'apa',
-    prepend: function (entry) {
-      return '<i class="fa-solid fa-file fa-xs"></i>&nbsp;'
-    },
-    append: function (entry) {
-      return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
-    }
+if (dois.length > 0) {
+  Cite.async(dois).then(function(cite) {
+    content = cite.format('bibliography', {
+      format: 'html', template : 'apa',
+      prepend: function (entry) {
+        return '<i class="fa-solid fa-file fa-xs"></i>&nbsp;'
+      },
+      append: function (entry) {
+        return ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://scholia.toolforge.org/doi/' + entry.DOI + '">Scholia</a>'
+      }
+    })
+    document.getElementById('bibliography').innerHTML = content
+    document.getElementById('bibliographyDIV').style.visibility = "visible"
   })
-  document.getElementById('bibliography').innerHTML = content
-  document.getElementById('bibliographyDIV').style.visibility = "visible"
 }
   </script>
 {% endif %}
