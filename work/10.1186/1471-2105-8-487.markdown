@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Userscripts for the Life Sciences"
+type: ScholarlyArticle
+tag: doi:10.1186/1471-2105-8-487
+doi: 10.1186/1471-2105-8-487
+---
