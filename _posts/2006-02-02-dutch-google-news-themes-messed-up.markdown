@@ -7,7 +7,7 @@ tags:
 ---
 
 Recently, a [Dutch version of Google News](http://news.google.nl/) was started, and might mean a replacement for
-[nu.nl](http://nu.nl/). I do not like the the verbose layout much, because it makes it more difficult to scan headlines.
+[nu.nl](http://nu.nl/). I do not like the verbose layout much, because it makes it more difficult to scan headlines.
 I do like the themes. Except for one.
 
 The English theme 'Sci/Tech' is Wetenschap in the Dutch version, or plain Science. And it annoys me to read IT headlines
