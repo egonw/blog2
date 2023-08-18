@@ -6,7 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2023/08/last-post-here-freebie-m
 tags: justdoi:10.1038/d41586-023-02554-0
 ---
 
-This is my last post on blogger.com. At least, that is the plan. It has been a great 18 years. I like to thank the owners of
+This is [my last post](https://chem-bla-ics.blogspot.com/2023/08/last-post-here-freebie-model-online.html) on blogger.com. At least, that is the plan. It has been a great 18 years. I like to thank the owners of
 blogger.com and Google later for providing this service. I am continuing the chem-bla-ics on a new domain:
 [https://chem-bla-ics.linkedchemistry.info/](https://chem-bla-ics.linkedchemistry.info/)
 
