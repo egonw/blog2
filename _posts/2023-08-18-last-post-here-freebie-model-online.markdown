@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Last post here / the Freebie model online"
+title:  "Last post there / the Freebie model online"
 date:   2023-08-18
 blogger-link: https://chem-bla-ics.blogspot.com/2023/08/last-post-here-freebie-model-online.html
 tags: justdoi:10.1038/d41586-023-02554-0
