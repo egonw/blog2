@@ -12,3 +12,5 @@ Or tags, really, as explained in this [rel="tag"](http://microformats.org/wiki/r
 to blog items, will enable indexing by Technorati, one of the bigger blog search engines. So, from now on,
 you'll see these tags in my items too, hoping they don't get annoying. No idea, btw, how blog planets respond to them...
 For the record, the tags I list below are general for my blog, and not for this blog item specifically.
+
+Update: The idea was discontinued at some point. The tags are now local to this blog.
