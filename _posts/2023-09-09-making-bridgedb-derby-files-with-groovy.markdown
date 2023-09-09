@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Making bridgeDb Derby files with Groovy"
+title:  "Making BridgeDb Derby files with Groovy"
 date:   2023-09-09
 tags: groovy bridgedb
 ---
 
-I just want to drop this here. There are various ways to make BridgeDb identifier mapping files. Some of the tools
+I just want to drop this here. There are various ways to make [BridgeDb](https://www.bridgedb.org/) identifier mapping files. Some of the tools
 predate my joining the BiGCaT research group and the BridgeDb project, but this Groovy page is basically what we
 have been using to create the metabolite identifier mapping databases:
 
