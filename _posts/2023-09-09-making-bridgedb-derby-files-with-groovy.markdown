@@ -48,6 +48,7 @@ ref1 = new Xref("YECLLIMZHNYFCK-RRNJGNTNSA-J", inchikeyDS, true);
 ref2 = new Xref("LMFA07050035", lmDS, false);
 database.addGene(ref1)
 database.addGene(ref2)
+database.addLink(ref1, ref1)
 database.addLink(ref1, ref2)
 
 ref3 = new Xref("SLM:000000493", swisslipidsDS, true);
