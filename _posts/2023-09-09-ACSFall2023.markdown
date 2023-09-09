@@ -21,7 +21,7 @@ because people publish in the wrong journals, but that is for another time.
 
 I attended multiple sessions, which is a bit of a challenge, doing this remotely from Central European Summer Time (CEST).
 Of course, the Sunday started with the [Chemical informatics (R)evolution: Towards Democratization and Open Science](https://acs.digitellinc.com/sessions/574129/view)
-session, where I had my first talk, and later that day the session of which I cannot remember the name,
+session, where I had my first talk, and later that day the [Enhance your Data - Smart Ways to Metadata and Knowledge Graphs](https://acs.digitellinc.com/sessions/573932/view) session,
 where I gave a second talk, about [Bioschemas](https://bioschemas.org/)' `ChemicalSubstance` and `MolecularEntity`. Sadly, I
 had to leave that meeting early because it was getting too late.
 
