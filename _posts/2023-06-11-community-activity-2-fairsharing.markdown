@@ -3,7 +3,7 @@ layout: post
 title:  "Community activity #2: FAIRsharing"
 date:   2023-06-11
 blogger-link: https://chem-bla-ics.blogspot.com/2023/06/community-activity-2-fairsharing.html
-tags: elixir fair toxicology doi:10.12688/f1000research.74502.1 doi:10.1038/s41587-019-0080-8 doi:10.1162/dint_r_00024
+tags: elixir fair toxicology doi:10.12688/f1000research.74502.1 justdoi:10.1038/s41587-019-0080-8 doi:10.1162/dint_r_00024
 image: /assets/images/fairsharing_toxicology.png
 ---
 
