@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "American Chemical Society Fall 2023 meeting"
+date:   2023-09-09
+tags: acs scholia wikidata justdoi:10.5281/zenodo.8255394 acsfall2023
+---
+
+About four weeks ago the [Fall 2023 American Chemical Society](https://www.acs.org/meetings/acs-meetings/fall-2023.html)
+meeting ([#ACSFall2023](https://mastodon.social/tags/ACSFall2023)).
+I have attended a few ACS meetings in person and even organized a [symposium at the 2010 ACS meeting](https://egonw.github.io/acsrdf2010/)
+in Boston. This time too, I did not participate in person, tho visiting San Francisco again would have been nice. I gave
+[two](https://mastodon.social/@egonw@social.edu.nl/110882509829434765) [presentations](https://mastodon.social/@egonw@social.edu.nl/110883271752255923)
+(slides doi:[10.5281/zenodo.8255394](https://doi.org/10.5281/zenodo.8255394)), but have not uploaded my slides of the first presentation to Zenodo yet.
+
+The theme of the meeting was data, and this resulted in a wealth of presentations with cheminformatics. What is striking
+here is that a lot of work has not changed so much in 20 years, except for the scale. What I missed here was the large open
+data sets, but generally the level of open science was heartwarming! So many preprints mentions, GitHub repositories, and Zenodo
+deposits. The Blue Obelisk was truly ahead of its time, but it is a delight to see the field of chemistry catch up.
+I can now say a lot of about peer review, and why the field is not benefitting from all the experience that exists in the field
+because people publish in the wrong journals, but that is for another time.
+
+I attended multiple sessions, which is a bit of a challenge, doing this remotely from Central European Summer Time (CEST).
+Of course, the Sunday started with the [Chemical informatics (R)evolution: Towards Democratization and Open Science](https://acs.digitellinc.com/sessions/574129/view)
+session, where I had my first talk, and later that day the session of which I cannot remember the name,
+where I gave a second talk, about [Bioschemas](https://bioschemas.org/)' `ChemicalSubstance` and `MolecularEntity`. Sadly, I
+had to leave that meeting early because it was getting too late.
+
+There were so many interesting sessions, I could not attend everything. I also have to go back to all
+[my notes](https://mastodon.social/tags/ACSFall2023) and isolate things I want to follow up on, prominently open datasets.
+
+More later.
