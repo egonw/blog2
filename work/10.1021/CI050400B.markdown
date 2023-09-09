@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: The Blue Obelisk - Interoperability in Chemical Informatics"
+type: ScholarlyArticle
+tag: doi:10.1021/CI050400B
+doi: doi:10.1021/CI050400B
+---
