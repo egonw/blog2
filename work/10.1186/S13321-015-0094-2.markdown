@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: RRegrs: an R package for computer-aided model selection with multiple regression models"
+type: ScholarlyArticle
+tag: doi:10.1186/S13321-015-0094-2
+doi: 10.1186/S13321-015-0094-2
+---
