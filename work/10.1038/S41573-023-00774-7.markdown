@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Artificial intelligence for natural product drug discovery"
+type: ScholarlyArticle
+tag: doi:10.1038/S41573-023-00774-7
+doi: doi:10.1038/S41573-023-00774-7
+---

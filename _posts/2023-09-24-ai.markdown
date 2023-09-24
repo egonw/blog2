@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Artificial intelligence for natural product drug discovery"
+date:   2023-09-24
+tags: cheminf natprod doi:10.1038/s41573-023-00774-7 doi:10.7554/eLife.70780
+image: /assets/images/ai.png
+---
+
+Two weeks ago the write up of a week-long scientific discussions around artificial intelligence for natural product drug discovery
+in Leiden at the [Lorentz Center](https://www.lorentzcenter.nl/) got published
+(doi:[10.1038/s41573-023-00774-7](https://doi.org/10.1038/s41573-023-00774-7)).
+
+![Part of the copyrighted Figure 1 from the article. I hope this counts as fair use.](/assets/images/ai.png)
+
+Sadly, the meetings was still during the (partial) lockdown, and I think my contribution could have been
+more extensive. But I am happy I got to pitch the idea of using Wikidata in this area too, taking advantage
+of the work done by the LOTUS (doi:[10.7554/eLife.70780](https://doi.org/10.7554/eLife.70780)) team earlier.
+
+And this is key to me: you cannot do statistics, chemometrics, machine learning, or artificial
+intelligence without good quality linked data. Happy reading!
