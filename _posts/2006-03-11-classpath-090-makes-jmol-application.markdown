@@ -7,8 +7,8 @@ tags: jmol inchikey:SLMFWJQZLPEDDU-UHFFFAOYSA-N
 ---
 
 A few days back, [Classpath 0.90](http://www.gnu.org/software/classpath/announce/20060306.html) was released, the first release after the 0.20 release. Earlier Classpath releases
-[could run the rendering engine](http://chem-bla-ics.blogspot.com/2005/11/open-source-swing-jmol-renderer-runs.html),
-but [running the application failed so far](http://chem-bla-ics.blogspot.com/2005/11/goal-live-chemblaics-cd.html).
+[could run the rendering engine <i class="fa-solid fa-recycle fa-xs"></i>](/blog/2005/11/27/open-source-swing-jmol-renderer-runs.html),
+but [running the application failed so far <i class="fa-solid fa-recycle fa-xs"></i>](/blog/2005/11/18/goal-live-chemblaics-cd.html).
 
 Today it hit Debian unstable, so upgrade my sid32 chroot and had [Cacao](http://www.cacaojvm.org/) run Jmol.
 I had some memory issues opening a small molecule (4-methyl-2-pentyne),
