@@ -11,7 +11,7 @@ layout: base
 {% assign inchikey = inchikey_split[1] %}
 
 {% if page.smiles %}
-<img src="https://cdkdepict.toolforge.org/depict/bow/svg?smi={{ page.smiles | escape }}&abbr=on&hdisp=bridgehead&showtitle=false&zoom=2&annotate=cip" style="width: 300px; float: right"></img>
+<img src="https://cdkdepict.toolforge.org/depict/bow/svg?smi={{ page.smiles | url_encode }}&abbr=on&hdisp=bridgehead&showtitle=false&zoom=2&annotate=cip" style="width: 300px; float: right"></img>
 {% endif %}
 
 <div class="post">
