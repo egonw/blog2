@@ -6,6 +6,8 @@ blogger-link: https://chem-bla-ics.blogspot.com/2011/04/chembl-09-as-rdf.html
 tags: chembl rdf
 ---
 
+*Update&: this work is now written down in [this paper](http://chem-bla-ics.blogspot.nl/2013/05/new-paper-chembl-database-as-linked.html).
+
 I'm having a really bad month, as you can see from the number of posts. Too much to do, too little time. One of the things
 I have been doing in the past weeks is update the RDF for [ChEMBL](https://www.ebi.ac.uk/chembldb/), now up to
 version&nbsp;09. The [SPARQL end point <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20121123055403/http://rdf.farmbio.uu.se/chembl/sparql) has not been updated yet (which is
