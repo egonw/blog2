@@ -6,7 +6,12 @@ blogger-link: https://chem-bla-ics.blogspot.com/2011/04/chembl-09-as-rdf.html
 tags: chembl rdf
 ---
 
-*Update&: this work is now written down in [this paper](http://chem-bla-ics.blogspot.nl/2013/05/new-paper-chembl-database-as-linked.html).
+*Update 2021-02*: this post is still the second-most read post in my blog. Welcome! Some updates:
+
+* Ammar Ammar in our BiGCaT group has set up a [new SPARQL endpoint](https://chemblmirror.rdf.bigcat-bioinformatics.org/). Please use and tweet. blog, or otherwise let others now how you use the ChEMBL RDF.
+* Since this post I have [blogged a lot more about ChEMBL](https://chem-bla-ics.blogspot.com/search/label/chembl).
+
+*Update*: this work is now written down in [this paper](http://chem-bla-ics.blogspot.nl/2013/05/new-paper-chembl-database-as-linked.html).
 
 I'm having a really bad month, as you can see from the number of posts. Too much to do, too little time. One of the things
 I have been doing in the past weeks is update the RDF for [ChEMBL](https://www.ebi.ac.uk/chembldb/), now up to
