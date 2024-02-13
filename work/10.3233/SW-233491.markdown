@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Wikidata subsetting: approaches, tools, and evaluation"
+type: ScholarlyArticle
+tag: doi:10.3233/SW-233491
+doi: doi:10.3233/SW-233491
+---
