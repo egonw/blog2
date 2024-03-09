@@ -3,7 +3,7 @@ layout: post
 title:  "The Molecular Chemometrics Principles #2: be clear in what you mean"
 date:   2010-08-12
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-2-be.html
-tags: mcprinciples chemometrics rdf cml semweb
+tags: mcprinciples chemometrics rdf cml semweb doi:10.1080/10408340600969601
 ---
 
 I noted [earlier this week](https://chem-bla-ics.linkedchemistry.info/2010/08/09/molecular-chemometrics-principles-1.html)
