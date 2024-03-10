@@ -3,20 +3,21 @@ layout: post
 title:  "InChI's in LaTex and CDK News"
 date:   2006-03-31
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/inchis-in-latex-and-cdk-news.html
-tags: inchi latex cdknews
+tags: inchi cdk cdknews iupac nist google protein openbabel inchikey:VNWKTOKETHGBQD-UHFFFAOYSA-N
 ---
 
-An [InChI](http://www.iupac.org/inchi/) (or the [FAQ](http://www.iupac.org/inchi/)) is a line notation for a
-molecular structure that was recently developed by the [NIST](http://www.nist.gov/) and the IUPAC. Principally
-they can be applied to protein too (see below), but because proteins would give lenghty InChI's and are quite well defined in terms of connectivity anyway, those can better be described by their amino acid sequence.
+An [InChI](http://www.iupac.org/inchi/) (or see the [FAQ](http://www.iupac.org/inchi/)) is a line notation
+for a molecular structure that was recently developed by the [NIST](http://www.nist.gov/) and the
+[IUPAC](http://www.iupac.org/). Principally they can be applied to protein too (see below), but because
+proteins would give lenghty InChI's and are quite well defined in terms of connectivity anyway, those can
+better be described by their amino acid sequence.
 
 The March 2006 issue of [CDK News](http://almost.cubic.uni-koeln.de/cdk/cdk_top/cdk_news/), the
 [Chemistry Development Kit](http://cdk.sf.net/) project newsletter, will be
 [released](http://sourceforge.net/project/showfiles.php?group_id=20024&package_id=124796) later today,
-and had, for the second time, the requirment that authors provide InChI's for molecular structures
-mentioned in the articles. Different from the previous issue is how InChI's are marked up in LaTeX. I've setup
-a `\inchi{}` for this that automatically creates a [Google](http://www.google.com/) search query as
-link behind the InChI:
+and had, for the second time, the requirment that authors provide InChI's for molecular structures mentioned in the articles.
+Different from the previous issue is how InChI's are marked up in LaTeX. I've setup a `\inchi{}`
+for this that automatically creates a [Google](http://www.google.com/) search query as link behind the InChI:
 
 ```latex
 \newcommand{
@@ -26,13 +27,12 @@ link behind the InChI:
 }
 ```
 
-Now, googling for InChI's only works if one removes the `InChI=` part of the InChI. As an example I will show
-how it works for methane. The InChI for this compound is **InChI=1/CH4/h1H4**, so in LaTex one enters `\inchi{1/CH4/h1H4}`.
+Now, googling for InChI's only works if one removes the `InChI=` part of the InChI. As an example I will show how it works
+for methane. The InChI for this compound is `InChI=1/CH4/h1H4`, so in LaTex one enters `\inchi{1/CH4/h1H4}`.
 This will create a link like: [InChI=1/CH4/h1H4](http://www.google.com/search?q=1/CH4/h1H4).
 
-BTW, if you are interested in InChI's for proteins, here is the InChI for
-[1CRN](http://www.pdb.org/pdb/explore.do?structureId=1CRN), created with
-[OpenBabel](http://openbabel.sourceforge.net/):
+BTW, if you are interested in InChI's for proteins, here is the InChI for [1CRN](http://www.pdb.org/pdb/explore.do?structureId=1CRN),
+created with [OpenBabel](http://openbabel.sourceforge.net/):
 
 ```
 InChI=1/C202H439N55O64S6/c1-28-92(12)149-188(308)237-127-84-323-324-
