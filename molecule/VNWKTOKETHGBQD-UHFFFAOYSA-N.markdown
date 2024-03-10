@@ -1,6 +1,6 @@
 ---
 layout: molecule
-title: "Molecule: VNWKTOKETHGBQD-UHFFFAOYSA-N"
+title: "Molecule: Methane"
 tag: inchikey:VNWKTOKETHGBQD-UHFFFAOYSA-N
-smiles: XXXX
+smiles: C
 ---
