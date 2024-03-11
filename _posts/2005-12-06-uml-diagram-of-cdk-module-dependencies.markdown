@@ -13,7 +13,7 @@ the standard was next, and I finished this yesterday. The dependencies in CVS no
 
 IMAGE LOST
 
-This UML diagram was made with [Umbrello](http://uml.sourceforge.net/), and the source is in
+This [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language) diagram was made with [Umbrello](http://uml.sourceforge.net/), and the source is in
 [XMI](http://www-128.ibm.com/developerworks/xml/library/x-xmi/) in CVS.
 
 I cannot stress enough the advantages of these changes:

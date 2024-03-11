@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: uml"
+title: "Tag: Unified Modeling Language"
 tag: uml
 ---
