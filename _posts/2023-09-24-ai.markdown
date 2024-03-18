@@ -8,7 +8,7 @@ image: /assets/images/ai.png
 
 Two weeks ago the write up of a week-long scientific discussions around artificial intelligence for natural product drug discovery
 in Leiden at the [Lorentz Center](https://www.lorentzcenter.nl/) got published
-(doi:[10.1038/s41573-023-00774-7](https://doi.org/10.1038/s41573-023-00774-7)).
+(doi:[10.1038/s41573-023-00774-7](https://doi.org/10.1038/s41573-023-00774-7), [free PDF](https://cris.maastrichtuniversity.nl/en/publications/artificial-intelligence-for-natural-product-drug-discovery)).
 
 ![Part of the copyrighted Figure 1 from the article. I hope this counts as fair use.](/assets/images/ai.png)
 
