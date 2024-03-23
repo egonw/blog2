@@ -8,8 +8,9 @@ image: /assets/images/panton_is_it_open_data.png
 ---
 
 The [announcement](http://blog.okfn.org/2010/02/19/launch-of-the-panton-principles-for-open-data-in-science/) of the
-[Panton Principles](http://pantonprinciples.org/) [is](http://opendotdotdot.blogspot.com/2010/02/open-data-question-of-panton-principles.html)
-[the](http://scienceblogs.com/commonknowledge/2010/02/reaching_agreement_on_the_publ.php)
+[Panton Principles <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20100222213041/http://pantonprinciples.org/)
+[is](http://opendotdotdot.blogspot.com/2010/02/open-data-question-of-panton-principles.html)
+[the <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20100223064514/http://scienceblogs.com/commonknowledge/2010/02/reaching_agreement_on_the_publ.php)
 [big](http://usefulchem.blogspot.com/2010/02/support-open-data-by-endorsing-panton.html)
 [news](http://www.sennoma.net/main/archives/2010/02/panton_principles_for_open_dat.php)
 [today](http://www.nextgenerationscience.com/open-access/the-panton-principles-for-open-data-in-science/),
@@ -24,7 +25,7 @@ though Peter already spoke about them
 * Explicit dedication of data underlying published science into the public domain via PDDL or CCZero is strongly recommended and ensures compliance with both the Science Commons Protocol for Implementing Open Access Data and the Open Knowledge/Data Definition.
 
 I think these are very workable next steps in Open Date, perhaps even worthy end goals.
-[I endorse them](http://pantonprinciples.org/endorse/).
+[I endorse them <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20100222084119/http://pantonprinciples.org/endorse).
 
 ![Sort of logo for the Panton Principles, showing this name and the text "Principles for Open Data in Science".](/assets/images/panton.png)
 
