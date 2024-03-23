@@ -15,7 +15,7 @@ Somewhere in October, however, I found that Taverna could not create 3D models a
 ModelBuilder3D do this? Did it do this itself, or is it done by one of the other pieces of CDK that it uses? But due to the complex nature of this algorithm, it quickly became clear
 that looking at the code was not going to solve it; there was too much code to look at.
 
-The solution was clear to me: use the [new data interfaces](http://chem-bla-ics.blogspot.com/2005/10/more-cdkinterfaces-updates.html).
+The solution was clear to me: use the [new data interfaces <i class="fa-solid fa-recycle fa-xs">](https://chem-bla-ics.linkedchemistry.info/2005/10/25/more-cdkinterfaces-updates.html).
 To identify where the IDs where messed up, I only needed to write a DebugAtom class with a method that looked like:
 
 ```java
