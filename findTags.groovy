@@ -16,7 +16,7 @@ dir.eachFileRecurse (FileType.FILES) { file ->
 }
 
 posts.each() { post ->
-  println "Processing ${post}"
+  // println "Processing ${post}"
   header = false
   tagline = false
   post.eachLine { line ->
