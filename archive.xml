@@ -23,7 +23,12 @@ layout:
     <updated>{%- if page.modified_date -%}{{ post.modified_date | date_to_xmlschema }}{%- else -%}{{ post.date | date_to_xmlschema }}{%- endif -%}</updated>
     <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
     <content type="html" xml:base="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
-      <![CDATA[ {{ post.content }} ]]>
+      <![CDATA[ {{ post.content }}
+      <h4>References</h4>
+      <ul>{% for tag in post.tags %}{% assign check = tag | split:':' %}{% if check.size > 1 %}
+        {% if check[0] == "doi" %}<li><a href="https://doi.org/{{ check[1] }}">{{ check[1] }}</a></li>{% elsif check[0] == "justdoi" %}<li><a href="https://doi.org/{{ check[1] }}">{{ check[1] }}</a></li>{% endif %}{% endif %}
+      {% endfor %}</ul>
+      ]]>
     </content>
     <author><name>Egon Willighagen</name><uri>https://orcid.org/0000-0001-7542-0286</uri></author>
     {% for tag in post.tags %}<category term="{{ tag | xml_escape }}"/>{% endfor %}
