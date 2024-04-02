@@ -3,6 +3,7 @@ layout: post
 title:  "Open Science Retreat #2: CiTO Nanopublications"
 date:   2024-04-02
 tags: osr24nl openscience cito nanopub justdoi:10.3233/ISU-2010-0613 doi:10.1109/ESCIENCE.2018.00024 doi:10.1186/s13321-023-00683-2 wikidata
+image: /assets/images/citoPub.png
 ---
 
 During the [Open Science Retreat](http://chem-bla-ics.linkedchemistry.info/2024/03/31/open-science-retreat-1.html) I organized
@@ -104,3 +105,8 @@ is in all situations the same, and QuickStatements will only add the new informa
 This is what it will [look like in Wikidata](https://www.wikidata.org/wiki/Q113312162#P2860):
 
 ![](/assets/images/citoPub3.png)
+
+And this is what it looks (yellow) when we compare the contributions from nanopublications now with the
+other sources:
+
+![](/assets/images/citoPub4.png)
