@@ -106,7 +106,7 @@ This is what it will [look like in Wikidata](https://www.wikidata.org/wiki/Q1133
 
 ![](/assets/images/citoPub3.png)
 
-And this is what it looks (yellow) when we compare the contributions from nanopublications now with the
-other sources:
+And this is [what it looks](https://scholia.toolforge.org/cito/#articles) (yellow) when we compare the contributions
+from nanopublications now with the other sources:
 
 ![](/assets/images/citoPub4.png)
