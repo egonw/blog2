@@ -2,8 +2,9 @@
 layout: post
 title:  "Open Science Retreat #2: CiTO Nanopublications"
 date:   2024-04-02
+modified_date: 2024-04-06
 doi: 10.59350/n39kz-48173
-tags: osr24nl openscience cito nanopub justdoi:10.3233/ISU-2010-0613 doi:10.1109/ESCIENCE.2018.00024 doi:10.1186/s13321-023-00683-2 wikidata
+tags: osr24nl openscience cito nanopub justdoi:10.3233/ISU-2010-0613 doi:10.1109/ESCIENCE.2018.00024 doi:10.1186/S13321-023-00683-2 wikidata
 image: /assets/images/citoPub.png
 ---
 
