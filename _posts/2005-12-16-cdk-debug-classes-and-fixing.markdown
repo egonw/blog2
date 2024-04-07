@@ -2,6 +2,7 @@
 layout: post
 title:  "CDK Debug classes and fixing the ModelBuilder3D bug"
 date:   2005-12-16
+modified-date: 2024-03-23
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/cdk-debug-classes-and-fixing.html
 tags: cdk cheminf
 ---

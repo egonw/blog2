@@ -2,6 +2,7 @@
 layout: post
 title:  "Open Data: the Panton Principles"
 date:   2010-02-19
+modified-date: 2024-03-23
 blogger-link: https://chem-bla-ics.blogspot.com/2010/02/open-data-panton-principles.html
 tags: opendata
 image: /assets/images/panton_is_it_open_data.png

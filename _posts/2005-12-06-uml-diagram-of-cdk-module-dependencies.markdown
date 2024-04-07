@@ -2,6 +2,7 @@
 layout: post
 title:  "UML diagram of CDK module dependencies"
 date:   2005-12-06
+modified-date: 2024-03-11
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/uml-diagram-of-cdk-module-dependencies.html
 tags: cdk uml
 ---
