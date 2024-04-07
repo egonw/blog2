@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "cdk2024 #1: NWO Open Science grant for the Chemistry Development Kit"
+date:   2024-04-07
+tags: grant cdk cdk2024 justdoi:10.1093/bioinformatics/btz037 justdoi:10.1021/ml100016x
+image: /assets/images/smartcyp.png
+---
+
+We recently got awarded our [second]() NWO Open Science grant ([OSF23.2.097](https://www.nwo.nl/en/projects/osf232097)),
+this time for the [Chemistry Development Kit](https://cdk.github.io/) (CDK).
+"We" here is me and [Alyanne de Haan](https://orcid.org/0000-0003-0896-0906), René van der Ploeg, and
+[Marc Teunis](https://orcid.org/0000-0002-3496-6669) from Hogeschool Utrecht.
+The proposal has been submitted for public dissemination in [RIO Journal](https://riojournal.com/), like
+[we did](https://chem-bla-ics.blogspot.com/2022/04/bridgedb-nwo-grant-update-2-building-up.html?q=bridgedb)
+with the first NWO Open Science grant.
+
+The project formally started on April 1 but we had our kick-off meeting in Maastricht on April 4-5.
+We were joined by Javier and on the second day by Marvin, and Ozan from our [BiGCaT research group](https://www.maastrichtuniversity.nl/research/bioinformatics)
+in Maastricht. During this hackathon, I gave a (repeat) [presentation](https://zenodo.org/records/6414204)
+about the history of the CDK which also included the problem that software using the CDK does not
+always use the most recent version.
+
+And that, upgrading tools using the CDK with the latest CDK version, is the main topic of this grant (work package 2, WP2).
+The full proposal has the focus list of tools, but most of it is also listed in
+[the issue tracker](https://github.com/cdk/nwo-openscience-2024/issues) we have set up as project
+management tool on GitHub.
+
+Second, we actually hacked together on two first tools, one on our focus list, but the other that was
+[requested we have a look at too](https://github.com/cdk/nwo-openscience-2024/issues/22): SMARTCyp.
+The latest version uses [RDKit](https://www.rdkit.org/) (doi:[10.1093/bioinformatics/btz037](https://doi.org/10.1093/bioinformatics/btz037)),
+but the original version uses the CDK (doi:[10.1021/ml100016x](https://doi.org/10.1021/ml100016x)).
+
+We downloaded the source code of SMARTCyp 2.4.2, started taking [notes](https://github.com/cdk/nwo-openscience-2024/blob/main/monitoring/smartcyp.md),
+Javier [started](https://github.com/cdk/smartcyp) a Maven build environment, updated a lot of code, but we seem quite close to a version that can be tested by
+people that have integrated SMARTCyp in other tools. This is based on [CDK 2.9](https://github.com/cdk/cdk/releases/tag/cdk-2.9)
+and if you ignore the 2D depiction glitch, it looks it was a nice first choice:
+
+![](/assets/images/smartcyp.png)
+
+On a final note, we plan to record carefully our steps, in an open notebook science approach, with
+the intention to extract general upgrade steps. For example, we will update the
+[Migration](https://egonw.github.io/cdkbook/migration.html) section of the
+[Groovy Cheminformatics with the Chemistry Development Kit](https://egonw.github.io/cdkbook/).
