@@ -6,7 +6,8 @@ tags: grant cdk cdk2024 justdoi:10.1093/bioinformatics/btz037 justdoi:10.1021/ml
 image: /assets/images/smartcyp.png
 ---
 
-We recently got awarded our [second]() NWO Open Science grant ([OSF23.2.097](https://www.nwo.nl/en/projects/osf232097)),
+We recently got awarded our [second](https://chem-bla-ics.blogspot.com/2022/03/bridgedb-nwo-grant-update-1-first-steps.html?q=bridgedb)
+NWO Open Science grant ([OSF23.2.097](https://www.nwo.nl/en/projects/osf232097)),
 this time for the [Chemistry Development Kit](https://cdk.github.io/) (CDK).
 "We" here is me and [Alyanne de Haan](https://orcid.org/0000-0003-0896-0906), René van der Ploeg, and
 [Marc Teunis](https://orcid.org/0000-0002-3496-6669) from Hogeschool Utrecht.
