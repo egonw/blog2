@@ -114,15 +114,17 @@ smiles: XXXX
 // Finally, other tags (anything without an ':')
 tags.grep{ !(it.toString().contains(":")) }.each() { tag ->
   tag = tag.toLowerCase()
-  file = new File("tag/${tag}.markdown")
-  if (!file.exists()) {
-    println "Creating $file"
-    file.text = """---
+  if (tag != ">") {
+    file = new File("tag/${tag}.markdown")
+    if (!file.exists()) {
+      println "Creating $file"
+      file.text = """---
 layout: tagpage
 title: "Tag: ${tag}"
 tag: ${tag}
 ---
 """
+    }
   }
 }
 
