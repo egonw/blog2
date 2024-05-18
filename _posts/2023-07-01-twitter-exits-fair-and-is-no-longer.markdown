@@ -2,6 +2,7 @@
 layout: post
 title:  "Twitter exits FAIR and is no longer a dissemination solution"
 date:   2023-07-01
+modified_date: 2023-08-13
 blogger-link: https://chem-bla-ics.blogspot.com/2023/07/twitter-exits-fair-and-is-no-longer.html
 tags: twitter mastodon wikipathways
 ---

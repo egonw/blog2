@@ -2,6 +2,7 @@
 layout: post
 title:  "Subset selection: mind the complexity"
 date:   2005-12-23
+modified_date: 2023-08-14
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/subset-selection-mind-complexity.html
 tags: cheminf justdoi:10.1021/ci0503558
 ---

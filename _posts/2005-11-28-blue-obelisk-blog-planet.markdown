@@ -2,6 +2,7 @@
 layout: post
 title:  "A Blue Obelisk blog Planet"
 date:   2005-11-28
+modified_date: 2023-08-03
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/blue-obelisk-blog-planet.html
 tags: blue-obelisk feeds
 ---

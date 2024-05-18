@@ -2,6 +2,7 @@
 layout: post
 title:  "Free at last!"
 date:   2006-01-19
+modified_date: 2023-08-10
 blogger-link: https://chem-bla-ics.blogspot.com/2006/01/free-at-last.html
 tags: phd cdk
 ---

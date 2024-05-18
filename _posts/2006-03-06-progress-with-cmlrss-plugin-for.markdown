@@ -2,6 +2,7 @@
 layout: post
 title:  "Progress with CMLRSS plugin for Bioclipse"
 date:   2006-03-06
+modified_date: 2023-09-16
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/progress-with-cmlrss-plugin-for.html
 image: /blog/assets/images/Cmlrss_bioclipse.png
 tags: bioclipse cml

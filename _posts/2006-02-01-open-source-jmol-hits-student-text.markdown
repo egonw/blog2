@@ -2,6 +2,7 @@
 layout: post
 title:  "Open source Jmol hits student text book Biochemistry"
 date:   2006-02-01
+modified_date: 2023-08-16
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/open-source-jmol-hits-student-text.html
 tags: jmol publishing
 ---

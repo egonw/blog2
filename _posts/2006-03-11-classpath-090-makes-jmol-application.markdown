@@ -2,6 +2,7 @@
 layout: post
 title:  "Classpath 0.90 makes the Jmol application run"
 date:   2006-03-11
+modified_date: 2023-09-24
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/classpath-090-makes-jmol-application.html
 tags: jmol inchikey:SLMFWJQZLPEDDU-UHFFFAOYSA-N
 ---

@@ -2,6 +2,7 @@
 layout: post
 title:  "CIA statistics for Blue Obelisk"
 date:   2005-10-17
+modified_date: 2023-07-27
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/cia-statistics-for-blue-obelisk.html
 tags: blue-obelisk
 ---
