@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "cdk2024 #2: publishing grant proposals"
+date:   2024-05-18
+tags: cdk grant cdk2024 doi:10.3897/RIO.10.E124884
+---
+
+Publishing grant proposal is still not very common. The proposal published in Research Ideas and Outcomes)
+(doi:[10.3897/rio.10.e124884](https://doi.org/10.3897/rio.10.e124884)) for the
+[NWO Open Science grant for the CDK](/2024/04/07/cdk2024.html) is, however, not the first and hopefully not the last.
+Interestingly, it is already cited in (the German) Wikipedia. It is used [there](https://de.wikipedia.org/wiki/Chemistry_Development_Kit)
+to support a statement which tools use the Chemistry Development Kit.
