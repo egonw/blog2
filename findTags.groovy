@@ -6,10 +6,10 @@ import groovy.io.FileType
 // I have been pondering about using a Markdown parser here, but I did not want to learn another "powerful" API.
 // So, below is a bit of custom code: extract "tags:" from the content from the first two "---" lines
 
-def posts = []
 def tags = new HashSet<String>()
 
 def dir = new File("_posts/")
+def posts = []
 dir.eachFileRecurse (FileType.FILES) { file ->
   if (!file.name.startsWith("template"))
     posts << file
@@ -40,6 +40,41 @@ posts.each() { post ->
     }
   }
 }
+
+// also check the tag pages for additional DOIs
+
+dir = new File("tag/")
+def tagFiles = []
+dir.eachFileRecurse (FileType.FILES) { file ->
+  tagFiles << file
+}
+
+tagFiles.each() { tagFile ->
+  // println "Processing ${tagFile}"
+  header = false
+  tagline = false
+  tagFile.eachLine { line ->
+    if (header) {
+      if (line == "---") {
+        header = false
+        return true // stop parsing
+      } else {
+        if (tagline && line.startsWith("  ")) {
+          line.split().each { tag -> tags.add(tag) }
+        } else if (line.startsWith("tags:")) {
+          tagline = true
+          line = line.substring(5)
+          line.split().each { tag -> tags.add(tag) }
+        } else {
+          tagline = false
+        }
+      }
+    } else if (line == "---") {
+      header = true
+    }
+  }
+}
+
 
 // Now that we have the tags, look for the interesting ones
 
