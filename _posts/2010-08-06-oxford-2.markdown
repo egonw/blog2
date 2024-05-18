@@ -2,16 +2,17 @@
 layout: post
 title:  "Oxford... #2"
 date:   2010-08-06
+modified_date: 2024-05-18
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/oxford-2.html
 tags: cdk oxford oxfordadmet2010 justdoi:10.1021/ml100016x
 ---
 
-The [Predictive Toxicology](http://chem-bla-ics.blogspot.com/2010/08/oxford.html) meeting is over. It was a great meeting, by any standard.
+The [Predictive Toxicology <i class="fa-solid fa-recycle fa-xs"></i>](/2010/08/01/oxford.html) meeting is over. It was a great meeting, by any standard.
 Very much recommended, and many thanx to Barry for the organization! The meeting was a true workshop, with a mix of presentations and getting
 work done. I participated in a group that looked at mutagenicity of potential anti-malaria drugs from the datasets of GSK and Novartis recently
 release as Open Data. We used various tools to predict properties, and plan to make all our results freely available soon. Otherwise, it was
 also great to meet Nina again (with whom I [talked about OpenTox](https://chem-bla-ics.blogspot.com/2010/08/using-bioclipse-to-upload-data-to.html)),
-and to meet other CDK users, including Patrik ([SMARTCyp](http://www.farma.ku.dk/smartcyp/),
+and to meet other CDK users, including Patrik ([SMARTCyp <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20100918124243/https://www.farma.ku.dk/smartcyp/),
 doi:[10.1021/ml100016x](https://doi.org/10.1021/ml100016x)) and David ([Inkspot](http://inkspotscience.com/)).
 
 In the afternoon I walked around a bit more in Oxford, did some more shopping... and visited the Apple shop and played with an iPad. It's

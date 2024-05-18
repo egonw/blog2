@@ -2,12 +2,13 @@
 layout: post
 title:  "The Molecular Chemometrics Principles #2: be clear in what you mean"
 date:   2010-08-12
+modified_date: 2024-05-18
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-2-be.html
 tags: mcprinciples chemometrics rdf cml semweb doi:10.1080/10408340600969601
 ---
 
 I noted [earlier this week](https://chem-bla-ics.linkedchemistry.info/2010/08/09/molecular-chemometrics-principles-1.html)
-that *[d]uring the week [in [Oxford](http://chem-bla-ics.blogspot.com/2010/08/oxford-2.html)], someone (name and address is know at the
+that *[d]uring the week [in [Oxford <i class="fa-solid fa-recycle fa-xs"></i>](/2010/08/06/oxford-2.html)], someone (name and address is know at the
 editorial office) commented on the fact that my blog posts are somewhat difficult to follow; that is, it's
 often not clear why I am posting what I am posting*. This triggered the start of a series of principles in
 the field I coined [Molecular Chemometrics](https://doi.org/10.1080/10408340600969601), and the promise

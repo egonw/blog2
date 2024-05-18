@@ -2,23 +2,25 @@
 layout: post
 title:  "Oxford..."
 date:   2010-08-01
+modified_date: 2024-05-18
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/oxford.html
 tags: oxford oxfordadmet2010 publishing science toxicology
 ---
 
 Yesterday I arrived in [Oxford](http://en.wikipedia.org/wiki/Oxford), after a 3.5 hour bus transfer from
 [London Stansted](http://en.wikipedia.org/wiki/London_Stansted_Airport). Long, boring ride (though I might have seen a few
-[red kites](http://www.rspb.org.uk/wildlife/birdguide/name/r/redkite/index.aspx), but seeing that they were near extinct, I am
+[red kites <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20100728051221/http://www.rspb.org.uk/wildlife/birdguide/name/r/redkite/index.aspx), but seeing that they were near extinct, I am
 wondering what other large bird of prey has strong split tail like a swallow). Showed once more that the UK infrastructure has
 hardly changed since the 19th century. Enjoying an undergraduate room at one of the colleges. Pretty basic, but makes me feel
 more like a human than a tourist. Yes!, undergraduate students are human too! One of the advantages is you get an excellent
 internet connection :)
 
-Anyways, going to the [Predictive Toxicology](http://echeminfo.com/comty_oxfordadmet10) workshop, thanx to the bursary award I received from
-[echeminfo](http://echeminfo.com/) (see [Oxford, August 2010: eCheminfo Predictive ADME & Toxicology 2010 Workshop](http://chem-bla-ics.blogspot.com/2010/03/oxford-august-2010-echeminfo-predictive.html)).
+Anyways, going to the [Predictive Toxicology <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20111001000000*/http://echeminfo.com/comty_oxfordadmet10) workshop, thanx to the bursary award I received from
+[echeminfo <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20110207193345/http://echeminfo.com/)
+(see [Oxford, August 2010: eCheminfo Predictive ADME & Toxicology 2010 Workshop](http://chem-bla-ics.blogspot.com/2010/03/oxford-august-2010-echeminfo-predictive.html)).
 
 This afternoon I walked around a bit, watching all the old buildings. But I guess being here without anyone to share it with,
-and that it just looks [Cambridge](http://en.wikipedia.org/wiki/Cambridge), makes me not-so-much impressed. Moreover, it's too
+and that it looks just like [Cambridge](http://en.wikipedia.org/wiki/Cambridge), makes me not-so-much impressed. Moreover, it's too
 busy with tourists and people randomly wearing Oxford University sweatshirts. Small and nice was the
 [Museum of the History of Science](http://www.mhs.ox.ac.uk/), with some nice chemical pieces, like this one:
 
