@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Oxford..."
+date:   2010-08-01
+blogger-link: https://chem-bla-ics.blogspot.com/2010/08/oxford.html
+tags: oxford oxfordadmet2010 publishing science toxicology
+---
+
+Yesterday I arrived in [Oxford](http://en.wikipedia.org/wiki/Oxford), after a 3.5 hour bus transfer from
+[London Stansted](http://en.wikipedia.org/wiki/London_Stansted_Airport). Long, boring ride (though I might have seen a few
+[red kites](http://www.rspb.org.uk/wildlife/birdguide/name/r/redkite/index.aspx), but seeing that they were near extinct, I am
+wondering what other large bird of prey has strong split tail like a swallow). Showed once more that the UK infrastructure has
+hardly changed since the 19th century. Enjoying an undergraduate room at one of the colleges. Pretty basic, but makes me feel
+more like a human than a tourist. Yes!, undergraduate students are human too! One of the advantages is you get an excellent
+internet connection :)
+
+Anyways, going to the [Predictive Toxicology](http://echeminfo.com/comty_oxfordadmet10) workshop, thanx to the bursary award I received from
+[echeminfo](http://echeminfo.com/) (see [Oxford, August 2010: eCheminfo Predictive ADME & Toxicology 2010 Workshop](http://chem-bla-ics.blogspot.com/2010/03/oxford-august-2010-echeminfo-predictive.html)).
+
+This afternoon I walked around a bit, watching all the old buildings. But I guess being here without anyone to share it with,
+and that it just looks [Cambridge](http://en.wikipedia.org/wiki/Cambridge), makes me not-so-much impressed. Moreover, it's too
+busy with tourists and people randomly wearing Oxford University sweatshirts. Small and nice was the
+[Museum of the History of Science](http://www.mhs.ox.ac.uk/), with some nice chemical pieces, like this one:
+
+![](/assets/images/DSCI0089.JPG)
+
+Buildings like the [Radcliffe Camera](http://en.wikipedia.org/wiki/Radcliffe_Camera) are nice on the outside, but closed.
+Seems I have to become a fellow first. This is what it looked like today:
+
+![](/assets/images/DSCI0094.JPG)
+
+Quite interesting too was the Oxford University Press shop. I'm a sucker for books. Apparently, you can just write a book
+and publish it. For example, an extensive list of [dictionaries on about anything](http://ukcatalogue.oup.com/category/academic/series/general/opr.do)...
+and since I have been writing several book chapters right now, perhaps this is actually an interesting route...
+
+But the question is, of course, how long will we keep reading books... they're the
+[hamburgers](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=1064) of educational material... Kindle and alikes will soon drop in
+price, and cost some €30 euro. But e-book prices will have to drop too, and I still do not get why an e-book is more expensive than a paperback...
+(see [Amazon, the Kindle edition is more expensive than the paperback??](http://chem-bla-ics.blogspot.com/2010/07/amazon-kindle-edition-is-more-expensive.html)).
+But then again... they are rich, and I am not.
+
+There was some recent talk about the fact that no one can be Open to the full. You either do Open Data or Open Source, and
+make a living from the rest. That's where I nicely show I know bullocks of economics. I do
+[BODR](http://bodr.sf.net/), [CDK](http://cdk.sf.net/), ... all Open, all for free.
+
+OK. That's a plus for Oxford... it makes you think about things. Perhaps there is something to
+[morphogenetic](http://en.wikipedia.org/wiki/Morphic_field#Morphogenetic_field) fields...
