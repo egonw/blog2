@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Source Swing: JChemPaint runs!"
 date:   2005-11-20
-modified-date: 2024-03-23
+modified_date: 2024-03-23
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/open-source-swing-jchempaint-runs.html
 tags: jchempaint java jmol linux
 ---

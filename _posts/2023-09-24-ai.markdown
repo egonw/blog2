@@ -2,7 +2,7 @@
 layout: post
 title:  "Artificial intelligence for natural product drug discovery"
 date:   2023-09-24
-modified-date: 2024-03-18
+modified_date: 2024-03-18
 tags: cheminf natprod doi:10.1038/s41573-023-00774-7 doi:10.7554/eLife.70780
 image: /assets/images/ai.png
 ---
