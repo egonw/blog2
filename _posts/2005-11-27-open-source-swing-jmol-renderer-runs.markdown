@@ -2,6 +2,7 @@
 layout: post
 title:  "Open Source Swing: Jmol renderer runs!"
 date:   2005-11-27
+modified_date: 2023-08-03
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/open-source-swing-jmol-renderer-runs.html
 tags: jmol java
 ---

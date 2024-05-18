@@ -2,6 +2,7 @@
 layout: post
 title:  "InChI's in LaTex and CDK News"
 date:   2006-03-31
+modified_date: 2024-03-10
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/inchis-in-latex-and-cdk-news.html
 tags: inchi cdk cdknews iupac nist google protein openbabel inchikey:VNWKTOKETHGBQD-UHFFFAOYSA-N
 ---

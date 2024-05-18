@@ -2,6 +2,7 @@
 layout: post
 title:  "Jumbo 5.0 and the CDK"
 date:   2005-12-10
+modified_date: 2023-08-05
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/jumbo-50-and-cdk.html
 tags: cdk cml java
 ---

@@ -2,6 +2,7 @@
 layout: post
 title:  "Going to the German Chemoinformatics Conference"
 date:   2005-11-11
+modified_date: 2023-07-31
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/going-to-german-chemoinformatics.html
 tags: cheminf crystal doi:10.1107/S0108768104028344
 ---

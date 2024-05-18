@@ -2,6 +2,7 @@
 layout: post
 title:  "Free online ChemConf 2006 conference"
 date:   2006-04-02
+modified_date: 2024-02-19
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/free-online-chemconf-2006-conference.html
 tags: conference jmol jchempaint education
 ---

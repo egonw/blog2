@@ -2,6 +2,7 @@
 layout: post
 title:  "Single PDFs for CDK News articles"
 date:   2005-10-15
+modified_date: 2023-07-27
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/single-pdfs-for-cdk-news-articles.html
 tags: cdk
 ---

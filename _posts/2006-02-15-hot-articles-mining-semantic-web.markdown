@@ -2,6 +2,7 @@
 layout: post
 title:  "Hot articles; mining the semantic web"
 date:   2006-02-15
+modified_date: 2023-08-21
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/hot-articles-mining-semantic-web.html
 tags: bioinfo cb semweb doi:10.1021/CI034244P justdoi:10.1038/439534a
 ---

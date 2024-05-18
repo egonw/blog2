@@ -2,6 +2,7 @@
 layout: post
 title:  "The good, the bad and the ugly molecules"
 date:   2005-12-28
+modified_date: 2023-08-08
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/good-bad-and-ugly-molecules.html
 tags: chemistry cheminf
 ---

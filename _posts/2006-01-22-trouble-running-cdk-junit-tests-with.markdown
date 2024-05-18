@@ -2,6 +2,7 @@
 layout: post
 title:  "Trouble running the CDK JUnit tests with Cacao and Kaffe"
 date:   2006-01-22
+modified_date: 2023-08-11
 blogger-link: https://chem-bla-ics.blogspot.com/2006/01/trouble-running-cdk-junit-tests-with.html
 tags: cdk java
 ---

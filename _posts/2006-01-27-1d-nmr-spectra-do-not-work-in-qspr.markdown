@@ -2,6 +2,7 @@
 layout: post
 title:  "1D NMR Spectra do not work in QSPR"
 date:   2006-01-27
+modified_date: 2023-08-14
 blogger-link: https://chem-bla-ics.blogspot.com/2006/01/1d-nmr-spectra-do-not-work-in-qspr.html
 tags: doi:10.1021/CI050282S cheminf
 ---

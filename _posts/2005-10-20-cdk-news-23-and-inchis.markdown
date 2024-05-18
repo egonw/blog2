@@ -2,6 +2,7 @@
 layout: post
 title:  "CDK News 2.3 and InChI's"
 date:   2005-10-20
+modified_date: 2023-07-28
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/cdk-news-23-and-inchis.html
 tags: cdk inchi
 ---

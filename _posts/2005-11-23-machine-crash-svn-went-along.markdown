@@ -2,6 +2,7 @@
 layout: post
 title:  "Machine crash; SVN went along"
 date:   2005-11-23
+modified_date: 2023-08-02
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/machine-crash-svn-went-along.html
 tags: svn
 ---

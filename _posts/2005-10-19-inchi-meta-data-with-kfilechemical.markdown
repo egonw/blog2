@@ -2,6 +2,7 @@
 layout: post
 title:  "InChI meta data with kfile_chemical"
 date:   2005-10-19
+modified_date: 2023-07-27
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/inchi-meta-data-with-kfilechemical.html
 tags: kde inchi
 ---

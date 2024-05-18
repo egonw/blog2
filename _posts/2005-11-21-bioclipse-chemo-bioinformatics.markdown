@@ -2,6 +2,7 @@
 layout: post
 title:  "Bioclipse: the chemo-/bioinformatics workbench"
 date:   2005-11-21
+modified_date: 2023-08-02
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/bioclipse-chemo-bioinformatics.html
 tags: cdk bioclipse
 ---

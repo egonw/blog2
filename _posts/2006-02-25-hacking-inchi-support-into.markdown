@@ -2,6 +2,7 @@
 layout: post
 title:  "Hacking InChI support into postgenomic.com"
 date:   2006-02-25
+modified_date: 2023-09-16
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/hacking-inchi-support-into.html
 tags: cb inchi
 ---

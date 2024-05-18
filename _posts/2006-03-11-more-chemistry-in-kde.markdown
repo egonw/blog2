@@ -2,6 +2,7 @@
 layout: post
 title:  "More chemistry in KDE"
 date:   2006-03-11
+modified_date: 2023-09-16
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/more-chemistry-in-kde.html
 tags: kde chemistry
 ---
