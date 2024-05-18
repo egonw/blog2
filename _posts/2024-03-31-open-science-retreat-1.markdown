@@ -3,6 +3,7 @@ layout: post
 title:  "Open Science Retreat #1: impressions"
 date:   2024-03-31
 tags: osr24nl openscience wikibase cito nanopub
+doi: 10.59350/znw1y-zfg25
 ---
 
 Last week I attended the [Open Science Retreat](https://openscienceretreat.eu/) ([#osr24nl](https://hashtags-hub.toolforge.org/osr24nl))

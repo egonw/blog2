@@ -3,6 +3,7 @@ layout: post
 title:  "New paper: \"WikiPathways 2024: next generation pathway database\""
 date:   2023-11-11
 tags: wikipathways doi:10.1093/NAR/GKAD960 git
+doi: 10.59350/8pkga-q4n03
 image: /assets/images/wp-gpml-change-workflow.png
 ---
 

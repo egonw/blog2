@@ -3,6 +3,7 @@ layout: post
 title:  "Making BridgeDb Derby files with Groovy"
 date:   2023-09-09
 tags: groovy bridgedb
+doi: 10.59350/pn744-knt64
 ---
 
 I just want to drop this here. There are various ways to make [BridgeDb](https://www.bridgedb.org/) identifier mapping files. Some of the tools

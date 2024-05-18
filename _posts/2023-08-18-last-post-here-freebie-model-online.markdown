@@ -4,6 +4,7 @@ title:  "Last post there / the Freebie model online"
 date:   2023-08-18
 blogger-link: https://chem-bla-ics.blogspot.com/2023/08/last-post-here-freebie-model-online.html
 tags: justdoi:10.1038/d41586-023-02554-0
+doi: 10.59350/65nqr-3w351
 ---
 
 This is [my last post](https://chem-bla-ics.blogspot.com/2023/08/last-post-here-freebie-model-online.html) on blogger.com. At least, that is the plan. It has been a great 18 years. I like to thank the owners of

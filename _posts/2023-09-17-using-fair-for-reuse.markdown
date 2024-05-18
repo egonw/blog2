@@ -4,6 +4,7 @@ title:  "Using FAIR to select data for reuse"
 date:   2023-09-17
 tags: fair qsar doi:10.1016/J.IMPACT.2023.100475 doi:10.1186/S13321-015-0094-2
   doi:10.26434/CHEMRXIV-2022-L8VK8-V2
+doi: 10.59350/7zf38-w9670
 image: /assets/images/qsar-maturity-indicators.jpg
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  "cdk2024 #1: NWO Open Science grant for the Chemistry Development Kit"
 date:   2024-04-07
 tags: grant cdk cdk2024 justdoi:10.1093/bioinformatics/btz037 justdoi:10.1021/ml100016x
+doi: 10.59350/ytkmr-0vv92
 image: /assets/images/smartcyp.png
 ---
 

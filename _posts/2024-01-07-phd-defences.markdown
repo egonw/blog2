@@ -3,6 +3,7 @@ layout: post
 title:  "PhD Defences: Andra Waagmeester and Marvin Martens"
 date:   2024-01-07
 tags: bigcat
+doi: 10.59350/xcvg3-37491
 ---
 
 2023 has been a long year in which a lot happens. Two EU projects ended ([RiskGONE](https://riskgone.eu/)

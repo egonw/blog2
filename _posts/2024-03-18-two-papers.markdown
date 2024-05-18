@@ -3,6 +3,7 @@ layout: post
 title:  "Reusing data: two new papers"
 date:   2024-03-17
 tags: covid19 fair nanosafety nanocommons doi:10.3389/FIMMU.2023.1282859 doi:10.1039/D3SU00148B doi:10.5281/ZENODO.10533126
+doi: 10.59350/zds99-03s42
 ---
 
 My research is about the interaction of (machine) representation and the impact on the success of

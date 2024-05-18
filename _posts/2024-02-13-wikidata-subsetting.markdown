@@ -3,6 +3,7 @@ layout: post
 title:  "New paper: \"Wikidata subsetting: approaches, tools, and evaluation\""
 date:   2024-02-13
 tags: wikidata doi:10.3233/SW-233491 scholia doi:10.3897/RIO.5.E35820
+doi: 10.59350/57rv7-5m756
 image: /assets/images/wikidata_subsetting_features.png
 ---
 
