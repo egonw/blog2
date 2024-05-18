@@ -30,5 +30,6 @@ This website is further powered by (in random order):
 * HTML, MathML
 * SMILES, [CDK Depict](https://cdkdepict.toolforge.org/) ([Toolforge](https://toolforge.org/)), and InChI
 * DOI, CrossRef
+* Rogue Scholar (provider of DOIs for posts), see [https://rogue-scholar.org/blogs/chem_bla_ics](https://rogue-scholar.org/blogs/chem_bla_ics)
 * [citation.js](https://citation.js.org/)
 * [Internet Archive](https://archive.org/)
