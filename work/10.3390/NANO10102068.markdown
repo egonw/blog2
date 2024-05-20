@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: A Semi-Automated Workflow for FAIR Maturity Indicators in the Life Sciences"
+type: ScholarlyArticle
+tag: doi:10.3390/NANO10102068
+doi: doi:10.3390/NANO10102068
+---

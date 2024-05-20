@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: European Registry of Materials: global, unique identifiers for (undisclosed) nanomaterials"
+type: ScholarlyArticle
+tag: doi:10.1186/S13321-022-00614-7
+doi: doi:10.1186/S13321-022-00614-7
+---
