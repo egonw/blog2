@@ -1,5 +1,5 @@
 ---
 layout: tagpage
 title: "Tag: Citation Typing Ontology"
-tag: cito
+tag: cito doi:10.1186/s13321-023-00683-2 doi:10.1186/s13321-020-00448-1
 ---
