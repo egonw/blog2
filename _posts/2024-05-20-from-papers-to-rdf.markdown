@@ -2,9 +2,9 @@
 layout: post
 title:  "New paper: From papers to RDF-based integration of physicochemical data and adverse outcome pathways for nanomaterials"
 date:   2024-05-20
-tags: fair rdf doi:10.1186/s13321-024-00833-0 doi:10.14573/altex.2102191 doi:10.3390/nano10102068 erm
-  doi:10.1186/s13321-022-00614-7 doi:10.3389/fphy.2023.1271842 doi:10.3762/bjnano.6.165
-  doi:10.1089/aivt.2021.0010
+tags: fair rdf doi:10.1186/S13321-024-00833-0 doi:10.14573/ALTEX.2102191 doi:10.3390/NANO10102068 erm
+  doi:10.1186/S13321-022-00614-7 doi:10.3389/FPHY.2023.1271842 doi:10.3762/BJNANO.6.165
+  doi:10.1089/AIVT.2021.0010
 image: /assets/images/13321_2024_833_Fig1_HTML.png
 ---
 
