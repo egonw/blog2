@@ -3,6 +3,7 @@ layout: post
 title:  "cdk2024 #2: publishing grant proposals"
 date:   2024-05-18
 tags: cdk grant cdk2024 doi:10.3897/RIO.10.E124884
+doi: 10.59350/s1hwk-vj154
 ---
 
 Publishing grant proposal is still not very common. The proposal published in Research Ideas and Outcomes)
