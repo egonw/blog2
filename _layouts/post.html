@@ -30,6 +30,9 @@ layout: base
       {%- endif -%}
       &nbsp;<a class="u-url" href="https://github.com/egonw/blog2/commits/new/{{ page.path }}"><i class="fa-solid fa-timeline"></i></a>
       &nbsp;<a class="u-url" href="https://github.com/egonw/blog2/blob/new/{{ page.path }}"><i class="fa-solid fa-pen-to-square"></i></a>
+      {%- if page.doi -%}
+        <br /><span class="post-meta">Download as:&nbsp;<a href="https://api.rogue-scholar.org/posts/{{ page.doi }}?format=pdf"><i class="fa-solid fa-file-pdf"></i></a></span>
+      {%- endif -%}
     </p>   
   </header>
 
