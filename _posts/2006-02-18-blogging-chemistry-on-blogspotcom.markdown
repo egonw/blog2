@@ -4,6 +4,7 @@ title:  "Blogging chemistry on blogspot.com"
 date:   2006-02-18
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/blogging-chemistry-on-blogspotcom.html
 tags: cml semweb inchikey:QTBSBXVTEAMEQO-UHFFFAOYSA-N doi:10.1021/CI034244P
+doi: 10.59350/p37t7-7mz48
 ---
 
 You might have read earlier posts in this blog on [CMLRSS](https://doi.org/10.1021/ci034244p), and received a question today on how to integrate
