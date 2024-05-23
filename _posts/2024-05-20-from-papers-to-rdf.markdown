@@ -6,6 +6,7 @@ tags: fair rdf doi:10.1186/S13321-024-00833-0 doi:10.14573/ALTEX.2102191 doi:10.
   doi:10.1186/S13321-022-00614-7 doi:10.3389/FPHY.2023.1271842 doi:10.3762/BJNANO.6.165
   doi:10.1089/AIVT.2021.0010
 image: /assets/images/13321_2024_833_Fig1_HTML.png
+doi: 10.59350/jdj8r-h6187
 ---
 
 Making something FAIR is hard, particularly when you do more than making something findable. We've seen before that

@@ -4,6 +4,7 @@ title:  "Viagra saves the environment"
 date:   2005-10-21
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/viagra-saves-environment.html
 tags: chemistry environment inchikey:DEIYFTQMQPDXOT-UHFFFAOYSA-N
+doi: 10.59350/fbnx1-9r832
 ---
 
 This week there was an interesting article in the Dutch [Intermediar](http://intermediair.nl/) about viagra. They cite an article in

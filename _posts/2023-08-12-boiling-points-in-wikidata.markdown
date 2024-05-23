@@ -4,6 +4,7 @@ title:  "Boiling points in Wikidata"
 date:   2023-08-12
 blogger-link: https://chem-bla-ics.blogspot.com/2023/08/boiling-points-in-wikidata.html
 tags: rdf wikidata chemistry
+doi: 10.59350/xr6k8-z4480
 ---
 
 Some days ago, I started added boiling points to [Wikidata](https://wikidata.org/), referenced from
