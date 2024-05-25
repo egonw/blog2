@@ -39,5 +39,6 @@ plugins:
 
 feed:
   tags: true
+  path: feed2.xml
 
 tags:
