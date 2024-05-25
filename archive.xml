@@ -21,7 +21,11 @@ layout:
     <link href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}"/>
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{%- if post.modified_date -%}{{ post.modified_date | date_to_xmlschema }}{%- else -%}{{ post.date | date_to_xmlschema }}{%- endif -%}</updated>
-    <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
+    {% if post.doi %}
+      {% assign page_url = post.doi | prepend: "https://doi.org/" %}
+    {% else %}
+      {% assign page_url = post.url | prepend: site.baseurl | prepend: site.url %}
+    {% endif %}<id>{{ page_url }}</id>
     <content type="html" xml:base="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
       <![CDATA[ {{ post.content }}
       <h4>References</h4>
