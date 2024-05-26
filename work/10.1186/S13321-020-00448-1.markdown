@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Adoption of the Citation Typing Ontology by the Journal of Cheminformatics"
+type: ScholarlyArticle
+tag: doi:10.1186/S13321-020-00448-1
+doi: doi:10.1186/S13321-020-00448-1
+---
