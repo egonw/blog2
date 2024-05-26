@@ -34,9 +34,9 @@ layout: base
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+          {{ post.excerpt | strip_html | normalize_whitespace }}
         {%- endif -%}
-        <span class="post-meta"><i class="fa-regular fa-clock" aria-hidden="true"></i> {% include read-time.html %}</span>
+        <span class="post-meta"> <i class="fa-regular fa-clock" aria-hidden="true"></i> {% include read-time.html %}</span>
         </div>
       </li>
       {%- endfor -%}
