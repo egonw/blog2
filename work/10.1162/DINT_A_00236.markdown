@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Building expertise on FAIR through evolving Bring Your Own Data (BYOD) workshops: describing the data, software, and management- focused approaches and their evolution"
+type: ScholarlyArticle
+tag: doi:10.1162/DINT_A_00236
+doi: doi:10.1162/DINT_A_00236
+---

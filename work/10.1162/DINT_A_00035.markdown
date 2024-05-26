@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Taking FAIR on the ChIN: The Chemistry Implementation Network"
+type: ScholarlyArticle
+tag: doi:10.1162/DINT_A_00035
+doi: doi:10.1162/DINT_A_00035
+---
