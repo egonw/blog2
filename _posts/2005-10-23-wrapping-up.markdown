@@ -5,6 +5,7 @@ date:   2005-10-23
 modified_date: 2023-07-29
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/wrapping-up.html
 tags: phd cdk
+doi: 10.59350/6tezh-5a955
 ---
 
 Less then three months before the end of my contract of my PhD project. And not nearly done yet. Weekends are now spend on wrapping up

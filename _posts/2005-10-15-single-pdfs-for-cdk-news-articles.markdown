@@ -5,6 +5,7 @@ date:   2005-10-15
 modified_date: 2023-07-27
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/single-pdfs-for-cdk-news-articles.html
 tags: cdk
+doi: 10.59350/rgdzb-bfe36
 ---
 
 This week was the [CDK5AW <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20080208101002/http://almost.cubic.uni-koeln.de/cdk/cdk_top/events/cdk5yearworkshop/) event, a workshop for users and

@@ -5,6 +5,7 @@ date:   2005-10-19
 modified_date: 2023-07-27
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/inchi-meta-data-with-kfilechemical.html
 tags: kde inchi
+doi: 10.59350/bs3x9-0em56
 ---
 
 I've just uploaded [kfile_chemical 0.9 <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20051120044043/http://www.kde-apps.org/content/show.php?content=28995). It has new translations for

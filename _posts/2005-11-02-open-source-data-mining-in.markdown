@@ -4,6 +4,7 @@ title:  "Open Source data mining in chemoinformatics"
 date:   2005-11-02
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/open-source-data-mining-in.html
 tags: iccs cheminf
+doi: 10.59350/gc4hw-5k265
 ---
 
 On the [7th International Conference on Chemical Structures](http://www.int-conf-chem-structures.org/)

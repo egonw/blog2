@@ -4,6 +4,7 @@ title:  "JChemPaint applet download size: 538kB"
 date:   2005-10-24
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/jchempaint-applet-download-size-538kb.html
 tags: jchempaint
+doi: 10.59350/sqzez-f9r89
 ---
 
 A good functional molecular editor is of much important to the chemical web. There are a few small download sized editors around.

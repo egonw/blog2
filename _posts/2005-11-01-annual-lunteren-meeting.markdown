@@ -4,6 +4,7 @@ title:  "The annual Lunteren meeting"
 date:   2005-11-01
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/annual-lunteren-meeting.html
 tags: phd
+doi: 10.59350/p46tq-r7946
 ---
 
 Most Dutch chemists have their annual Lunteren meeting, so do I. Lunteren is a small village on the Veluwe where nothing much can be done,

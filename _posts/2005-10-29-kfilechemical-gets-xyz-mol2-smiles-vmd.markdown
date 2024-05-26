@@ -5,6 +5,7 @@ date:   2005-10-29
 modified_date: 2023-07-30
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/kfilechemical-gets-xyz-mol2-smiles-vmd.html
 tags: kde chemistry web
+doi: 10.59350/frske-p0649
 ---
 
 Jerome Pansanel contributed new patches for [kfile_chemical](http://www.kde-apps.org/content/show.php?content=28995); on

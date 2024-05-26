@@ -4,6 +4,7 @@ title:  "More cdk.interfaces updates"
 date:   2005-10-25
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/more-cdkinterfaces-updates.html
 tags: cdk
+doi: 10.59350/y9z8g-s6k09
 ---
 
 Yesterday I had some spare time before going to a meeting about the [Woordenboek Organische Chemie](http://www.woc.science.ru.nl/),

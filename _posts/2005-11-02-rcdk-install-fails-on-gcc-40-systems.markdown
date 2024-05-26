@@ -4,6 +4,7 @@ title:  "R/CDK install fails on GCC 4.0 systems"
 date:   2005-11-02
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/rcdk-install-fails-on-gcc-40-systems.html
 tags: cdk rstats
+doi: 10.59350/b1vyj-0kd63
 ---
 
 Some time ago [Rajarshi Guha](http://blue.chem.psu.edu/~rajarshi/) introduced [R](http://www.r-project.org/) bindings for the

@@ -4,6 +4,7 @@ title:  "My birthday (31) and the Adsense"
 date:   2005-10-27
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/my-birthday-31-and-adsense.html
 tags: google
+doi: 10.59350/a4vw2-r5y93
 ---
 
 Today is my 31st birthday, nearing half-point now (statistically seen). Also, by now I should have had my scientific moment of glory, otherwise I can forget that Nobel prize. Oh well, forget it.

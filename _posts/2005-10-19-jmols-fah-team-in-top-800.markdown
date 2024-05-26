@@ -4,6 +4,7 @@ title:  "Jmol's FAH team in Top 800"
 date:   2005-10-19
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/jmols-fah-team-in-top-800.html
 tags: jmol
+doi: 10.59350/904sy-xc977
 ---
 
 The [Jmol FAH team <i class="fa-solid fa-recycle fa-xs"></i>](https://wiki.jmol.org/index.php/Folding_At_Home_Community) has just entered the Top 800 of most active

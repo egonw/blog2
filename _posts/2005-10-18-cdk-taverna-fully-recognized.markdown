@@ -4,6 +4,7 @@ title:  "CDK-Taverna fully recognized"
 date:   2005-10-18
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/cdk-taverna-fully-recognized.html
 tags: cdk workflow
+doi: 10.59350/pk40z-7z702
 ---
 
 After asking about it, Tom explained me how [Taverna](http://taverna.sf.net/) can pick

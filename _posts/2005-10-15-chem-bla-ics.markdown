@@ -3,6 +3,7 @@ layout: post
 title:  "Chem-bla-ics"
 date:   2005-10-15
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/chem-bla-ics.html
+doi: 10.59350/za0jj-7x159
 ---
 
 This new blog will deal with chemblaics in the broader sense, and will not be restricted to research in this field

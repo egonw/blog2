@@ -5,6 +5,7 @@ date:   2005-10-17
 modified_date: 2023-07-27
 blogger-link: https://chem-bla-ics.blogspot.com/2005/10/cia-statistics-for-blue-obelisk.html
 tags: blue-obelisk
+doi: 10.59350/f4370-9cz05
 ---
 
 I have just enabled [CIA <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20051024075530/http://cia.navi.cx/) statistics for the
