@@ -1,0 +1,9 @@
+---
+layout: work
+title: "Work: Recent Developments of the Chemistry Development Kit (CDK) - An Open-Source Java Library for Chemo- and Bioinformatics"
+type: ScholarlyArticle
+tag: doi:10.2174/138161206777585274
+doi: doi:10.2174/138161206777585274
+---
+
+A free, open version of this article can be found at [https://cdk.github.io/cdk-paper-2/](https://cdk.github.io/cdk-paper-2/).
