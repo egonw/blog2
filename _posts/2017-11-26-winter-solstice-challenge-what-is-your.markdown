@@ -9,7 +9,6 @@ image: /assets/images/Robert_Snache_-_Spirithands.net_-_Winter_Solstice_Lunar_Ec
 
 <img src="/assets/images/Robert_Snache_-_Spirithands.net_-_Winter_Solstice_Lunar_Eclipse_Startrails_(by).jpg" style="width: 30%; display: block; margin-left: auto; margin-right: auto; float: right"
      alt="Photo of a time laps of a starry night, making the stars show as lines in the sky. Source: Wikimedia, CC-BY 2.0, https://commons.wikimedia.org/wiki/File:Robert_Snache_-_Spirithands.net_-_Winter_Solstice_Lunar_Eclipse_Startrails_(by).jpg)" />
-
 Hi all, welcome to this winter solstice challenge! Umm, to not give our southern hemisphere colleagues
 not a disadvantage, as their winter solstice has already passes, you're up for a summer solstice challenge!
 

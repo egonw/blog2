@@ -9,7 +9,6 @@ image: /assets/images/Mastodon_logotype_(simple)_new_hue.svg.png
 
 <img src="/assets/images/Mastodon_logotype_(simple)_new_hue.svg.png" style="width: 30%; display: block; margin-left: auto; margin-right: auto; float: right"
      alt="Mastodon logo. AGPL source: WikiCommons" />
-
 Yeah, it has been hard to miss it (see e.g. [Should I join Mastodon? A scientists’ guide to Twitter’s rival](https://www.nature.com/articles/d41586-022-03668-7)).
 Twitter is experiencing some turbulence and [Mastodon](https://joinmastodon.org/) has become a very attractive, open source,
 community-driven, inclusive alternative. It's been [around since 2016](https://scholia.toolforge.org/topic/Q27986619) and there
