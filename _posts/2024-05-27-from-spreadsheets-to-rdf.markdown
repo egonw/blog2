@@ -2,7 +2,7 @@
 layout: post
 title:  "New paper: A template wizard for the cocreation of machine-readable data-reporting to harmonize the evaluation of (nano)materials"
 date:   2024-05-27
-tags: rdf opentox fair doi:10.1186/1756-0500-4-487 doi:10.1038/s41596-024-00993-1
+tags: rdf opentox fair doi:10.1186/1756-0500-4-487 doi:10.1038/S41596-024-00993-1
 ---
 
 I was about to call this blog post *From spreadsheets to RDF*, after [the post last week](https://chem-bla-ics.linkedchemistry.info/2024/05/20/from-papers-to-rdf.html).
