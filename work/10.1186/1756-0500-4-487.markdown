@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Computational toxicology using the OpenTox application programming interface and Bioclipse"
+type: ScholarlyArticle
+tag: doi:10.1186/1756-0500-4-487
+doi: doi:10.1186/1756-0500-4-487
+---
