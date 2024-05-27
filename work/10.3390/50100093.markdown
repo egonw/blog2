@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: JChemPaint - Using the Collaborative Forces of the Internet to Develop a Free Editor for 2D Chemical Structures"
+type: ScholarlyArticle
+tag: doi:10.3390/50100093
+doi: doi:10.3390/50100093
+---
