@@ -2,7 +2,7 @@
 layout: post
 title:  "Postgenomic.com maps upcoming conferences"
 date:   2006-04-14
-modified_data: 2024-06-01
+modified_date: 2024-06-01
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/postgenomiccom-maps-upcoming.html
 tags: postgenomic cheminf
 ---
