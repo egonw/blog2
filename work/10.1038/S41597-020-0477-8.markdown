@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms"
+type: ScholarlyArticle
+tag: doi:10.1038/S41597-020-0477-8
+doi: doi:10.1038/S41597-020-0477-8
+---
