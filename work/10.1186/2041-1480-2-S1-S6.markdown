@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Linking the Resource Description Framework to cheminformatics and proteochemometrics"
+type: ScholarlyArticle
+tag: doi:10.1186/2041-1480-2-S1-S6
+doi: doi:10.1186/2041-1480-2-S1-S6
+---
