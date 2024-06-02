@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: PubChemRDF: towards the semantic annotation of PubChem compound and substance databases"
+type: ScholarlyArticle
+tag: doi:10.1186/S13321-015-0084-4
+doi: doi:10.1186/S13321-015-0084-4
+---
