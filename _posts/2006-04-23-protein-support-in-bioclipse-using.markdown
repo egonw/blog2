@@ -5,7 +5,7 @@ date:   2006-04-23
 modified_date: 2024-06-01
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/protein-support-in-bioclipse-using.html
 tags: bioclipse jmol cdk
-image: /blog/assets/images/cdkpdbsupport800.png
+image: /assets/images/cdkpdbsupport800.png
 ---
 
 I have not blogged for about a week now, and been too busy with other things, like finishing my PhD articles/manuscript,
@@ -14,7 +14,7 @@ I have not blogged for about a week now, and been too busy with other things, li
 [Bioclipse](http://www.bioclipse.net/) using the [CDK](http://cdk.sf.net/) and
 [Jmol](http://www.jmol.org/):
 
-![Screenshot of Bioclipse with a protein visualized with Jmol in the middle.](/blog/assets/images/cdkpdbsupport800.png)
+![Screenshot of Bioclipse with a protein visualized with Jmol in the middle.](/assets/images/cdkpdbsupport800.png)
 
 The latter involves getting the [CdkJmolAdapter <i class="fa-solid fa-recycle fa-xs"></i>](https://sourceforge.net/p/bioclipse/code/11760/log/?path=/bioclipse/trunk/plugins/net.bioclipse.jmol/src/net/bioclipse/plugins/adapter/cdk/CdkJmolAdapter.java),
 the interface between the CDK and Jmol, [updated for changes <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20060508024648/http://wiki.cubic.uni-koeln.de/cdkwiki/doku.php?id=cdknewsartjmolandcdk)
