@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: PSnpBind-ML: predicting the effect of binding site mutations on protein-ligand binding affinity"
+type: ScholarlyArticle
+tag: doi:10.1186/S13321-023-00701-3
+doi: doi:10.1186/S13321-023-00701-3
+---
