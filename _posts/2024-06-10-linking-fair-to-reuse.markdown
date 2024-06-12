@@ -5,6 +5,7 @@ date:   2024-06-10
 tags: fair toxicology doi:10.1038/S41597-024-03324-X doi:10.1016/J.IMPACT.2023.100475
   qsar doi:10.1038/S41596-024-00993-1
 image: /assets/images/41597_2024_3324_Fig3_HTML.png
+doi: 10.59350/b4tm0-s7c62
 ---
 
 [Ammar](FAIR assessment of nanosafety data reusability with community standards) is finishing up his PhD thesis with his

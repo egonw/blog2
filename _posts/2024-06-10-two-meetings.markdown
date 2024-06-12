@@ -4,6 +4,7 @@ title:  "Two meetings: ELIXIR Toxicology and FAIR4ChemNL"
 date:   2024-06-10
 tags: elixir fair chemistry doi:10.1038/S41597-023-02166-3 justdoi:10.1007/978-3-030-65847-2_13 justdoi:10.1186/S13321-024-00807-2
   rdf sparql
+doi: 10.59350/m9g28-dne38
 ---
 
 Noting that in the coming week I am not attending the [ELIXIR All Hands in Uppsala](https://elixir-europe.org/events/elixir-all-hands-2024).
