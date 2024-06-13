@@ -4,6 +4,7 @@ title:  "StatCVS on CDK"
 date:   2005-12-18
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/statcvs-on-cdk.html
 tags: cdk
+doi: 10.59350/q7ehm-v1m81
 ---
 
 One of the [Classpath](http://www.classpath.org/) developers pointed me to their

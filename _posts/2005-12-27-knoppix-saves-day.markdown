@@ -4,6 +4,7 @@ title:  "Knoppix saves the day..."
 date:   2005-12-27
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/knoppix-saves-day.html
 tags: linux kde
+doi: 10.59350/1pgeq-yqn56
 ---
 
 After the three obligatory days of christmas holidays (fun, especially with two children, but very exhausting), it is time to get back to business again. I'm still

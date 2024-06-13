@@ -4,6 +4,7 @@ title:  "The goal: a live chemblaics CD"
 date:   2005-11-18
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/goal-live-chemblaics-cd.html
 tags: cheminf linux java workflow
+doi: 10.59350/e2cdx-9q525
 ---
 
 This evening I have been looking at with the [KNOPPIX](http://www.knoppix.net/) customization howto, and ran many of the interesting commands.

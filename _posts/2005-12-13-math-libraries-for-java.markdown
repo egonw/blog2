@@ -4,6 +4,7 @@ title:  "Math libraries for Java?"
 date:   2005-12-13
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/math-libraries-for-java.html
 tags: math java
+doi: 10.59350/er890-p9m81
 ---
 
 I drop in on the `#classpath` channel of [freenode.net](http://www.freenode.net/) IRC network, where the `#cdk` channel runs too.

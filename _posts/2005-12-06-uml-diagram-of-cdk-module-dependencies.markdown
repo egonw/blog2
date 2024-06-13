@@ -5,6 +5,7 @@ date:   2005-12-06
 modified_date: 2024-03-11
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/uml-diagram-of-cdk-module-dependencies.html
 tags: cdk uml
+doi: 10.59350/a3r1n-72841
 ---
 
 The code clean up after [CDK](http://cdk.sf.net/)'s interfaces transition is in progress, and two

@@ -4,6 +4,7 @@ title:  "Ubuntu Dapper will include chemistry features"
 date:   2005-11-07
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/ubuntu-dapper-will-include-chemistry.html
 tags: kde chemistry
+doi: 10.59350/v6wb4-fxp54
 ---
 
 I just [read](https://launchpad.net/distros/ubuntu/+spec/kubuntu-file-search) that the [Kubuntu](http://www.kubuntu.org/) team

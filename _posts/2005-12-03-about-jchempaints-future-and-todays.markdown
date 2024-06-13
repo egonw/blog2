@@ -4,6 +4,7 @@ title:  "About JChemPaint's future and todays 2.1.5 release"
 date:   2005-12-03
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/about-jchempaints-future-and-todays.html
 tags: jchempaint cdk bioclipse
+doi: 10.59350/v0a2f-hfk94
 ---
 
 Stefan has done an excellent debugging week on [JChemPaint](http://jchempaint.sf.net/), while I have been late with a

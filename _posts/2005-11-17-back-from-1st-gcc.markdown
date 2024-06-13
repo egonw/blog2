@@ -4,6 +4,7 @@ title:  "Back from the 1st GCC"
 date:   2005-11-17
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/back-from-1st-gcc.html
 tags: cheminf ontology
+doi: 10.59350/sfzaf-73y03
 ---
 
 OK, just back from the [first German Chemoinformatics Conference](http://www.cic-workshop.de/), which I enjoyed very much. A rather interesting

@@ -4,6 +4,7 @@ title:  "Getting Started with Eclipse and the SWT"
 date:   2005-11-30
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/getting-started-with-eclipse-and-swt.html
 tags: bioclipse
+doi: 10.59350/v9q9d-pbv52
 ---
 
 [Getting Started with Eclipse and the SWT](http://www.cs.umanitoba.ca/~eclipse/) is a very nice set of introductory tutorial on working

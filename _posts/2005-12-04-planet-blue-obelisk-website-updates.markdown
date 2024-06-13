@@ -4,6 +4,7 @@ title:  "Planet Blue Obelisk website updates"
 date:   2005-12-04
 blogger-link: https://chem-bla-ics.blogspot.com/2005/12/planet-blue-obelisk-website-updates.html
 tags: feeds blue-obelisk
+doi: 10.59350/s2cqd-wvh17
 ---
 
 After requests I added yesterday more visible the RSS and Atom feeds for the

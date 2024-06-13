@@ -4,6 +4,7 @@ title:  "When to stop including QSAR model variables..."
 date:   2005-11-08
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/when-to-stop-including-qsar-model.html
 tags: cheminf
+doi: 10.59350/hxb0r-66s49
 ---
 
 Yesterday I reviewed an article which published a QSPR model which looked something like:

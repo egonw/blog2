@@ -4,6 +4,7 @@ title:  "A R GUI: rkward"
 date:   2005-11-08
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/r-gui-rkward.html
 tags: rstats kde
+doi: 10.59350/r8zfg-3e891
 ---
 
 The great thing about open source is that... it's open.

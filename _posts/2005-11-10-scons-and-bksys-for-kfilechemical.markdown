@@ -4,6 +4,7 @@ title:  "Scons and bksys for kfile_chemical"
 date:   2005-11-10
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/scons-and-bksys-for-kfilechemical.html
 tags: kde chemistry
+doi: 10.59350/6n4we-wam18
 ---
 
 Not so long ago, it was [decided](http://conference2005.kde.org/slides/software-construction-tools-talk--thomas-nagy.pdf) that KDE 4.0
