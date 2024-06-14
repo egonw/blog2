@@ -2,14 +2,15 @@
 layout: post
 title:  "Open Text Mining Interface and Bioclipse"
 date:   2006-05-07
+modified_date: 2024-06-14
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/open-text-mining-interface-and.html
 tags: cml bioclipse xml textmining rss doi:10.1021/ci034244p
 image: /blog/assets/images/otmiSupport.png
 ---
 
-Timo Hannay [blogged](http://blogs.nature.com/wp/nascent/2006/04/open_text_mining_interface.html) in
-[Nature](http://www.nature.com/)'s [Nascent blog](http://blogs.nature.com/wp/nascent/) about the
-Open Text Mining Interface (OTMI), which is "a suggestion from Nature about how we might achieve text-mining
+Timo Hannay [blogged <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20060620194249/http://blogs.nature.com/wp/nascent/2006/04/open_text_mining_interface.html)
+in [Nature](http://www.nature.com/)'s [Nascent blog <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20060504035155/http://blogs.nature.com/wp/nascent/)
+about the Open Text Mining Interface (OTMI), which is "a suggestion from Nature about how we might achieve text-mining
 and indexing purposes". The idea is that each article has a link pointing to a machine readable file
 containing raw data about (and from?) the article. The standing example uses
 [Atom 1.0](http://atompub.org/2005/07/11/draft-ietf-atompub-format-10.html) as a container, allowing raw
