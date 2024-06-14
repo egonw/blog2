@@ -4,7 +4,7 @@ title:  "Open Text Mining Interface and Bioclipse"
 date:   2006-05-07
 modified_date: 2024-06-14
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/open-text-mining-interface-and.html
-tags: cml bioclipse xml textmining rss doi:10.1021/ci034244p
+tags: cml bioclipse xml textmining rss doi:10.1021/CI034244P
 image: /blog/assets/images/otmiSupport.png
 ---
 
