@@ -2,4 +2,6 @@
 layout: tagpage
 title: "Tag: Nanopublications"
 tag: nanopub
+tags: doi:10.1109/ESCIENCE.2018.00024 doi:10.6084/M9.FIGSHARE.7346384.V1 doi:10.1007/978-3-319-68288-4_26
+  doi:10.1038/S41597-024-03324-X doi:10.1038/S41597-021-00905-Y doi:10.3390/NANO10102068 doi:10.1093/NAR/GKAA1024
 ---

@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Increasing the nanopublication recall with a BridgeDb Identifier Mapping Service"
+type: CreativeWork
+tag: doi:10.6084/M9.FIGSHARE.7346384.V1
+doi: doi:10.6084/M9.FIGSHARE.7346384.V1
+---

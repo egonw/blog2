@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Reliable Granular References to Changing Linked Data"
+type: ScholarlyArticle
+tag: doi:10.1007/978-3-319-68288-4_26
+doi: doi:10.1007/978-3-319-68288-4_26
+---
