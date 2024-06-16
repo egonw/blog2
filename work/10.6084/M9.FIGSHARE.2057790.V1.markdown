@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Edition 1.4.1-0 of Groovy Cheminformatics with the Chemistry Development Kit"
+type: Book
+tag: doi:10.6084/M9.FIGSHARE.2057790.V1
+doi: doi:10.6084/M9.FIGSHARE.2057790.V1
+---

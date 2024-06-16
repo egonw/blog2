@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "cdk2024 #3: an unexpected downstream project"
+date:   2024-06-16
+tags: cdk grant cdk2024 doi:10.6084/M9.FIGSHARE.2057790.V1
+image: /assets/images/cdkDepictChapter.png
+---
+
+In [the CDK2024](https://chem-bla-ics.linkedchemistry.info/2024/04/07/cdk2024.html)
+[grant](https://chem-bla-ics.linkedchemistry.info/2024/05/18/cdk2024-2.html) we wrote about
+updating various software projects using the [Chemistry Development Kit](https://cdk.github.io/).
+We even wrote that "[r]equired API changes will be publicly shared and disseminated with the
+Groovy Cheminformatics with the Chemistry Development Kit book (egonw.github.io/cdkbook/)".
+The *Groovy Cheminformatics with the Chemistry Development Kit* book is a project that has
+run since 2009.
+
+```git
+commit c5cbf9b5dd49baf582afc595c9cbafc714c5199f
+Author: Egon Willighagen <egon.willighagen@gmail.com>
+Date:   Fri Apr 10 12:34:42 2009 +0200
+
+    Initial copy of the current draft; converted into separate project for easier branching
+    for tunes of the book for workshops and sorts
+```
+
+The original version was in LaTeX and
+[sold online via Lulu.com](https://chem-bla-ics.blogspot.com/2011/02/groovy-cheminformatics.html).
+Because all code examples were run (the first public edition had 72 pages with 75 code examples),
+like RMarkdown of Jupyter Notebooks by design, I was able to
+make [many releases](https://chem-bla-ics.blogspot.com/search?q=lulu).
+The big advantage of this was that when [API](https://en.wikipedia.org/wiki/API) changes happened,
+this would be visible by code not compiling or by output changing.
+
+At some point I open sourced the book (doi:[10.6084/M9.FIGSHARE.2057790.V1](https://doi.org/10.6084/M9.FIGSHARE.2057790.V1))
+and then realized that I can [convert the book to Markdown](https://github.com/egonw/cdkbook/commit/2630699aa280200188f2ae9ef3f0698964926752):
+
+```git
+commit 2630699aa280200188f2ae9ef3f0698964926752
+Author: Egon Willighagen <egon.willighagen@gmail.com>
+Date:   Mon Dec 24 16:59:14 2018 +0100
+
+    Create chapter3.md
+```
+
+This is the version available at [egonw.github.io/cdkbook/](https://egonw.github.io/cdkbook/)
+for some time now. So, now that for SMARTCyp I need to update the visualization, I went book to my book of
+code examples (I have a collection of more than 200 examples), but then found that
+the chapter on [Depiction](https://egonw.github.io/cdkbook/depiction) was missing. I was not
+looking forward to this, because I know that
+the code examples predate a massive improvement by [John Mayfield](https://scholia.toolforge.org/author/Q28796322)
+of the rendering stack and I never got around to see if the examples from the book work well enough
+with that new API (one is actually updated).
+
+That is when I realized that the *Groovy Cheminformatics* book actually also is a downstream
+project that needs updating. I have been doing this already and it's fairly smooth so that I did
+not think of including it in the grant, other than updating the
+[Migration](https://egonw.github.io/cdkbook/migration) chapter. I now had enough time
+to dive into [this project](https://github.com/cdk/nwo-openscience-2024/issues/30). I need that,
+because the goal of the project is also to learn about all the meta science aspects of
+project maintenance, roles, communication, etc. Therefore also this blog post: we need a track
+record, to collect data.
+
+Anyway, porting [the first script](https://egonw.github.io/cdkbook/code/RenderMolecule.code.html) went fairly easy,
+but I am now running into a stacktrace:
+
+```
+Processing  RenderSelection.groovyin
+doing RenderSelection.out ...
+org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+/home/egonw/var/Projects/hub/cdkbook-source/code/RenderSelection.groovy: 39: unable to resolve class ExternalHighlightGenerator
+ @ line 39, column 16.
+   generators.add(new ExternalHighlightGenerator());
+                  ^
+org.codehaus.groovy.syntax.SyntaxException: unable to resolve class ExternalHighlightGenerator
+ @ line 39, column 16.
+
+```
+
+That brings us to the task of how to find where that class is coming from, which happens
+to be something I already [had to write up](https://github.com/cdk/nwo-openscience-2024/issues/29)
+for up for `RingSearch`. Dependency galore.
