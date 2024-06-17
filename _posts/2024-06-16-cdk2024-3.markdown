@@ -4,6 +4,7 @@ title:  "cdk2024 #3: an unexpected downstream project"
 date:   2024-06-16
 tags: cdk grant cdk2024 doi:10.6084/M9.FIGSHARE.2057790.V1
 image: /assets/images/cdkDepictChapter.png
+doi: 10.59350/dtfq8-5x011
 ---
 
 In [the CDK2024](https://chem-bla-ics.linkedchemistry.info/2024/04/07/cdk2024.html)
