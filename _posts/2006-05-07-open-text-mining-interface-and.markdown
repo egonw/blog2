@@ -5,7 +5,7 @@ date:   2006-05-07
 modified_date: 2024-06-14
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/open-text-mining-interface-and.html
 tags: cml bioclipse xml textmining rss doi:10.1021/CI034244P
-image: /blog/assets/images/otmiSupport.png
+image: /assets/images/otmiSupport.png
 ---
 
 Timo Hannay [blogged <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20060620194249/http://blogs.nature.com/wp/nascent/2006/04/open_text_mining_interface.html)
@@ -29,7 +29,7 @@ includes a [CMLRSS reader plugin](http://wiki.bioclipse.net/index.php?title=CMLR
 supports CML embedded in Atom 0.3/1.0 and RSS 1.0/2.0 feeds. Now, adding support for other embedded
 namespaces is trivial, and this morning I hacked in support for OTMI:
 
-![](/blog/assets/images/otmiSupport.png)
+![](/assets/images/otmiSupport.png)
 
 This screenshot show the [original OTMI example](https://chem-bla-ics.blogspot.com/2006/05/open-text-mining-interface-and.html)
 with the Atom 1.0 entry now wrapped in an Atom 1.0 `<feed>` element. There is no nice OTMI icon for the OTMI content in the

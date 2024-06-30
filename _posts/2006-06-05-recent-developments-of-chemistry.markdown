@@ -5,7 +5,7 @@ date:   2006-06-05
 modified_date: 2024-06-30
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/recent-developments-of-chemistry.html
 tags: cdk cheminf qsar doi:10.2174/138161206777585274
-image: /blog/assets/images/DescriptorOverview.png
+image: /assets/images/DescriptorOverview.png
 ---
 
 *[Recent Developments of the Chemistry Development Kit (CDK) <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.2174/138161206777585274) -
@@ -25,11 +25,11 @@ pointing the a unique algorithm found in an ontology (see diagram below). This Q
 the [qsar.sf.net](http://qsar.sf.net/) project, which is project independent, and even welcomes proprietary programs to
 discuss interoperability.
 
-![](/blog/assets/images/DescriptorOverview.png)
+![](/assets/images/DescriptorOverview.png)
 
 And calculated descriptors are explicitely linked to this specification again, though it is up to the user to do with
 this what he wants:
 
-![](/blog/assets/images/DescriptorResultOverview.png)
+![](/assets/images/DescriptorResultOverview.png)
 
 Note that code has evolved since this publication, so class, interface and method names may have changed a bit.
