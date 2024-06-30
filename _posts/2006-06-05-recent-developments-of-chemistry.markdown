@@ -2,13 +2,14 @@
 layout: post
 title:  "Recent Developments of the Chemistry Development Kit"
 date:   2006-06-05
+modified_date: 2024-06-30
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/recent-developments-of-chemistry.html
 tags: cdk cheminf qsar doi:10.2174/138161206777585274
 image: /blog/assets/images/DescriptorOverview.png
 ---
 
-*[Recent Developments of the Chemistry Development Kit (CDK)](http://www.bentham.org/cpd/contabs/cpd12-17.htm#5) -
-An Open-Source Java Library for Chemo- and Bioinformatics* discusses (reasonably) recent additions to the
+*[Recent Developments of the Chemistry Development Kit (CDK) <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.2174/138161206777585274) -
+An Open-Source Java Library for Chemo- and Bioinformatics* ([green OA](https://repository.ubn.ru.nl/bitstream/handle/2066/35445/35445_aut.pdf)) discusses (reasonably) recent additions to the
 [CDK](http://cdk.sf.net/). It appeared in issue 17 of this years [Current Pharmaceutical Design](http://www.bentham.org/cpd/)
 volume, after being too long in the queue after being accepted; but I am happy that it is out now.
 
