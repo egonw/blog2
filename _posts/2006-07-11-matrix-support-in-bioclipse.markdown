@@ -4,7 +4,7 @@ title:  "Matrix support in Bioclipse"
 date:   2006-07-11
 blogger-link: https://chem-bla-ics.blogspot.com/2006/07/matrix-support-in-bioclipse.html
 tags: bioclipse chemometrics qsar cdk
-image: /blog/assets/images/bioclipseMatrixSupport.png
+image: /assets/images/bioclipseMatrixSupport.png
 ---
 
 With [chemometrics](http://en.wikipedia.org/wiki/Chemometrics) in mind (QSAR, data mining, ...), I have started working on matrix support in
@@ -22,7 +22,7 @@ to be stored on disk, as is general for BioResource's. This makes it possible fo
 The MatrixResource can be edited using a plain text editor, and a more visually attractive graphical editor based on the
 [KTable](http://sourceforge.net/projects/ktable) SWT widget:
 
-![](/blog/assets/images/bioclipseMatrixSupport.png)
+![](/assets/images/bioclipseMatrixSupport.png)
 
 The next step is to work on column and row names, and replace those uninformative X's. As you can see in the Properties View, I also need to tweak adding and
 removing advanced properties a bit. And then it is time to have the CDK plugin create a QSAR data matrix.

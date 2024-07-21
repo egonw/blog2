@@ -4,7 +4,7 @@ title:  "Text mining for chemistry using OSCAR3"
 date:   2006-06-22
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/text-mining-for-chemistry-using-oscar3.html
 tags: oscar bioclipse textmining
-image: /blog/assets/images/opsin.png
+image: /assets/images/opsin.png
 ---
 
 [Peter Corbett](http://wwmm.ch.cam.ac.uk/wikis/wwmm/index.php/User:ptc24) from [Peter Murray-Rust's group](http://wwmm.ch.cam.ac.uk/)
@@ -22,4 +22,4 @@ somewhat less ambitious and focused on the general infrastructure, and getting t
 OPSIN is a IUPAC name 2 structure tool and, amongst many other names, is able to recognize [caffeine](http://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=2519)
 (`InChI=1/C8H10N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2/h4H,1-3H3`):
 
-![](/blog/assets/images/opsin.png)
+![](/assets/images/opsin.png)
