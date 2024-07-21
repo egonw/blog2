@@ -5,6 +5,7 @@ date:   2005-11-23
 modified_date: 2023-08-02
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/machine-crash-svn-went-along.html
 tags: svn
+doi: 10.59350/bzqem-cqy33
 ---
 
 Doesn't happen often, but my machine crashed two hours ago. Not a big deal, because I have my important files in SVN. Oh wait, SVN had a commit

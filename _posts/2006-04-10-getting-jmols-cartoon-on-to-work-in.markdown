@@ -5,6 +5,7 @@ date:   2006-04-10
 modified_date: 2024-05-26
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/getting-jmols-cartoon-on-to-work-in.html
 tags: bioclipse jmol protein
+doi: 10.59350/7nz8x-a7q09
 ---
 
 [Bioclipse](https://web.archive.org/web/20060420034219/http://www.bioclipse.net/) 1.0 is to be released in May, and the cartoon on script command is

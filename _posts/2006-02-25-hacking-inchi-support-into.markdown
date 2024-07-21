@@ -5,6 +5,7 @@ date:   2006-02-25
 modified_date: 2023-09-16
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/hacking-inchi-support-into.html
 tags: cb inchi
+doi: 10.59350/nth2m-yyk05
 ---
 
 Earlier I [reported](2006-02-15-hot-articles-mining-semantic-web.markdown) about

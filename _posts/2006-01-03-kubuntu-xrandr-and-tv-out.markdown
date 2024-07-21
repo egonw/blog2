@@ -5,6 +5,7 @@ date:   2006-01-03
 modified_date: 2023-08-09
 blogger-link: https://chem-bla-ics.blogspot.com/2006/01/kubuntu-xrandr-and-tv-out.html
 tags: kde linux
+doi: 10.59350/s0ftg-ppb65
 ---
 
 One of the things I had not fully figured out up to today, was how to configure my [Kubuntu](http://www.kubuntu.org/) system to easily view DVDs on our TV,

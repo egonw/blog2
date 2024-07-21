@@ -5,6 +5,7 @@ date:   2006-01-19
 modified_date: 2023-08-10
 blogger-link: https://chem-bla-ics.blogspot.com/2006/01/free-at-last.html
 tags: phd cdk
+doi: 10.59350/hgjn2-w5e63
 ---
 
 Free at last! Well, not quite yet, but close enough anyway: my PhD contract has ended; last friday was my last working day, which my

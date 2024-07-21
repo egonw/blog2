@@ -5,6 +5,7 @@ date:   2006-04-02
 modified_date: 2024-02-19
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/free-online-chemconf-2006-conference.html
 tags: conference jmol jchempaint education
+doi: 10.59350/3en08-3zc34
 ---
 
 Internet has the nice feature of bringing together people. This has helped many open source projects in the past. But it is also a

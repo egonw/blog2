@@ -5,6 +5,7 @@ date:   2006-01-22
 modified_date: 2023-08-11
 blogger-link: https://chem-bla-ics.blogspot.com/2006/01/trouble-running-cdk-junit-tests-with.html
 tags: cdk java
+doi: 10.59350/rn78z-r7j37
 ---
 
 Because I am still looking forward to testing CDK against the latest [Classpath 0.20](http://gnu.wildebeest.org/diary/index.php?p=147),

@@ -5,6 +5,7 @@ date:   2005-11-27
 modified_date: 2023-08-03
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/open-source-swing-jmol-renderer-runs.html
 tags: jmol java
+doi: 10.59350/s1sxs-8qb11
 ---
 
 Where I was able to mention [earlier <i class="fa-solid fa-recycle fa-xs"></i>](/blog/2005/11/20/open-source-swing-jchempaint-runs.html) that JChemPaint now runs with free

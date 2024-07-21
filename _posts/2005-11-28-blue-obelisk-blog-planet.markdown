@@ -5,6 +5,7 @@ date:   2005-11-28
 modified_date: 2023-08-03
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/blue-obelisk-blog-planet.html
 tags: blue-obelisk feeds
+doi: 10.59350/1vq27-8js77
 ---
 
 Today I setup a blog planet for [Blue Obelisk](http://www.blueobelisk.org/) members. First I tried

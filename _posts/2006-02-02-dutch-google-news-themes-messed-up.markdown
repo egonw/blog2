@@ -5,6 +5,7 @@ date:   2006-02-02
 modified_date: 2023-08-16
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/dutch-google-news-themes-messed-up.html
 tags:
+doi: 10.59350/3j6pf-yw823
 ---
 
 Recently, a [Dutch version of Google News](http://news.google.nl/) was started, and might mean a replacement for

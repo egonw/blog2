@@ -5,6 +5,7 @@ date:   2005-11-21
 modified_date: 2023-08-02
 blogger-link: https://chem-bla-ics.blogspot.com/2005/11/bioclipse-chemo-bioinformatics.html
 tags: cdk bioclipse
+doi: 10.59350/sm10s-hjc49
 ---
 
 Some weeks back there was the [CDK5AW <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20080208101002/http://almost.cubic.uni-koeln.de/cdk/cdk_top/events/cdk5yearworkshop/),

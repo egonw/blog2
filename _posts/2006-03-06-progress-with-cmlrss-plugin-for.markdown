@@ -6,6 +6,7 @@ modified_date: 2023-09-16
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/progress-with-cmlrss-plugin-for.html
 image: /assets/images/Cmlrss_bioclipse.png
 tags: bioclipse cml
+doi: 10.59350/xvhk1-q8r72
 ---
 
 With quite some help from [Ola](http://bioclipse.blogspot.com/) (thanx!), I made good progress with the

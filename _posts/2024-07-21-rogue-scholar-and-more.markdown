@@ -2,6 +2,7 @@
 layout: post
 title:  "GoatCounter, Rogue Scholar and more new things"
 date:   2024-07-21
+doi: 10.59350/8x2f1-h6d21
 tags: blog justdoi:10.59350/fbnx1-9r832 justdoi:10.53731/j77gv-54g66 justdoi:10.53731/br9f5xa-a556w2t
   justdoi:10.53731/g60vh-3ng48 justdoi:10.53731/6mkrk-dzh02 justdoi:10.53731/1dfxr-hs665 justdoi:10.53731/3w1ye-q6z42
   justdoi:10.53731/xkfsa-xkk56

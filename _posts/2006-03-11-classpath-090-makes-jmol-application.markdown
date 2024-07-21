@@ -5,6 +5,7 @@ date:   2006-03-11
 modified_date: 2023-09-24
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/classpath-090-makes-jmol-application.html
 tags: jmol inchikey:SLMFWJQZLPEDDU-UHFFFAOYSA-N
+doi: 10.59350/ef1pm-6g994
 ---
 
 A few days back, [Classpath 0.90](http://www.gnu.org/software/classpath/announce/20060306.html) was released, the first release after the 0.20 release. Earlier Classpath releases

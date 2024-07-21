@@ -5,6 +5,7 @@ date:   2006-02-01
 modified_date: 2023-08-16
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/open-source-jmol-hits-student-text.html
 tags: jmol publishing
+doi: 10.59350/1amt8-5me42
 ---
 
 Today I received news on the [Jmol user list](http://sourceforge.net/mail/?group_id=23629) that Lubert Stryer's

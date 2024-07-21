@@ -5,6 +5,7 @@ date:   2006-03-25
 modified_date: 2024-03-10
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/cologne-university-bioinformatics.html
 tags: qsar ontologies cml jmol bioclipse semweb
+doi: 10.59350/nn7ag-7fp72
 ---
 
 As of April 3, I will be working as postdoc in the group of [Christoph Steinbeck](http://almost.cubic.uni-koeln.de/jrg/)
