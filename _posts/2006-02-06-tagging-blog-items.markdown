@@ -4,7 +4,7 @@ title:  "Tagging blog items"
 date:   2006-02-06
 modified_date: 2023-08-19
 blogger-link: https://chem-bla-ics.blogspot.com/2006/02/tagging-blog-items.html
-tags: cheminf chemometrics bioinfo
+tags: cheminf chemometrics bioinfo technorati
 doi: 10.59350/3vppj-ez166
 ---
 

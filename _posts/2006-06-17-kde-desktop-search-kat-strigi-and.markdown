@@ -3,7 +3,7 @@ layout: post
 title:  "KDE desktop search: Kat, Strigi and Tenor"
 date:   2006-06-17
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/kde-desktop-search-kat-strigi-and.html
-tags: kde strigi kalzium linux
+tags: kde strigi kalzium linux technorati
 ---
 
 Desktop searching has become a hot topic (some [earlier](http://chem-bla-ics.blogspot.com/2006/05/molecular-indexing-on-kde-and-osx.html)
