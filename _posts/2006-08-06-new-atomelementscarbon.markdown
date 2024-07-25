@@ -18,7 +18,7 @@ too. Why not reuse that? However, until revision 6755 there were not constructor
 
 ```java
   IAtom carbon = new Atom(new Element("C"));
-aaa
+```
 
 This afternoon I have hacked in constructors for [ChemObject](http://cdk.sourceforge.net/api/org/openscience/cdk/ChemObject.html),
 Element, [Isotope](http://cdk.sourceforge.net/api/org/openscience/cdk/Isotope.html), [AtomType](http://cdk.sourceforge.net/api/org/openscience/cdk/AtomType.html),
