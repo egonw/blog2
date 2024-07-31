@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Discovering life's directed metabolic (sub)paths to interpret human biochemical markers using the DSMN tool"
+type: CreativeWork
+tag: doi:10.1039/D3DD00069A
+doi: doi:10.1039/D3DD00069A
+---
