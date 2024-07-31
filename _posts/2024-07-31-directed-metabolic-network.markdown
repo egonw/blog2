@@ -4,6 +4,7 @@ title:  "New paper: \"Discovering life's directed metabolic (sub)paths to interp
 date:   2024-07-31
 tags: wikipathways doi:10.1039/D3DD00069A metabolomics
 image: /assets/images/d3dd00069a-f12_hi-res.png
+doi: 10.59350/32j3a-7ae65
 ---
 
 I am still catching up with a lot of work, and found out I actually had forgotten to blog about this cool article
