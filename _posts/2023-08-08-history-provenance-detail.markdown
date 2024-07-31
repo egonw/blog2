@@ -5,6 +5,7 @@ date:   2023-08-08
 image: /assets/images/old_references.png
 blogger-link: https://chem-bla-ics.blogspot.com/2023/08/history-provenance-detail.html
 tags: wikidata publishing justdoi:10.1007/BF01328531
+doi: 10.59350/kxar2-7z367
 ---
 
 Just a quick note: I just love the level of detail [Wikidata](https://www.wikidata.org/) allows us to use. One of the marvels is the
