@@ -5,7 +5,7 @@ date:   2006-12-21
 modified_date: 2024-07-25
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/updated-chemical-blogspace-layout-and.html
 tags: cb chemistry
-image: /blog/assets/images/chemicalBlogspaceScreeny.png
+image: /assets/images/chemicalBlogspaceScreeny.png
 ---
 
 Last night I upgraded the software behind [Chemical <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20061223075417/http://wiki.cubic.uni-koeln.de/cb/)
@@ -16,4 +16,4 @@ The number of working blogs is a bit down and now at [68 <i class="fa-solid fa-b
 with an average number of 30 active blogs posting more than 100 blog items each day (see [Zeitgeist <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20061223075048/http://wiki.cubic.uni-koeln.de/cb/stats.php)).
 The new design looks like quite nice compared to the [old one](http://chem-bla-ics.blogspot.com/2006/08/chemical-blogspace.html):
 
-![](/blog/assets/images/chemicalBlogspaceScreeny.png)
+![](/assets/images/chemicalBlogspaceScreeny.png)
