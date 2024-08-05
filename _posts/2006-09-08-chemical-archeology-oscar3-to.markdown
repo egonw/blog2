@@ -2,6 +2,7 @@
 layout: post
 title:  "Chemical Archeology: OSCAR3 to NMRShiftDB.org"
 date:   2006-09-08
+modified_date: 2024-08-05
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/chemical-archeology-oscar3-to.html
 tags: oscar bioclipse acs chemistry justdoi:10.1039/b411033a textmining justdoi:10.1039/b411699m
 image: /blog/assets/images/oscar1.png
@@ -12,7 +13,7 @@ process of extracting chemical information from old journal articles. Some time 
 [Peter Corbett](http://wwmm.ch.cam.ac.uk/blogs/corbett/) from the group of [Peter Murray-Rust](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/)
 visited the [CUBIC](http://almost.cubic.uni-koeln.de/jrg/) to talk to us about
 [Oscar3](http://wwmm.ch.cam.ac.uk/wikis/wwmm/index.php/Oscar3) which can do just that. That day, we already
-[hooked OPSIN into Bioclipse](http://chem-bla-ics.blogspot.com/2006/06/text-mining-for-chemistry-using-oscar3.html).
+[hooked OPSIN into Bioclipse <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/06/22/text-mining-for-chemistry-using-oscar3.html).
 
 Oscar3, however, is capable of more then the name2structure of OPSIN (see also
 [10.1039/b411033a](httpa://doi.org/10.1039/b411033a); it can take a plain text file with an experimental section
