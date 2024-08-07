@@ -60,6 +60,12 @@ These can be added manually. Over the past months and the past two weeks particu
 additional mentions, not listed yet. We now passed 1500 mentions but I cannot easily give the other
 statistics.
 
+BTW, anyone can add these citations with the 'edit' pencil and some Microsoft GitHub editing (but
+as far as I am concerned, please feel free to also just mention the paper on the
+[WikiPathways Community Forum](https://github.com/wikipathways/wikipathways-help/discussions)):
+
+~[](/assets/images/citedin_website.png)
+
 So, in the next few days I plan to do two things: 1. generate RDF for the YAML file and make that part of the
 [monthly WikiPathways RDF release](https://data.wikipathways.org/current/rdf/); 2. extract citations and
 offer this back to [the OpenCitations project](https://opencitations.net/); and, 3. add the citations
