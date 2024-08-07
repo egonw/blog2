@@ -4,6 +4,7 @@ title:  "CiTO updates: Wakefield and WikiPathways"
 date:   2024-08-07
 tags: cito wikipathways wikidata justdoi:10.1016/S0140-6736(97)11096-0 doi:10.21105/JOSS.02558
   doi:10.1007/978-3-319-70407-4_36 justdoi:10.5281/ZENODO.13166142 doi:10.1093/NAR/GKAD960
+  justdoi:10.1007/S11192-021-04097-5
 image: /assets/images/wakefieldCitations.png
 ---
 
@@ -21,7 +22,8 @@ and matching draft article. Second, I still need to work out how to update the J
 
 ## Wakefield
 
-Let's first start with a dataset. Peroni mentioned a study they did into why the famous Wakefield paper
+Let's first start with a dataset. Peroni mentioned a study they did ([10.1007/S11192-021-04097-5](https://doi.org/10.1007/S11192-021-04097-5))
+into why the famous Wakefield paper
 (doi:[10.1016/S0140-6736(97)11096-0](https://doi.org/10.1016/S0140-6736(97)11096-0)) is cited. They published
 their data set on Zenodo (doi:[10.5281/zenodo.13166142](https://doi.org/10.5281/zenodo.13166142)) with CCZero,
 so I imported it into [Wikidata](https://wikidata.org/). Well, at least the citations
