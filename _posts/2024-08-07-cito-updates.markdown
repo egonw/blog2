@@ -64,7 +64,7 @@ BTW, anyone can add these citations with the 'edit' pencil and some Microsoft Gi
 as far as I am concerned, please feel free to also just mention the paper on the
 [WikiPathways Community Forum](https://github.com/wikipathways/wikipathways-help/discussions)):
 
-~[](/assets/images/citedin_website.png)
+![](/assets/images/citedin_website.png)
 
 So, in the next few days I plan to do two things: 1. generate RDF for the YAML file and make that part of the
 [monthly WikiPathways RDF release](https://data.wikipathways.org/current/rdf/); 2. extract citations and
