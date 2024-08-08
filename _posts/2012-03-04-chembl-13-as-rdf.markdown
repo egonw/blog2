@@ -2,11 +2,14 @@
 layout: post
 title:  "ChEMBL 13 as RDF"
 date:   2012-03-04
+modified_date: 2013-05-09
 blogger-link: https://chem-bla-ics.blogspot.com/2012/03/chembl-13-as-rdf.html
 tags: chembl rdf semweb ontology cheminf doi:10.1371/JOURNAL.PONE.0025513 cito
   justdoi:10.1186/2041-1480-1-S1-S6 doi:10.1186/2041-1480-2-S1-S6
 image: /assets/images/relations.png
 ---
+
+**Update**: this work is now described in [this paper](https://chem-bla-ics.blogspot.com/2013/05/new-paper-chembl-database-as-linked.html).
 
 Last week, ChEMBL 13 was [released](http://chembl.blogspot.com/2012/02/chembl-13-released.html), with even more data, data fixes,
 [etc](ftp://ftp.ebi.ac.uk/pub/databases/chembl/ChEMBLdb/releases/chembl_13/chembl_13_release_notes.txt). Since my RDF for
