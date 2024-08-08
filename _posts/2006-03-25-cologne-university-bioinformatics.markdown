@@ -4,7 +4,7 @@ title:  "The Cologne University BioInformatics Center (CUBIC)"
 date:   2006-03-25
 modified_date: 2024-03-10
 blogger-link: https://chem-bla-ics.blogspot.com/2006/03/cologne-university-bioinformatics.html
-tags: qsar ontologies cml jmol bioclipse semweb
+tags: qsar ontology cml jmol bioclipse semweb
 doi: 10.59350/nn7ag-7fp72
 ---
 
