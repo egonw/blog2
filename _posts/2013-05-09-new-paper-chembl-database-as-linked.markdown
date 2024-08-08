@@ -2,6 +2,7 @@
 layout: post
 title:  "New Paper: \"The ChEMBL database as linked open data\""
 date:   2013-05-09
+modified_date: 2013-05-13
 blogger-link: https://chem-bla-ics.blogspot.com/2013/05/new-paper-chembl-database-as-linked.html
 tags: chembl rdf cito cheminf doi:10.1186/1758-2946-5-23 doi:10.1186/1758-2946-3-15 ontology
   doi:10.1371/JOURNAL.PONE.0025513 justdoi:10.1186/2041-1480-1-S1-S6 chemspider openphacts
@@ -10,6 +11,8 @@ image: /assets/images/mondecaUptime.png
 
 <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript"></script>
 <div class="altmetric-embed" data-badge-details="right" data-badge-type="donut" data-doi="10.1186/1758-2946-5-23" style="float: right;"></div>
+
+**Update**: Mark wrote up a [blog post](http://chembl.blogspot.co.uk/2013/05/chembl-chembl-rdf.html) on the RDF that the ChEMBL team itself.
 
 Yesterday, the paper "The ChEMBL database as linked open data" (doi:[10.1186/1758-2946-5-23](https://doi.org/10.1186/1758-2946-5-23)) by
 Andra Waagmeester ([@andrawaag](https://twitter.com/andrawaag)), Ola Spjuth ([@ola_spjuth](https://twitter.com/ola_spjuth)), Peter Ansell
