@@ -2,7 +2,7 @@
 layout: post
 title:  "New Paper: \"The ChEMBL database as linked open data\""
 date:   2013-05-09
-modified_date: 2013-05-13
+modified_date: 2024-08-08
 blogger-link: https://chem-bla-ics.blogspot.com/2013/05/new-paper-chembl-database-as-linked.html
 tags: chembl rdf cito cheminf doi:10.1186/1758-2946-5-23 doi:10.1186/1758-2946-3-15 ontology
   doi:10.1371/JOURNAL.PONE.0025513 justdoi:10.1186/2041-1480-1-S1-S6 chemspider openphacts
@@ -27,7 +27,7 @@ that the ChEMBL team will create their own RDF version of ChEMBL and that this p
 BTW, the [source of the paper](https://github.com/egonw/chembl-rdf-paper/) is available from GitHub. And the
 [(original) scripts to create RDF from the MySQL dump of ChEMBL](https://github.com/egonw/chembl.rdf) are also on GitHub.
 
-![](http://www.jcheminf.com/content/figures/1758-2946-5-23-graphical-abstract.gif)
+![](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1758-2946-5-23/MediaObjects/13321_2012_Article_469_Figa_HTML.gif)
 
 This paper outlines the [RDF](http://www.jcheminf.com/content/3/1/15) as it has evolved from various earlier projects. The above
 diagram visualizes the basic structure (red), various Linked Data resources linked too (blue) and illustrates how various ontologies are used,
