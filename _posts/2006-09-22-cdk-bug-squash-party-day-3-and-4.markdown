@@ -4,7 +4,7 @@ title:  "CDK Bug Squash Party - Day 3 and 4"
 date:   2006-09-22
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-3-and-4.html
 tags: cdk bsp java pdb
-image: /blog/assets/images/flyerScreeny.png
+image: /assets/images/flyerScreeny.png
 ---
 
 Because I was struggling hard with [default values for cdk.interfaces fields](http://sourceforge.net/mailarchive/forum.php?thread_id=30594266&forum_id=2178),
@@ -35,7 +35,7 @@ Kai continued his cdk.interfaces refactoring, working on the more involved chang
 flyers for our CDK booth at [CompLife2006](http://www.inf.uni-konstanz.de/complife06/), so have not been very productive in bug squashing.
 But we are happy with the result. Below is a screenshot on one side of the main CDK folder:
 
-![](/blog/assets/images/flyerScreeny.png)
+![](/assets/images/flyerScreeny.png)
 
 With [77 failing JUnit test](http://cheminfo.informatics.indiana.edu/~rguha/code/java/nightly/junitsummary.html), and still a too large number of
 [open bugs on SourceForge](http://sourceforge.net/tracker/?atid=120024&group_id=20024&func=browse), there is plenty of things to do today.

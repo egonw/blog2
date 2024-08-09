@@ -4,7 +4,7 @@ title:  "CDK Bug Squash Party - Day 5"
 date:   2006-09-24
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-5.html
 tags: cdk bsp junit
-image: /blog/assets/images/junit_tests.png
+image: /assets/images/junit_tests.png
 ---
 
 Day 5 was formally the last day (see also the summaries of [day 1](http://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-1.html),
@@ -29,11 +29,11 @@ back to the Netherlands.
 Now, what can be concluded from this BSP? The participant count was below what I had hoped for, but those who did worked hard (and
 with pleasure I hope :) The total number of JUnit test has increased:
 
-![](/blog/assets/images/junit_tests.png)
+![](/assets/images/junit_tests.png)
 
 And so has the number of failing tests:
 
-![](/blog/assets/images/fails_tests.png)
+![](/assets/images/fails_tests.png)
 
 These plots were made with [R](http://www.r-project.org/) from data created with two custom scripts both found in
 [cdk/tools](http://svn.sourceforge.net/viewvc/cdk/trunk/cdk/tools/): makeBugCountPlot.pl and extractBugCountPlotData.bsh.
