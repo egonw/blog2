@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "CompLife'06 - Day 1"
+date:   2006-09-28
+blogger-link: https://chem-bla-ics.blogspot.com/2006/09/complife06-day-1.html
+tags: cdk bioclipse knime
+---
+
+[CompLife'06](http://www.inf.uni-konstanz.de/complife06/) started today in Cambridge, UK. About 80 people are attending the meeting,
+and topics range from systems biology to QSAR. This evening there was a free software session mostly focussing on opensource software.
+Twelve projects were presented, among which the [CDK](http://cdk.sf.net/) (by me) and [Bioclipse](http://www.bioclipse.net/) (by Ola),
+in five minute presentations, and a two hour demo period during a reception (free speech and free beer :). We had our brand new fliers
+with us, as well as a large poster for some additional branding.
+
+One research presentation compared a number of fingerprint implementations in a QSAR study, and CDK came out very well, beating a few
+commercial programs. The free software session was full of CDK, however, with [AMBIT](http://ambit.acad.bg/),
+[iBabel](http://openbabel.sourceforge.net/wiki/IBabel), Bioclipse and [KNIME](http://knime.org/) mentioning the CDK.
+
+The latter is really interesting: it's a workflow program just like [Taverna](http://taverna.sourceforge.net/) or
+[PipeLine Pilot](http://www.scitegic.com/products/overview/index.html), which is using the Eclipse RCP as starting point, just like
+Bioclipse. And like the other two, KNIME has CDK integration, at least for displaying structures.
