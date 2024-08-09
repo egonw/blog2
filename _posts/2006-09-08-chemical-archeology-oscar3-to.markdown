@@ -5,7 +5,7 @@ date:   2006-09-08
 modified_date: 2024-08-05
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/chemical-archeology-oscar3-to.html
 tags: oscar bioclipse acs chemistry justdoi:10.1039/b411033a textmining justdoi:10.1039/b411699m
-image: /blog/assets/images/oscar1.png
+image: /assets/images/oscar1.png
 ---
 
 Chemical Archeology (see [Christoph's comment](http://wiki.cubic.uni-koeln.de/blog/pivot/entry.php?id=7#body)) is the
@@ -38,7 +38,7 @@ let me know if you're interested in them.)
 
 This is the end result:
 
-![](/blog/assets/images/oscar1.png)
+![](/assets/images/oscar1.png)
 
 Note especially the hierarchy in the resource navigator on the left. The misc folder contains all the chemistry found in the article. But more importantly is that for six molecules it fully detected he experimental section! For 3-(2-Oxocyclooctanyl)-3-phenylpropan-1-al (InChI=1/C17H22O2/c18-13-12-15(14-8-4-3-5-9-14)16-10-6-1-2-7-11-17(16)19/h3-5,8-9,13,15-16H,1-2,6-7,10-12H2) it derived the molecular structure (with OPSIN), and a few spectra: H-NMR, high-resolution MS and IR.
 
