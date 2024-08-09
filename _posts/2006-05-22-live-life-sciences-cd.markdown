@@ -2,11 +2,12 @@
 layout: post
 title:  "A live life-sciences CD"
 date:   2006-05-22
+modified-date: 2024-08-09
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/live-life-sciences-cd.html
 tags: linux jmol bioclipse
 ---
 
-November last year, I [reported my plans](http://chem-bla-ics.blogspot.com/2005/11/goal-live-chemblaics-cd.html) to develop
+November last year, I [reported my plans <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2005/11/18/goal-live-chemblaics-cd.html) to develop
 a live CD with all our favorite chemo- and bioinformatics software. [Bioclipse](http://www.bioclipse.net/) requires Java5
 and sort of still depends on the Sun JVM (I will experiment with classpath-generics later), but is now distributable with
 operating systems. So, I made a [Kubuntu](http://www.kubuntu.org/) derived operating system with

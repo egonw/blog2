@@ -2,12 +2,13 @@
 layout: post
 title:  "KDE desktop search: Kat, Strigi and Tenor"
 date:   2006-06-17
+modified-data: 2024-08-09
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/kde-desktop-search-kat-strigi-and.html
 tags: kde strigi kalzium linux technorati
 ---
 
-Desktop searching has become a hot topic (some [earlier](http://chem-bla-ics.blogspot.com/2006/05/molecular-indexing-on-kde-and-osx.html)
-[blogs](http://chem-bla-ics.blogspot.com/2005/11/ubuntu-dapper-will-include-chemistry.html)), now that years of data accumulated on ones
+Desktop searching has become a hot topic (some [earlier <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/05/26/molecular-indexing-on-kde-and-osx.html)
+[blogs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2005/11/07/ubuntu-dapper-will-include-chemistry.html)), now that years of data accumulated on ones
 hard disk: PDFs, OpenOffice.org documents, Latex manuscripts, old Java source code, digitized music, and a lot of chemical files. Well,
 on my hard disk that is. Unlike piles of paper, a computer could search this data, but due to the size an index is required. What's KDE4
 going to offer?
