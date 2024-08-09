@@ -27,9 +27,13 @@ from [Lagrange](https://github.com/LeNPaul/Lagrange/).
 
 This website is further powered by (in random order):
 
+* GitHub Action
 * HTML, MathML
 * SMILES, [CDK Depict](https://cdkdepict.toolforge.org/) ([Toolforge](https://toolforge.org/)), and InChI
 * DOI, CrossRef
 * Rogue Scholar (provider of DOIs for posts), see [https://rogue-scholar.org/blogs/chem_bla_ics](https://rogue-scholar.org/blogs/chem_bla_ics)
 * [citation.js](https://citation.js.org/) [doi:[10.7717/peerj-cs.214](https://doi.org/10.7717/peerj-cs.214))
 * [Internet Archive](https://archive.org/)
+
+Also a shout out to [this post](https://cloudcannon.com/blog/speed-up-your-jekyll-builds/) about the
+[jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin.
