@@ -2,6 +2,7 @@
 layout: post
 title:  "Scholarly discussions through they eyes of CiTO (and Wikidata)"
 date:   2024-08-11
+doi: 10.59350/y9chc-zb166
 tags: cito wikidata justdoi:10.1016/S0140-6736(02)96038-1 justdoi:10.1016/S0140-6736(02)96066-6 justdoi:10.1016/S0140-6736(02)83966-6
   doi:10.1007/978-3-319-70407-4_36
 image: /assets/images/clannyNetwork.png
