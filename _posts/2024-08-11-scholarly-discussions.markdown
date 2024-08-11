@@ -7,7 +7,7 @@ tags: cito wikidata justdoi:10.1016/S0140-6736(02)96038-1 justdoi:10.1016/S0140-
 image: /assets/images/clannyNetwork.png
 ---
 
-Diabetes was already back in 1838-1839 discussed in literature (doi:[10.1016/S0140-6736(02)96038-1](https://doi.org/10.1016/S0140-6736(02)96038-1),
+Diabetes was already discussed in literature back in 1838-1839 (doi:[10.1016/S0140-6736(02)96038-1](https://doi.org/10.1016/S0140-6736(02)96038-1),
 doi:[10.1016/S0140-6736(02)96066-6](10.1016/S0140-6736(02)96066-6), and doi:[10.1016/S0140-6736(02)83966-6](https://doi.org/10.1016/S0140-6736(02)83966-6)).
 These three papers show a short discussion. Papers were a lot shorter back in the days, and the discussion actually shows why papers are longer now
 (tho I am not sure they really got sufficiently more reproducible, but that's another discussion).
