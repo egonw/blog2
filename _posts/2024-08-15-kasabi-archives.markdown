@@ -2,6 +2,7 @@
 layout: post
 title:  "Kasabi archive at the Internet Archive"
 date:   2024-08-15
+doi: 10.59350/7vhj4-ae665
 tags: semweb chembl kasabi ia
 ---
 
