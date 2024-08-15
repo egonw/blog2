@@ -11,7 +11,7 @@ Unit testing is important when developing source code. [JUnit](http://www.junit.
 and [Eclipse](http://www.eclipse.org/te) had the functionality to run JUnit tests. Even better, it allows you to run single JUnit
 tests, even in debug mode:
 
-![](/blog/assets/images/JUnitTestInDebugMode.png)
+![](/assets/images/JUnitTestInDebugMode.png)
 
 Just open the java class in your Package Explorer, right click on the JUnit method you want to run, then pick `Run As` or `Debug As`,
 and then `JUnit test`.
