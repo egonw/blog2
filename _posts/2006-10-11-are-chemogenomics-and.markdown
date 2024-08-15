@@ -3,7 +3,7 @@ layout: post
 title:  "Are chemogenomics and proteochemometrics the same?"
 date:   2006-10-11
 blogger-link: https://chem-bla-ics.blogspot.com/2006/10/are-chemogenomics-and.html
-tags: cheminfo bioinfo justdoi:10.1016/j.drudis.2006.08.013 justdoi:10.1016/s0304-4165(00)00187-2
+tags: cheminf bioinfo justdoi:10.1016/j.drudis.2006.08.013 justdoi:10.1016/s0304-4165(00)00187-2
 ---
 
 [Joerg Wegner](http://www.blogger.com/profile/2366764) [recently blogged](http://miningdrugs.blogspot.com/2006/09/chemogenomics-structuring-drug.html)
