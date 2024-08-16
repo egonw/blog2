@@ -3,7 +3,8 @@ layout: post
 title:  "new Atom(Elements.CARBON);"
 date:   2006-08-06
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/new-atomelementscarbon.html
-ags: cdk
+tags: cdk
+doi: 10.59350/m0wwb-ty759
 ---
 
 Something I have not completely comfortable with about the [CDK](http://cdk.sf.net/) in the past, is the way

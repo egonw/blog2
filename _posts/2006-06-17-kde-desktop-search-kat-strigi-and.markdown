@@ -5,6 +5,7 @@ date:   2006-06-17
 modified-data: 2024-08-09
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/kde-desktop-search-kat-strigi-and.html
 tags: kde strigi kalzium linux technorati
+doi: 10.59350/9n9m7-y4v29
 ---
 
 Desktop searching has become a hot topic (some [earlier <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/05/26/molecular-indexing-on-kde-and-osx.html)

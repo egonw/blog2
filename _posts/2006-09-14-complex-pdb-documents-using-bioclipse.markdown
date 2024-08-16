@@ -5,6 +5,7 @@ date:   2006-09-14
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/complex-pdb-documents-using-bioclipse.html
 tags: bioclipse biojava cdk pdb jmol
 image: /assets/images/bioclipseBioJavaSupport.png
+doi: 10.59350/b3zbn-9w223
 ---
 
 Some time ago I blogged about the [ChildResourceCreator extension point in Bioclipse](http://chem-bla-ics.blogspot.com/2006/08/bioclipse-gets-new-extension-point.html)

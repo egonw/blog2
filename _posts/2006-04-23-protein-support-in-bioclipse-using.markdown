@@ -6,6 +6,7 @@ modified_date: 2024-06-01
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/protein-support-in-bioclipse-using.html
 tags: bioclipse jmol cdk
 image: /assets/images/cdkpdbsupport800.png
+doi: 10.59350/23wn4-1nt07
 ---
 
 I have not blogged for about a week now, and been too busy with other things, like finishing my PhD articles/manuscript,

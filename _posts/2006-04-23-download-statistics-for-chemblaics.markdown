@@ -5,6 +5,7 @@ date:   2006-04-23
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/download-statistics-for-chemblaics.html
 tags: jmol cdk jchempaint
 image: /assets/images/jmolDownloadStats.April2006.png
+doi: 10.59350/mgcny-v7r82
 ---
 
 Here are some quick download statistics for some of the chemblaics components. First

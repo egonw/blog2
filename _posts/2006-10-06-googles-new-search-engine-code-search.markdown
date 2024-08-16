@@ -5,6 +5,7 @@ date:   2006-10-06
 blogger-link: https://chem-bla-ics.blogspot.com/2006/10/googles-new-search-engine-code-search.html
 tags: google opensource
 image: /assets/images/google_code.png
+doi: 10.59350/1sk32-0jb54
 ---
 
 [Google](http://www.google.com/) has set up a new search enginge specifically for source code:

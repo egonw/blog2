@@ -5,6 +5,7 @@ date:   2006-06-25
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/kde4-keyword-support-mockups.html
 tags: kde strigi technorati
 image: /assets/images/kfileXAttrSupport2.png
+doi: 10.59350/62e2c-ycj21
 ---
 
 In reply to interesting comments to [my previous blog](http://chem-bla-ics.blogspot.com/2006/06/strigi-gets-kfile-plugin-support.html)

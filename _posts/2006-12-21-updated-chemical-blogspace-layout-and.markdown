@@ -6,6 +6,7 @@ modified_date: 2024-07-25
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/updated-chemical-blogspace-layout-and.html
 tags: cb chemistry
 image: /assets/images/chemicalBlogspaceScreeny.png
+doi: 10.59350/9pkxf-3ns82
 ---
 
 Last night I upgraded the software behind [Chemical <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20061223075417/http://wiki.cubic.uni-koeln.de/cb/)

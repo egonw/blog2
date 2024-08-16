@@ -5,6 +5,7 @@ date:   2006-04-14
 modified_date: 2024-06-01
 blogger-link: https://chem-bla-ics.blogspot.com/2006/04/postgenomiccom-maps-upcoming.html
 tags: postgenomic cheminf
+doi: 10.59350/7d8hq-pp704
 ---
 
 Conference season is nearing. And just in time, [Postgenomic.com <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20240601063018mp_/http://postgenomic.com/) added

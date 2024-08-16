@@ -5,6 +5,7 @@ date:   2011-04-21
 modified_date: 2023-12-30
 blogger-link: https://chem-bla-ics.blogspot.com/2011/04/chembl-09-as-rdf.html
 tags: chembl rdf
+doi: 10.59350/9w84r-evn93
 ---
 
 *Update 2021-02*: this post is still the second-most read post in my blog. Welcome! Some updates:

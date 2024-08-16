@@ -5,6 +5,7 @@ date:   2008-10-02
 blogger-link: https://chem-bla-ics.blogspot.com/2008/10/jchempaint-history-cml-patches-in-1999.html
 tags: jmol jchempaint cml
 image: /assets/images/fmJChemPaint.png
+doi: 10.59350/r8d8f-55c02
 ---
 
 There was some talk about the history of chemoinformatics toolkits by

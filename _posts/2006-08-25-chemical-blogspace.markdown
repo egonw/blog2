@@ -5,6 +5,7 @@ date:   2006-08-25
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/chemical-blogspace.html
 tags: cb feeds chemistry
 image: /assets/images/chemblogspace.png
+doi: 10.59350/xge7p-17184
 ---
 
 We all know [chemical space](http://en.wikipedia.org/wiki/Chemical_space); [Chemical blogspace](http://wiki.cubic.uni-koeln.de/pg/) (Cb) is different:

@@ -5,6 +5,7 @@ date:   2006-09-22
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-3-and-4.html
 tags: cdk bsp java pdb
 image: /assets/images/flyerScreeny.png
+doi: 10.59350/zwkym-aty79
 ---
 
 Because I was struggling hard with [default values for cdk.interfaces fields](http://sourceforge.net/mailarchive/forum.php?thread_id=30594266&forum_id=2178),

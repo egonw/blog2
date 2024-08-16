@@ -4,6 +4,7 @@ title:  "A list of things I miss in CiteULike"
 date:   2010-09-17
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/list-of-things-i-miss-in-citeulike.html
 tags: cito citeulike
+doi: 10.59350/g2ds0-81a33
 ---
 
 AJCann posted a blog today about what [he doesn't like about Mendeley](http://scienceoftheinvisible.blogspot.com/2010/09/long-list-of-things-i-dont-like-about.html).

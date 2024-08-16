@@ -5,6 +5,7 @@ date:   2006-10-26
 modified_date: 2024-08-12
 blogger-link: https://chem-bla-ics.blogspot.com/2006/10/running-single-junit-tests-in-eclipse.html
 tags: junit eclipse
+doi: 10.59350/3htbd-qma24
 ---
 
 Unit testing is important when developing source code. [JUnit](http://www.junit.org/) provides a library to facilitate this in Java,

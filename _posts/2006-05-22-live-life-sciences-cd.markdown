@@ -5,6 +5,7 @@ date:   2006-05-22
 modified-date: 2024-08-09
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/live-life-sciences-cd.html
 tags: linux jmol bioclipse
+doi: 10.59350/vwtxz-8dh40
 ---
 
 November last year, I [reported my plans <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2005/11/18/goal-live-chemblaics-cd.html) to develop

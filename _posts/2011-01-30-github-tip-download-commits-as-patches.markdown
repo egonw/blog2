@@ -5,6 +5,7 @@ date:   2011-01-30
 blogger-link: https://chem-bla-ics.blogspot.com/2011/01/github-tip-download-commits-as-patches.html
 tags: github
 image: /assets/images/1000px-GitHub.svg.png
+doi: 10.59350/7dnxr-jv029
 ---
 
 <img style="float: right;" src="/assets/images/1000px-GitHub.svg.png" width="200" />

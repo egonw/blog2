@@ -4,6 +4,7 @@ title:  "AVI movies of CMLRSS howto in Bioclipse"
 date:   2006-07-03
 blogger-link: https://chem-bla-ics.blogspot.com/2006/07/avi-movies-of-cmlrss-howto-in.html
 tags: cml rss bioclipse jmol
+doi: 10.59350/5rq0q-4ht07
 ---
 
 David Strumfels posted news [about the Useful Chemistry CMLRSS feed <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20061011100407/http://usefulchem.blogspot.com/2006/07/cml-in-rss-feeds.html).

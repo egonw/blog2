@@ -5,6 +5,7 @@ date:   2006-05-01
 modified_date: 2024-06-12
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/nightly-cdk-builds-now-available.html
 tags: cdk junit pmd opensource
+doi: 10.59350/s63wt-hbx56
 ---
 
 [Rajarshi Guha <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20060815001811/http://cheminfo.informatics.indiana.edu/~rguha/)

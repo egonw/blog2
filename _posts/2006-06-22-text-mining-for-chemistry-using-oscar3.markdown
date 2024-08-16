@@ -5,6 +5,7 @@ date:   2006-06-22
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/text-mining-for-chemistry-using-oscar3.html
 tags: oscar bioclipse textmining
 image: /assets/images/opsin.png
+doi: 10.59350/wpk6m-d9y71
 ---
 
 [Peter Corbett](http://wwmm.ch.cam.ac.uk/wikis/wwmm/index.php/User:ptc24) from [Peter Murray-Rust's group](http://wwmm.ch.cam.ac.uk/)

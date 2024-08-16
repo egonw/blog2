@@ -4,6 +4,7 @@ title:  "The Molecular Chemometrics Principles #3: stand on shoulders"
 date:   2010-08-14
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-3.html
 tags: mcprinciples solo10 chemdoodle chemspider javascript
+doi: 10.59350/832vn-qwh10
 ---
 
 I have blogged about two Molecular Chemometrics principles so far:

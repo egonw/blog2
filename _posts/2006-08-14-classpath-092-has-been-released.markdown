@@ -5,6 +5,7 @@ date:   2006-08-14
 modified-date: 2024-08-09
 blogger-link: https://chem-bla-ics.blogspot.com/2006/08/classpath-092-has-been-released.html
 tags: java cdk jchempaint taverna
+doi: 10.59350/z4kfz-xcy58
 ---
 
 [Bling! Bling!](http://gnu.wildebeest.org/diary/index.php?p=163). Mark Wielaard announced the [GNU Classpath 0.92](http://savannah.gnu.org/forum/forum.php?forum_id=4573)

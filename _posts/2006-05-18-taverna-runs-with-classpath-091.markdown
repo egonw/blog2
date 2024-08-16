@@ -5,6 +5,7 @@ date:   2006-05-18
 modified-data: 2024-08-09
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/taverna-runs-with-classpath-091.html
 tags: java workflow jchempaint taverna
+doi: 10.59350/4f36v-1ze23
 ---
 
 Classpath 0.91 [is released](http://www.gnu.org/software/classpath/announce/20060515.html) with

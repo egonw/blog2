@@ -4,6 +4,7 @@ title:  "A chemistry extension for spreadsheet(s)"
 date:   2006-06-12
 blogger-link: https://chem-bla-ics.blogspot.com/2006/06/chemistry-extension-for-spreadsheets.html
 tags: cdk cheminf
+doi: 10.59350/kc7ax-n3f66
 ---
 
 Just wanted to make sure this news made it to the [Blue Obelisk Planet](http://www.blueobelisk.org/planetbo) too:

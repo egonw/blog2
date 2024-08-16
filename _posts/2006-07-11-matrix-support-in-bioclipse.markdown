@@ -5,6 +5,7 @@ date:   2006-07-11
 blogger-link: https://chem-bla-ics.blogspot.com/2006/07/matrix-support-in-bioclipse.html
 tags: bioclipse chemometrics qsar cdk
 image: /assets/images/bioclipseMatrixSupport.png
+doi: 10.59350/6924n-01r62
 ---
 
 With [chemometrics](http://en.wikipedia.org/wiki/Chemometrics) in mind (QSAR, data mining, ...), I have started working on matrix support in

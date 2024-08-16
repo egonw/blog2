@@ -5,6 +5,7 @@ date:   2006-07-13
 blogger-link: https://chem-bla-ics.blogspot.com/2006/07/context-help-in-bioclipse.html
 tags: jmol bioclipse
 image: /assets/images/contextHelp.png
+doi: 10.59350/94e4t-2q855
 ---
 
 The [Eclipse](http://www.eclipse.org/) [Rich Client Platform (RCP)](http://wiki.eclipse.org/index.php/Rich_Client_Platform) is very powerfull,

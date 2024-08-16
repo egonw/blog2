@@ -5,6 +5,7 @@ date:   2006-09-24
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-5.html
 tags: cdk bsp junit
 image: /assets/images/junit_tests.png
+doi: 10.59350/paxbm-rac78
 ---
 
 Day 5 was formally the last day (see also the summaries of [day 1](http://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-1.html),

@@ -5,6 +5,7 @@ date:   2006-05-03
 modified_date: 2024-06-13
 blogger-link: https://chem-bla-ics.blogspot.com/2006/05/four-graph-mining-methods-integrated.html
 tags: cheminf opensource
+doi: 10.59350/r4sw4-ehh35
 ---
 
 [Joerg Wegner <i class="fa-solid fa-recycle fa-xs"></i>](https://www.blogger.com/profile/09112376168632883058)
