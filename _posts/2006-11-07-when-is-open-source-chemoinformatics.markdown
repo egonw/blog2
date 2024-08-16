@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "When is open source chemoinformatics successfull?"
+title:  "When is open source chemoinformatics successful?"
 date:   2006-11-07
+modified_date: 2024-08-16
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/when-is-open-source-chemoinformatics.html
 tags: cdk rasmol cheminf justdoi:10.1016/S0968-0004(00)89080-5 justdoi:10.1016/S0968-0004(00)01606-6
   doi:10.1021/CI025584Y doi:10.2174/138161206777585274
