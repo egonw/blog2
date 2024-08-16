@@ -5,7 +5,7 @@ date:   2006-11-07
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/when-is-open-source-chemoinformatics.html
 tags: cdk rasmol cheminf justdoi:10.1016/S0968-0004(00)89080-5 justdoi:10.1016/S0968-0004(00)01606-6
   doi:10.1021/CI025584Y doi:10.2174/138161206777585274
-image: /blog/assets/images/cdkCitationCounts.png
+image: /assets/images/cdkCitationCounts.png
 ---
 
 Open source chemoinformatics has become a common phenomenon, though many projects are small in nature:
@@ -32,4 +32,4 @@ so far: the 2003 CDK article (DOI:[10.1021/ci025584y](https://doi.org/10.1021/ci
 now, and the just published 2006 article (DOI:[10.2174/138161206777585274](https://doi.org/10.2174/138161206777585274))
 once:
 
-![](/blog/assets/images/cdkCitationCounts.png)
+![](/assets/images/cdkCitationCounts.png)
