@@ -4,7 +4,7 @@ title:  "Oxford... #2"
 date:   2010-08-06
 modified_date: 2024-05-18
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/oxford-2.html
-tags: cdk oxford oxfordadmet2010 justdoi:10.1021/ml100016x
+tags: cdk oxford oxfordadmet2010 justdoi:10.1021/ml100016x conference
 doi: 10.59350/31apn-15c92
 ---
 

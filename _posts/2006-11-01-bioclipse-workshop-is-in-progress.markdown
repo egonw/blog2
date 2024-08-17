@@ -3,7 +3,7 @@ layout: post
 title:  "The Bioclipse Workshop is in progress"
 date:   2006-11-01
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/bioclipse-workshop-is-in-progress.html
-tags: bioclipse
+tags: bioclipse conference
 ---
 
 The [Bioclipse](http://www.bioclipse.net/) [Workshop](http://wiki.bioclipse.net/index.php?title=Bioclipse_Workshop_Oct/Nov_2006)

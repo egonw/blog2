@@ -3,7 +3,7 @@ layout: post
 title:  "CDK Bug Squash Party - Day 5"
 date:   2006-09-24
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-5.html
-tags: cdk bsp junit
+tags: cdk bsp junit conference
 image: /assets/images/junit_tests.png
 doi: 10.59350/paxbm-rac78
 ---

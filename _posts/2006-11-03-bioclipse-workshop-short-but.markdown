@@ -3,7 +3,7 @@ layout: post
 title:  "Bioclipse Workshop: short but productive"
 date:   2006-11-03
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/bioclipse-workshop-short-but.html
-tags: bioclipse qsar javascript
+tags: bioclipse qsar javascript conference
 ---
 
 The [Bioclipse](http://www.bioclipse.net/) [Workshop](http://wiki.bioclipse.net/index.php?title=Bioclipse_Workshop_Oct/Nov_2006)

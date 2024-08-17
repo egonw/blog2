@@ -2,7 +2,7 @@
 layout: post
 title:  "American Chemical Society Fall 2023 meeting"
 date:   2023-09-09
-tags: acs scholia wikidata justdoi:10.5281/zenodo.8255394 acsfall2023
+tags: acs scholia wikidata justdoi:10.5281/zenodo.8255394 acsfall2023 conference
 doi: 10.59350/zqtdm-66432
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "CDK Bug Squash Party - Day 1"
 date:   2006-09-18
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-1.html
-tags: cdk bsp
+tags: cdk bsp conference
 ---
 
 I plan to do a daily coverage of the [Chemistry Development Kit](http://cdk.sf.net/) [Bug Squash Party](http://wiki.cubic.uni-koeln.de/cdkwiki/doku.php?id=bsp200609)

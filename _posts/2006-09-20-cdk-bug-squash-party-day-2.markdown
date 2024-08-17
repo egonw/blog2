@@ -3,7 +3,7 @@ layout: post
 title:  "CDK Bug Squash Party - Day 2"
 date:   2006-09-20
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-2.html
-tags: cdk bsp
+tags: cdk bsp conference
 ---
 
 Like [yesterday](http://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-1.html) I will give short overview of things done at the
