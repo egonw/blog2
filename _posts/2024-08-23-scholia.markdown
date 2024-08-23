@@ -3,6 +3,7 @@ layout: post
 title:  "Scholia configurability"
 date:   2024-08-23
 tags: scholia doi:10.1007/978-3-319-70407-4_36 wikidata sparql
+doi: 10.59350/epanj-4t315
 ---
 
 [Scholia](https://scholia.toolforge.org/) is a visual layer on top of [Wikidata](https://wikidata.org/) providing
