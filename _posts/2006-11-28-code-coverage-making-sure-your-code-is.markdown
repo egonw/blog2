@@ -5,7 +5,7 @@ date:   2006-11-28
 modified_date: 2024-08-24
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/code-coverage-making-sure-your-code-is.html
 tags: opensource cdk
-image: /blog/assets/images/emmaCoverage1.png
+image: /assets/images/emmaCoverage1.png
 ---
 
 Recently I [discussed JUnit testing from within Eclipse <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/10/26/running-single-junit-tests-in-eclipse.html),
@@ -23,11 +23,11 @@ CDK's module setup.
 Thomas Kuhn pointed me last week to [Emma](http://emma.sf.net/), which seems a nice tool. It does not require hacking
 our source, and generates cool HTML:
 
-![](/blog/assets/images/emmaCoverage.png)
+![](/assets/images/emmaCoverage.png)
 
 And even highlights the source code:
 
-![](/blog/assets/images/emmaCoverage1.png)
+![](/assets/images/emmaCoverage1.png)
 
 BTW, I seem to be in good company: [Classpath](http://www.gnu.org/software/classpath/) is
 [using it too](http://builder.classpath.org/~cpdev/coverage/).

@@ -16,7 +16,7 @@ The data was provided by Internet users via [The Great Influenza Survey](http://
 the sum of all those small contributions (anonymous website users are asked to fill out a weekly form), yields reliable data. The user is
 rewarded by colorful pictures, such as:
 
-![](/blog/assets/images/alles_2006-12-06.png)
+![](/assets/images/alles_2006-12-06.png)
 
 If all chemists and biochemists would add information about or properties of one molecule or metabolite to the Wikipedia each month,
 one or more commercial database companies will have to change their business model soon. Oh, you already can start doing this
