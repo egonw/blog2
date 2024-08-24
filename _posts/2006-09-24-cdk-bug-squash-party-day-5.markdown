@@ -2,15 +2,16 @@
 layout: post
 title:  "CDK Bug Squash Party - Day 5"
 date:   2006-09-24
+modified_date: 2024-08-24
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-5.html
 tags: cdk bsp junit conference
 image: /assets/images/junit_tests.png
 doi: 10.59350/paxbm-rac78
 ---
 
-Day 5 was formally the last day (see also the summaries of [day 1](http://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-1.html),
-[day 2](http://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-2.html) and
-[day 3/4](http://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-3-and-4.html)) of the
+Day 5 was formally the last day (see also the summaries of [day 1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/18/cdk-bug-squash-party-day-1.html),
+[day 2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/20/cdk-bug-squash-party-day-2.html) and
+[day 3/4 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/22/cdk-bug-squash-party-day-3-and-4.html)) of the
 [Chemistry Development Kit](http://cdk.sf.net/) [Bug Squash Party](http://wiki.cubic.uni-koeln.de/cdkwiki/doku.php?id=bsp200609) (BSP).
 Miguel uploaded the last bits of his CDK [PDBPolymer](http://cheminfo.informatics.indiana.edu/~rguha/code/java/nightly/api/org/openscience/cdk/protein/data/PDBPolymer.html)
 to CML to CDK PDBPolymer roundtripping functionality (closing a bug and a feature request in one go). Have not tested this first hand yet,

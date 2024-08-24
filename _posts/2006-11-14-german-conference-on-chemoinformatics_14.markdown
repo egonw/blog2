@@ -2,11 +2,12 @@
 layout: post
 title:  "German Conference on Chemoinformatics 2006: Day 3"
 date:   2006-11-14
+modified_date: 2024-08-24
 blogger-link: https://chem-bla-ics.blogspot.com/2006/11/german-conference-on-chemoinformatics_14.html
 tags: cheminf conference justdoi:10.1021/ci060139e semweb
 ---
 
-Just some short quites note about the third day (see [day 1 and 2](http://chem-bla-ics.blogspot.com/2006/11/german-conference-on-chemoinformatics.html)).
+Just some short quites note about the third day (see [day 1 and 2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/11/13/german-conference-on-chemoinformatics.html)).
 Today's program of the [German Conference on Chemoinformatics](http://scholle.oc.uni-kiel.de/users/cic/tagungen/workshop06/index.html)
 started with a presentation by Rzepa about his work on a semantic wiki (DOI:[10.1021/ci060139e](https://doi.org/10.1021/ci060139e)),
 which might be [online here](http://www.ch.ic.ac.uk/wiki/). (He recorded a podcast, but I have not seen it online yet.) I wish I could

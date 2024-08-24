@@ -2,6 +2,7 @@
 layout: post
 title:  "CDK Bug Squash Party - Day 3 and 4"
 date:   2006-09-22
+modified_date: 2024-08-24
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-3-and-4.html
 tags: cdk bsp java pdb conference
 image: /assets/images/flyerScreeny.png
@@ -10,7 +11,8 @@ doi: 10.59350/zwkym-aty79
 
 Because I was struggling hard with [default values for cdk.interfaces fields](http://sourceforge.net/mailarchive/forum.php?thread_id=30594266&forum_id=2178),
 I did not have time to write up the [Bug Squash Party](http://wiki.cubic.uni-koeln.de/cdkwiki/doku.php?id=bsp200609) report for day 3 (see also
-[day 1](http://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-1.html) and [day 2](http://chem-bla-ics.blogspot.com/2006/09/cdk-bug-squash-party-day-2.html)).
+[day 1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/18/cdk-bug-squash-party-day-1.html) and
+[day 2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/20/cdk-bug-squash-party-day-2.html)).
 But here it is.
 
 # Day 3
