@@ -2,6 +2,7 @@
 layout: post
 title:  "Scholia configurability"
 date:   2024-08-23
+modified_date: 2024-09-05
 tags: scholia doi:10.1007/978-3-319-70407-4_36 wikidata sparql
 doi: 10.59350/epanj-4t315
 ---
@@ -55,14 +56,14 @@ and I worked on, this configuration looks like this (and saved as `scholia.ini`:
 #sparql_embedurl = https://query.wikidata.org/embed.html#
 
 # Wikidata Split Main
-sparql_endpoint = https://query-main-experimental.wikidata.org/sparql
-sparql_editurl = https://query-main-experimental.wikidata.org/#
-sparql_embedurl = https://query-main-experimental.wikidata.org/embed.html#
+sparql_endpoint = https://query-main.wikidata.org/sparql
+sparql_editurl = https://query-main.wikidata.org/#
+sparql_embedurl = https://query-main.wikidata.org/embed.html#
 
 # Wikidata Split Scholar
-#sparql_endpoint = https://query-scholarly-experimental.wikidata.org/sparql
-#sparql_editurl = https://query-scholarly-experimental.wikidata.org/#
-#sparql_embedurl = https://query-scholarly-experimental.wikidata.org/embed.html#
+#sparql_endpoint = https://query-scholarly.wikidata.org/sparql
+#sparql_editurl = https://query-scholarly.wikidata.org/#
+#sparql_embedurl = https://query-scholarly.wikidata.org/embed.html#
 ```
 
 So, right now, we can test the impact of the split with Scholia and this patch.
