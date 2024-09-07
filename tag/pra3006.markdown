@@ -1,0 +1,7 @@
+---
+layout: tagpage
+title: "Tag: Programming in the Life Science (PRA3006)"
+tag: pra3006
+---
+
+A course at the Maastricht Science Programma organized in 2013 for the first time.
