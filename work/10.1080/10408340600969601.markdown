@@ -5,3 +5,5 @@ type: ScholarlyArticle
 tag: doi:10.1080/10408340600969601
 doi: doi:10.1080/10408340600969601
 ---
+
+A free, open version of this article can be found as Chapter 2 at [https://repository.ubn.ru.nl/handle/2066/72267](https://repository.ubn.ru.nl/handle/2066/72267).
