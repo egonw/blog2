@@ -2,9 +2,12 @@
 layout: post
 title:  "Counting constitutional isomers from the molecular formula"
 date:   2006-12-17
+modified_date: 2021-07-04
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/counting-stereoisomers-from-molecular_17.html
-tags: cheminf cdk
+tags: cheminf cdk justdoi:10.1186/s13321-021-00529-9
 ---
+
+**Update**: check [this](https://doi.org/10.1186/s13321-021-00529-9) paper.
 
 We all know the combinatorial explosion when calculating the number of possible constitutional
 isomers (see [wp:structural isomorphism](http://en.wikipedia.org/wiki/Structural_isomerism)) of
