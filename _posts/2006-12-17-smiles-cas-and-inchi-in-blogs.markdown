@@ -4,7 +4,7 @@ title:  "SMILES, CAS and InChI in blogs: Greasemonkey"
 date:   2006-12-17
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html
 tags: chemistry userscript smiles pubchem inchi
-image: /blog/assets/images/sechemticWebScript.png
+image: /assets/images/sechemticWebScript.png
 ---
 
 As follow up on my [Including SMILES, CML and InChI in blogs](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html)
@@ -29,6 +29,6 @@ for this RDFa markup content:
 
 It should look like the output for this blog item:
 
-![](/blog/assets/images/sechemticWebScript.png)
+![](/assets/images/sechemticWebScript.png)
 
 Note the superscript PubChem and Google links.

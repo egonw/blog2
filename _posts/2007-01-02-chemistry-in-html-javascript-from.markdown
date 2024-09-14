@@ -4,7 +4,7 @@ title:  "Chemistry in HTML: JavaScript from the server"
 date:   2007-01-02
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/chemistry-in-html-javascript-from.html
 tags: html javascript userscript
-image: /blog/assets/images/sechemticJSOutput.png
+image: /assets/images/sechemticJSOutput.png
 ---
 
 Recently I blogged about [a Greasemonkey script](http://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html)
@@ -38,7 +38,7 @@ Consider this (X)HTML:
 </html>
 ```
 
-![](/blog/assets/images/sechemticJSOutput.png)
+![](/assets/images/sechemticJSOutput.png)
 
 I think the above example shows the simple setup of the Sechemtic Web script (please
 forgive me my habit to use bad linguistic mashups ;). Just load the script in the
