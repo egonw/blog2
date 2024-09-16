@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: Journal of Cheminformatics, ORCID, and GitHub"
+type: ScholarlyArticle
+tag: doi:10.1186/S13321-019-0365-4
+doi: doi:10.1186/S13321-019-0365-4
+---
