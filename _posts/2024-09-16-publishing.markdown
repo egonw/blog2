@@ -2,6 +2,7 @@
 layout: post
 title:  "Better Publishing"
 date:   2024-09-16
+doi: 10.59350/7qe60-evp05
 tags: publishing openscience doi:10.1186/S13321-019-0365-4 doi:10.1186/S13321-020-00448-1
   doi:10.5281/ZENODO.4926030
 image: /assets/images/0-768x768.jpg
@@ -27,7 +28,7 @@ a more open platform for the whole editing process.
 
 And, of course, we have [Diamond Open Access](https://en.wikipedia.org/wiki/Diamond_open_access)
 publishers that do not get enough visibility, like [SciPost](https://scipost.org/)
-and [Beilstein](https://www.beilstein-journals.org/) for natural sciences and 
+and [Beilstein](https://www.beilstein-journals.org/) for natural sciences and
 JOSS for open source.
 
 ## Open Journal Systems
