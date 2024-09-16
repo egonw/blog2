@@ -3,7 +3,7 @@ layout: post
 title:  "Adding citations between existing articles in Wikidata"
 date:   2024-09-07
 doi: 10.59350/7hjzg-ngr66
-tags: wikidata bacting opencitations justdoi:10.1002/JLAC.18721620110
+tags: wikidata bioclipse opencitations justdoi:10.1002/JLAC.18721620110
 image: /assets/images/opencitationsImport.png
 ---
 
