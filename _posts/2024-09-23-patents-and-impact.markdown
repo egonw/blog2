@@ -3,6 +3,7 @@ layout: post
 title:  "Patents, societal impact, and sustainability"
 date:   2024-09-23
 image: /assets/images/google_patent_wikipathways.png
+doi: 10.59350/3abda-n1j28
 ---
 
 Division 1 of our [Institute of Nutrition and Translational Research in Metabolism](https://www.maastrichtuniversity.nl/research/school-nutrition-and-translational-research-metabolism)
