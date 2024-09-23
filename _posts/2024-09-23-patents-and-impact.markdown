@@ -75,7 +75,7 @@ For any DOI you can look up what data Altmetric.com has using this URL
 pattern (the example is for the DOI *10.1039/D3DD00069A*):
 
 ```
-https://acs.altmetric.com/details/doi/10.1039/D3DD00069A
+https://altmetric.com/details/doi/10.1039/D3DD00069A
 ```
 
 Maastricht University users can use our [cris](https://cris.maastrichtuniversity.nl/)
