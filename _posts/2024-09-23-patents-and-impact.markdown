@@ -37,8 +37,8 @@ the people that cited your work in their patent found your research valuable
 enough to list it as support of their patent. This is similar to getting cited
 in another journal article (or book (chapter)), but much closer to society.
 
-Therefore, if you are interested to learn of the research you do and the output
-of that has an impact on society, scanning patent literature for citations to
+Therefore, if you are interested to learn whhich of the research you do, and the output
+of that research, has an impact on society, scanning patent literature for citations to
 your work or the work of the research group you work in, can give surprising
 results. Worst case, it gives you ideas of how the research may benefit society.
 
