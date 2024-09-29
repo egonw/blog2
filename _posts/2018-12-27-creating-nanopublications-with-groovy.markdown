@@ -2,8 +2,9 @@
 layout: post
 title:  "Creating nanopublications with Groovy"
 date:   2018-12-27
+modified-date: 2024-09-29
 blogger-link: https://chem-bla-ics.blogspot.com/2018/12/creating-nanopublications-with-groovy.html
-tags: nanopub wikidata groovy justdoi:10.1007/978-3-319-07443-6_63 justdoi:10.1002/JLAC.199619961005
+tags: nanopub wikidata groovy justdoi:10.1007/978-3-319-07443-6_27 justdoi:10.1002/JLAC.199619961005
 image: /assets/images/Screenshot_20181227_075006.png
 ---
 
@@ -18,7 +19,7 @@ Published in *Liebigs Annalen*, see [this post](https://chem-bla-ics.blogspot.co
 about the history of that journal.
 
 There are two good things about this. First, I now have a [code base](https://github.com/egonw/wikidataNanopublications)
-that I can easily repurpose to make *trusty nanopublications* (doi:[10.1007/978-3-319-07443-6_63](10.1007/978-3-319-07443-6_63))
+that I can easily repurpose to make *trusty nanopublications* (doi:[10.1007/978-3-319-07443-6_27](10.1007/978-3-319-07443-6_27))
 about anything structured as a table (so can you).
 
 Second, I now about almost 1200 CCZero nanopublications that tell you in which species a certain metabolite
