@@ -6,6 +6,8 @@ blogger-link: https://chem-bla-ics.blogspot.com/2022/10/is-your-research-cited-b
 tags: wikidata sparql
 ---
 
+<span style="width: 20%; float: right"><a href="https://en.wikipedia.org/wiki/File:Nobel_Prize.png">
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png?20131011153104" /></a></span>
 Forget the journal impact factor and the H-index. You want your research being used. A first approximation of that is getting cited,
 sure. So, with the Nobel Prize week over (congrats to all winners! the [Neanderthaler prize](https://www.sciencelink.net/news/nobel-prize-in-physiology-awarded-to-sequencing-of-ancient-genomes/20811.article)
 actually helped my work in Maastricht this week), let's figure out of you are cited by a Nobel Prize winner.
