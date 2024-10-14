@@ -2,11 +2,12 @@
 layout: post
 title:  "RSC: the first publisher to go semantic!"
 date:   2007-02-01
+modified_date: 2024-10-14
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/rsc-first-publisher-to-go-semantic.html
 tags: sebweb chemistry publishing
 ---
 
-Just announced: [the RSC goes semantic](http://www.rsc.org/Publishing/Journals/ProjectProspect/index.asp)!
+Just announced: [the RSC goes semantic <i class="fa-solid fa-box-archive fa-xs"></i>](http://web.archive.org/web/20070211195109/http://www.rsc.org/Publishing/Journals/ProjectProspect/index.asp)!
 Colin Batchelor was here at the CUBIC last autumn, where we discussed issues involved, mostly relating to
 experimental section of organic chemistry syntheses, and NMR and MS spectra in particular, so I knew that
 this was coming our way. The announcement writes:
