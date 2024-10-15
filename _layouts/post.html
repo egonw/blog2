@@ -33,43 +33,43 @@ layout: base
       {%- if page.doi -%}
         <br /><span class="post-meta">Download as:&nbsp;<a href="https://api.rogue-scholar.org/posts/{{ page.doi }}?format=pdf"><i class="fa-solid fa-file-pdf"></i></a></span>
       {%- endif -%}
+
+      {% if page.tags.size > 0 %}
+        <br /><br /><span class="post-meta">
+        {% for tag in page.tags %}
+          {% assign check = tag | split:':' %}
+          <!-- foo>{{ check.size }}</foo -->
+          {% if check.size == 1 %}
+            {% capture tag_name %}{{ tag }}{% endcapture %}
+            {% assign type = "tag" %} <!-- failsafe -->
+            {% assign icon = "tag" %}
+          {% else %}
+            {% capture tag_name %}{{ check[1] }}{% endcapture %}
+            {% if check[0] == "inchikey" %}
+              {% assign type = "molecule" %}
+              {% assign icon = "flask-vial" %}
+            {% elsif check[0] == "justdoi" %}
+              {% assign type = "skip" %}
+            {% elsif check[0] == "doi" %}
+              {% assign type = "work" %}
+              {% assign icon = "file" %}
+            {% else %}
+              {% assign type = "tag" %} <!-- failsafe -->
+              {% assign icon = "tag" %}
+            {% endif %}
+          {% endif %}
+          {% if type != "skip" %}
+          <nobr><i class="fa-solid fa-{{ icon }}"></i>&nbsp;<a href="{{ type | append:'/' | append: tag_name | relative_url }}"><code class="highligher-rouge">{{ tag_name }}</nobr></code></a>&nbsp;
+          {% endif %}
+        {% endfor %}
+        </span>
+      {% endif %}
     </p>   
+
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-
-  {% if page.tags.size > 0 %}
-    <span class="post-meta">
-    {% for tag in page.tags %}
-      {% assign check = tag | split:':' %}
-      <!-- foo>{{ check.size }}</foo -->
-      {% if check.size == 1 %}
-        {% capture tag_name %}{{ tag }}{% endcapture %}
-        {% assign type = "tag" %} <!-- failsafe -->
-        {% assign icon = "tag" %}
-      {% else %}
-        {% capture tag_name %}{{ check[1] }}{% endcapture %}
-        {% if check[0] == "inchikey" %}
-          {% assign type = "molecule" %}
-          {% assign icon = "flask-vial" %}
-        {% elsif check[0] == "justdoi" %}
-          {% assign type = "skip" %}
-        {% elsif check[0] == "doi" %}
-          {% assign type = "work" %}
-          {% assign icon = "file" %}
-        {% else %}
-          {% assign type = "tag" %} <!-- failsafe -->
-          {% assign icon = "tag" %}
-        {% endif %}
-      {% endif %}
-      {% if type != "skip" %}
-      <i class="fa-solid fa-{{ icon }}"></i>
-      <a href="{{ type | append:'/' | append: tag_name | relative_url }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code></a>&nbsp;
-      {% endif %}
-    {% endfor %}
-    </span>
-  {% endif %}
 
   </div>
 
