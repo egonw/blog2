@@ -4,7 +4,7 @@ title:  "Writing up my PhD introduction chapter..."
 date:   2007-02-04
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/writing-up-my-phd-introduction-chapter.html
 tags:
-image: /blog/assets/images/rodeDraad.png
+image: /assets/images/rodeDraad.png
 ---
 
 The last twelve months or so, I have been doing two jobs (excluding hobbies of mine, such as
@@ -18,4 +18,4 @@ mining in QSAR for a set of transfactants, but that has not lead to firm results
 
 The below diagram shows how I see the interplay between both fields:
 
-![](/blog/assets/images/rodeDraad.png)
+![](/assets/images/rodeDraad.png)

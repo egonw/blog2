@@ -5,7 +5,7 @@ date:   2007-01-30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/cdk-workshop-day-2.html
 tags: cdk kegg knime smiles taverna justdoi:10.1186/1471-2105-7-517
   inchikey:ZKWNOTQHFKYUNU-JGCIYWTLSA-N
-image: /blog/assets/images/choloyl-coa.png
+image: /assets/images/choloyl-coa.png
 ---
 
 Because of other obligations, I was unable to attend the first day of the [CDK Workshop](http://wiki.cubic.uni-koeln.de/cdkwiki/doku.php?id=spring2007workshop),
@@ -27,7 +27,7 @@ and came up with a possible further performance improvement of the AllRingsFinde
 ring systems connected by a long linker, like Choloyl-CoA (below), we anticipate that splitting the molecule up into ring systems prior to using the
 SSSR algorithm should speed up the complete all-ring finding process.
 
-![](/blog/assets/images/choloyl-coa.png)
+![](/assets/images/choloyl-coa.png)
 
 Currently, the spanning tree is calculated before deciding on using the SSSR finder, which, we think, can be used to partition the molecule
 into separate ring systems. On each of them, then, the further steps of the ring search can be applied.
