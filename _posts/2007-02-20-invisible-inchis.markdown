@@ -2,8 +2,9 @@
 layout: post
 title:  "Invisible InChI's"
 date:   2007-02-20
+modified_date: 2007-02-20
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/invisible-inchis.html
-tags: inchi
+tags: inchi html
 ---
 
 Some [InChI](http://www.iupac.org/inchi/)'s are short, such as that for methane: <span class="chem:inchi">InChI=1/CH4/h1H4</span>.
@@ -40,3 +41,7 @@ to zero itself, because many web browsers do not interpret zero font size correc
 
 This should solve the standing problem that we would like to include the InChI's in our blogs, if it would just not be so
 long and unreadable. Just hide it.
+
+**Update**: Daniel [informed](https://web.archive.org/web/20070514085137/https://chem-bla-ics.blogspot.com/2007/02/invisible-inchis.html#comment-6321491648638004528)
+me that Google won't index text marked 'visibility: hidden' and may even mark your webpage as spam :( Not the solution either.
+Read the comments for more thoughts.
