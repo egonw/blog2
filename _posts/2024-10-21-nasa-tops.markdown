@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "NASA Transform to Open Science (TOPS) Open Science 101"
+date:   2024-10-21
+tags: openscience justdoi:10.5281/zenodo.10161527
+image: /assets/images/nasa_tops.png
+---
+
+It was on my radar for some time already, but did not get around to finishing it. But I completed all
+five modules of the [NASA Transform to Open Science (TOPS) Open Science 101](https://openscience101.org/)
+(doi:[10.5281/zenodo.10161527](https://doi.org/10.5281/zenodo.10161527)).
+This Open Science 101 consists of several modules, starting with *The Ethos of Open Science*, via
+*Open Tools and Resources*, *Open Data*, and *Open Code*, to *Open Results*.
+
+![](/assets/images/nasa_tops.png)
+
+Now, since I have been practising aspects of science for almost 25 years, I have to admit I was nervous
+doing this. That probably explains why it took me so long to do it. Just going through the material will
+probably take 4-8 hours, but there was a lot to reflect on. They also link to many additional resources
+and cite a good bunch of scientific research.
+
+I also like to stress that I like the material very, very much. It is very well designed, covers a lot
+of aspects, and finds a great balance between depth and coverage. Sure, I had some comments here and
+there, but it higjhlights very well what open science really is, what not, and how the open science
+community is working on reaching the goals, which things work well, and which things need more work.
+
+The material itself is [open and available from GitHub](https://github.com/nasa/Transform-to-Open-Science).
