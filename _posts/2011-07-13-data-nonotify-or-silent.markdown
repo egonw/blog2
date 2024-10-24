@@ -4,6 +4,7 @@ title:  "Data, Nonotify, or Silent?"
 date:   2011-07-13
 blogger-link: https://chem-bla-ics.blogspot.com/2011/07/data-nonotify-or-silent.html
 tags: cdk
+doi: 10.59350/zq2m3-dxp07
 ---
 
 I cannot find the bug report just now, but the [CDK](http://cdk.sf.net/) has an open problem with change even notification,

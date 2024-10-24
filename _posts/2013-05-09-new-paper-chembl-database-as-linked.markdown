@@ -7,6 +7,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2013/05/new-paper-chembl-databas
 tags: chembl rdf cito cheminf doi:10.1186/1758-2946-5-23 doi:10.1186/1758-2946-3-15 ontology
   doi:10.1371/JOURNAL.PONE.0025513 justdoi:10.1186/2041-1480-1-S1-S6 chemspider openphacts
 image: /assets/images/mondecaUptime.png
+doi: 10.59350/h24n0-r8e92
 ---
 
 <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript"></script>

@@ -7,6 +7,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2012/03/chembl-13-as-rdf.html
 tags: chembl rdf semweb ontology cheminf doi:10.1371/JOURNAL.PONE.0025513 cito
   justdoi:10.1186/2041-1480-1-S1-S6 doi:10.1186/2041-1480-2-S1-S6
 image: /assets/images/relations.png
+doi: 10.59350/qtjby-n6m67
 ---
 
 **Update**: this work is now described in [this paper](https://chem-bla-ics.blogspot.com/2013/05/new-paper-chembl-database-as-linked.html).

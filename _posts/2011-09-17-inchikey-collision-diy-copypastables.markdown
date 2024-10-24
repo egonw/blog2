@@ -4,6 +4,7 @@ title:  "InChIKey collision: the DIY copy/pastables"
 date:   2011-09-17
 blogger-link: https://chem-bla-ics.blogspot.com/2011/09/inchikey-collision-diy-copypastables.html
 tags: inchi inchikey:OCPAUTFLLNMYSX-UHFFFAOYSA-N opsin smiles bioclipse iupac
+doi: 10.59350/eg94z-9dg88
 ---
 
 About two weeks ago, the ChemConnector blog [reported an InChIKey collosion](http://www.chemconnector.com/2011/09/01/an-inchikey-collision-is-discovered-and-not-based-on-stereochemistry/)

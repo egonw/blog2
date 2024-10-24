@@ -5,6 +5,7 @@ date:   2011-08-02
 blogger-link: https://chem-bla-ics.blogspot.com/2011/08/my-google-scholar-citations-profile.html
 tags: google citeulike doi:10.1186/1471-2105-8-487
 image: /assets/images/gsc.png
+doi: 10.59350/eg94z-9dg88
 ---
 
 [Web of Science](http://en.wikipedia.org/wiki/Web_of_Science) is my de facto standard for citation statistics (I need these for

@@ -5,6 +5,7 @@ date:   2011-07-06
 blogger-link: https://chem-bla-ics.blogspot.com/2011/07/chempedia-rdf-2-kasabi.html
 tags: semweb kasabi chemistry
 image: /assets/images/kasabi.png
+doi: 10.59350/f95v6-r1630
 ---
 
 <img style="float: right;" src="/assets/images/kasabi.png" width="200" />

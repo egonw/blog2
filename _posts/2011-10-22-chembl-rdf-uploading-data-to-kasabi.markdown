@@ -4,6 +4,7 @@ title:  "ChEMBL-RDF: Uploading data to Kasabi with pytassium"
 date:   2011-10-22
 blogger-link: https://chem-bla-ics.blogspot.com/2011/10/chembl-rdf-uploading-data-to-kasabi.html
 tags: kasabi chembl semweb
+doi: 10.59350/k1860-kks41
 ---
 
 I reported earlier how to I [uploaded the ChemPedia (RIP) data onto Kasabi](http://chem-bla-ics.blogspot.com/2011/07/chempedia-rdf-3-uploading-data-to.html).

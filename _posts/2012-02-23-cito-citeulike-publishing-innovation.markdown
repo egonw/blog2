@@ -5,6 +5,7 @@ date:   2012-02-23
 blogger-link: https://chem-bla-ics.blogspot.com/2012/02/cito-citeulike-publishing-innovation.html
 tags: citeulike cito justdoi:10.1186/2041-1480-1-S1-S6 rdf
 image: /assets/images/culcito1.png
+doi: 10.59350/25dgb-j2y93
 ---
 
 Readers of my blog know I have been using the Citation Typing Ontology, CiTO (doi:[10.1186/2041-1480-1-S1-S6](http://dx.doi.org/10.1186/2041-1480-1-S1-S6)).
