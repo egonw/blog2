@@ -3,6 +3,7 @@ layout: post
 title:  "New paper: The Virtual Human Platform for Safety Assessment (VHP4Safety)"
 date:   2024-10-24
 tags: vhp4safety doi:10.14573/altex.2407211
+doi: 10.59350/mch14-dtx11
 ---
 
 I have [not posted a lot](https://chem-bla-ics.linkedchemistry.info/tag/vhp4safety) about our [Virtual Human Platform for Safety Assessment](https://vhp4safety.nl/)
