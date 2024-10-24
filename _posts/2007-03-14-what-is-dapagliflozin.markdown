@@ -3,6 +3,7 @@ layout: post
 title:  "What is dapagliflozin?"
 date:   2007-03-14
 blogger-link: https://chem-bla-ics.blogspot.com/2007/03/what-is-dapagliflozin.html
+tags: inchikey:JVHXJTBJCFBINQ-ADAARDCZSA-N
 ---
 
 [QDIS](http://www.qdinformation.com/qdisblog) blogged about [Bristol-Myers and AstraZeneca teaming up for a new drug called
