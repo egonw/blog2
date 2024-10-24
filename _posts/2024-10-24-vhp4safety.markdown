@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "New paper: The Virtual Human Platform for Safety Assessment (VHP4Safety)"
+date:   2024-10-24
+tags: vhp4safety doi:10.14573/altex.2407211
+---
+
+I have [not posted a lot](https://chem-bla-ics.linkedchemistry.info/tag/vhp4safety) about our [Virtual Human Platform for Safety Assessment](https://vhp4safety.nl/)
+(VHP4Safety) project yet. Actually, more generally I do not post frequently about the funded projects. This is likely that few of them are Open Science
+by contract and often they have some formal process in place to approve output. That makes open notebook science-style posting about these projects
+hard. One is restricted to previously cleared material.
+
+One such material is the new project paper about VHP4Safety, *The Virtual Human Platform for Safety Assessment (VHP4Safety) project: Next generation chemical
+safety assessment based on human data* (doi:[10.14573/altex.2407211](https://doi.org/10.14573/altex.2407211)). It is a fun project to work in,
+ambitious, and in a vibrant community making steps in open science. That means that a lot of what we is core science, but the science comes
+from many different disciplines, and it is as much natural sciences as it is humanities.
+
+So, we somewhere during the project we started organizing hackathons. Some of us had plenty of experience with that already, but these
+are hackathons from fields where this has not been as common, perhaps. But is has been fun, e.g. see
+[this write up of the third hackathon](https://www.sciencrew.com/c/9347/a/335221636?title=Advancing_AI_in_Toxicology_Insights_from_the_Third_VHP4Safety_H).
+
+There is a lot more I should be writing about VHP4Safety, and I will try, but for now I will limit it to these pointers:
+
+* the main VHP4Safety website: [https://vhp4safety.nl/](https://vhp4safety.nl/)
+* our documentation platform: [https://docs.vhp4safety.nl/](https://docs.vhp4safety.nl/)
+* our catalogue of cloud services: [https://cloud.vhp4safety.nl/](https://cloud.vhp4safety.nl/)
+* our common language: [https://glossary.vhp4safety.nl/](https://glossary.vhp4safety.nl/)
+
+And we try to register our solutions as widely as possible, e.g. with national and ELIXIR indices:
+
+* our [Taxila.nl section](https://taxila.nl/content_providers/vhp4safety)
+* out [ELIXIR TeSS section](https://tess.elixir-europe.org/content_providers/vhp4safety)
