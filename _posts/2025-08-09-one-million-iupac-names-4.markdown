@@ -87,7 +87,7 @@ use this for Wikidata!
 
 So, I have one week left to write the article about the work we started in March. The outlook is bright. I played last
 week with the Europe PMC full text downloads and can confirm that should yield thousands of additional names from the
-full texts. A single download file gave me more than two thousand new unique names. I think the 500k thousand IUPAC names
+full texts. A single download file gave me more than two thousand new unique names. I think the 500k IUPAC names
 is absolutely in reach with purely the full texts from Europe PMC.
 
 This brings us to the end of 2025. By then, we should have a many millions of openly-licensed IUPAC names.
