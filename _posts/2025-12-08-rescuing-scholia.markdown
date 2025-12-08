@@ -33,6 +33,6 @@ Importantly, the data may not update as frequently as the [WDQS](https://www.med
 and that is another complexity to take into account. Particularly, all the 404 pages.
 
 So, in the next weeks, we have to complete rewriting all those queries as queries that QLever can handle. A team
-of people have done great work already, [including Konrad](is:issue author:KonradLinden).
+of people have done great work already, [including Konrad](https://github.com/ad-freiburg/scholia/issues?q=is%3Aissue%20author%3AKonradLinden).
 
 I hope we make it in time.
