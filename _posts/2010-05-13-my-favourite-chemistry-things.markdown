@@ -103,8 +103,8 @@ others might too, but chemists at least. Blowing up things too. When I was a stu
 friendly colleague who liked blowing up things and made TNT himself and took that to university too
 (stabilized, mind you :). Cool!
 
-Anyway, while googling for something to spice up this tenth item, I ran into the book linked to on
-the right: [Caveman Chemistry: 28 Projects, from the Creation of Fire to the Production of Plastics](http://www.amazon.com/Caveman-Chemistry-Projects-Creation-Production/dp/1581125666?ie=UTF8&link_code=btl&camp=213689&creative=392969).
+Anyway, while googling for something to spice up this tenth item, I ran into this book:
+[Caveman Chemistry: 28 Projects, from the Creation of Fire to the Production of Plastics](http://www.amazon.com/Caveman-Chemistry-Projects-Creation-Production/dp/1581125666?ie=UTF8&link_code=btl&camp=213689&creative=392969).
 The [prologue](http://www.cavemanchemistry.com/browse.html) nicely writes up that you need to sparkle
 some fire in education to get the students enlightened:
 
