@@ -2,6 +2,7 @@
 layout: post
 title:  "My favourite chemistry things"
 date:   2010-05-13
+modified_date: 2026-06-28
 blogger-link: https://chem-bla-ics.blogspot.com/2010/05/my-favourite-chemistry-things.html
 doi: 10.59350/be00d-tn533
 tags: chemistry justdoi:10.1021/cg060872y
@@ -25,7 +26,8 @@ the theory to [deal with mutli-atom bonds](http://chem-bla-ics.blogspot.com/2006
 ### 2. rare nuclei in the NMRShiftDB
 
 The [NMRShiftDB](http://www.nmrshiftdb.org/) is an Open Data repository for annotated NMR spectra. The fun here is to
-add NMR spectra of [rare nuclei](http://chem-bla-ics.blogspot.com/search?q=nmr+nuclei+sparql). Don't you just love a
+add NMR spectra of [rare nuclei](https://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-rdf-2-some-statistics.html?q=nmr+nuclei+sparql).
+Don't you just love a
 molecule with NMR shifts for all atoms?
 
 ### 3. metabolomics
@@ -45,9 +47,9 @@ Atom types is another theoretical model for chemistry. [Atom typing](http://chem
 is one of the underlying technologies of [force fields](http://en.wikipedia.org/wiki/Force_field_%28chemistry%29), which are used
 in many, many fields in chemistry. Now, force fields typically take only a subset of atom types. New atom types, consequently, need
 to be added. One such new atom type was the [hexavalent carbon](http://www.ch.ic.ac.uk/rzepa/blog/?p=811). Rare, very rare, but
-just the amount of complexity I like about chemistry:
+just the amount of complexity I like about chemistry.
 
-![](http://chempedia.com/substances/9-3868-9160-6957.png)
+<!-- Image lost -->
 
 ### 5. self-organizing maps
 
@@ -90,7 +92,8 @@ gets is all together. BTW, there remains very much to be done about improving pu
 [Organometallics](http://en.wikipedia.org/wiki/Organometallic_chemistry) is, like metabolomics, a really
 interesting area, with lots of complexities (pun intended :). Actually, I am not even aware of a
 organometallics/metabolomics mashup. Anyone with some nice pointers? I have not blogged about it much,
-and [the one time](http://chem-bla-ics.blogspot.com/search?q=organometallics) I did was in relation
+and [the one time](https://chem-bla-ics.blogspot.com/2006/12/modern-chemistry-in-cdk-beyond-two.html?q=organometallics)
+I did was in relation
 to chemical graph theory.
 
 ### 10. sparkling fire
