@@ -6,9 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/03/acs-boston-rdf-symposium
 doi: 10.59350/pyhnf-ne238
 tags: rdf acsrdf2010 chemistry
 image: /assets/images/acsRDFWordle.png
+modified_date: 2026-07-05
 ---
 
-The deadline for abstract submission for the ACS symposium on [Semantic Chemistry with the Resource Description Framework](http://chem-bla-ics.blogspot.com/2010/01/semantic-chemistry-with-resource.html)
+The deadline for abstract submission for the ACS symposium on [Semantic Chemistry with the Resource Description Framework <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/01/25/semantic-chemistry-with-resource.html)
 has passed. Eleven independent abstracts made the deadline. Here's what you can expect in Boston:
 
 ![](/assets/images/acsRDFWordle.png)

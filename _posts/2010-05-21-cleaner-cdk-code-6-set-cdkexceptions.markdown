@@ -5,6 +5,7 @@ date:   2010-05-21 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/05/cleaner-cdk-code-6-set-cdkexceptions.html
 doi: 10.59350/mdt9c-fkc91
 tags: cdk java
+modified_date: 2026-07-05
 ---
 
 For about two weeks now, I am working on fixing a bug in the *nonotify* module: the classes were still sending around change events.
@@ -13,7 +14,7 @@ nonotify module and not the other way around, as in [CDK](http://cdk.sf.net/) 1.
 place, introducing a boolean indicating it should send events or not, but that turned out to be insufficient.
 
 Anyway, while working on a major refactoring like this one, you run into many, many small code issues. Clearly. the one I mostly run
-into is that a lot of code is not [written against the interfaces yet](http://chem-bla-ics.blogspot.com/2010/05/cleaner-cdk-code-5-developer-against.html).
+into is that a lot of code is not [written against the interfaces yet <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/05/15/cleaner-cdk-code-5-developer-against.html).
 However, I just ran into another bit of code that can be improved.
 
 ### Set the cause Exception when throwing a CDKException

@@ -5,6 +5,7 @@ date:   2010-04-18
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/bittorrents-for-science.html
 doi: 10.59350/0z9nh-6ed21
 tags: opendata justdoi:10.1371/journal.pone.0010071
+modified_date: 2026-07-05
 ---
 
 The idea has been lingering in the air for a long time now: sharing large science data sets using [bittorrent](http://en.wikipedia.org/wiki/BitTorrent_%28protocol%29).
@@ -14,7 +15,7 @@ shorter path.
 
 It could very well be that the uptake of this technology for sharing data is only now coming about because only recently we started caring about Open Data
 licenses, which formally take care of rights of redistribution, which is obviously crucial to setting up a torrent network. Initiatives like the
-[Panton Principles](http://chem-bla-ics.blogspot.com/2010/02/open-data-panton-principles.html) are changing this, even though we had a good deal of
+[Panton Principles <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/19/open-data-panton-principles.html) are changing this, even though we had a good deal of
 Open Source-licensed data for many years already.
 
 So, with an increasing amount of Open Data, the time was now right, according to the authors [Morgan](http://betascience.blogspot.com/) and

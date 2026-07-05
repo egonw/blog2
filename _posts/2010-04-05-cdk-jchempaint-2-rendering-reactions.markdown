@@ -6,9 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-2-renderi
 doi: 10.59350/wyfzs-jsm57
 tags: cdk jchempaint inchikey:QWENRTYMTSOGBR-UHFFFAOYSA-N inchikey:UHOVQNZJYSORNB-UHFFFAOYSA-N
 image: /assets/images/reaction.png
+modified_date: 2026-07-05
 ---
 
-I posted earlier today [a Groovy script to render molecules](http://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-1-rendering-molecules.html)
+I posted earlier today [a Groovy script to render molecules <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/05/cdk-jchempaint-1-rendering-molecules.html)
 with CDK-JChemPaint 8. Now, the new JChemPaint rendering engine also contains the functionality to render reactions. So, I can also do:
 
 ```shell

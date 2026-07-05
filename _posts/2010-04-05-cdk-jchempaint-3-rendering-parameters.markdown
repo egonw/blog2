@@ -5,10 +5,11 @@ date:   2010-04-05 02:00
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-3-rendering-parameters.html
 doi: 10.59350/10ng3-3eb14
 tags: cdk jchempaint
+modified_date: 2026-07-05
 ---
 
-OK, one last CDK-JChemPaint tutorial for today (see [#1](http://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-1-rendering-molecules.html) and
-[#2](http://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-2-rendering-reactions.html)). Rendering wasn't as much fun, if you could not tune it
+OK, one last CDK-JChemPaint tutorial for today (see [#1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/05/cdk-jchempaint-1-rendering-molecules.html) and
+[#2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/05/cdk-jchempaint-2-rendering-reactions.html)). Rendering wasn't as much fun, if you could not tune it
 to your needs. JChemPaint has long had many rendering parameters, and one by one we are converting them to the new API. The following code is an
 modification to the first example, and adds some code to list all rendering parameters for the three used generators:
 

@@ -1,8 +1,8 @@
-// Copyright (c) 2025  Egon Willighagen <egon.willighagen@gmail.com>
+// Copyright (c) 2025-2026  Egon Willighagen <egon.willighagen@gmail.com>
 //
 // GPL v3
 
-@Grab(group='io.github.egonw.bacting', module='managers-ui', version='1.0.10')
+@Grab(group='io.github.egonw.bacting', module='managers-ui', version='1.0.12')
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -20,9 +20,15 @@ mappings = [
   "2010/12/supramolecular-chemistry.html": "2010/12/11/supramolecular-chemistry.html",
   "2010/10/multiple-unit-test-inheritance-with.html": "2010/10/26/multiple-unit-test-inheritance-with.html",
   "2010/07/cb-new-blogs-13.html": "2010/07/15/cb-new-blogs-13.html",
+  "2010/05/cleaner-cdk-code-5-developer-against.html": "2010/05/15/cleaner-cdk-code-5-developer-against.html",
+  "2010/05/web-20-technologies-in-student.html": "2010/05/08/web-20-technologies-in-student.html",
+  "2010/04/cdk-jchempaint-2-rendering-reactions.html": "2010/04/05/cdk-jchempaint-2-rendering-reactions.html",
+  "2010/04/cdk-jchempaint-1-rendering-molecules.html": "2010/04/05/cdk-jchempaint-1-rendering-molecules.html",
   "2010/03/rdf-jena-bioclipse-eclipse-zest-2-icons.html": "2010/03/04/rdf-jena-bioclipse-eclipse-zest-2-icons.html",
   "2010/02/further-statistics-on-papers-citing-cdk.html": "2010/02/22/further-statistics-on-papers-citing-cdk.html",
+  "2010/02/open-data-panton-principles.html": "2010/02/19/open-data-panton-principles.html",
   "2010/02/bioclipse-understands-ontologies-note.html": "2010/02/11/bioclipse-understands-ontologies-note.html",
+  "2010/01/semantic-chemistry-with-resource.html": "2010/01/25/semantic-chemistry-with-resource.html",
   "2009/11/chempedia-rdf-1-sparql-end-point.html": "2009/11/19/chempedia-rdf-1-sparql-end-point.html",
   "2009/11/open-notebook-science-solubility-sparql.html": "2009/11/19/open-notebook-science-solubility-sparql.html",
   "2009/11/swat4ls-wrapping-up-1.html": "2009/11/25/swat4ls-wrapping-up-1.html",
@@ -95,7 +101,9 @@ mappings = [
   "2007/07/osra-gpl-ed-molecule-drawing-to-smiles.html": "2007/07/20/osra-gpl-ed-molecule-drawing-to-smiles.html",
   "2007/07/cdk-literature-2.html": "2007/07/14/cdk-literature-2.html",
   "2007/07/atom-typing-in-cdk.html": "2007/07/01/atom-typing-in-cdk.html",
-  "2007/07/rdf-ing-molecular-space.html": "2007/07/31/rdf-ing-molecular-space.html"
+  "2007/07/rdf-ing-molecular-space.html": "2007/07/31/rdf-ing-molecular-space.html",
+  "2006/12/modern-chemistry-in-cdk-beyond-two.html": "2006/12/30/modern-chemistry-in-cdk-beyond-two.html",
+  "2006/04/mining-kegg-pathway-database-with-self.html": "2006/04/04/mining-kegg-pathway-database-with-self.html"
 ]
 
 oldPref = "http://chem-bla-ics.blogspot.com/"

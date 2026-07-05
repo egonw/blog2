@@ -6,9 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/05/three-acs-rdf-sessions.h
 doi: 10.59350/sntre-je496
 tags: rdf acsrdf2010 chemistry
 image: /assets/images/wordle.cinf0031.png
+modified_date: 2026-07-05
 ---
 
-It has been a while since I gave an update on the [ACS-RDF session in Boston](http://chem-bla-ics.blogspot.com/2010/01/semantic-chemistry-with-resource.html).
+It has been a while since I gave an update on the [ACS-RDF session in Boston <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/01/25/semantic-chemistry-with-resource.html).
 Things are settling in, and it seems there will be three sessions, each with an approximate theme. Each session will have five talks, of which one will be extended, where the speaker will be invited to set the context of the theme. Full programs will follow, but find the current sessions wordles below:
 
 ### CINF003 on Sunday morning: RDF and Computation

@@ -2,7 +2,7 @@
 layout: post
 title:  "My favourite chemistry things"
 date:   2010-05-13
-modified_date: 2026-06-28
+modified_date: 2026-07-05
 blogger-link: https://chem-bla-ics.blogspot.com/2010/05/my-favourite-chemistry-things.html
 doi: 10.59350/be00d-tn533
 tags: chemistry justdoi:10.1021/cg060872y
@@ -21,12 +21,12 @@ This meme is not easy, you now. But here goes:
 Chemical graph theory is one of the common theoretical models chemists work with to make sense of chemical properties.
 I like it because the graph theory is fairly straightforward, but chemistry adds enough color (literally!) to create a
 nice complexity that kept the cheminformatics field going strong for more than 50 years now :) For example, how to adapt
-the theory to [deal with mutli-atom bonds](http://chem-bla-ics.blogspot.com/2006/12/modern-chemistry-in-cdk-beyond-two.html) :)
+the theory to [deal with mutli-atom bonds <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/30/modern-chemistry-in-cdk-beyond-two.html) :)
 
 ### 2. rare nuclei in the NMRShiftDB
 
 The [NMRShiftDB](http://www.nmrshiftdb.org/) is an Open Data repository for annotated NMR spectra. The fun here is to
-add NMR spectra of [rare nuclei](https://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-rdf-2-some-statistics.html?q=nmr+nuclei+sparql).
+add NMR spectra of [rare nuclei <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/05/nmrshiftdb-rdf-2-some-statistics.html?q=nmr+nuclei+sparql).
 Don't you just love a
 molecule with NMR shifts for all atoms?
 
@@ -43,7 +43,7 @@ his nice [secondary metabolite](http://en.wikipedia.org/wiki/Secondary_metabolit
 
 ### 4. hexavalent carbon
 
-Atom types is another theoretical model for chemistry. [Atom typing](http://chem-bla-ics.blogspot.com/2007/07/atom-typing-in-cdk.html)
+Atom types is another theoretical model for chemistry. [Atom typing <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/01/atom-typing-in-cdk.html)
 is one of the underlying technologies of [force fields](http://en.wikipedia.org/wiki/Force_field_%28chemistry%29), which are used
 in many, many fields in chemistry. Now, force fields typically take only a subset of atom types. New atom types, consequently, need
 to be added. One such new atom type was the [hexavalent carbon](http://www.ch.ic.ac.uk/rzepa/blog/?p=811). Rare, very rare, but
@@ -57,7 +57,7 @@ Kohonen maps, or [self-organizing maps](http://en.wikipedia.org/wiki/Self-organi
 method that have interesting visualization features. They have numerous applications, and also in chemistry. The group
 where I did my PhD developed a supervised SOM, which I used them to classify crystal structures
 (doi:[10.1021/cg060872y](https://doi.org/10.1021/cg060872y)). Another of my favorites is the
-[reaction classification by Aires-de-Sousa *et al.*](http://chem-bla-ics.blogspot.com/2006/04/mining-kegg-pathway-database-with-self.html)
+[reaction classification by Aires-de-Sousa *et al.* <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/04/04/mining-kegg-pathway-database-with-self.html)
 using unsupervised SOMs.
 
 ![](/assets/images/som_thesis_image.png)
@@ -83,16 +83,16 @@ No, not the database, but the nice graphical article abstracts in chemistry jour
 gets is all together. BTW, there remains very much to be done about improving publishing chemistry.
 [I](http://chem-bla-ics.blogspot.com/2006/09/chemical-archeology-oscar3-to.html)
 [blogged](http://chem-bla-ics.blogspot.com/2007/02/rsc-first-publisher-to-go-semantic.html)
-[about](http://chem-bla-ics.blogspot.com/2009/03/journal-of-cheminformatics-i-hope.html)
+[about <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/03/22/journal-of-cheminformatics-i-hope.html)
 [that](http://chem-bla-ics.blogspot.com/2007/10/how-blogosphere-changes-publishing.html)
-[repeatedly](http://chem-bla-ics.blogspot.com/2009/03/nature-chemistry-improves-publishing.html).
+[repeatedly <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/03/19/nature-chemistry-improves-publishing.html).
 
 ### 9. organometallics
 
 [Organometallics](http://en.wikipedia.org/wiki/Organometallic_chemistry) is, like metabolomics, a really
 interesting area, with lots of complexities (pun intended :). Actually, I am not even aware of a
 organometallics/metabolomics mashup. Anyone with some nice pointers? I have not blogged about it much,
-and [the one time](https://chem-bla-ics.blogspot.com/2006/12/modern-chemistry-in-cdk-beyond-two.html)
+and [the one time <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/30/modern-chemistry-in-cdk-beyond-two.html)
 I did was in relation
 to chemical graph theory.
 

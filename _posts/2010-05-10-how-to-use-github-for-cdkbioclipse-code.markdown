@@ -6,9 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/05/how-to-use-github-for-cd
 doi: 10.59350/nfcyx-jxj82
 tags: cdk bioclipe github
 image: /assets/images/codeReview6.png
+modified_date: 2026-07-05
 ---
 
-Triggered by posts in the past [three](http://chem-bla-ics.blogspot.com/2010/05/web-20-technologies-in-student.html)
+Triggered by posts in the past [three <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/05/08/web-20-technologies-in-student.html)
 [days](http://chem-bla-ics.blogspot.com/2010/05/github-simplifies-code-review-and.html), I though about writing up a short
 tutorial on how to perform code review for existing code on [GitHub](http://www.github.com/). Therefore, this applied to
 [CDK](http://cdk.sf.net/) and [Bioclipse](http://www.bioclipse.net/) source code, many but will work for any project hosted

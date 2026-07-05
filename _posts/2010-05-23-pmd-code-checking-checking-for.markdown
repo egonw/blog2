@@ -5,9 +5,10 @@ date:   2010-05-23
 blogger-link: https://chem-bla-ics.blogspot.com/2010/05/pmd-code-checking-checking-for.html
 doi: 10.59350/9wby7-sdm26
 tags: cdk java pmd
+modified_date: 2026-07-05
 ---
 
-I wrote recently about [programming against interfaces](http://chem-bla-ics.blogspot.com/2010/05/cleaner-cdk-code-5-developer-against.html),
+I wrote recently about [programming against interfaces <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/05/15/cleaner-cdk-code-5-developer-against.html),
 which led to some discussion. [Rajarshi](http://blog.rguha.net/) [commented](http://sourceforge.net/tracker/?func=detail&aid=3005355&group_id=20024&atid=320024):
 
 > patch 2 seems to replace usage of Molecule with Molecule, rather than IMolecule
