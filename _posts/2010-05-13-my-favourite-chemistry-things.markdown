@@ -92,7 +92,7 @@ gets is all together. BTW, there remains very much to be done about improving pu
 [Organometallics](http://en.wikipedia.org/wiki/Organometallic_chemistry) is, like metabolomics, a really
 interesting area, with lots of complexities (pun intended :). Actually, I am not even aware of a
 organometallics/metabolomics mashup. Anyone with some nice pointers? I have not blogged about it much,
-and [the one time](https://chem-bla-ics.blogspot.com/2006/12/modern-chemistry-in-cdk-beyond-two.html?q=organometallics)
+and [the one time](https://chem-bla-ics.blogspot.com/2006/12/modern-chemistry-in-cdk-beyond-two.html)
 I did was in relation
 to chemical graph theory.
 
