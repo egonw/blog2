@@ -11,27 +11,27 @@ Mostly license statement fixes (thanx to [Andrew for caring about it](http://www
 and a bug fix in the `UniversalIsomorphismTester`:
 
 <ul>
-<li>Removed bit which explain how to apply the LGPL to source (fixes #2926775) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=12e8e4fe34">12e8e4fe34</a></li>
-<li>Attached are some more license files. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=47a226a20b">47a226a20b</a></li>
-<li>The log4j.jar is version 1.2.15. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=834ade8338">834ade8338</a></li>
-<li>More completed files attached. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=9e882436ce">9e882436ce</a></li>
-<li>They were incomplete, as many other files still are. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=261795f461">261795f461</a></li>
-<li>Added a QA target <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=ae661aab84">ae661aab84</a></li>
-<li>Use local PMD and JUnit reports if available <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=35550bd029">35550bd029</a></li>
-<li>Added option to run it on just one module <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=fcdad410f0">fcdad410f0</a></li>
-<li>Added info for dependencies <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e4a90b16f1">e4a90b16f1</a></li>
-<li>Created a list, to be able to add license information <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5b5e54d3e8">5b5e54d3e8</a></li>
-<li>Added missing copyright/license header <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8dee40dc3d">8dee40dc3d</a></li>
-<li>Catch a SocketException when there is no internet <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=57373715b0">57373715b0</a></li>
-<li>Output where it is working on <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=76933080a2">76933080a2</a></li>
-<li>Removed empty lines <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=53e60f94e7">53e60f94e7</a></li>
-<li>Added initial license information, based on the information sent by Stefan <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=17b3c0c50b">17b3c0c50b</a></li>
-<li>Update code example in JavaDoc reflecting the current API (fixes #2914791) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=75b44575d5">75b44575d5</a></li>
-<li>Updated UIT matching for the single atom case so that it correctly handles queries that are plain atom containers <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=bbc8f60caf">bbc8f60caf</a></li>
-<li>Bumped version to denote post 1.2.4.1 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8121114186">8121114186</a></li>
-<li>Package fixing release: fixed building JavaDoc from source dist <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e1513262d4">e1513262d4</a></li>
-<li>Added missing references file to the source dist (full and pure) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=1cd21245fb">1cd21245fb</a></li>
-<li>Removed source folders of Doclets, which are not part of the release, and should not be compiled for JavaDoc generation anyway <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=dc8e5e73aa">dc8e5e73aa</a></li>
-<li>Added a test to MoleculeSetTest, which tests that the clone() does not change the MoleculeSEt <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=42915c4ac7">42915c4ac7</a></li>
-<li>Added some extra lines, hopefully fixing the conflicts all the time <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b867fb296d">b867fb296d</a></li>
+<li>Removed bit which explain how to apply the LGPL to source (fixes #2926775) <a href="https://github.com/cdk/cdk/commit/12e8e4fe34">12e8e4fe34</a></li>
+<li>Attached are some more license files. <a href="https://github.com/cdk/cdk/commit/47a226a20b">47a226a20b</a></li>
+<li>The log4j.jar is version 1.2.15. <a href="https://github.com/cdk/cdk/commit/834ade8338">834ade8338</a></li>
+<li>More completed files attached. <a href="https://github.com/cdk/cdk/commit/9e882436ce">9e882436ce</a></li>
+<li>They were incomplete, as many other files still are. <a href="https://github.com/cdk/cdk/commit/261795f461">261795f461</a></li>
+<li>Added a QA target <a href="https://github.com/cdk/cdk/commit/ae661aab84">ae661aab84</a></li>
+<li>Use local PMD and JUnit reports if available <a href="https://github.com/cdk/cdk/commit/35550bd029">35550bd029</a></li>
+<li>Added option to run it on just one module <a href="https://github.com/cdk/cdk/commit/fcdad410f0">fcdad410f0</a></li>
+<li>Added info for dependencies <a href="https://github.com/cdk/cdk/commit/e4a90b16f1">e4a90b16f1</a></li>
+<li>Created a list, to be able to add license information <a href="https://github.com/cdk/cdk/commit/5b5e54d3e8">5b5e54d3e8</a></li>
+<li>Added missing copyright/license header <a href="https://github.com/cdk/cdk/commit/8dee40dc3d">8dee40dc3d</a></li>
+<li>Catch a SocketException when there is no internet <a href="https://github.com/cdk/cdk/commit/57373715b0">57373715b0</a></li>
+<li>Output where it is working on <a href="https://github.com/cdk/cdk/commit/76933080a2">76933080a2</a></li>
+<li>Removed empty lines <a href="https://github.com/cdk/cdk/commit/53e60f94e7">53e60f94e7</a></li>
+<li>Added initial license information, based on the information sent by Stefan <a href="https://github.com/cdk/cdk/commit/17b3c0c50b">17b3c0c50b</a></li>
+<li>Update code example in JavaDoc reflecting the current API (fixes #2914791) <a href="https://github.com/cdk/cdk/commit/75b44575d5">75b44575d5</a></li>
+<li>Updated UIT matching for the single atom case so that it correctly handles queries that are plain atom containers <a href="https://github.com/cdk/cdk/commit/bbc8f60caf">bbc8f60caf</a></li>
+<li>Bumped version to denote post 1.2.4.1 <a href="https://github.com/cdk/cdk/commit/8121114186">8121114186</a></li>
+<li>Package fixing release: fixed building JavaDoc from source dist <a href="https://github.com/cdk/cdk/commit/e1513262d4">e1513262d4</a></li>
+<li>Added missing references file to the source dist (full and pure) <a href="https://github.com/cdk/cdk/commit/1cd21245fb">1cd21245fb</a></li>
+<li>Removed source folders of Doclets, which are not part of the release, and should not be compiled for JavaDoc generation anyway <a href="https://github.com/cdk/cdk/commit/dc8e5e73aa">dc8e5e73aa</a></li>
+<li>Added a test to MoleculeSetTest, which tests that the clone() does not change the MoleculeSEt <a href="https://github.com/cdk/cdk/commit/42915c4ac7">42915c4ac7</a></li>
+<li>Added some extra lines, hopefully fixing the conflicts all the time <a href="https://github.com/cdk/cdk/commit/b867fb296d">b867fb296d</a></li>
 </ul>

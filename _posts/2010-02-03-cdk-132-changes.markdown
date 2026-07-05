@@ -12,91 +12,91 @@ I promise I will write up more useful changelogs, and will actually try to do so
 by example. For now, the following will have to do. These are the changes after [release 1.3.1](http://chem-bla-ics.blogspot.com/2009/12/cdk-131-changes.html),
 which include all the changes in [release 1.2.5](http://chem-bla-ics.blogspot.com/2010/01/cdk-125-changes.html):
 
-<li>Use the new error reporting IO API <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=fd81efc58d">fd81efc58d</a></li>
-<li>Added a new IO API for reporting file format errors. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=ea5f0b78c4">ea5f0b78c4</a></li>
-<li>A new test for canonicalLabeler. I first tried in an older checkout, where it failed, but it works in master. I think we can still put the test in, more tests are better. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b9db6f13a4">b9db6f13a4</a></li>
-<li>Unit test for bug #2944080 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b0666e9744">b0666e9744</a></li>
-<li>Added the atom-atom mapping for all atom containing the reactant molecules <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=68e696a54d">68e696a54d</a></li>
-<li>Removed the bond mapping from the reaction. It will only contain atom-atom mapping functionality <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=aa3511f93e">aa3511f93e</a></li>
-<li>Initiating only one time the function LonePairElectronChecker <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e71b52e02e">e71b52e02e</a></li>
-<li>Added getExampleReactants and getExpectedProducts method for all reaction.type test. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4f5e8a19c2">4f5e8a19c2</a></li>
-<li>Merged with 1.2.x <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=0fa73500d9">0fa73500d9</a></li>
-<li>The IMapping interface had a class comment which probably was a copy&paste artefact. Changed this. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=05c857cc4e">05c857cc4e</a></li>
-<li>Fixed license info .meta file for JavaCC <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d9e15bbca9">d9e15bbca9</a></li>
-<li>Merged CDK 1.2.5 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=9b3726e758">9b3726e758</a></li>
-<li>Bumped version to differ form the 1.2.5 release <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=17a6f08a07">17a6f08a07</a></li>
-<li>Release 1.2.5 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=14c6fdd04f">14c6fdd04f</a></li>
-<li>Removed bit which explain how to apply the LGPL to source (fixes #2926775) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=12e8e4fe34">12e8e4fe34</a></li>
-<li>CDKHydrogenAdder should not attempt addImplicitHydrogen for pseudo atoms in an atom container <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=7074cf5131">7074cf5131</a></li>
-<li>Added unit test for adding hydrogens to IPseudoAtom, which current causes a NPE <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=a30ca3e7a6">a30ca3e7a6</a></li>
-<li>MDLV2000Reader throws exception for query bond types <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=354e93f8a6">354e93f8a6</a></li>
-<li>MDL reading and writing and stereo bond types <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e335bbcaf1">e335bbcaf1</a></li>
-<li>Added a helper method GeometryTools.getRectangle2D() to get the space occupied by an IAtomContainer <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=da488c0061">da488c0061</a></li>
-<li>Reimplemented shiftContainer(IAtomContainer, Rectangle2D, Rectange2D, double) originally implemented as jchempaint-primary patch 9200bdc4d68dc8f70373a62eaec51357b680d5e6 by Stefan Kuhn: fixing the detection of overlap, and added missing unit tests <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=50ebfa1b32">50ebfa1b32</a></li>
-<li>Added IO option to allow saving aromatic SMILES <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=84a44e0054">84a44e0054</a></li>
-<li>Added missing unit testing for the SMILESWriter <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=7d6a9b6c1f">7d6a9b6c1f</a></li>
-<li>Moved Normalizer into a separate package, in reply to discussion around patch #2905749, making space for a uniform platform for structure normalization: cdk.normalize <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4c49c24a4d">4c49c24a4d</a></li>
-<li>Attached are some more license files. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=47a226a20b">47a226a20b</a></li>
-<li>The log4j.jar is version 1.2.15. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=834ade8338">834ade8338</a></li>
-<li>More completed files attached. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=9e882436ce">9e882436ce</a></li>
-<li>They were incomplete, as many other files still are. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=261795f461">261795f461</a></li>
-<li>Fixed conflict in LICENSE file due to merge from cdk-1.2.x branch <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d40a6791bf">d40a6791bf</a></li>
-<li>Added a QA target <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=ae661aab84">ae661aab84</a></li>
-<li>Use local PMD and JUnit reports if available <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=35550bd029">35550bd029</a></li>
-<li>Added option to run it on just one module <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=fcdad410f0">fcdad410f0</a></li>
-<li>Added info for dependencies <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e4a90b16f1">e4a90b16f1</a></li>
-<li>Created a list, to be able to add license information <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5b5e54d3e8">5b5e54d3e8</a></li>
-<li>Added missing copyright/license header <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8dee40dc3d">8dee40dc3d</a></li>
-<li>Catch a SocketException when there is no internet <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=57373715b0">57373715b0</a></li>
-<li>Output where it is working on <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=76933080a2">76933080a2</a></li>
-<li>Removed empty lines <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=53e60f94e7">53e60f94e7</a></li>
-<li>Added initial license information, based on the information sent by Stefan <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=17b3c0c50b">17b3c0c50b</a></li>
-<li>[PATCH] SSSR Test <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f651b94203">f651b94203</a></li>
-<li>Bucky ball test molecule <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=07244642ef">07244642ef</a></li>
-<li>Patch from Ulrich Bauer regarding ringsearch bauer@math.uni-goettingen.de <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c3c9110fba">c3c9110fba</a></li>
-<li>Update code example in JavaDoc reflecting the current API (fixes #2914791) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=75b44575d5">75b44575d5</a></li>
-<li>Minor fixes for the RasmolColors class. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d9b1312484">d9b1312484</a></li>
-<li>New classes for Rasmol color scheme <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=66ca51f0f9">66ca51f0f9</a></li>
-<li>Updated UIT matching for the single atom case so that it correctly handles queries that are plain atom containers <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=bbc8f60caf">bbc8f60caf</a></li>
-<li>Updated fingerprinter to fix bug 2819557. Updated JUnit tests to take into account new fingerprints. Also cleaned up the template extractor code and regenerated fingerprints for builder3d. Also updated the build file to properly include dependency jars for the makefp3d target <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6d453a1b49">6d453a1b49</a></li>
-<li>Added a datafile entry for the standard module to store the VDW radii etc for the periodic table <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=813f45d251">813f45d251</a></li>
-<li>Fixed reading of SD file properties <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e4b7f06da7">e4b7f06da7</a></li>
-<li>Added unit test for a MDL SD file with mutliple data fields <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=97c2c19eca">97c2c19eca</a></li>
-<li>Added unit test for data fields to allow to start with '>' (bug #2911300). <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8e4161ee35">8e4161ee35</a></li>
-<li>Added testing that properties are read from test6.sdf <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d3fe073e8d">d3fe073e8d</a></li>
-<li>Updated license info of third party libraries <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=a9c85f96ed">a9c85f96ed</a></li>
-<li>Fixed JavaDoc: added missing period at end of first sentence, removed useless @throws clause, added missing @cdk.bug tag <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b5b722b071">b5b722b071</a></li>
-<li>Added changelog for 1.3.1 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4035e303de">4035e303de</a></li>
-<li>Merged in 1.2.4.1 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=9deaa004d1">9deaa004d1</a></li>
-<li>Bumped version to denote post 1.2.4.1 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8121114186">8121114186</a></li>
-<li>Package fixing release: fixed building JavaDoc from source dist <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e1513262d4">e1513262d4</a></li>
-<li>Added missing references file to the source dist (full and pure) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=1cd21245fb">1cd21245fb</a></li>
-<li>Removed source folders of Doclets, which are not part of the release, and should not be compiled for JavaDoc generation anyway <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=dc8e5e73aa">dc8e5e73aa</a></li>
-<li>Removed java pkg removed by the periodic table patch from the Eclipse project classpath <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5c63c90a86">5c63c90a86</a></li>
-<li>Made the unit test more informative <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6ea3b2f005">6ea3b2f005</a></li>
-<li>Added test case for bug 2819557 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=1ac7920545">1ac7920545</a></li>
-<li>The AtomType(String) constructor is updated so that only formal charge is set to 0 as indicated in the Javadocs. All other fields are set ot UNSET. Javadocs were updated to make this explicit <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8206e95b2d">8206e95b2d</a></li>
-<li>Updated canonical labeler to make use of the PeriodicTable class so that even if an input molecule was not configured we can still get a valid atomic number. This makes SMILES generation a little more robust (cf bug 2898032) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=2cb55bd98e">2cb55bd98e</a></li>
-<li>Added OpenJavaDocCheck library (new BSD licensed) and written a custom JavaDoc checks. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=02c335a778">02c335a778</a></li>
-<li>Additional constant <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=21aa28ecd6">21aa28ecd6</a></li>
-<li>added a constant for untyped atoms <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=a51c932749">a51c932749</a></li>
-<li>Updated to avoid use of deprecated StringBufferInputStream <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c8ec6e03fe">c8ec6e03fe</a></li>
-<li>added a test for single-line inchi with several branches <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c7c92dfcf2">c7c92dfcf2</a></li>
-<li>the inchi reader was written in such a way that it 1) needed a further line after the inchi=, which was not read, but needed to avoid npes 2) It could only process one branch on a level 3) it required the inchi line to start with INChI, newer versions require InChI= All this has been fixed <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=cb5486c6fa">cb5486c6fa</a></li>
-<li>Start angles should be different for different size rings <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=cbdcda7b58">cbdcda7b58</a></li>
-<li>Sorting of containers in a AtomContainerSet <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=545eda2460">545eda2460</a></li>
-<li>Added new test class to the module suite <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=a1f427bc0c">a1f427bc0c</a></li>
-<li>New comparators for AtomContainer <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=01e8b62271">01e8b62271</a></li>
-<li>Refactored periodic table element to be a standalone class, so independent of the data module. This is OK, since the class is really just a struct to hold PT data for a given element. As opposed to being a basis of an elemental representation. Also, this class is entirely private to this package, so it doesn't really matter what it is. Updated associated unit tests <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=27fc004130">27fc004130</a></li>
-<li>Some minor code clean up <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=a0439ab626">a0439ab626</a></li>
-<li>Updated to remove Symbols and all associated tests and usages. Replaced with PeriodicTable <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d20efc4e89">d20efc4e89</a></li>
-<li>Moved PT related tests to their own package. Updated test suites <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d58c03ecf2">d58c03ecf2</a></li>
-<li>Added method (and test) to get symbol from atomic number and also get element counts <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f93e06f3c5">f93e06f3c5</a></li>
-<li>Updated module membership. Also made everything bu tmain PT class package private <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=044a4ad7ba">044a4ad7ba</a></li>
-<li>Moved PT related classes into their own package <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c7f523f977">c7f523f977</a></li>
-<li>Added a test to MoleculeSetTest, which tests that the clone() does not change the MoleculeSEt <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=42915c4ac7">42915c4ac7</a></li>
-<li>Branch open for patches after 1.3.1 ... <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5c0b0c9b20">5c0b0c9b20</a></li>
-<li>Added some extra lines, hopefully fixing the conflicts all the time <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b867fb296d">b867fb296d</a></li>
+<li>Use the new error reporting IO API <a href="https://github.com/cdk/cdk/commit/fd81efc58d">fd81efc58d</a></li>
+<li>Added a new IO API for reporting file format errors. <a href="https://github.com/cdk/cdk/commit/ea5f0b78c4">ea5f0b78c4</a></li>
+<li>A new test for canonicalLabeler. I first tried in an older checkout, where it failed, but it works in master. I think we can still put the test in, more tests are better. <a href="https://github.com/cdk/cdk/commit/b9db6f13a4">b9db6f13a4</a></li>
+<li>Unit test for bug #2944080 <a href="https://github.com/cdk/cdk/commit/b0666e9744">b0666e9744</a></li>
+<li>Added the atom-atom mapping for all atom containing the reactant molecules <a href="https://github.com/cdk/cdk/commit/68e696a54d">68e696a54d</a></li>
+<li>Removed the bond mapping from the reaction. It will only contain atom-atom mapping functionality <a href="https://github.com/cdk/cdk/commit/aa3511f93e">aa3511f93e</a></li>
+<li>Initiating only one time the function LonePairElectronChecker <a href="https://github.com/cdk/cdk/commit/e71b52e02e">e71b52e02e</a></li>
+<li>Added getExampleReactants and getExpectedProducts method for all reaction.type test. <a href="https://github.com/cdk/cdk/commit/4f5e8a19c2">4f5e8a19c2</a></li>
+<li>Merged with 1.2.x <a href="https://github.com/cdk/cdk/commit/0fa73500d9">0fa73500d9</a></li>
+<li>The IMapping interface had a class comment which probably was a copy&paste artefact. Changed this. <a href="https://github.com/cdk/cdk/commit/05c857cc4e">05c857cc4e</a></li>
+<li>Fixed license info .meta file for JavaCC <a href="https://github.com/cdk/cdk/commit/d9e15bbca9">d9e15bbca9</a></li>
+<li>Merged CDK 1.2.5 <a href="https://github.com/cdk/cdk/commit/9b3726e758">9b3726e758</a></li>
+<li>Bumped version to differ form the 1.2.5 release <a href="https://github.com/cdk/cdk/commit/17a6f08a07">17a6f08a07</a></li>
+<li>Release 1.2.5 <a href="https://github.com/cdk/cdk/commit/14c6fdd04f">14c6fdd04f</a></li>
+<li>Removed bit which explain how to apply the LGPL to source (fixes #2926775) <a href="https://github.com/cdk/cdk/commit/12e8e4fe34">12e8e4fe34</a></li>
+<li>CDKHydrogenAdder should not attempt addImplicitHydrogen for pseudo atoms in an atom container <a href="https://github.com/cdk/cdk/commit/7074cf5131">7074cf5131</a></li>
+<li>Added unit test for adding hydrogens to IPseudoAtom, which current causes a NPE <a href="https://github.com/cdk/cdk/commit/a30ca3e7a6">a30ca3e7a6</a></li>
+<li>MDLV2000Reader throws exception for query bond types <a href="https://github.com/cdk/cdk/commit/354e93f8a6">354e93f8a6</a></li>
+<li>MDL reading and writing and stereo bond types <a href="https://github.com/cdk/cdk/commit/e335bbcaf1">e335bbcaf1</a></li>
+<li>Added a helper method GeometryTools.getRectangle2D() to get the space occupied by an IAtomContainer <a href="https://github.com/cdk/cdk/commit/da488c0061">da488c0061</a></li>
+<li>Reimplemented shiftContainer(IAtomContainer, Rectangle2D, Rectange2D, double) originally implemented as jchempaint-primary patch 9200bdc4d68dc8f70373a62eaec51357b680d5e6 by Stefan Kuhn: fixing the detection of overlap, and added missing unit tests <a href="https://github.com/cdk/cdk/commit/50ebfa1b32">50ebfa1b32</a></li>
+<li>Added IO option to allow saving aromatic SMILES <a href="https://github.com/cdk/cdk/commit/84a44e0054">84a44e0054</a></li>
+<li>Added missing unit testing for the SMILESWriter <a href="https://github.com/cdk/cdk/commit/7d6a9b6c1f">7d6a9b6c1f</a></li>
+<li>Moved Normalizer into a separate package, in reply to discussion around patch #2905749, making space for a uniform platform for structure normalization: cdk.normalize <a href="https://github.com/cdk/cdk/commit/4c49c24a4d">4c49c24a4d</a></li>
+<li>Attached are some more license files. <a href="https://github.com/cdk/cdk/commit/47a226a20b">47a226a20b</a></li>
+<li>The log4j.jar is version 1.2.15. <a href="https://github.com/cdk/cdk/commit/834ade8338">834ade8338</a></li>
+<li>More completed files attached. <a href="https://github.com/cdk/cdk/commit/9e882436ce">9e882436ce</a></li>
+<li>They were incomplete, as many other files still are. <a href="https://github.com/cdk/cdk/commit/261795f461">261795f461</a></li>
+<li>Fixed conflict in LICENSE file due to merge from cdk-1.2.x branch <a href="https://github.com/cdk/cdk/commit/d40a6791bf">d40a6791bf</a></li>
+<li>Added a QA target <a href="https://github.com/cdk/cdk/commit/ae661aab84">ae661aab84</a></li>
+<li>Use local PMD and JUnit reports if available <a href="https://github.com/cdk/cdk/commit/35550bd029">35550bd029</a></li>
+<li>Added option to run it on just one module <a href="https://github.com/cdk/cdk/commit/fcdad410f0">fcdad410f0</a></li>
+<li>Added info for dependencies <a href="https://github.com/cdk/cdk/commit/e4a90b16f1">e4a90b16f1</a></li>
+<li>Created a list, to be able to add license information <a href="https://github.com/cdk/cdk/commit/5b5e54d3e8">5b5e54d3e8</a></li>
+<li>Added missing copyright/license header <a href="https://github.com/cdk/cdk/commit/8dee40dc3d">8dee40dc3d</a></li>
+<li>Catch a SocketException when there is no internet <a href="https://github.com/cdk/cdk/commit/57373715b0">57373715b0</a></li>
+<li>Output where it is working on <a href="https://github.com/cdk/cdk/commit/76933080a2">76933080a2</a></li>
+<li>Removed empty lines <a href="https://github.com/cdk/cdk/commit/53e60f94e7">53e60f94e7</a></li>
+<li>Added initial license information, based on the information sent by Stefan <a href="https://github.com/cdk/cdk/commit/17b3c0c50b">17b3c0c50b</a></li>
+<li>[PATCH] SSSR Test <a href="https://github.com/cdk/cdk/commit/f651b94203">f651b94203</a></li>
+<li>Bucky ball test molecule <a href="https://github.com/cdk/cdk/commit/07244642ef">07244642ef</a></li>
+<li>Patch from Ulrich Bauer regarding ringsearch bauer@math.uni-goettingen.de <a href="https://github.com/cdk/cdk/commit/c3c9110fba">c3c9110fba</a></li>
+<li>Update code example in JavaDoc reflecting the current API (fixes #2914791) <a href="https://github.com/cdk/cdk/commit/75b44575d5">75b44575d5</a></li>
+<li>Minor fixes for the RasmolColors class. <a href="https://github.com/cdk/cdk/commit/d9b1312484">d9b1312484</a></li>
+<li>New classes for Rasmol color scheme <a href="https://github.com/cdk/cdk/commit/66ca51f0f9">66ca51f0f9</a></li>
+<li>Updated UIT matching for the single atom case so that it correctly handles queries that are plain atom containers <a href="https://github.com/cdk/cdk/commit/bbc8f60caf">bbc8f60caf</a></li>
+<li>Updated fingerprinter to fix bug 2819557. Updated JUnit tests to take into account new fingerprints. Also cleaned up the template extractor code and regenerated fingerprints for builder3d. Also updated the build file to properly include dependency jars for the makefp3d target <a href="https://github.com/cdk/cdk/commit/6d453a1b49">6d453a1b49</a></li>
+<li>Added a datafile entry for the standard module to store the VDW radii etc for the periodic table <a href="https://github.com/cdk/cdk/commit/813f45d251">813f45d251</a></li>
+<li>Fixed reading of SD file properties <a href="https://github.com/cdk/cdk/commit/e4b7f06da7">e4b7f06da7</a></li>
+<li>Added unit test for a MDL SD file with mutliple data fields <a href="https://github.com/cdk/cdk/commit/97c2c19eca">97c2c19eca</a></li>
+<li>Added unit test for data fields to allow to start with '>' (bug #2911300). <a href="https://github.com/cdk/cdk/commit/8e4161ee35">8e4161ee35</a></li>
+<li>Added testing that properties are read from test6.sdf <a href="https://github.com/cdk/cdk/commit/d3fe073e8d">d3fe073e8d</a></li>
+<li>Updated license info of third party libraries <a href="https://github.com/cdk/cdk/commit/a9c85f96ed">a9c85f96ed</a></li>
+<li>Fixed JavaDoc: added missing period at end of first sentence, removed useless @throws clause, added missing @cdk.bug tag <a href="https://github.com/cdk/cdk/commit/b5b722b071">b5b722b071</a></li>
+<li>Added changelog for 1.3.1 <a href="https://github.com/cdk/cdk/commit/4035e303de">4035e303de</a></li>
+<li>Merged in 1.2.4.1 <a href="https://github.com/cdk/cdk/commit/9deaa004d1">9deaa004d1</a></li>
+<li>Bumped version to denote post 1.2.4.1 <a href="https://github.com/cdk/cdk/commit/8121114186">8121114186</a></li>
+<li>Package fixing release: fixed building JavaDoc from source dist <a href="https://github.com/cdk/cdk/commit/e1513262d4">e1513262d4</a></li>
+<li>Added missing references file to the source dist (full and pure) <a href="https://github.com/cdk/cdk/commit/1cd21245fb">1cd21245fb</a></li>
+<li>Removed source folders of Doclets, which are not part of the release, and should not be compiled for JavaDoc generation anyway <a href="https://github.com/cdk/cdk/commit/dc8e5e73aa">dc8e5e73aa</a></li>
+<li>Removed java pkg removed by the periodic table patch from the Eclipse project classpath <a href="https://github.com/cdk/cdk/commit/5c63c90a86">5c63c90a86</a></li>
+<li>Made the unit test more informative <a href="https://github.com/cdk/cdk/commit/6ea3b2f005">6ea3b2f005</a></li>
+<li>Added test case for bug 2819557 <a href="https://github.com/cdk/cdk/commit/1ac7920545">1ac7920545</a></li>
+<li>The AtomType(String) constructor is updated so that only formal charge is set to 0 as indicated in the Javadocs. All other fields are set ot UNSET. Javadocs were updated to make this explicit <a href="https://github.com/cdk/cdk/commit/8206e95b2d">8206e95b2d</a></li>
+<li>Updated canonical labeler to make use of the PeriodicTable class so that even if an input molecule was not configured we can still get a valid atomic number. This makes SMILES generation a little more robust (cf bug 2898032) <a href="https://github.com/cdk/cdk/commit/2cb55bd98e">2cb55bd98e</a></li>
+<li>Added OpenJavaDocCheck library (new BSD licensed) and written a custom JavaDoc checks. <a href="https://github.com/cdk/cdk/commit/02c335a778">02c335a778</a></li>
+<li>Additional constant <a href="https://github.com/cdk/cdk/commit/21aa28ecd6">21aa28ecd6</a></li>
+<li>added a constant for untyped atoms <a href="https://github.com/cdk/cdk/commit/a51c932749">a51c932749</a></li>
+<li>Updated to avoid use of deprecated StringBufferInputStream <a href="https://github.com/cdk/cdk/commit/c8ec6e03fe">c8ec6e03fe</a></li>
+<li>added a test for single-line inchi with several branches <a href="https://github.com/cdk/cdk/commit/c7c92dfcf2">c7c92dfcf2</a></li>
+<li>the inchi reader was written in such a way that it 1) needed a further line after the inchi=, which was not read, but needed to avoid npes 2) It could only process one branch on a level 3) it required the inchi line to start with INChI, newer versions require InChI= All this has been fixed <a href="https://github.com/cdk/cdk/commit/cb5486c6fa">cb5486c6fa</a></li>
+<li>Start angles should be different for different size rings <a href="https://github.com/cdk/cdk/commit/cbdcda7b58">cbdcda7b58</a></li>
+<li>Sorting of containers in a AtomContainerSet <a href="https://github.com/cdk/cdk/commit/545eda2460">545eda2460</a></li>
+<li>Added new test class to the module suite <a href="https://github.com/cdk/cdk/commit/a1f427bc0c">a1f427bc0c</a></li>
+<li>New comparators for AtomContainer <a href="https://github.com/cdk/cdk/commit/01e8b62271">01e8b62271</a></li>
+<li>Refactored periodic table element to be a standalone class, so independent of the data module. This is OK, since the class is really just a struct to hold PT data for a given element. As opposed to being a basis of an elemental representation. Also, this class is entirely private to this package, so it doesn't really matter what it is. Updated associated unit tests <a href="https://github.com/cdk/cdk/commit/27fc004130">27fc004130</a></li>
+<li>Some minor code clean up <a href="https://github.com/cdk/cdk/commit/a0439ab626">a0439ab626</a></li>
+<li>Updated to remove Symbols and all associated tests and usages. Replaced with PeriodicTable <a href="https://github.com/cdk/cdk/commit/d20efc4e89">d20efc4e89</a></li>
+<li>Moved PT related tests to their own package. Updated test suites <a href="https://github.com/cdk/cdk/commit/d58c03ecf2">d58c03ecf2</a></li>
+<li>Added method (and test) to get symbol from atomic number and also get element counts <a href="https://github.com/cdk/cdk/commit/f93e06f3c5">f93e06f3c5</a></li>
+<li>Updated module membership. Also made everything bu tmain PT class package private <a href="https://github.com/cdk/cdk/commit/044a4ad7ba">044a4ad7ba</a></li>
+<li>Moved PT related classes into their own package <a href="https://github.com/cdk/cdk/commit/c7f523f977">c7f523f977</a></li>
+<li>Added a test to MoleculeSetTest, which tests that the clone() does not change the MoleculeSEt <a href="https://github.com/cdk/cdk/commit/42915c4ac7">42915c4ac7</a></li>
+<li>Branch open for patches after 1.3.1 ... <a href="https://github.com/cdk/cdk/commit/5c0b0c9b20">5c0b0c9b20</a></li>
+<li>Added some extra lines, hopefully fixing the conflicts all the time <a href="https://github.com/cdk/cdk/commit/b867fb296d">b867fb296d</a></li>
 
 The matching authors (though one commit was a patch really by Ullrich Bauer) and the number of commits they made:
 

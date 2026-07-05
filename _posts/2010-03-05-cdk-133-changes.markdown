@@ -11,46 +11,46 @@ The [CDK](http://cdk.sf.net/) [1.3.3](https://sourceforge.net/projects/cdk/files
 not contain overly many patches, but contains a few interesting ones:
 
 <ul>
-<li>Making the 1.3.3 release <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f40d02b832">f40d02b832</a></li>
-<li>Updated JavaDoc to explicitly state that g2 must be a substructure of g1 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=2660aca243">2660aca243</a></li>
-<li>More unit tests for the MCSS problem in bug report 2944080. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3d18a73c3a">3d18a73c3a</a></li>
-<li>Simplified the code using the new 'T read(T)' API used in MDLV2000Reader as defined by the ISimpleChemObjectReader <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=af12e8a69d">af12e8a69d</a></li>
-<li>Updated for the new generics 'T read(T)' API in ISimpleChemObjectReader. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d3f2f190df">d3f2f190df</a></li>
-<li>Introduced generics allowing the return type to be identical to the passed argument. It does require implementing classes to be updated with the new API too. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=97759924e8">97759924e8</a></li>
-<li>Added missing dependency, fixing the unit test reading a file from data/ <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b4a6dfad51">b4a6dfad51</a></li>
-<li>added working implementations for PartialFilledStructureMerger and CrossoverMachine <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c086a977a8">c086a977a8</a></li>
-<li>added working implementations for PartialFilledStructureMerger and CrossoverMachine <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=089103ea22">089103ea22</a></li>
-<li>tests for crossover machine and PartialFilledStructureMerger <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6441b750fc">6441b750fc</a></li>
-<li>tests for crossover machine and PartialFilledStructureMerger <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5481be77fa">5481be77fa</a></li>
-<li>added dependency <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3b0b56d2f3">3b0b56d2f3</a></li>
-<li>Fixed use of global isRef variable, to make it threading-safe <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e576e0be44">e576e0be44</a></li>
-<li>Added control 'isref' creating a CML with reaction and listmolecules <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d9d20c2e09">d9d20c2e09</a></li>
-<li>Merge branch 'cdk-1.2.x' <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5944d6ad76">5944d6ad76</a></li>
-<li>Removed unused import <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e1c03fbff0">e1c03fbff0</a></li>
-<li>Removed last bits of implementation details from the API: now uses List<> instead of ArrayList<> <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=7727b72d7f">7727b72d7f</a></li>
-<li>Removed output to STDOUT <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=14e1d12d71">14e1d12d71</a></li>
-<li>Fixed some spelling errors and added JavaDoc links <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=677b3f6336">677b3f6336</a></li>
-<li>Synchronized behavior with the MDLV2000Reader (addressing bug #2942196) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=2ceef95e74">2ceef95e74</a></li>
-<li>Added missing @cdk.bug tag and used interfaces where possible <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=04001b7e30">04001b7e30</a></li>
-<li>Added a test case for GeometryTools.has2DCoordinatesNew where a mol file has a single atom with 0,0,0 as coordinate. This is not considered a 2d coordinate right now, but in a way it is one. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f5e123e044">f5e123e044</a></li>
-<li>added a method to make cyclopentane to MoleculeFactory <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=0064458980">0064458980</a></li>
-<li>Added missing unit test for getClosestAtom(double, double, IAtomContainer, IAtom) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=95f811a712">95f811a712</a></li>
-<li>Improve performance: to find the closest atom, we do can simply use the squared distances. The smaller than relation is equivalent in normal and squared distance space. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=46b5f83a1e">46b5f83a1e</a></li>
-<li>Added a unit test to see of the calculated bond length average includes bonds in all IAtomContainer's <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=563fe28445">563fe28445</a></li>
-<li>Added second test for getClosestAtom(), now with more than two atoms <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5724205b6f">5724205b6f</a></li>
-<li>Added E and Z as allowed configurations <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=7a1b9199e0">7a1b9199e0</a></li>
-<li>Added UP_OR_DOWN_INVERTED, which is the equivalent of UP_OR_DOWN but with a different stereocenter <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f175650603">f175650603</a></li>
-<li>Extended JavaDoc, explaining how these IBond.Stereo types define the stereocenter, and indicating for each type explicitly which atom is the stereocenter <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=35af889db2">35af889db2</a></li>
-<li>Added convenience method to find the closest atom to a given point. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8d5ee5c99d">8d5ee5c99d</a></li>
-<li>unified the layout at cleanup and loading of molecules <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f071090891">f071090891</a></li>
-<li>Reimplemented shiftReactionVertical(IReaction, Rectangle2D, Rectange2D, double) originally implemented as jchempaint-primary patch 1cab8c3c9350ada9b1d054712189720c865e502a by Stefan Kuhn: now reuses other methods (fixing the movement of the reaction agents), and added missing unit tests <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=230b7e10df">230b7e10df</a></li>
-<li>Added a getBondLengthAverage(IReaction reaction) method, a rewritten version of 1cab8c3c9350ada9b1d054712189720c865e502a by Stefan Kuhn, and the matching unit test <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d37498a7c1">d37498a7c1</a></li>
-<li>Add a GeometryTools method to get atoms near another atom (Gilleain). Added unit test for the new method (Egon). <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=420ab11701">420ab11701</a></li>
-<li>Moved IAtomColorer and ICDKChangeListener from the standard module to the interfaces module <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=fdbadaef27">fdbadaef27</a></li>
-<li>Updated to include the float and binary information found in PubChem <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8eacbfc8a9">8eacbfc8a9</a></li>
-<li>Merge branch 'cdk-1.2.x' <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=27109738c6">27109738c6</a></li>
-<li>Ant has a release 1.8 that should be accepted in build.xml <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4398cc45a4">4398cc45a4</a></li>
-<li>Master is open for patches... <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c4b4c482fa">c4b4c482fa</a></li>
+<li>Making the 1.3.3 release <a href="https://github.com/cdk/cdk/commit/f40d02b832">f40d02b832</a></li>
+<li>Updated JavaDoc to explicitly state that g2 must be a substructure of g1 <a href="https://github.com/cdk/cdk/commit/2660aca243">2660aca243</a></li>
+<li>More unit tests for the MCSS problem in bug report 2944080. <a href="https://github.com/cdk/cdk/commit/3d18a73c3a">3d18a73c3a</a></li>
+<li>Simplified the code using the new 'T read(T)' API used in MDLV2000Reader as defined by the ISimpleChemObjectReader <a href="https://github.com/cdk/cdk/commit/af12e8a69d">af12e8a69d</a></li>
+<li>Updated for the new generics 'T read(T)' API in ISimpleChemObjectReader. <a href="https://github.com/cdk/cdk/commit/d3f2f190df">d3f2f190df</a></li>
+<li>Introduced generics allowing the return type to be identical to the passed argument. It does require implementing classes to be updated with the new API too. <a href="https://github.com/cdk/cdk/commit/97759924e8">97759924e8</a></li>
+<li>Added missing dependency, fixing the unit test reading a file from data/ <a href="https://github.com/cdk/cdk/commit/b4a6dfad51">b4a6dfad51</a></li>
+<li>added working implementations for PartialFilledStructureMerger and CrossoverMachine <a href="https://github.com/cdk/cdk/commit/c086a977a8">c086a977a8</a></li>
+<li>added working implementations for PartialFilledStructureMerger and CrossoverMachine <a href="https://github.com/cdk/cdk/commit/089103ea22">089103ea22</a></li>
+<li>tests for crossover machine and PartialFilledStructureMerger <a href="https://github.com/cdk/cdk/commit/6441b750fc">6441b750fc</a></li>
+<li>tests for crossover machine and PartialFilledStructureMerger <a href="https://github.com/cdk/cdk/commit/5481be77fa">5481be77fa</a></li>
+<li>added dependency <a href="https://github.com/cdk/cdk/commit/3b0b56d2f3">3b0b56d2f3</a></li>
+<li>Fixed use of global isRef variable, to make it threading-safe <a href="https://github.com/cdk/cdk/commit/e576e0be44">e576e0be44</a></li>
+<li>Added control 'isref' creating a CML with reaction and listmolecules <a href="https://github.com/cdk/cdk/commit/d9d20c2e09">d9d20c2e09</a></li>
+<li>Merge branch 'cdk-1.2.x' <a href="https://github.com/cdk/cdk/commit/5944d6ad76">5944d6ad76</a></li>
+<li>Removed unused import <a href="https://github.com/cdk/cdk/commit/e1c03fbff0">e1c03fbff0</a></li>
+<li>Removed last bits of implementation details from the API: now uses List<> instead of ArrayList<> <a href="https://github.com/cdk/cdk/commit/7727b72d7f">7727b72d7f</a></li>
+<li>Removed output to STDOUT <a href="https://github.com/cdk/cdk/commit/14e1d12d71">14e1d12d71</a></li>
+<li>Fixed some spelling errors and added JavaDoc links <a href="https://github.com/cdk/cdk/commit/677b3f6336">677b3f6336</a></li>
+<li>Synchronized behavior with the MDLV2000Reader (addressing bug #2942196) <a href="https://github.com/cdk/cdk/commit/2ceef95e74">2ceef95e74</a></li>
+<li>Added missing @cdk.bug tag and used interfaces where possible <a href="https://github.com/cdk/cdk/commit/04001b7e30">04001b7e30</a></li>
+<li>Added a test case for GeometryTools.has2DCoordinatesNew where a mol file has a single atom with 0,0,0 as coordinate. This is not considered a 2d coordinate right now, but in a way it is one. <a href="https://github.com/cdk/cdk/commit/f5e123e044">f5e123e044</a></li>
+<li>added a method to make cyclopentane to MoleculeFactory <a href="https://github.com/cdk/cdk/commit/0064458980">0064458980</a></li>
+<li>Added missing unit test for getClosestAtom(double, double, IAtomContainer, IAtom) <a href="https://github.com/cdk/cdk/commit/95f811a712">95f811a712</a></li>
+<li>Improve performance: to find the closest atom, we do can simply use the squared distances. The smaller than relation is equivalent in normal and squared distance space. <a href="https://github.com/cdk/cdk/commit/46b5f83a1e">46b5f83a1e</a></li>
+<li>Added a unit test to see of the calculated bond length average includes bonds in all IAtomContainer's <a href="https://github.com/cdk/cdk/commit/563fe28445">563fe28445</a></li>
+<li>Added second test for getClosestAtom(), now with more than two atoms <a href="https://github.com/cdk/cdk/commit/5724205b6f">5724205b6f</a></li>
+<li>Added E and Z as allowed configurations <a href="https://github.com/cdk/cdk/commit/7a1b9199e0">7a1b9199e0</a></li>
+<li>Added UP_OR_DOWN_INVERTED, which is the equivalent of UP_OR_DOWN but with a different stereocenter <a href="https://github.com/cdk/cdk/commit/f175650603">f175650603</a></li>
+<li>Extended JavaDoc, explaining how these IBond.Stereo types define the stereocenter, and indicating for each type explicitly which atom is the stereocenter <a href="https://github.com/cdk/cdk/commit/35af889db2">35af889db2</a></li>
+<li>Added convenience method to find the closest atom to a given point. <a href="https://github.com/cdk/cdk/commit/8d5ee5c99d">8d5ee5c99d</a></li>
+<li>unified the layout at cleanup and loading of molecules <a href="https://github.com/cdk/cdk/commit/f071090891">f071090891</a></li>
+<li>Reimplemented shiftReactionVertical(IReaction, Rectangle2D, Rectange2D, double) originally implemented as jchempaint-primary patch 1cab8c3c9350ada9b1d054712189720c865e502a by Stefan Kuhn: now reuses other methods (fixing the movement of the reaction agents), and added missing unit tests <a href="https://github.com/cdk/cdk/commit/230b7e10df">230b7e10df</a></li>
+<li>Added a getBondLengthAverage(IReaction reaction) method, a rewritten version of 1cab8c3c9350ada9b1d054712189720c865e502a by Stefan Kuhn, and the matching unit test <a href="https://github.com/cdk/cdk/commit/d37498a7c1">d37498a7c1</a></li>
+<li>Add a GeometryTools method to get atoms near another atom (Gilleain). Added unit test for the new method (Egon). <a href="https://github.com/cdk/cdk/commit/420ab11701">420ab11701</a></li>
+<li>Moved IAtomColorer and ICDKChangeListener from the standard module to the interfaces module <a href="https://github.com/cdk/cdk/commit/fdbadaef27">fdbadaef27</a></li>
+<li>Updated to include the float and binary information found in PubChem <a href="https://github.com/cdk/cdk/commit/8eacbfc8a9">8eacbfc8a9</a></li>
+<li>Merge branch 'cdk-1.2.x' <a href="https://github.com/cdk/cdk/commit/27109738c6">27109738c6</a></li>
+<li>Ant has a release 1.8 that should be accepted in build.xml <a href="https://github.com/cdk/cdk/commit/4398cc45a4">4398cc45a4</a></li>
+<li>Master is open for patches... <a href="https://github.com/cdk/cdk/commit/c4b4c482fa">c4b4c482fa</a></li>
 </ul>
 
 ## Summary
