@@ -1,0 +1,111 @@
+---
+layout: post
+title:  "CDK 1.3.5"
+date:   2010-05-25
+blogger-link: https://chem-bla-ics.blogspot.com/2010/05/cdk-135.html
+doi: 10.59350/7zv7a-5k246
+tags: cdk justdoi:10.1186/1758-2946-1-12
+---
+
+A lot of changes in this release: the SMSD code (see doi:[10.1186/1758-2946-1-12](http://dx.doi.org/10.1186/1758-2946-1-12)),
+removed outdated code (force field, R-CDK bridge), SMILES @ and @@ chiralities reading, a new IChemObjectBuilder interfaces,
+and several new features in the MDL IO classes. The full list:
+
+<li>Fix for getBestAlignmentForLabelXY <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=eb7529b4aa">eb7529b4aa</a></li>
+<li>Test for getBestAlignmentForLabelXY <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=2cb5f4d5a9">2cb5f4d5a9</a></li>
+<li>Renamed the ligancy classes to use the term tetrahedral since they implicitly encode for tetrahedral chirality <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d80628ef4c">d80628ef4c</a></li>
+<li>fixed PMD errors on Use instanceof against interfaces not implementations and few more Signed-off-by: Syed Asad Rahman <s9asad@gmail.com> <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e36a2a122e">e36a2a122e</a></li>
+<li>Renamed the ligancy classes to use the term tetrahedral since they implicitly encode for tetrahedral chirality <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3043c177b6">3043c177b6</a></li>
+<li>Merge branch 'cdk-1.2.x' <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b8110ae58d">b8110ae58d</a></li>
+<li>Introducing PMD test for CDK specific issues: <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=406930b292">406930b292</a></li>
+<li>Removed unstable forcefield code <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=235b04fd3c">235b04fd3c</a></li>
+<li>Added copyright and license header <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d6b6c65f5a">d6b6c65f5a</a></li>
+<li>The createSMILES() methods now take IAtomContainer rather than IMolecule. Originally, IMolecule was the type since it was assumed that SMILES would only be generated for connected components - but the code already handles disconnected components. Since IAtomContainers are meant to support that, this change makes sense. Also a result is that we don't have to convert a IAtomContainer to IMolecule to generate SMILES <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=2399a18ba3">2399a18ba3</a></li>
+<li>updated test cases Signed-off-by: Syed Asad Rahman <s9asad@gmail.com> <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=32cb936040">32cb936040</a></li>
+<li>add on patches <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4bdce612cd">4bdce612cd</a></li>
+<li>fixed makeAtomsMapOfBondsMap with test <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5bd8d64f62">5bd8d64f62</a></li>
+<li>Emergency fix: IAminoAcid instead of AminoAcid <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5193626538">5193626538</a></li>
+<li>Merge branch 'cdk-1.2.x' <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=2f56fd6ddb">2f56fd6ddb</a></li>
+<li>A few more interfaces instead of implementations <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=648a2f48b8">648a2f48b8</a></li>
+<li>Replaced use of implementations by interfaces <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6317be25ed">6317be25ed</a></li>
+<li>Use an interface instead of an implementation as type <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b82a2f69be">b82a2f69be</a></li>
+<li>Use interfaces instead of implementation <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=50b9e74182">50b9e74182</a></li>
+<li>MDL reading and writing atom value line, including test cases <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c88bd3c0d4">c88bd3c0d4</a></li>
+<li>Added another test to check that a query larger than the target does not match <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=088afcedde">088afcedde</a></li>
+<li>Test cases for MCS updated <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=15fa35a769">15fa35a769</a></li>
+<li>updated MCS solution count in the VF lib, depricated turbo MCS and provided methods for timeout <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c4d3bf9cad">c4d3bf9cad</a></li>
+<li>updated test for single atom <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=ed04f25218">ed04f25218</a></li>
+<li>Replaced outdated URL with entry in WikiPedia (fixes #3002741) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=ad2bd3ed63">ad2bd3ed63</a></li>
+<li>Fixed outdated JavaDoc I forgot to remove (fixes #3002409) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=82f40a1efd">82f40a1efd</a></li>
+<li>Included the qm module in the dist-all (fixes #3002622) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e2c95ec1dc">e2c95ec1dc</a></li>
+<li>Cleaned up unthrown exceptions <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=2501371362">2501371362</a></li>
+<li>Removed use of SMARTS parser in the test code so that a new dependency is not required <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e561364152">e561364152</a></li>
+<li>removed unwated checks <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=41561a25f4">41561a25f4</a></li>
+<li>commented unused code <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f39566c797">f39566c797</a></li>
+<li>test cases for the IQueryAtomContainer support in the SMSD with exceptions fixed <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=839827b873">839827b873</a></li>
+<li>test cases for the IQueryAtomContainer support in the SMSD <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b292f7c795">b292f7c795</a></li>
+<li>IQuery* support for the SMSD, will help in SMART based searches <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=75d86dd0fc">75d86dd0fc</a></li>
+<li>Merge branch 'master' of git@github.com:cdk/cdk <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6d1a730700">6d1a730700</a></li>
+<li>Turbomode MCS search added <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f3f809ed50">f3f809ed50</a></li>
+<li>Turbo mode MCS search added Signed-off-by: Syed Asad Rahman <s9asad@gmail.com> <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8ac67bf99e">8ac67bf99e</a></li>
+<li>removed unwanted test case Signed-off-by: Syed Asad Rahman <s9asad@gmail.com> <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=ea4960cda6">ea4960cda6</a></li>
+<li>VF Sub search turbo mode <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5b4f00a63b">5b4f00a63b</a></li>
+<li>Updated the SMSD code for turbo mode substructure search Refactored the SMSD class itself <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f5ccf1bdc8">f5ccf1bdc8</a></li>
+<li>Added two test cases by Daniel from my blog: http://chem-bla-ics.blogspot.com/2010/05/cip-rules-2-parsing-and-from-smiles.html <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=9cbc242454">9cbc242454</a></li>
+<li>Added two more unit tests, related to ring closing <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=0f4649c0d0">0f4649c0d0</a></li>
+<li>SMILES @ and @@ chiralities are now fully read. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=2dd575ed56">2dd575ed56</a></li>
+<li>Added unit tests with various chiral SMILES situations. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4c2e9b7a96">4c2e9b7a96</a></li>
+<li>Implemented stereo chemistry for atoms with four ligands <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=9abead553d">9abead553d</a></li>
+<li>Patch to generalize the stereo chemistry handling. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=be1b70ac15">be1b70ac15</a></li>
+<li>Merge branch 'master' of git://github.com/egonw/cdk <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=1d5a29bfd8">1d5a29bfd8</a></li>
+<li>Minor fix to build.xml to ensure that SMSD code gets included in the large jar file <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=ee5e0a21c3">ee5e0a21c3</a></li>
+<li>Added JavaDoc testing to the QA task; removed module-uptodate which checked if the module was already compiled causing the target to be skipped <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=a1e1f1b78f">a1e1f1b78f</a></li>
+<li>I made sure the MDLV2000Reader considers 0,0,0 coordinates in files with a single atom as 2d and 3d coordinates. The MDLReader does not handle the 0,0,0 case explicitly, so I just added a test for 2d. It might be better to have uniforma handling, but I will file a bug report for that. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=42b64e1341">42b64e1341</a></li>
+<li>The RXNReaders/Writers now all handle Atom-Atom-Mappings. This was only done in the MDLRXNReader till now <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6ff55baf51">6ff55baf51</a></li>
+<li>Atom-Atom-Mapping is now read and written in MDL files. Note the reading until now was into ID field, which is not in line with description of ID field in ChemObject (Returns the identifier (ID) of this object). Also added tests for MDLWriter/Reader/2000Reader. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6b787c2fd6">6b787c2fd6</a></li>
+<li>Flexibility for ring start angles. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d6d6ab0022">d6d6ab0022</a></li>
+<li>more mdl reader writer tests <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=353f938852">353f938852</a></li>
+<li>Revert "Additional constant" <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3b974e6238">3b974e6238</a></li>
+<li>Added a test case for short line mol files. Patch by S.Kuhn, reworked by M.Rijnbeek. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c4ea1d843f">c4ea1d843f</a></li>
+<li>MDL reading and writing UP_OR_DOWN <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e36983b165">e36983b165</a></li>
+<li>Merge branch 'master' of git@github.com:cdk/cdk <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d694d197fb">d694d197fb</a></li>
+<li>Removal of references to removed R-CDK bridge <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=fd1e57c615">fd1e57c615</a></li>
+<li>Removed the R-based model package and associated jar files and test code <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5733da3fdd">5733da3fdd</a></li>
+<li>Merge branch 'master' of git@github.com:egonw/cdk <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=0d3a0c9f1e">0d3a0c9f1e</a></li>
+<li>Removal of references to removed R-CDK bridge <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b1075d7df0">b1075d7df0</a></li>
+<li>Removed the R-based model package and associated jar files and test code <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=e41372becb">e41372becb</a></li>
+<li>Removal of references to removed R-CDK bridge <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=d3f65d0615">d3f65d0615</a></li>
+<li>Removed DocCheck from Eclipse' Build Path <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=fcd762373c">fcd762373c</a></li>
+<li>Removed obsolete castings, or replaced by more general ones <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b34423dfcd">b34423dfcd</a></li>
+<li>added  @Test Signed-off-by: Syed Asad Rahman <s9asad@gmail.com> <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=eebdb3d001">eebdb3d001</a></li>
+<li>added CDKRMapHandlerTest <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=82b9faf52e">82b9faf52e</a></li>
+<li>added CDKRMapHandlerTest Signed-off-by: Syed Asad Rahman <s9asad@gmail.com> <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=bb7bcb46fa">bb7bcb46fa</a></li>
+<li>The big SMSD patch. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=10edb71d6e">10edb71d6e</a></li>
+<li>Merge branch 'cdk-1.2.x' <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f17fc8fb40">f17fc8fb40</a></li>
+<li>Fixed a ClassCastException in a unit test; I messed up (mea culpa) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=b5fa3dca01">b5fa3dca01</a></li>
+<li>Copied code from the DefaultChemObjectBuilder to handle the IBond constructor that takes an IAtom[] which I had forgotten to port to DebugChemObjectBuilder and NoNotificationChemObjectBuilder (fixes a few regressions) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=25427b41ea">25427b41ea</a></li>
+<li>Merge branch 'cdk-1.2.x' <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=426558e934">426558e934</a></li>
+<li>Fixed NullPointerExceptions for LonePair's and SingleElectron's constructed with the no-argument constructors <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=5f34897eb8">5f34897eb8</a></li>
+<li>Added missing cloning of single electrons <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=2d4c1220c3">2d4c1220c3</a></li>
+<li>Do not try to clone the atom if it does not exist <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=9672df0df7">9672df0df7</a></li>
+<li>MDL reading and writing valency <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c20a0ea691">c20a0ea691</a></li>
+<li>Line separator fix for RGroup writer <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=ad706cc834">ad706cc834</a></li>
+<li>de-Javadoc numerous comments (fixes #2980066) <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4fc483724a">4fc483724a</a></li>
+<li>More extensive testing for removeHydrogens in atomcontainers with hetero atoms without Hs <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3155d7dc56">3155d7dc56</a></li>
+<li>Merge branch 'cdk-1.2.x' <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=bc8972ce6d">bc8972ce6d</a></li>
+<li>Be a bit more forthcoming with debug messages: report also the parameter types of the method <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=0f85f52dda">0f85f52dda</a></li>
+<li>Merge branch 'master' of git@github.com:egonw/cdk <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=c98a7aff57">c98a7aff57</a></li>
+<li>This patch makes sure that the removeHydrogens method in AtomContainerManipulator sets hydrogenCoutn to 0 if no hydrogens were on a heavy atom. Till now, this was null, which was at least not good, in a way even wrong. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=708cf8ac03">708cf8ac03</a></li>
+<li>converted uses of indexOf to startsWith/contains <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=7b9d84e44a">7b9d84e44a</a></li>
+<li>Updated HIN reader to fix bug 2984581 <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=f95c6324a8">f95c6324a8</a></li>
+<li>Added unit test to see of arrays are properly cloned, and that array entries of the original are not overwritten <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=38d5f8d191">38d5f8d191</a></li>
+<li>Unit test that the IAtom[] array is properly cloned, and overwriting entries in the clone does not overwrite entries on the original <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3c1b07e26f">3c1b07e26f</a></li>
+<li>Removed duplication of cloning. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=216c1600b9">216c1600b9</a></li>
+<li>Apparently the super.clone() does not clone the pointer to the IAtomContainer[], causing a clone() followed by changing containers in the clone to overwrite the original IAtomContainer[]. Fixed by creating a new array. <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=4e5d6a120f">4e5d6a120f</a></li>
+<li>Moved test from the specific class to the abstract tests, as the behavior should be the same for NNMoleculeSet and DebugMoleculeSet too <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=068fb3b9b2">068fb3b9b2</a></li>
+<li>Fixed a typo in the test method name <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=8142ae5fa1">8142ae5fa1</a></li>
+<li>Got rid of some debug prints <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=6079160811">6079160811</a></li>
+<li>Fixed a regex bug which prevented the engine from properly loading descriptor class names <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=9bd0490de5">9bd0490de5</a></li>
+<li>Some code cleanup to make it more idiomatic Java <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=565d7c369e">565d7c369e</a></li>
+<li>New IChemObjectBuilder interface: <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=45f683f1ff">45f683f1ff</a></li>
+<li>Two more tests for the issue: atom typing works fine; aromaticity detection fails: one ring is detected as aromatic (that with two nitrogesn), so that it does not consider the double ring, marking the other ring as non-aromatic <a href="http://cdk.git.sourceforge.net/git/gitweb.cgi?p=cdk/cdk;a=commit;h=3be2367b36">3be2367b36</a></li>
