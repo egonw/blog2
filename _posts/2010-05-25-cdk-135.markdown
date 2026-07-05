@@ -51,7 +51,7 @@ and several new features in the MDL IO classes. The full list:
 <li>removed unwanted test case Signed-off-by: Syed Asad Rahman <s9asad@gmail.com> <a href="https://github.com/cdk/cdk/commit/ea4960cda6">ea4960cda6</a></li>
 <li>VF Sub search turbo mode <a href="https://github.com/cdk/cdk/commit/5b4f00a63b">5b4f00a63b</a></li>
 <li>Updated the SMSD code for turbo mode substructure search Refactored the SMSD class itself <a href="https://github.com/cdk/cdk/commit/f5ccf1bdc8">f5ccf1bdc8</a></li>
-<li>Added two test cases by Daniel from my blog: http://chem-bla-ics.blogspot.com/2010/05/cip-rules-2-parsing-and-from-smiles.html <a href="https://github.com/cdk/cdk/commit/9cbc242454">9cbc242454</a></li>
+<li>Added two test cases by Daniel from my blog: http://chem-bla-ics.blogspot.com/2010/05/cip-rules-2-parsing-and-from-smiles.html <a href="https://github.com/cdk/cdk/commit/9cbc242454">9cbc242454</a></li> <!-- keep link -->
 <li>Added two more unit tests, related to ring closing <a href="https://github.com/cdk/cdk/commit/0f4649c0d0">0f4649c0d0</a></li>
 <li>SMILES @ and @@ chiralities are now fully read. <a href="https://github.com/cdk/cdk/commit/2dd575ed56">2dd575ed56</a></li>
 <li>Added unit tests with various chiral SMILES situations. <a href="https://github.com/cdk/cdk/commit/4c2e9b7a96">4c2e9b7a96</a></li>
