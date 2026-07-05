@@ -5,13 +5,13 @@ date:   2010-05-21
 blogger-link: https://chem-bla-ics.blogspot.com/2010/05/ckan-10-major-contribution-to-open.html
 doi: 10.59350/3dt2a-bm621
 tags: opendata chemistry
-image: /blog/assets/images/ckan.png
+image: /assets/images/ckan.png
 ---
 
 Peter [informed](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2422) about the [CKAN 1.0 release](http://blog.okfn.org/2010/05/18/ckan-v10-released/).
 I browsed the 27 [chemistry packages](http://ckan.net/tag/chemistry), and saw for example [BODR](http://bodr.sf.net/) show up:
 
-![](/blog/assets/images/ckan.png)
+![](/assets/images/ckan.png)
 
 The database of packages is community based, and you can simply log in with an OpenID. This allows me to updated some
 outdated and add missing information.

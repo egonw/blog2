@@ -6,7 +6,7 @@ modified_date: 2026-06-28
 blogger-link: https://chem-bla-ics.blogspot.com/2010/05/my-favourite-chemistry-things.html
 doi: 10.59350/be00d-tn533
 tags: chemistry justdoi:10.1021/cg060872y
-image: /blog/assets/images/chemMeme.png
+image: /assets/images/chemMeme.png
 ---
 
 Yeah, it's my turn. Standing on the shoulders of [ChemJobber](http://chemjobber.blogspot.com/2010/05/my-favorite-things-about-chemistry.html),
@@ -60,7 +60,7 @@ where I did my PhD developed a supervised SOM, which I used them to classify cry
 [reaction classification by Aires-de-Sousa *et al.*](http://chem-bla-ics.blogspot.com/2006/04/mining-kegg-pathway-database-with-self.html)
 using unsupervised SOMs.
 
-![](/blog/assets/images/som_thesis_image.png)
+![](/assets/images/som_thesis_image.png)
 
 ### 6. the Maillard reaction
 
@@ -75,7 +75,7 @@ Cb is a new element on the world wide web. Well, not so new anymore, and the ful
 [Chemical blogspace](http://cb.openmolecules.net/). This social web application brings together blogging chemists
 world wide. Oh, and this meme is picked up nicely:
 
-![](/blog/assets/images/chemMeme.png)
+![](/assets/images/chemMeme.png)
 
 ### 8. chemical abstracts
 
