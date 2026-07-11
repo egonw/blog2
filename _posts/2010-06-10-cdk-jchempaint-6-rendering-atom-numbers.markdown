@@ -2,6 +2,7 @@
 layout: post
 title:  "CDK-JChemPaint #6: rendering atom numbers"
 date:   2010-06-10
+modified_date: 2010-06-10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/06/cdk-jchempaint-6-rendering-atom-numbers.html
 doi: 10.59350/5cfpy-kym94
 tags: cdk chemistry
@@ -82,3 +83,27 @@ Then it gets to look like:
 ![](/blog/assets/images/triazole.atomno_3.png)
 
 This last full example will be available from GitHub shortly.
+
+**Update** Steffen asked in the comments if it is possible to just color the atoms by element type. CDK-JChemPaint
+patch 15 does not allow that, but adding that feature is easy enough, and the patch will be part of the next
+release. Use this configuration:
+
+```java
+generators.add(new BasicSceneGenerator());
+generators.add(new BasicBondGenerator());
+generators.add(new AtomNumberGenerator());
+```
+
+And these parameter settings:
+
+```java
+model = renderer.getRenderer2DModel();
+model.set(
+  AtomNumberGenerator.ColorByType.class,
+  true
+);
+```
+
+This give you for [triazole](http://en.wikipedia.org/wiki/Triazole):
+
+![](/blog/assets/images/triazole.atomno_4.png)
