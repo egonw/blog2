@@ -2,7 +2,7 @@
 layout: post
 title:  "CDK-JChemPaint #6: rendering atom numbers"
 date:   2010-06-10
-modified_date: 2010-06-10
+modified_date: 2026-07-13
 blogger-link: https://chem-bla-ics.blogspot.com/2010/06/cdk-jchempaint-6-rendering-atom-numbers.html
 doi: 10.59350/5cfpy-kym94
 tags: cdk chemistry
@@ -24,7 +24,7 @@ belongs to what generator, for which you can use the script discussed in
 ## Atom Numbers
 
 In some situations you like to draw atom numbers. This can be done by replacing the BasicAtomGenerator by an
-AtomNumberGenerator in the script given in [post #1](http://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-1-rendering-molecules.html):
+AtomNumberGenerator in the script given in [post #1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/05/cdk-jchempaint-1-rendering-molecules.html):
 
 ```java
 List generators = new ArrayList();
@@ -39,7 +39,7 @@ This would result in an image like this:
 
 Now, we also might want to give those numbers a color, to make them stand out a bit. Orange, perhaps :)
 This is where rendering parameters come in. To the code from
-[post #1](http://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-1-rendering-molecules.html),
+[post #1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/05/cdk-jchempaint-1-rendering-molecules.html),
 after the instantiation of the renderer, we add:
 
 ```java
