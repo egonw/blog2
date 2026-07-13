@@ -5,7 +5,7 @@ date:   2026-07-13
 doi: 10.59350/gfrxs-bxn43
 tags: openaccess mycito:citesAsRecommendedReading:10.5281/ZENODO.4926030 cito:includesQuotationFrom:10.1038/d41586-026-02167-3
   cito:citesAsDatasource:10.64898/2026.06.30.735556 cito:citesForInformation:10.15291/libellarium.4569
-image: wikidata_diamondOA_journals.png
+image: /assets/images/wikidata_diamondOA_journals.png
 comments:
   host: social.edu.nl
   username: egonw
