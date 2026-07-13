@@ -2,6 +2,7 @@
 layout: post
 title:  "Better Publishing"
 date:   2024-09-16
+modified_date: 2026-07-13
 doi: 10.59350/7qe60-evp05
 tags: publishing openscience doi:10.1186/S13321-019-0365-4 doi:10.1186/S13321-020-00448-1
   doi:10.5281/ZENODO.4926030
@@ -16,7 +17,7 @@ Also, in the [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
 we pushed for innovation, including [ORCID and GitHub adoption](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0365-4) and [Citation Typing Ontology adoption](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00448-1).
 
 All of these depend on the publisher to support these efforts. But the big publishers are not good
-at this (see also doi:[10.5281/zenodo.4926031]()https://doi.org/10.5281/zenodo.4926031)
+at this (see also doi:[10.5281/zenodo.4926031](https://doi.org/10.5281/zenodo.4926031)
 and/or prefer to make 20-30% profit first.
 
 This opens room for innovative publishers. We have [F1000Research](https://f1000research.com/) pushing open peer review,
