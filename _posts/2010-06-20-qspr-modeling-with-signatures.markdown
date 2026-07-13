@@ -5,7 +5,7 @@ date:   2010-06-20
 blogger-link: https://chem-bla-ics.blogspot.com/2010/06/qspr-modeling-with-signatures.html
 doi: 10.59350/8d6w8-avm05
 tags: cdk chemometrics justdoi:10.1021/ci020345w doi:10.1021/ci050282s
-image: /blog/assets/images/signaturePrediction.png
+image: /assets/images/signaturePrediction.png
 ---
 
 I had to dig deep to find posts on QSAR modeling. There are quite a few on [QSAR in Bioclipse](http://chem-bla-ics.blogspot.com/search?q=qsar+bioclipse),
@@ -70,7 +70,7 @@ larger). Bottom line: just measure that variability, and put it in the publicati
 Anyway, what we all have been waiting for: the prediction results visualized (in black the CV predictions; in red the test set
 predictions):
 
-![](/blog/assets/images/signaturePrediction.png)
+![](/assets/images/signaturePrediction.png)
 
 Well, there is still much work to do, and you can expect the result to get better. Part of statistical modeling is to find
 the source of variance, and I have yet to explore a few of them. For example, what are the effects of:

@@ -5,7 +5,7 @@ date:   2010-06-17
 blogger-link: https://chem-bla-ics.blogspot.com/2010/06/my-opentox-workshop-contribution-lost.html
 doi: 10.59350/wpk6t-snh54
 tags: opentox bioclipse justdoi:10.1016/j.mrrev.2008.05.003
-image: /blog/assets/images/metaprint2d.png
+image: /assets/images/metaprint2d.png
 ---
 
 During the nice presentations at the recent [OpenTox Workshop](http://www.opentox.org/data/blogentries/public/opentoxworkshoppotsdam2010), I noted that
@@ -20,7 +20,7 @@ The metabolic fate of molecules can be predicted with the [MetaPrint2D](http://w
 you get while drawing molecules, can basically use any model. The currently used model is developed in a collaboration of Ola with Sam Adams (whom we
 all know for his [JNI-InChI](http://jni-inchi.sourceforge.net/) library) at Cambridge University and Lars Carlsson at Astra-Zeneca.
 
-![](/blog/assets/images/metaprint2d.png)
+![](/assets/images/metaprint2d.png)
 
 This screenshots shows the visual feedback in the (new) [JChemPaint](http://chem-bla-ics.blogspot.com/search?q=cdk-jchempaint) editor in Bioclipse, and
 on the right we see one interesting Bioclipse feature in action: the [cheat sheets](http://www.ibm.com/developerworks/opensource/library/os-ecl-cheatsheets/).
@@ -36,7 +36,7 @@ Structural alerts are one method to signal the scientist that the molecule under
 doi:[10.1016/j.mrrev.2008.05.003](https://doi.org/10.1016/j.mrrev.2008.05.003)). It helps him decide to continue to look at that particular
 structure, or to move on. Ola also developed a decision support plugin.
 
-![](/blog/assets/images/ds.png)
+![](/assets/images/ds.png)
 
 One of the cool features is that, in good Bioclipse habits, deliver a pluggable architecture. This practically means, that anyone can add their own
 decision rules; those can be added as local software, or as services on a central, institute specific server. The results in this screenshot show

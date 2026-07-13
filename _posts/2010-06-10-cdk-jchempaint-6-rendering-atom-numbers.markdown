@@ -6,7 +6,7 @@ modified_date: 2010-06-10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/06/cdk-jchempaint-6-rendering-atom-numbers.html
 doi: 10.59350/5cfpy-kym94
 tags: cdk chemistry
-image: /blog/assets/images/triazole.atomno_2.png
+image: /assets/images/triazole.atomno_2.png
 ---
 
 I have made a few new [CDK](http://cdk.sf.net/)-JChemPaint patches in the past two days, the latest being
@@ -35,7 +35,7 @@ generators.add(new AtomNumberGenerator());
 
 This would result in an image like this:
 
-![](/blog/assets/images/triazole.atomno.png)
+![](/assets/images/triazole.atomno.png)
 
 Now, we also might want to give those numbers a color, to make them stand out a bit. Orange, perhaps :)
 This is where rendering parameters come in. To the code from
@@ -53,7 +53,7 @@ model.set(
 
 The output then looks like:
 
-![](/blog/assets/images/triazole.atomno_2.png)
+![](/assets/images/triazole.atomno_2.png)
 
 ## Atom Numbers and Symbols
 
@@ -80,7 +80,7 @@ model.set(
 
 Then it gets to look like:
 
-![](/blog/assets/images/triazole.atomno_3.png)
+![](/assets/images/triazole.atomno_3.png)
 
 This last full example will be available from GitHub shortly.
 
@@ -106,4 +106,4 @@ model.set(
 
 This give you for [triazole](http://en.wikipedia.org/wiki/Triazole):
 
-![](/blog/assets/images/triazole.atomno_4.png)
+![](/assets/images/triazole.atomno_4.png)
