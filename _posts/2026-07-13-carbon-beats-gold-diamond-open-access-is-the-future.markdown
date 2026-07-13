@@ -4,10 +4,10 @@ title:  "Carbon beats gold: Diamond Open Access is the future #1"
 date:   2026-07-13
 doi: 10.59350/bsnp5-68v45
 tags: openaccess
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: mastodon.social
+  username: egonw
+  id: 116913486537008515
 ---
 
 Thirty years ago, researchers were struggling getting access to literature they wanted to read. I remember PhD candidates
