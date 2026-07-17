@@ -5,7 +5,7 @@ date:   2010-06-20 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/06/looking-at-your-statistical-models.html
 doi: 10.59350/6948f-pbe89
 tags: chemometrics justdoi:10.1021/ci990038z doi:10.1021/CI050282S qsar
-image: /blog/assets/images/badModel.png
+image: /assets/images/badModel.png
 ---
 
 I do not think I have ever blogged the paper that played an important role in my thesis (doi:[10.1021/ci990038z](http://dx.doi.org/10.1021/ci990038z));
@@ -24,7 +24,7 @@ on. The RMSEP numbers just came out nicely; however, if we had only made the bel
 learned: **do not just look at the data, but also look at the model.** And look really means looking with your eyes at graphical representations of that model.
 The plot:
 
-![](/blog/assets/images/badModel.png)
+![](/assets/images/badModel.png)
 
 The numbers in this plot are hidden in tables in the paper. The RMSEP values earlier mentioned are calculated from those. From the plot, you can see
 that the test data consisted of 5 compounds; the training set contained 37 compounds; all are congenerics, and do not span a high diversity. Now, the
