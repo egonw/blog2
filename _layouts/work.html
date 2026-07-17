@@ -15,9 +15,9 @@ layout: base
 {% if page.archivedAt %}
 {% assign link_split = page.archivedAt | split:'/' %}
 {% assign link_title = link_split.last %}
-<i class="fa-solid fa-link"></i> <a href="{{ page.archivedAt }}">{{ link_title }}</a> <br />
+<i class="fa-solid fa-link"></i> <a style="color: #828282" href="{{ page.archivedAt }}">{{ link_title }}</a> <br />
 {% endif %}
-<i class="fa-solid fa-file"></i> {{ page.tag }}
+<i class="fa-solid fa-file"></i> <a style="color: #828282" href="https://bioregistry.io/{{ page.tag }}">{{ page.tag }}</a>
 </p>
 <p class="post-meta">
 <div class="post" id="bibliography"></div>
