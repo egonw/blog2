@@ -2,7 +2,7 @@
 layout: post
 title:  "CDK-JChemPaint #6: rendering atom numbers"
 date:   2010-06-10
-modified_date: 2026-07-13
+modified_date: 2026-07-17
 blogger-link: https://chem-bla-ics.blogspot.com/2010/06/cdk-jchempaint-6-rendering-atom-numbers.html
 doi: 10.59350/5cfpy-kym94
 tags: cdk chemistry
@@ -12,14 +12,14 @@ image: /assets/images/triazole.atomno_2.png
 I have made a few new [CDK](http://cdk.sf.net/)-JChemPaint patches in the past two days, the latest being
 [patch 15](https://sourceforge.net/projects/cdk/files/CDK-JChemPaint/15/). With the help from
 [Gilleain](http://gilleain.blogspot.com/), all rendering parameters are now using the new API, as explained
-[earlier](http://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-3-rendering-parameters.html) in
+[earlier <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/05/cdk-jchempaint-3-rendering-parameters.html) in
 [this series](http://chem-bla-ics.blogspot.com/search?q=%22cdk-jchempaint+%23%22).
 
 Additionally, the API to work with rendering parameters is now much simpler. The previous posts did not
 really explain how to tune parameters, so here goes. One important thing to realize, is that a rendering
 parameter can only be changed if the generator that defines it has been registered. To see what parameters
 belongs to what generator, for which you can use the script discussed in
-[post #3](http://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-3-rendering-parameters.html).
+[post #3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/05/cdk-jchempaint-3-rendering-parameters.html).
 
 ## Atom Numbers
 

@@ -5,13 +5,13 @@ date:   2010-04-18 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-4-embedding-renderer.html
 doi: 10.59350/2148c-n1102
 tags: cdk jchempaint
-modified_date: 2026-07-05
+modified_date: 2026-07-17
 ---
 
 Now that we covered the utmost basics of using the CDK-JChemPaint patch (see
 [#1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/05/cdk-jchempaint-1-rendering-molecules.html),
 [#2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/05/cdk-jchempaint-2-rendering-reactions.html),
-[#3](http://chem-bla-ics.blogspot.com/2010/04/cdk-jchempaint-3-rendering-parameters.html)),
+[#3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/05/cdk-jchempaint-3-rendering-parameters.html)),
 it is time to move on. I am happy to hear that so many people have started using the new rendering architecture, either
 via the EBI JChemPaint Swing applet/application branch, or via the CDK-JChemPaint patch.
 
