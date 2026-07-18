@@ -4,7 +4,7 @@ title:  "How to use GitHub for [CDK|Bioclipse] code review"
 date:   2010-05-10 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/05/how-to-use-github-for-cdkbioclipse-code.html
 doi: 10.59350/nfcyx-jxj82
-tags: cdk bioclipe github
+tags: cdk bioclipse github
 image: /assets/images/codeReview6.png
 modified_date: 2026-07-05
 ---

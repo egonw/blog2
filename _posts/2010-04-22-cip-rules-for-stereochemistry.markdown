@@ -5,7 +5,7 @@ date:   2010-04-22
 modified_date: 2026-06-14
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/cip-rules-for-stereochemistry.html
 doi: 10.59350/1n6nz-z2572
-tags: cdk chemistry cheminfo scholia
+tags: cdk chemistry cheminf scholia
 image: /assets/images/(R)-bromo(chloro)iodomethane.png
 ---
 
