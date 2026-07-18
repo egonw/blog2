@@ -42,16 +42,9 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v5
-
-  # Deployment job
-  deploy:
-    runs-on: codeberg-tiny
-    steps:
-      - uses: actions/git-pages@v2
+        uses: actions/git-pages@v2
         with:
-          site: https://egonw.codeberg.page/blog-pages/
+          site: https://egonw.codeberg.page/blog/
           server: codeberg.page
           token: ${{ forgejo.token }}
           source: _site/
