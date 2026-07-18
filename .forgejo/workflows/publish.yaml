@@ -48,6 +48,7 @@ jobs:
   # Deployment job
   deploy:
     runs-on: codeberg-tiny
+    steps:
       - uses: actions/git-pages@v2
         with:
           site: https://egonw.codeberg.page/blog-pages/
