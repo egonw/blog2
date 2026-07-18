@@ -4,7 +4,7 @@ title:  "Updated my blog template"
 date:   2010-03-27
 blogger-link: https://chem-bla-ics.blogspot.com/2010/03/updated-my-blog-template.html
 doi: 10.59350/5jy73-b2a88
-tags: blogging
+tags: blog
 image: /assets/images/bloggerPages.png
 ---
 
