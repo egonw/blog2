@@ -50,7 +50,7 @@ jobs:
     runs-on: codeberg-tiny
       - uses: actions/git-pages@v2
         with:
-          site: https://domainname.tld/
+          site: https://egonw.codeberg.page/blog-pages/
           server: codeberg.page
           token: ${{ forgejo.token }}
           source: _site/
