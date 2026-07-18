@@ -35,7 +35,7 @@ jobs:
       - name: Upload artifact
         uses: actions/git-pages@v2
         with:
-          site: https://egonw.codeberg.page/blog/
+          site: http://blog.linkedchemistry.info/
           server: codeberg.page
           token: ${{ forgejo.token }}
           source: _site/
