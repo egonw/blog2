@@ -2,9 +2,10 @@
 layout: post
 title:  "Dereferencable InChIs: OpenMolecules RDF"
 date:   2012-04-15
+modified_date: 2026-07-23
 blogger-link: https://chem-bla-ics.blogspot.com/2012/04/dereferencable-inchis-openmolecules-rdf.html
 doi: 10.59350/eg04s-efd96
-tags: chemistry rdf inchi opendata doi:10.1038/npre.2010.4918.1 doi:10.1002/9781118026038.ch24
+tags: chemistry rdf inchi opendata doi:10.1038/NPRE.2010.4918.1 doi:10.1002/9781118026038.CH24
   doi:10.1186/2041-1480-2-S1-S6
 ---
 
@@ -36,10 +37,10 @@ pointing there. On the outlinking side, it points to [ChEBI](http://www.ebi.ac.u
 (for 10k structures), the [NMRShiftDB](http://chem-bla-ics.blogspot.com/2009/03/nmrshiftdb-enters-rdfopenmoleculesnet.html),
 and Cb itself. This post describes the adding of the [link to DBPedia](http://chem-bla-ics.blogspot.com/2009/02/dbpedia-enters-rdfopenmoleculesnet.html).
 
-In the past few years, I have written up bits on OpenMolecules RDF. The main reference is our chapter in *Beautiful Data* [1],
+In the past few years, I have written up bits on OpenMolecules RDF. The main reference is our chapter in *Beautiful Data* (Willighagen, 2010),
 where I used the [URIs for the solubility data](http://chem-bla-ics.blogspot.com/2009/02/solubility-data-in-bioclipse-3-finding.html).
-It was later also described in the *Linking the Resource Description Framework to cheminformatics and proteochemometrics paper*
-[2] and another book chapter [3].
+It was later also described in the *Linking the Resource Description Framework to cheminformatics and proteochemometrics paper* (Willighagen, 2011),
+[2] and another book chapter (Guha, 2011).
 
 This blog features a few more use cases, such as the ability to use these URIs to bookmark molecules or to
 [annotate them with tags with Connotea](http://chem-bla-ics.blogspot.com/2007/09/tagging-molecules-mashup-of-connotea.html)
