@@ -40,7 +40,7 @@ and Cb itself. This post describes the adding of the [link to DBPedia](http://ch
 In the past few years, I have written up bits on OpenMolecules RDF. The main reference is our chapter in *Beautiful Data* (Willighagen, 2010),
 where I used the [URIs for the solubility data](http://chem-bla-ics.blogspot.com/2009/02/solubility-data-in-bioclipse-3-finding.html).
 It was later also described in the *Linking the Resource Description Framework to cheminformatics and proteochemometrics paper* (Willighagen, 2011),
-[2] and another book chapter (Guha, 2011).
+and another book chapter (Guha, 2011).
 
 This blog features a few more use cases, such as the ability to use these URIs to bookmark molecules or to
 [annotate them with tags with Connotea](http://chem-bla-ics.blogspot.com/2007/09/tagging-molecules-mashup-of-connotea.html)
