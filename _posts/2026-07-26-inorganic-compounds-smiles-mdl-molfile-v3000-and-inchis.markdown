@@ -13,15 +13,15 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 116988151857480518
 ---
 
 Making chemistry more FAIR requires unique identifiers for chemical structures. For organic compounds plenty of solutions exist that
 do a great job. Last year and last week, I attended two technical [InChI](https://www.inchi-trust.org/) meetings, both with
-[organometallic compounds](https://en.wikipedia.org/wiki/Organometallic_chemistry) as one of the key topics. Thanks to
+[organometallic compounds](https://en.wikipedia.org/wiki/Organometallic_chemistry) and other molecular inorganics as one of the key topics. Thanks to
 [Sonja](https://bsky.app/profile/herreslab.bsky.social) ([Mastodon bridge](https://fed.brid.gy/bsky/herreslab.bsky.social))
 and [Gerd](https://www.linkedin.com/in/gerd-blanke-b13115/) for the invitations. My role includes thinking about what all the
 work on the InChI means for the [Chemistry Development Kit](http://cdk.github.io/).
