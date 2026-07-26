@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inorganic compounds: SMILES, MDL molfile v3000, and InChIs"
+title:  "Molecular Inorganics: SMILES, MDL molfile v3000, and InChIs"
 date:   2026-07-26
 doi: 10.59350/yhf27-fp921
 tags: chemistry inchi wikidata smiles pubchem
