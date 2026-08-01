@@ -20,7 +20,7 @@ of [making blog-to-blog citations more FAIR](https://chem-bla-ics.linkedchemistr
 Now, another blog I link to a lot, is the blog by Peter Murray-Rust, which has run at various URLs, including
 [http://wwmm.ch.cam.ac.uk/blogs/murrayrust/](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/) and now at
 [https://blogs.ch.cam.ac.uk/pmr/](https://blogs.ch.cam.ac.uk/pmr/). My posts on Blogger have a lot of links
-to the `wwmm.ch.cam.ac.uk` domain, e.g. `http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=845`. The problem
+to the `wwmm.ch.cam.ac.uk` domain, e.g. `http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=845`. The problem  <!-- keep link -->
 with these URLs is that they do not get properly rewritten and all point to a *European copyright: Cancel Articles 3, 11 and 13*
 post from 2018.
 
@@ -28,10 +28,11 @@ But here too, the Internet Archive is helping. It gives me the opportunity to fi
 Now, not all blog posts are archived and therefore sometimes need to figure out which posts it was using archived
 posts just before or after the post I linked too. Of course, this only works because Peter's blog is still online
 with all posts. First step is to list all pages using the old URL pattern in the archive, e.g. with
-`https://web.archive.org/web/*/http://wwmm.ch.cam.ac.uk/blogs/murrayrust/*`.
+`https://web.archive.org/web/*/http://wwmm.ch.cam.ac.uk/blogs/murrayrust/*`. <!-- keep link -->
 Here, the first `*` indicates `any date`, while the second `*` indicates `any URL that started with the preceding`.
 
-This gives [a list of 1233 posts](https://web.archive.org/web/*/http://wwmm.ch.cam.ac.uk/blogs/murrayrust/*), which you can filter with the text box on the top right of the list, where I filtered
+This gives [a list of 1233 posts](https://web.archive.org/web/*/http://wwmm.ch.cam.ac.uk/blogs/murrayrust/*), <!-- keep link -->
+which you can filter with the text box on the top right of the list, where I filtered
 here for URLs with `p=`:
 
 ![](/assets/images/pmr_internet_archive.png)
