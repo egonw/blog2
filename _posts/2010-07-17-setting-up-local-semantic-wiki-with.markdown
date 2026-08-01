@@ -5,7 +5,7 @@ date:   2010-07-17
 blogger-link: https://chem-bla-ics.blogspot.com/2010/07/setting-up-local-semantic-wiki-with.html
 doi: 10.59350/ms1t8-8zm32
 tags: rdf sparql wiki bio2rdf bioclipse
-image: /blog/assets/images/rdfImport.png
+image: /assets/images/rdfImport.png
 ---
 
 
@@ -69,7 +69,7 @@ That's it. Not quite the 5 minutes that Samuel promised me, but I'm happy to hav
 tour next month! I installed the default RDF, and got the nice default wiki page to which I can now start adding
 manual annotation:
 
-![](/blog/assets/images/rdfImport.png)
+![](/assets/images/rdfImport.png)
 
 If you are wondering about the use case, this RDF import is ideal for building up knowledge bases, as detailed in my
 [Critical mass for Open Notebook Science wikis by prepopulation with RDF data](http://chem-bla-ics.blogspot.com/2010/06/critical-mass-for-open-notebook-science.html)
