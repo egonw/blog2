@@ -44,6 +44,7 @@ mappings = [
   "2009/08/bioclipse-and-sparql-end-points-2.html": "2009/08/21/bioclipse-and-sparql-end-points-2.html",
   "2009/07/new-blogs-11.html": "2009/07/31/new-blogs-11.html",
   "2009/07/new-blogs-10.html": "2009/07/23/new-blogs-10.html",
+  "2009/06/michel-dumontier-at-uppsala-university.html": "2009/06/26/michel-dumontier-at-uppsala-university.html",
   "2009/06/dr-whos-of-life-sciences.html": "2009/06/21/dr-whos-of-life-sciences.html",
   "2009/05/open-data-license-rights-aggregation.html": "2009/05/18/open-data-license-rights-aggregation.html",
   "2009/04/open-knowledge-reproducibility-in.html": "2009/04/08/open-knowledge-reproducibility-in.html",
@@ -104,7 +105,9 @@ mappings = [
   "2007/07/atom-typing-in-cdk.html": "2007/07/01/atom-typing-in-cdk.html",
   "2007/07/rdf-ing-molecular-space.html": "2007/07/31/rdf-ing-molecular-space.html",
   "2006/12/modern-chemistry-in-cdk-beyond-two.html": "2006/12/30/modern-chemistry-in-cdk-beyond-two.html",
-  "2006/04/mining-kegg-pathway-database-with-self.html": "2006/04/04/mining-kegg-pathway-database-with-self.html"
+  "2006/09/chemical-archeology-oscar3-to.html": "2006/09/08/chemical-archeology-oscar3-to.html",
+  "2006/04/mining-kegg-pathway-database-with-self.html": "2006/04/04/mining-kegg-pathway-database-with-self.html",
+  "2005/11/when-to-stop-including-qsar-model.html": "2005/11/08/when-to-stop-including-qsar-model.html"
 ]
 
 oldPref = "http://chem-bla-ics.blogspot.com/"

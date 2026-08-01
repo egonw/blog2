@@ -6,14 +6,14 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/06/qspr-modeling-with-signa
 doi: 10.59350/8d6w8-avm05
 tags: cdk chemometrics justdoi:10.1021/ci020345w doi:10.1021/ci050282s
 image: /assets/images/signaturePrediction.png
-modified_date: 2026-07-13
+modified_date: 2026-08-01
 ---
 
 I had to dig deep to find posts on QSAR modeling. There are quite a few on [QSAR in Bioclipse](http://chem-bla-ics.blogspot.com/search?q=qsar+bioclipse),
 but that focuses on the descriptor calculation. In a quick scan, I could only spot two modeling posts:
 
 * [The CDK/Metabolomics/Chemometrics Unconference results](http://chem-bla-ics.blogspot.com/2008/04/cdkmetabolomicschemometrics.html)
-* [When to stop including QSAR model variables...](http://chem-bla-ics.blogspot.com/2005/11/when-to-stop-including-qsar-model.html)
+* [When to stop including QSAR model variables... <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2005/11/08/when-to-stop-including-qsar-model.html)
 
 Given the prominent place [QSAR has in my thesis <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/03/01/todo-april-2nd-defend-my-phd-work.html),
 this is somewhat surprising. Anyway, here is some more QSAR modeling talk.

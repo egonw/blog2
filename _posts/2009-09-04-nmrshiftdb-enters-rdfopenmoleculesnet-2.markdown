@@ -5,7 +5,7 @@ date:   2009-09-04
 blogger-link: https://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-enters-rdfopenmoleculesnet-2.html
 doi: 10.59350/nv925-tje87
 tags: rdf sparql nmrshiftdb cheminf
-modified_date: 2026-05-05
+modified_date: 2026-08-01
 ---
 
 About 6 months ago I [reported](http://chem-bla-ics.blogspot.com/2009/03/nmrshiftdb-enters-rdfopenmoleculesnet.html) about my efforts to RDF-ize the data from the
@@ -16,7 +16,7 @@ recently contributed my [1000th NMR spectrum](http://egonw.posterous.com/nmrshif
 finally reinstall [Virtuoso](http://www.openlinksw.com/wiki/main/Main/VOSDownload).
 
 There are precompiled binaries for [Ubuntu](https://launchpad.net/~wdaniels/+archive/ppa) and [Debian](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=508048),
-but Michel encouraged me to use version 6 when [he visited us](http://chem-bla-ics.blogspot.com/2009/06/michel-dumontier-at-uppsala-university.html).
+but Michel encouraged me to use version 6 when [he visited us <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/06/26/michel-dumontier-at-uppsala-university.html).
 And so I compiled and install [6.0.0.TP1](https://sourceforge.net/projects/virtuoso/files/virtuoso-devel/6.0.0-TP1/) on the public server, while I do have the
 binary debs for 5.0.12 on my laptop. With some basic Apache magic, I hooked up the SPARQL end point of the server to the web:
 
