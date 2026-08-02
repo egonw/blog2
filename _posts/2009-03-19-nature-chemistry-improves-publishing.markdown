@@ -79,7 +79,7 @@ HTML they produce.
 
 But before pointing out some missed chances, let me reply *inter alia* to Peter's recent
 work on the Open Source plugin for including semantic chemistry in MS-Word documents
-(see [How can we publish semantic chemical documents? <i class="fa-solid fa-recycle fa-xs"></i](https://doi.org/10.59350/wn2pv-gef13)):
+(see [How can we publish semantic chemical documents? <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/wn2pv-gef13)):
 Nature Chemistry seems to have done a great job with existing tools. Nevertheless, I fully
 back up Peters comment that while the plugin is useless without Word, the results produced
 with the plugin are extremely Open Standard, and enormously reusable! Indeed, while the
