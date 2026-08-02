@@ -22,6 +22,7 @@ mappings = [
   "2010/07/cb-new-blogs-13.html": "2010/07/15/cb-new-blogs-13.html",
   "2010/05/cleaner-cdk-code-5-developer-against.html": "2010/05/15/cleaner-cdk-code-5-developer-against.html",
   "2010/05/web-20-technologies-in-student.html": "2010/05/08/web-20-technologies-in-student.html",
+  "2010/04/bittorrents-for-science.html": "2010/04/18/bittorrents-for-science.html",
   "2010/04/cdk-jchempaint-3-rendering-parameters.html": "2010/04/05/cdk-jchempaint-3-rendering-parameters.html",
   "2010/04/cdk-jchempaint-2-rendering-reactions.html": "2010/04/05/cdk-jchempaint-2-rendering-reactions.html",
   "2010/04/cdk-jchempaint-1-rendering-molecules.html": "2010/04/05/cdk-jchempaint-1-rendering-molecules.html",
