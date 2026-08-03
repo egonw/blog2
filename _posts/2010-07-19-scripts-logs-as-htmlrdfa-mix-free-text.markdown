@@ -5,7 +5,7 @@ date:   2010-07-19
 blogger-link: https://chem-bla-ics.blogspot.com/2010/07/scripts-logs-as-htmlrdfa-mix-free-text.html
 doi: 10.59350/tb3sc-ggw42
 tags: html rdf sparql
-image: /blog/assets/images/rdfaLogfiles.png
+image: /assets/images/rdfaLogfiles.png
 ---
 
 [Richard](http://blogs.talis.com/nodalities/author/richard-wallis/) ([Talis](http://www.talis.com/)) wrote up a
@@ -88,7 +88,7 @@ Combine that with the [RDFaDev](http://rdfadev.sourceforge.net/) tool I wrote ab
 Now you should get some feeling of the advantages of using Open Standards: I can do some initial analysis of the results,
 just right there in the web browser you have open anyway:
 
-![](/blog/assets/images/rdfaLogfiles.png)
+![](/assets/images/rdfaLogfiles.png)
 
 Therefore, next time you ask your data analyst to perform some calculation, insist that he sends you HTML+RDFa log files with
 results. Better, ask him to put it online, and you immediately reach
