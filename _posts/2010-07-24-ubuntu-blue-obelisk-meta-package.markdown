@@ -2,16 +2,18 @@
 layout: post
 title:  "An Ubuntu Blue Obelisk meta package"
 date:   2010-07-24
+modified_date: 2026-08-05
 blogger-link: https://chem-bla-ics.blogspot.com/2010/07/ubuntu-blue-obelisk-meta-package.html
 doi: 10.59350/421nq-ga745
 tags: blue-obelisk linux
 ---
 
 There was some talk recently about [Blue Obelisk](http://www.blueobelisk.org/) software available as [Ubuntu](http://www.ubuntu.com/) /
-[Debian](http://www.debian.org/) packages. This morning I had trouble waking up, so hacked up a metapackage, so that you can now do:
+[Debian](http://www.debian.org/) packages. This morning I had trouble waking up, so hacked up a [metapackage](https://launchpad.net/~egonw/+archive/ppa),
+so that you can now do:
 
 ```shell
-sudo add-apt-repository [ppa:egonw](https://launchpad.net/~egonw/+archive/ppa)
+sudo add-apt-repository ppa:egonw
 sudo aptitude install blueobelisk
 ```
 
