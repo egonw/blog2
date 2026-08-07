@@ -25,7 +25,7 @@ interesting chapter on reading scientific literature (doi:[10.1515/9783110782844
 
 ## Scientias
 
-And while I started the [Scientias](https://scientias.nl/nieuws/video/podcast/) (with (*the*) Diederik Jekel and
+And while I started the [Scientias](https://scientias.nl/nieuws/video/podcast/) (with (*the*) [Diederik Jekel](https://mastodon.nl/@Diederikjekel) and
 [Krijn Soeteman](https://mastodon.nl/@krijnsoeteman)) episode to hear more about
 the science behind "history", there were several topics in the [Over oudheidkunde, nepvondsten en AI: wat weten we écht over het verleden?] episode
 about the above things, with [Jona Lendering](https://mastodon.social/@JonaLendering) as guest.
