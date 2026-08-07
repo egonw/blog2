@@ -5,10 +5,10 @@ date:   2026-08-07
 doi: 10.59350/jtx6g-4d547
 tags: science cito:citesAsRecommendedReading:10.1515/9783110782844-010 openscience
 image: /assets/images/scientias_episode.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 117056437915134281
 ---
 
 Communication of science is important to me and it comes in many formats. Educational resources, research articles, text books, popular science magazines, blogs,
