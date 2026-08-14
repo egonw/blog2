@@ -3,6 +3,7 @@ layout: post
 title:  "Scientias, oudheidkunde, en wetenschap, hoe dan"
 date:   2026-08-07
 doi: 10.59350/jtx6g-4d547
+modified_date: 2026-08-14
 tags: science cito:citesAsRecommendedReading:10.1515/9783110782844-010 openscience
 image: /assets/images/scientias_episode.png
 comments:
@@ -21,7 +22,8 @@ Not as education. The may have episode notes, but not proper scientific referenc
 I have many books in my house on these aspects of science. From text books, to primary literature, to links to blog posts. It is not my research field,
 and (scientific) communication is very much a research field. "It makes sense", does not do, but the awareness of some of the things should be basic
 academic training. Or probably earlier. Every writing has context. Not a random pointer, but a friend has recently written with several others an
-interesting chapter on reading scientific literature (doi:[10.1515/9783110782844-010](https://doi.org/10.1515/9783110782844-010)).
+interesting chapter on reading scientific literature (doi:[10.1515/9783110782844-010](https://doi.org/10.1515/9783110782844-010),
+[pdf](https://uplopen.com/reader/chapters/pdf/10.1515/9783110782844-010)).
 
 ## Scientias
 
