@@ -11,7 +11,7 @@ tags: html rdf justdoi:10.59350/3basz-t0n97 justdoi:10.1021/ja01193a005 rdfa
 Steffen [asked](http://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-template.html?showComment=1281418346085#c5562162287116420044)
 me if I could also provide a few examples on how to actually put RDF triples in the HTML, as the
 [template](http://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-template.html) I gave yesterday is a mere empty canvas to draw the
-triples on. There are actually [various examples](http://chem-bla-ics.blogspot.com/search?q=rdfa&updated-max=200)
+triples on. There are actually [various examples <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/tag/rdfa)
 in my blog, which I will summarize here.
 
 Before I start, I like to put some emphasize on the following [RDFa](http://www.w3.org/TR/xhtml-rdfa-primer/) pattern. An RDF
