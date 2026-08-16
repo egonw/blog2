@@ -4,7 +4,7 @@ title:  "XHTML+RDFa: chemical examples"
 date:   2010-08-10
 modified_date: 2026-08-16
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-chemical-examples.html
-doi: 10.59350/kkvt7-zpm64 justdoi:10.59350/3basz-t0n97
+doi: 10.59350/kkvt7-zpm64 justdoi:10.59350/3basz-t0n97 justdoi:10.1021/ja01193a005
 tags: html rdf
 ---
 
@@ -91,8 +91,8 @@ molecule table, very much like those molecular spreadsheets in Excel, but than r
 First of all, the [rdf.openmolecules.net](http://chem-bla-ics.blogspot.com/search?q=rdf.openmolecules.net) project
 is used to construct an absolute URI for the molecule. The table then gives some properties of the molecule:
 its name (using [Dublin Core](http://dublincore.org/), though perhaps [rdfs:label](http://www.w3.org/TR/rdf-schema/#ch_label)
-is better), the boiling point (nicely encoded as *t0* in this 1947 paper), two cheminformatics descriptors, and
-the SMILES, using the same approach as the first example in this post.
+is better), the boiling point (nicely encoded as *t0* in [this 1947 paper](https://doi.org/10.1021/ja01193a005)),
+two cheminformatics descriptors, and the SMILES, using the same approach as the first example in this post.
 
 The output of this table looks like:
 
