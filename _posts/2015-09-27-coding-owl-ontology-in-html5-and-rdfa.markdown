@@ -4,7 +4,7 @@ title:  "Coding an OWL ontology in HTML5 and RDFa"
 date:   2015-09-27
 blogger-link: https://chem-bla-ics.blogspot.com/2015/09/coding-owl-ontology-in-html5-and-rdfa.html
 doi: 10.59350/4k55a-8c261
-tags: ontology bridgedb web rdf owl justdoi:10.1186/1471-2105-11-5
+tags: ontology bridgedb web rdf owl justdoi:10.1186/1471-2105-11-5 rdfa
 image: /assets/images/bdbOnto.png
 ---
 

@@ -4,7 +4,7 @@ title:  "My Google Scholar Citations profile arrived"
 date:   2011-08-02
 modified_date: 2025-03-08
 blogger-link: https://chem-bla-ics.blogspot.com/2011/08/my-google-scholar-citations-profile.html
-tags: google citeulike doi:10.1186/1471-2105-8-487
+tags: google citeulike doi:10.1186/1471-2105-8-487 rdfa
 image: /assets/images/gsc.png
 doi: 10.59350/eg94z-9dg88
 ---
