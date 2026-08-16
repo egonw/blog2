@@ -4,9 +4,9 @@ title:  "Bioclipse moving to GitHub: CIA hooks enabled"
 date:   2009-07-15
 blogger-link: https://chem-bla-ics.blogspot.com/2009/07/bioclipse-moving-to-github-cia-hooks.html
 doi: 10.59350/6c3ha-gmy93
-tags: git bioclipse github sourceforge
+tags: git bioclipse github sourceforge justdoi:10.59350/ps1ms-z0e55
 image: /assets/images/githubHooks.png
-modified_date: 2026-03-20
+modified_date: 2026-08-16
 ---
 
 Following the CDK and [JChemPaint Primary](http://chem-bla-ics.blogspot.com/2009/07/jchempaint-primary-moving-to-git.html),
@@ -25,7 +25,7 @@ the plugins defined in the repository and coordinate development:
 * [bioclipse.bioinformatics](http://github.com/masak/bioclipse.bioinformatics/tree/master)
 
 Several plugins are still in the SVN world, but a good deal is now Git-ready. BTW, this move also adds several new accounts
-to watch on GitHub (see Rich' [17 GitHub accounts to watch on Cheminformatics](http://depth-first.com/articles/2009/07/03/seventeen-github-accounts-to-watch-in-cheminformatics)).
+to watch on GitHub (see Rich' [17 GitHub accounts to watch on Cheminformatics <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/ps1ms-z0e55)).
 
 [GitHub](http://www.github.com/) turns out to be our big friend here, not [SourceForge](http://www.sf.net/), which only supports one
 Git repository. GitHub recently must have added hooks recently, but I am really happy to see those. The above Bioclipse repositories

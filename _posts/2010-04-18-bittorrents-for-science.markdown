@@ -4,8 +4,8 @@ title:  "BitTorrents for Science"
 date:   2010-04-18
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/bittorrents-for-science.html
 doi: 10.59350/0z9nh-6ed21
-tags: opendata justdoi:10.1371/journal.pone.0010071
-modified_date: 2026-07-05
+tags: opendata justdoi:10.1371/journal.pone.0010071 justdoi:10.59350/2c1vx-5p005
+modified_date: 2026-08-16
 ---
 
 The idea has been lingering in the air for a long time now: sharing large science data sets using [bittorrent](http://en.wikipedia.org/wiki/BitTorrent_%28protocol%29).
@@ -36,7 +36,7 @@ torrents is unforgivable; well, personally, I was happy to upload [my torrent](h
 not have done that if I had many torrents uploaded already. Torrent content is distributed, but the tracker information is not. Backup, backup,
 backup. Oh, and backup :) It happens to the best of us. Additionally, it is worth realising that the service needs to give something back to the
 user. Traditionally, I always thought this had the be of actual use, but a recent post by Rich actually suggested that even a
-[game mechanic](http://depth-first.com/articles/2010/03/26/game-mechanics-in-science-your-soaking-in-them) may be enough. Indeed, websites like
+[game mechanic <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/2c1vx-5p005) may be enough. Indeed, websites like
 [ChemPedia.com](http://chempedia.com/substances) and [Blue Obelisk eXchange](http://blueobelisk.shapado.com/) implement this by means of
 personal karma, allowing people to compete in high score lists. Also, APIs to integrate with other tools are crucial, such as personal RSS
 feeds to allow posting my new torrents to, for example, [FriendFeed](http://friendfeed.com/egonw) and [Identica](http://identi.ca/chemblaics).

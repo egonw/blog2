@@ -4,8 +4,9 @@ title:  "Warren DeLano and the future of PyMOL"
 date:   2010-01-15
 blogger-link: https://chem-bla-ics.blogspot.com/2010/01/warren-delano-and-future-of-pymol.html
 doi: 10.59350/dskgb-hdz03
-tags: odosos chemistry
+tags: odosos chemistry justdoi:10.59350/rj9fv-7mf71
 image: /assets/images/pymol2.png
+modified_date: 2026-08-16
 ---
 
 This blog is old and new news. The old news is that [Warren passed away](http://warrendelano.blogspot.com/2009/11/warren-delano-passes-away.html) at the
@@ -19,7 +20,7 @@ I had not blogged about it before as the news hit me hard. Surely, Warren knew a
 I know Warren from the [Jmol](http://www.jmol.org/) project, where we talked in the past of coming to an Open Specification for exchanging scenes between
 Jmol and PyMol. Around the end of my PhD contract we even briefly, but seriously, explored doing a post-doc in his group.
 
-Anyway, lot's of people wrote up blogs (in arbitrary order: [Rich](http://depth-first.com/articles/2009/11/06/warren-delano),
+Anyway, lot's of people wrote up blogs (in arbitrary order: [Rich <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/rj9fv-7mf71),
 [P212121](http://www.p212121.com/2009/11/05/passing-of-warren-delano/), [MacResearch](http://www.macresearch.org/memoriam-warren-l-delano),
 [Jörg](http://miningdrugs.blogspot.com/2009/11/warren-delano-in-memoriam.html), [MMB](http://rosettadesigngroup.com/blog/464/reports-of-warren-delano-passing-away-terrible-tragedy-if-true/),
 [Shirley](http://shirleywho.wordpress.com/2009/11/07/in-memoriam-warren-delano/), [Derek](http://pipeline.corante.com/archives/2009/11/17/warren_delano.php),
