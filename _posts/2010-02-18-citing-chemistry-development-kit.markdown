@@ -5,7 +5,7 @@ date:   2010-02-18
 blogger-link: https://chem-bla-ics.blogspot.com/2010/02/citing-chemistry-development-kit.html
 doi: 10.59350/y34jk-2ds64
 tags: cdk cito bioclipse jchempaint jmol rdf owl justdoi:10.1186/1758-2946-2-1 doi:10.1021/CI025584Y
-  doi:10.1021/CI025584Y
+  doi:10.1021/CI025584Y rdfa
 ---
 
 Two weeks ago, a paper by Peter Ertl was published about [Molecular structure input on the web](http://www.jcheminf.com/content/2/1/1)

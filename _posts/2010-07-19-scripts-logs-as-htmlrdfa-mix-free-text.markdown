@@ -4,7 +4,7 @@ title:  "Script logs as HTML+RDFa: mix free text reporting with CSV"
 date:   2010-07-19
 blogger-link: https://chem-bla-ics.blogspot.com/2010/07/scripts-logs-as-htmlrdfa-mix-free-text.html
 doi: 10.59350/tb3sc-ggw42
-tags: html rdf sparql
+tags: html rdf sparql rdfa
 image: /assets/images/rdfaLogfiles.png
 ---
 

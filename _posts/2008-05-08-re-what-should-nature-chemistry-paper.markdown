@@ -4,7 +4,7 @@ title:  "Re: What should a Nature Chemistry paper look like?"
 date:   2008-05-08
 blogger-link: https://chem-bla-ics.blogspot.com/2008/05/re-what-should-nature-chemistry-paper.html
 doi: 10.59350/g89pc-kz779
-tags: publishing chemistry justdoi:10.1021/np0705918 inchi
+tags: publishing chemistry justdoi:10.1021/np0705918 inchi rdfa
 modified_date: 2025-10-11
 ---
 

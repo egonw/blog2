@@ -5,7 +5,7 @@ date:   2006-12-10
 modified_date: 2024-12-29
 doi: 10.59350/wpaxr-93167
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html
-tags: cml inchi blog cb doi:10.1021/CI034244P microformat rdf html
+tags: cml inchi blog cb doi:10.1021/CI034244P microformat rdf html rdfa
 ---
 
 The blogs [ChemBark](http://blog.chembark.com/) and [KinasePro](http://kinasepro.wordpress.com/) have been discussing

@@ -5,7 +5,7 @@ date:   2007-09-13
 doi: 10.59350/dze3k-zky17
 modified_date: 2025-01-30
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/outscoring-old-science.html
-tags: publishing justdoi:10.59350/6aep1-v9455
+tags: publishing justdoi:10.59350/6aep1-v9455 rdfa
 ---
 
 Rich [posted a nice quote <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/6aep1-v9455)

@@ -5,7 +5,7 @@ date:   2007-02-20
 modified_date: 2025-04-27
 doi: 10.59350/ezjxg-p8m13
 blogger-link: https://chem-bla-ics.blogspot.com/2007/02/invisible-inchis.html
-tags: inchi html
+tags: inchi html rdfa
 ---
 
 Some [InChI](http://www.iupac.org/inchi/)'s are short, such as that for methane: <span class="chem:inchi">InChI=1/CH4/h1H4</span>.

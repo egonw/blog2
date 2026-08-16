@@ -5,7 +5,7 @@ date:   2006-12-17
 modified_date: 2025-02-16
 doi: 10.59350/ygxfh-xfs36
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/smiles-cas-and-inchi-in-blogs.html
-tags: chemistry userscript smiles pubchem inchi
+tags: chemistry userscript smiles pubchem inchi rdfa
 image: /assets/images/sechemticWebScript.png
 ---
 

@@ -5,7 +5,7 @@ date:   2007-09-07 00:10
 doi: 10.59350/cqv2x-hph36
 modified_date: 2025-01-27
 blogger-link: https://chem-bla-ics.blogspot.com/2007/09/new-inchi-software-beta-license-issues.html
-tags: inchi openscience
+tags: inchi openscience rdfa
 ---
 
 The [IUPAC/NIST team](http://www.iupac.org/inchi/) made a beta release of the next InChI software release:

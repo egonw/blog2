@@ -5,7 +5,7 @@ date:   2007-07-31
 modified_date: 2025-07-30
 doi: 10.59350/9r29x-8y455
 blogger-link: https://chem-bla-ics.blogspot.com/2007/07/rdf-ing-molecular-space.html
-tags: chemistry rdf inchi
+tags: chemistry rdf inchi rdfa
 ---
 
 [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework) might be the solution we are looking for to get a grip

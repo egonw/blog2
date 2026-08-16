@@ -4,7 +4,7 @@ title:  "Going to Science Blogging 2008: London"
 date:   2008-07-10
 blogger-link: https://chem-bla-ics.blogspot.com/2008/07/going-to-science-blogging-2008-london.html
 doi: 10.59350/e63j2-r6057
-tags: blog rdf
+tags: blog rdf rdfa
 ---
 
 <div typeof="event:Vevent" xmlns:event="http://www.w3.org/2002/12/cal#">On <span property="event:dtstart" content="2008-08-30">Saturday 30th of August</span>

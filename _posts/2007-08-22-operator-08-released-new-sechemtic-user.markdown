@@ -5,7 +5,7 @@ date:   2007-08-22
 modified_date: 2025-03-30
 doi: 10.59350/w3eex-30y69
 blogger-link: https://chem-bla-ics.blogspot.com/2007/08/operator-08-released-new-sechemtic-user.html
-tags: semweb chemistry
+tags: semweb chemistry rdfa
 image: /assets/images/options1.png
 ---
 

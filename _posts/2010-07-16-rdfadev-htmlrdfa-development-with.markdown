@@ -4,7 +4,7 @@ title:  "RDFaDev: HTML+RDFa development with FireFox"
 date:   2010-07-16 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/07/rdfadev-htmlrdfa-development-with.html
 doi: 10.59350/ttjvx-9pw87
-tags: rdf html
+tags: rdf html rdfa
 image: /assets/images/ffRDFa1.png
 ---
 

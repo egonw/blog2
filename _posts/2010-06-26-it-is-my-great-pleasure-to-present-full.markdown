@@ -4,7 +4,7 @@ title:  "Program for the RDF symposium at the American Chemical Society fall mee
 date:   2010-06-26
 blogger-link: https://chem-bla-ics.blogspot.com/2010/06/it-is-my-great-pleasure-to-present-full.html
 doi: 10.59350/gpgd7-whd47
-tags: acsrdf2010 acs rdf
+tags: acsrdf2010 acs rdf rdfa
 image: /assets/images/acsrdf.png
 ---
 

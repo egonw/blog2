@@ -5,7 +5,7 @@ date:   2010-08-10
 modified_date: 2026-08-16
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-chemical-examples.html
 doi: 10.59350/kkvt7-zpm64
-tags: html rdf justdoi:10.59350/3basz-t0n97 justdoi:10.1021/ja01193a005
+tags: html rdf justdoi:10.59350/3basz-t0n97 justdoi:10.1021/ja01193a005 rdfa
 ---
 
 Steffen [asked](http://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-template.html?showComment=1281418346085#c5562162287116420044)

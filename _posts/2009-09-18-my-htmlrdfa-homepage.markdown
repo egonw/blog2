@@ -4,7 +4,7 @@ title:  "My HTML+RDFa homepage"
 date:   2009-09-18
 blogger-link: https://chem-bla-ics.blogspot.com/2009/09/my-htmlrdfa-homepage.html
 doi: 10.59350/rv6nz-p8j13
-tags: html rdf foaf
+tags: html rdf foaf rdfa
 image: /assets/images/egonwGithub1.png
 ---
 

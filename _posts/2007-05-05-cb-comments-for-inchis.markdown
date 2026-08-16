@@ -5,7 +5,7 @@ date:   2007-05-05
 modified_date: 2025-04-12
 doi: 10.59350/z1vb6-w9v12
 blogger-link: https://chem-bla-ics.blogspot.com/2007/05/cb-comments-for-inchis.html
-tags: cb inchi userscript rdf
+tags: cb inchi userscript rdf rdfa
 image: /assets/images/cb_inchi_greasemonkey1.png
 ---
 

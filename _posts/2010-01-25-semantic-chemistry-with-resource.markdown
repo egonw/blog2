@@ -4,7 +4,7 @@ title:  "Semantic Chemistry with the Resource Description Framework"
 date:   2010-01-25
 blogger-link: https://chem-bla-ics.blogspot.com/2010/01/semantic-chemistry-with-resource.html
 doi: 10.59350/52595-4rj10
-tags: acs acsrdf2010 rdf chemistry sparql
+tags: acs acsrdf2010 rdf chemistry sparql rdfa
 ---
 
 **First Call for Papers** <br />

@@ -5,7 +5,7 @@ date:   2007-01-02
 modified_date: 2025-04-27
 doi: 10.59350/dmfek-pdt97
 blogger-link: https://chem-bla-ics.blogspot.com/2007/01/chemistry-in-html-javascript-from.html
-tags: html javascript userscript
+tags: html javascript userscript rdfa
 image: /assets/images/sechemticJSOutput.png
 ---
 

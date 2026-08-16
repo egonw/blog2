@@ -4,7 +4,7 @@ title:  "CDK Molecules in RDF"
 date:   2009-10-06
 blogger-link: https://chem-bla-ics.blogspot.com/2009/10/cdk-molecules-in-rdf.html
 doi: 10.59350/r6xmq-16f84
-tags: cdk rdf
+tags: cdk rdf rdfa
 ---
 
 Yesterday, I finally got around to starting a [branch](http://github.com/egonw/cdk/tree/73-rdf) on adding RDF support to the

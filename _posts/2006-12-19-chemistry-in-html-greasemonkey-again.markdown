@@ -5,7 +5,7 @@ date:   2006-12-19
 modified_date: 2025-02-15
 doi: 10.59350/qwtr4-v2q49
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/chemistry-in-html-greasemonkey-again.html
-tags: userscript html rdf doi:10.1021/CI034244P nmrshiftdb
+tags: userscript html rdf doi:10.1021/CI034244P nmrshiftdb rdfa
 ---
 
 Here's a quick update on my blog about [SMILES, CAS and InChI in blogs: Greasemonkey <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/17/smiles-cas-and-inchi-in-blogs.html)

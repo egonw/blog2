@@ -5,7 +5,7 @@ date:   2010-01-28
 modified_date: 2026-04-19
 blogger-link: https://chem-bla-ics.blogspot.com/2010/01/semantic-web-features-in-bioclipse-22.html
 doi: 10.59350/6m8qd-xed40
-tags: java bioclipse rdf sparql
+tags: java bioclipse rdf sparql rdfa
 image: /assets/images/dbPediaMolTable.png
 ---
 

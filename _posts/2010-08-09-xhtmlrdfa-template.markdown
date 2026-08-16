@@ -4,7 +4,7 @@ title:  "XHTML+RDFa Template"
 date:   2010-08-09
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-template.html
 doi: 10.59350/1w7m9-br231
-tags: html rdf
+tags: html rdf rdfa
 ---
 
 There was some [more](http://jessykate.posterous.com/activity-streams-for-open-science) [discussion](http://jessykate.posterous.com/open-science-microformats-initial-thoughts)
