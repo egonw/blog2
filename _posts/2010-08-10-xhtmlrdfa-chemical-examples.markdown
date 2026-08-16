@@ -2,8 +2,9 @@
 layout: post
 title:  "XHTML+RDFa: chemical examples"
 date:   2010-08-10
+modified_date: 2026-08-16
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-chemical-examples.html
-doi: 10.59350/kkvt7-zpm64
+doi: 10.59350/kkvt7-zpm64 justdoi:10.59350/3basz-t0n97
 tags: html rdf
 ---
 
@@ -83,8 +84,7 @@ Meanwhile, the output simply looks like:
 This third, and for now last, example shows several other features. This HTML snippet show a one entry
 molecule table, very much like those molecular spreadsheets in Excel, but than right here in your webbrowser.
 (Can you imagine what happens if we mash this up with
-[JavaScript molecular viewers](http://depth-first.com/articles/2010/08/10/building-chemwriter-2-javascript-all-the-way-down)?
-Enjoying the idea already :)
+[JavaScript molecular viewers <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.59350/3basz-t0n97 :)
 
 <script src="https://gist.github.com/517927.js?file=gistfile1.html"></script>
 
