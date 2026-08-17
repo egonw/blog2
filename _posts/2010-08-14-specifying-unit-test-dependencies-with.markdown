@@ -2,9 +2,10 @@
 layout: post
 title:  "Specifying unit test dependencies with JExample"
 date:   2010-08-14 00:10
+modified_date: 2026-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/specifying-unit-test-dependencies-with.html
 doi: 10.59350/4xeej-wct60
-tags: java junit
+tags: java junit justdoi:10.1007/978-3-540-68255-4_8
 image: /blog/assets/images/jexample.png
 ---
 
@@ -79,11 +80,4 @@ Factory1: com.github.egonw.odk.model.MoleculeFactory@42b988a6
 ```
 
 This seems pretty useful. I am not sure yet if it solves all my dependency requirements, though. For example, what I really like to do, is link more complex tests to more than one more simpler tests, where it is clear that the complexer test will fail if one or more of the simpler tests fail. However, the JExample examples suggest that I can only define one dependency, whereas, for example, aromaticity detection depends on correct atom type perception, but also on ring detection. For now, this is a welcome extension of JUnit.
-
-**Further reading**:
-
-A. Kuhn, B. Van Rompaey, L. Hänsenberger, O. Nierstrasz, S. Demeyer, M. Gaelli, & K. Van Leemput (2008). JExample: Exploiting Dependencies Between
-Tests to Improve Defect Localization P. Abrahamsson (Ed.), *Extreme Programming and Agile Processes in Software Engineering, 9th International
-Conference, XP 2008, Lecture Notes in Computer Science*, 73-82 : [10.1007/978-3-540-68255-4_8](https://doi.org/10.1007/978-3-540-68255-4_8)
-
 
