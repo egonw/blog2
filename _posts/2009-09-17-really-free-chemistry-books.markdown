@@ -10,7 +10,7 @@ cited-in: cito:includesQuotationFrom:10.1038/nchem.2187
 ---
 
 With pleasure I read [Analogue or Digital? - Both, Please](http://opendotdotdot.blogspot.com/2009/09/analogue-or-digital-both-please.html).
-Funnily, I just created MP3 (or, preferably [Ogg Vorbis](http://en.wikipedia.org/wiki/Vorbis), superior but hardly
+Funnily, I just created MP3s (or, preferably [Ogg Vorbis](http://en.wikipedia.org/wiki/Vorbis), superior but hardly
 any support by commercial companies, who rather seem to pay license fees) directly from the CD.
 
 Anyway... the blog wanders of to Google introducing searchable books, with many out-of-copyright. I was wondering
