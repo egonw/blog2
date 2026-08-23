@@ -39,6 +39,37 @@ layout:
       {% for tag in post.tags %}{% assign check = tag | split:':' %}{% if check.size > 1 %}{% if check[0] == "doi" %}{% assign reference = "cites:" | append: check[1] %}{% capture references_tags %}{{ references_tags | append: reference | append: '|' }}{% endcapture %}{% assign has_references = true %}{% elsif check[0] == "justdoi" %}{% assign reference = "cites:" | append: check[1] %}{% capture references_tags %}{{ references_tags | append: reference | append: '|' }}{% endcapture %}{% assign has_references = true %}{% elsif check[0] == "cito" %}{% capture references_tags %}{{ references_tags | append: check[1] | append: ":" | append: check[2] | append: '|' }}{% endcapture %}{% assign has_references = true %}{% endif %}{% endif %}{% endfor %}
       {%- assign references_tags = references_tags | split: '|' -%}
       {% if has_references %}"_references": [{% for ref in references_tags %}{% assign check = ref | split:':' %}{% if check.size > 1 %}{ "url": "{{ "https://doi.org/" | append: check[1] }}", "doi": "{{ check[1] }}"{% if check[0] != "cites" %}, "cito": [ "{{ check[0] }}" ]{% endif %} }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}],{% endif %}
+      {%- assign citedin_tags = "" -%}{% assign has_citedin = false %}
+      {% for tag in post.cited-in %}
+        {% assign check = tag | split:':' %}
+        {% if check.size > 1 %}
+          {% if check[0] == "cito" %}
+            {% capture citedin_tags %}{{ citedin_tags | append: check[1] | append: ":" | append: check[2] | append: '|' }}{% endcapture %}
+            {% assign has_citedin = true %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      {% if has_citedin %}
+        {%- assign citedin_tags = citedin_tags | split: '|' -%}
+        "_citations": [
+        {% for ref in citedin_tags %}
+          {% assign check = ref | split:':' %}
+          {% if check.size > 1 %}
+            { "url": "{{ "https://doi.org/" | append: check[1] }}", "doi": "{{ check[1] }}"
+            , "cito":
+              {% assign citoTags = check[0] | split:',' %}
+              {% if citoTags.size > 0 %}
+                [ {% for citoTag in citoTags %}
+                  "{{ citoTag }}"
+                  {% unless forloop.last %},{% endunless %}
+                {% endfor %} ]
+              {% else %}
+                [ "{{ citoTags }}" ]
+              {% endif %} }
+            {% unless forloop.last %},{% endunless %}
+          {% endif %}
+        {% endfor %}],
+      {% endif %}
       {% if post.grants %}"_funding": [{% for grant in post.grants %}{"award": { "title" : "{{ grant.title }}", {% if grant.acronym %}"acronym" : "{{ grant.acronym }}", {% endif %}"uri" : "{% if grant.id %}{{ grant.id }}{% else %}{{ grant.uri }}{% endif %}" }, "funder": { "name": "{{ grant.funder.name }}", "ror": "{{ grant.funder.ror }}" } }{% unless forloop.last %},{% endunless %}{% endfor %}],{% endif %}
       {% assign authorCount = post.authors | size %}
       {% if authorCount == 0 %}

@@ -170,6 +170,56 @@ if (dois.length > 0) {
   </script>
 {% endif %}
 
+{% if page.cited-in %}
+  <div class="post-footer" id="citedInDIV" style="visibility: hidden">
+  <b class="post">Cited in</b>
+  <p class="post-meta" id="citedIn"></p>
+  </div>
+  <script>
+// const cite = new Cite() -> ALREADY DEFINED
+citingDois = []
+intentionMap = new Map()
+{% for tag in page.cited-in %}
+  {% assign check = tag | split:':' %}
+  {% if check.size > 1 %}
+    {% if check[0] == "cito" %}
+      {% capture doi %}{{ check[2] }}{% endcapture %}
+citingDois.push("{{ doi }}")
+intentionMap.set("{{ doi }}".toUpperCase(), "{{ check[1] }}")
+    {% endif %}
+  {% endif %}
+{% endfor %}
+console.log(citingDois)
+if (citingDois.length > 0) {
+  Cite.async(citingDois).then(function(cite) {
+    content = cite.format('bibliography', {
+      format: 'html', template : 'apa',
+      prepend: function (entry) {
+        return '<i class="fa-solid fa-file fa-xs"></i>&nbsp;'
+      },
+      append: function (entry) {
+        intentionStr = ""
+        if (intentionMap.has(entry.DOI.toUpperCase())) {
+          intentionList = intentionMap.get(entry.DOI.toUpperCase())
+          if (intentionList.includes(",")) {
+            var intentionArray = intentionList.split(',');
+            for (var i = 0; i < intentionArray.length; i++) {
+              intentionStr += " <b>[cito:" + intentionArray[i] + "]</b>"
+            }
+          } else {
+            intentionStr = " <b>[cito:" + intentionMap.get(entry.DOI.toUpperCase()) + "]</b>"
+          }
+        }
+        return intentionStr + ' <a href="https://doi.org/' + entry.DOI + '">CrossRef</a> <a href="https://qlever.scholia.wiki/doi/' + entry.DOI + '">Scholia</a>'
+      }
+    })
+    document.getElementById('citedIn').innerHTML = content
+    document.getElementById('citedInDIV').style.visibility = "visible"
+  })
+}
+  </script>
+{% endif %}
+
   {%- if page.comments -%}
     {%- include fedi_comments.html -%}
   {%- endif -%}
