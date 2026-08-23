@@ -7,6 +7,7 @@ doi: 10.59350/r9gwr-k2s81
 blogger-link: https://chem-bla-ics.blogspot.com/2006/12/counting-stereoisomers-from-molecular_17.html
 tags: cheminf cdk justdoi:10.1186/s13321-021-00529-9 justdoi:10.1186/s13321-022-00604-9
   inchikey:QEDCHCLHHGGYBT-UHFFFAOYSA-N inchikey:OTMSDBZUPAUEDD-UHFFFAOYSA-N
+cited-in: cito:discusses:10.1186/1471-2105-8-487
 ---
 
 **Update**: check [these](https://doi.org/10.1186/s13321-022-00604-9) [two](https://doi.org/10.1186/s13321-021-00529-9) papers.
