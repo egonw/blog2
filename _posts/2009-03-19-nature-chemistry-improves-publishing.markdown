@@ -8,6 +8,7 @@ image: /assets/images/nchem4.png
 blogger-link: https://chem-bla-ics.blogspot.com/2009/03/nature-chemistry-improves-publishing.html
 tags: inchi justdoi:10.1038/nchem.110 chemistry jmol justdoi:10.59350/jbq7c-szw40
   justdoi:10.59350/wn2pv-gef13
+cited-in: cito:includesQuotationFrom:10.1038/7238548c
 ---
 
 [Nature Chemistry](http://www.nature.com/nchem/) just released the first issue with a few free papers,

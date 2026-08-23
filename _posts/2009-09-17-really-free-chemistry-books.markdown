@@ -6,7 +6,7 @@ modified_date: 2026-08-23
 doi: 10.59350/d7yv8-1m885
 blogger-link: https://chem-bla-ics.blogspot.com/2009/09/really-free-chemistry-books.html
 tags: openscience publishing
-cited-in: cito:includesQuotationFrom:10.1038/nchem.2187
+cited-in: cito:includesQuotationFrom:10.1038/nchem.452
 ---
 
 With pleasure I read [Analogue or Digital? - Both, Please](http://opendotdotdot.blogspot.com/2009/09/analogue-or-digital-both-please.html).
