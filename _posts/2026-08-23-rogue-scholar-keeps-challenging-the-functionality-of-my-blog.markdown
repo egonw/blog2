@@ -8,10 +8,10 @@ tags: cito:citesAsRecommendedReading:10.63517/kshzw-ay335 blog cito:citesAsRecom
   mycito:discusses:10.1186/1471-2105-8-487 cito:usesMethodIn:10.7717/peerj-cs.214 cito:citesAsRecommendedReading:10.7717/peerj-cs.86
   cito:citesAsRecommendedReading:10.1045/january2015-brase json
 image: /assets/images/blogs_citedin.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: mastodon.social
+  username: egonw
+  id: 117145585022498858
 ---
 
 [Rogue Scholar](https://rogue-scholar.org/) continues to offer [awesome features](https://chem-bla-ics.linkedchemistry.info/2024/07/21/rogue-scholar-and-more.html).
