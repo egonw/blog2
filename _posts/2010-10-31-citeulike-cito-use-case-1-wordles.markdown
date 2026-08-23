@@ -6,6 +6,7 @@ modified_date: 2026-05-05
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/citeulike-cito-use-case-1-wordles.html
 tags: justdoi:10.1186/2041-1480-1-S1-S6 cito citeulike cdk wordle doi:10.1021/CI025584Y
 doi: 10.59350/npbqm-gfa49
+cited-in: cito:credits:10.1016/j.websem.2012.08.001
 ---
 
 Last month I reported a [few things I missed <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/09/17/list-of-things-i-miss-in-citeulike.html)

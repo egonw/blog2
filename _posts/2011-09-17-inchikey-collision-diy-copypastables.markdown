@@ -6,6 +6,7 @@ modified_date: 2025-02-23
 doi: 10.59350/pxxek-shz13
 blogger-link: https://chem-bla-ics.blogspot.com/2011/09/inchikey-collision-diy-copypastables.html
 tags: inchi inchikey:OCPAUTFLLNMYSX-UHFFFAOYSA-N
+cited-in: cito:citesForInformation:10.7324/RJC.2017.1011527
 ---
 
 About two weeks ago, the ChemConnector blog [reported an InChIKey collosion <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20110928120027/http://www.chemconnector.com/2011/09/01/an-inchikey-collision-is-discovered-and-not-based-on-stereochemistry/)

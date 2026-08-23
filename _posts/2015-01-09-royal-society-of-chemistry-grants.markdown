@@ -5,6 +5,7 @@ date:   2015-01-09
 doi: 10.59350/x3nam-7eb49
 blogger-link: https://chem-bla-ics.blogspot.com/2015/01/royal-society-of-chemistry-grants.html
 tags: chemistry openscience wikipedia
+cited-in: cito:citesForInformation:10.1038/nchem.2187
 ---
 
 The [Royal Society of Chemistry](http://www.rsc.org/) and [Wikipedia](http://www.wikipedia.org/)

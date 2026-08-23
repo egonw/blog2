@@ -7,6 +7,7 @@ doi: 10.59350/am2k8-ygc58
 blogger-link: https://chem-bla-ics.blogspot.com/2006/09/chemical-archeology-oscar3-to.html
 tags: oscar bioclipse acs chemistry justdoi:10.1039/b411033a textmining justdoi:10.1039/b411699m nmrshiftdb
 image: /assets/images/oscar1.png
+cited-in: cito:citesForInformation:10.1186/1758-2946-3-37
 ---
 
 Chemical Archeology (see [Christoph's comment](http://wiki.cubic.uni-koeln.de/blog/pivot/entry.php?id=7#body)) is the

@@ -6,6 +6,7 @@ modified_date: 2025-02-15
 doi: 10.59350/hfw6p-d6p02
 blogger-link: https://chem-bla-ics.blogspot.com/2007/11/r-based-genetic-algorithm.html
 tags: rstats chemometrics
+cited-in: cito:usesMethodIn:10.1007/s10489-009-0203-x
 ---
 
 During my PhD I wrote a simple but [effective genetic algorithm](http://cran.r-project.org/src/contrib/Descriptions/genalg.html) package for
