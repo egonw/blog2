@@ -3,11 +3,11 @@ layout: post
 title:  "Crossref, how do I get old blog post URLs linked to the new DOIs?"
 date:   2026-08-31
 doi: 10.59350/f33zw-5ry04
-tags: blog doi
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+tags: blog doi justdoi:10.59787/2413-5488-2025-49-1-83-92 justdoi:10.53731/zyg15-qv911 justdoi:10.59350/65nqr-3w351
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 117191782409428183
 ---
 
 Now that [Rogue Scholar](https://rogue-scholar.org/) is getting [serious about citations to blog posts](https://doi.org/10.53731/zyg15-qv911)
