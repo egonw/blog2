@@ -22,3 +22,7 @@ But how does it know? When Rogue Scholar registers a DOI, I assume it passes on 
 For example, I used blogger.com for many years (with satisfaction) and [the URLs of the posts have changed](https://chem-bla-ics.linkedchemistry.info/2023/08/18/last-post-here-freebie-model-online.html)!
 
 Crossref, how do I get the old blog post URLs also linked to the DOI?
+
+For example, the doi [10.59350/65nqr-3w351](https://doi.org/10.59350/65nqr-3w351) links now to
+[https://chem-bla-ics.linkedchemistry.info/2023/08/18/last-post-here-freebie-model-online.html](https://chem-bla-ics.linkedchemistry.info/2023/08/18/last-post-here-freebie-model-online.html)
+but originally the URL was [https://chem-bla-ics.blogspot.com/2023/08/last-post-here-freebie-model-online.html](https://chem-bla-ics.blogspot.com/2023/08/last-post-here-freebie-model-online.html).
