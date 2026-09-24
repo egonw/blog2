@@ -5,10 +5,10 @@ date:   2026-09-24
 doi: 10.59350/1qayb-w6z38
 tags: publishing openaccess
 image: /assets/images/greenOA_URLs.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 117325029868762201
 ---
 
 [Gold Open Access](https://legacy.earlham.edu/~peters/fos/overview.htm) is literature that has an explicit open license, like CC-BY.
