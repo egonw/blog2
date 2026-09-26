@@ -1,0 +1,114 @@
+{% comment %}
+  Tag cloud of the most used tags, linking to the tag pages; the other tags are listed below it.
+  Tags with a ':' (doi:, justdoi:, inchikey:, cito:, ...) are not tags in this sense and are skipped.
+  Without JavaScript, the cloud tags are shown as a list of links sized by frequency;
+  with JavaScript, d3-cloud lays them out as a word cloud.
+  Parameters:
+    size - optional, the number of tags in the cloud (default 60)
+{% endcomment %}
+{%- assign cloud_size = include.size | default: 60 -%}
+{%- comment -%} sort key: 100000 - count, so that sorting gives the most used tags first, then alphabetical {%- endcomment -%}
+{%- assign ranked = "" | split: "" -%}
+{%- for tag in site.tags -%}
+  {%- unless tag[0] contains ":" -%}
+    {%- assign key = 100000 | minus: tag[1].size -%}
+    {%- capture entry %}{{ key }}|{{ tag[0] }}|{{ tag[1].size }}{% endcapture -%}
+    {%- assign ranked = ranked | push: entry -%}
+  {%- endunless -%}
+{%- endfor -%}
+{%- assign ranked = ranked | sort -%}
+{%- assign max_count = ranked.first | split: "|" | last | plus: 0 -%}
+<div class="tag-cloud" id="tag-cloud">
+  <p class="tag-cloud-words">
+  {%- for entry in ranked limit: cloud_size -%}
+    {%- assign parts = entry | split: "|" -%}
+    {%- assign size = parts[2] | times: 150 | divided_by: max_count | plus: 90 %}
+    <a href="{{ '/tag/' | append: parts[1] | relative_url }}" data-count="{{ parts[2] }}" title="{{ parts[1] }}: {{ parts[2] }} post(s)" style="font-size: {{ size }}%">{{ parts[1] }}</a>
+  {%- endfor %}
+  </p>
+</div>
+
+{%- assign others = "" | split: "" -%}
+{%- for entry in ranked offset: cloud_size -%}
+  {%- assign parts = entry | split: "|" -%}
+  {%- assign others = others | push: parts[1] -%}
+{%- endfor -%}
+{%- assign others = others | sort_natural -%}
+{%- if others.size > 0 %}
+<h3>More tags</h3>
+<p class="tag-list">
+  {%- for tag_name in others %}
+  <a href="{{ '/tag/' | append: tag_name | relative_url }}">{{ tag_name }}</a>
+  {%- endfor %}
+</p>
+{%- endif %}
+
+<style>
+  .tag-cloud .tag-cloud-words a { display: inline-block; margin: 0 0.4em; line-height: 1.6; }
+  .tag-cloud svg a:hover text, .tag-cloud svg a:focus text { text-decoration: underline; opacity: 0.8; }
+  .tag-list a { color: #000; margin-right: 0.6em; }
+</style>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-cloud@1.2.9/build/d3.layout.cloud.js"></script>
+<script>
+(function () {
+  var container = document.querySelector("#tag-cloud .tag-cloud-words");
+  if (!container || !window.d3 || !d3.layout || !d3.layout.cloud) return;
+
+  var words = Array.prototype.map.call(container.querySelectorAll("a"), function (a) {
+    return { text: a.textContent, href: a.getAttribute("href"), title: a.title, count: +a.dataset.count };
+  });
+  var width = container.clientWidth || 800;
+  var minCount = d3.min(words, function (d) { return d.count; });
+  var maxCount = d3.max(words, function (d) { return d.count; });
+  var size = d3.scaleSqrt().domain([minCount, maxCount]).range([14, width < 500 ? 36 : 60]);
+  var colors = ["#c2410c", "#1a1a1a", "#ea580c", "#666666", "#9a3412", "#8c8c8c"]; // shades of orange, black, and grey
+
+  layout(Math.round(Math.min(400, Math.max(260, width * 0.5))), 0);
+
+  // lay out the words; if not all of them fit, retry with a taller area
+  function layout(height, attempt) {
+    d3.layout.cloud()
+      .size([width, height])
+      .words(words.map(function (d) { return Object.assign({}, d); }))
+      .padding(3)
+      .rotate(0)
+      .font("-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif")
+      .fontWeight("600")
+      .fontSize(function (d) { return size(d.count); })
+      .random(d3.randomLcg(42)) // same layout on every page load
+      .on("end", function (placed) {
+        if (placed.length === words.length) draw(placed, height);
+        else if (attempt < 5) layout(Math.round(height * 1.25), attempt + 1);
+        // otherwise keep the plain list of links
+      })
+      .start();
+  }
+
+  function draw(placed, height) {
+    var svg = d3.create("svg")
+      .attr("viewBox", [0, 0, width, height])
+      .attr("width", "100%")
+      .attr("role", "list")
+      .attr("aria-label", "Tag cloud");
+    var links = svg.append("g")
+      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")")
+      .selectAll("a")
+      .data(placed)
+      .join("a")
+        .attr("href", function (d) { return d.href; })
+        .attr("role", "listitem");
+    links.append("title").text(function (d) { return d.title; });
+    links.append("text")
+      .attr("text-anchor", "middle")
+      .attr("transform", function (d) { return "translate(" + d.x + "," + d.y + ")"; })
+      .style("font-family", function (d) { return d.font; })
+      .style("font-weight", function (d) { return d.weight; })
+      .style("font-size", function (d) { return d.size + "px"; })
+      .style("fill", function (d, i) { return colors[i % colors.length]; })
+      .text(function (d) { return d.text; });
+    container.replaceWith(svg.node());
+  }
+})();
+</script>
