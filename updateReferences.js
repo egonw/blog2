@@ -7,7 +7,12 @@
 
 const fs = require('fs')
 const path = require('path')
-const Cite = require('citation-js')
+
+// Load Citation.js
+const { Cite } = require('@citation-js/core')
+// Load plugins
+require('@citation-js/plugin-doi')
+require('@citation-js/plugin-csl')
 
 const cacheFile = '_data/references.json'
 const cache = fs.existsSync(cacheFile) ? JSON.parse(fs.readFileSync(cacheFile, 'utf8')) : {}
