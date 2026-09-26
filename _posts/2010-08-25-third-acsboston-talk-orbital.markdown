@@ -5,7 +5,7 @@ date:   2010-08-25
 modified_date: 2026-09-04
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/third-acsboston-talk-orbital.html
 doi: 10.59350/megf3-r4f87
-tags: acsrdf acs rdf justdoi:10.5281/zenodo.3345005
+tags: acsrdf2010 acs rdf justdoi:10.5281/zenodo.3345005
 image: /assets/images/acsrdf_presentation2.png
 ---
 

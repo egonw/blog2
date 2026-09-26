@@ -4,7 +4,7 @@ title:  "new project: \"COVID-19 Disease Maps\""
 date:   2020-05-07
 blogger-link: https://chem-bla-ics.blogspot.com/2020/05/new-project-covid-19-disease-maps.html
 doi: 10.59350/q9h5d-h9j15
-tags: covid wikipathways wikidata sparql complexportal doi:10.1038/S41597-020-0477-8
+tags: covid19 wikipathways wikidata sparql complexportal doi:10.1038/S41597-020-0477-8
   doi:10.1101/2020.04.05.026336
 image: /assets/images/WP4846_110308.png
 ---
