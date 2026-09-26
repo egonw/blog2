@@ -31,7 +31,7 @@ social:
 theme: minima
 paginate: 7
 show_excerpts: true
-exclude: [Makefile, package.json, package-lock.json, updateReferences.js]
+exclude: [Makefile, package.json, package-lock.json, updateReferences.js, findTags.groovy]
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
