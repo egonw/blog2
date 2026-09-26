@@ -6,7 +6,7 @@ modified_date: 2026-08-17
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/specifying-unit-test-dependencies-with.html
 doi: 10.59350/4xeej-wct60
 tags: java junit justdoi:10.1007/978-3-540-68255-4_8
-image: /blog/assets/images/jexample.png
+image: /assets/images/jexample.png
 ---
 
 A while ago [I asked on StackOverflow](http://stackoverflow.com/questions/2584629/how-can-i-specifiy-junit-test-dependencies) about options
@@ -47,7 +47,7 @@ passed as argument to the second test method.
 Just to show that the system actually works, you can find a screenshot of the [Eclipse](http://www.eclipse.org/) JUnit View
 (the JExample update site did not work with Eclipse 3.6, so I have the JExample jar defined as build dependency in the project instead):
 
-![](/blog/assets/images/jexample.png)
+![](/assets/images/jexample.png)
 
 Clearly, only one test failed, while the *testNewMolecule()* method was ignored.
 

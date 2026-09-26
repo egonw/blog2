@@ -5,7 +5,7 @@ date:   2010-09-04 00:00
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/data-duplication-at-mendeley.html
 doi: 10.59350/v88dk-dxc88
 tags: opendata publishing
-image: /blog/assets/images/readermeter.png
+image: /assets/images/readermeter.png
 ---
 
 Earlier this year I gave [Mendeley](http://www.mendeley.com/) a try, after having been a happy
@@ -24,7 +24,7 @@ Moreover, Mendeley has momentum and is starting to provide interesting apps arou
 [readermeter.org](http://readermeter.org/willighagen.egon_l/refresh). And since being a scientist is
 playing the publishing game, one just must add once papers to these systems, just advertise them:
 
-![](/blog/assets/images/readermeter.png)
+![](/assets/images/readermeter.png)
 
 This brings us to problem #1: author identity, which is a general problem and addressed by projects
 like [ORCID](http://blogs.nature.com/mfenner/2010/01/03/orcid-or-how-to-build-a-unique-identifier-for-scientists-in-10-easy-steps).
