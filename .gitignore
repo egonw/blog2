@@ -6,4 +6,5 @@ _posts/template.markdown
 tips.txt
 _layouts/postxxx.json
 
+package-lock.json
 node_modules/
