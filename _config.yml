@@ -9,9 +9,6 @@ url: "https://chem-bla-ics.linkedchemistry.info" # the base hostname & protocol 
 mastodon:
   username: egonw
   instance: social.edu.nl
-mastodon:
-  username: egonw
-  instance: mastodon.social
 social:
   - title: GitHub
     platform: github
@@ -22,6 +19,9 @@ social:
   - title: Mastodon
     platform: mastodon
     user_url: https://social.edu.nl/@egonw
+  - title: Mastodon
+    platform: mastodon
+    user_url: https://mastodon.social/@egonw
   - title: LinkedIn
     platform: linkedin
     user_url: https://www.linkedin.com/in/egon-willighagen/
