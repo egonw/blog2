@@ -18,6 +18,9 @@
   {% if page.doi %}<meta name="citation_doi" content="{{ page.doi }}">{% endif %}
 
   <link type="application/feed+json" rel="alternate" href="https://chem-bla-ics.linkedchemistry.info/feed.json" title="chem-bla-ics">
+  {%- if page.collection == "posts" %}
+  <link type="application/feed+json" rel="alternate" href="{{ page.url | replace: '.html', '.json' | absolute_url }}" title="{{ page.title | escape }}">
+  {%- endif %}
 
   <link href="https://mastodon.social/@egonw" rel="me" />
   <link href="https://social.edu.nl/@egonw" rel="me" />
