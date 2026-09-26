@@ -5,3 +5,5 @@ _posts/template.markdown
 .bundle/
 tips.txt
 _layouts/postxxx.json
+
+node_modules/

@@ -1,0 +1,46 @@
+{%- comment -%}
+  Lists the APA-formatted references for include.dois, taken from _data/references.json (see 'make updateReferences').
+  Parameters:
+    dois    - the DOIs to list, each optionally followed by '@@' and comma-separated CiTO intents
+    title   - optional, shows the list as a post footer with this title
+    prepend - optional, "icon" for a file icon, "work" for an icon and a link to the work page
+    id      - optional, the HTML id of the list (default "bibliography"), needed when a page has more than one list
+  Outputs nothing if none of the DOIs are cached.
+{%- endcomment -%}
+{%- assign references = "" | split: "" -%}
+{%- for doi_intents in include.dois -%}
+  {%- assign parts = doi_intents | split: "@@" -%}
+  {%- assign doi = parts[0] -%}
+  {%- assign reference = site.data.references[doi] -%}
+  {%- if reference -%}
+    {%- capture sortable %}{{ reference }}@@{{ doi_intents }}{% endcapture -%}
+    {%- assign references = references | push: sortable -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if references.size > 0 -%}
+  {%- assign references = references | uniq | sort_natural -%}
+  {%- assign id = include.id | default: "bibliography" -%}
+  {%- if include.title %}
+  <div class="post-footer" id="{{ id }}DIV">
+  <b class="post">{{ include.title }}</b>
+  <div class="post-meta" id="{{ id }}">
+  {%- endif %}
+  <div class="csl-bib-body">
+  {%- for sortable in references %}
+    {%- assign parts = sortable | split: "@@" -%}
+    {%- assign doi = parts[1] -%}
+    {%- assign intents = parts[2] | split: "," %}
+    <div class="csl-entry">
+      {%- if include.prepend == "icon" -%}
+        <i class="fa-solid fa-file fa-xs"></i>&nbsp;
+      {%- elsif include.prepend == "work" -%}
+        <i class="fa-solid fa-file fa-xs"></i><a href="{{ doi | upcase | prepend: '/work/' | relative_url }}"><code class="highligher-rouge"><nobr>{{ doi }}</nobr></code></a>&nbsp;
+      {%- endif -%}
+      {{ parts[0] }}{% for intent in intents %} <b>[cito:{{ intent }}]</b>{% endfor %} <a href="https://doi.org/{{ doi }}">CrossRef</a> <a href="https://qlever.scholia.wiki/doi/{{ doi }}">Scholia</a></div>
+  {%- endfor %}
+  </div>
+  {%- if include.title %}
+  </div>
+  </div>
+  {%- endif %}
+{%- endif -%}
