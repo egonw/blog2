@@ -28,10 +28,7 @@ layout:
     {% endif %}<id>{{ page_url }}</id>
     <content type="html" xml:base="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
       <![CDATA[ {{ post.content }}
-      <h4>References</h4>
-      <ul>{% for tag in post.tags %}{% assign check = tag | split:':' %}{% if check.size > 1 %}
-        {% if check[0] == "doi" %}<li><a href="https://doi.org/{{ check[1] }}">{{ check[1] }}</a></li>{% elsif check[0] == "justdoi" %}<li><a href="https://doi.org/{{ check[1] }}">{{ check[1] }}</a></li>{% endif %}{% endif %}
-      {% endfor %}</ul>
+      {% include feed-references.html tags=post.tags %}
       ]]>
     </content>
     {% assign authorCount = post.authors | size %}

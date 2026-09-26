@@ -1,0 +1,24 @@
+{%- comment -%}
+  The References of a post for the feeds: an <h4> header and the APA-formatted list with
+  CiTO annotations (see references.html), or nothing if none of the DOIs are cached.
+  Parameters:
+    tags - the tags of the post
+{%- endcomment -%}
+{%- assign feed_dois = "" | split: "" -%}
+{%- for tag in include.tags -%}
+  {%- assign check = tag | split:':' -%}
+  {%- if check.size > 1 -%}
+    {%- if check[0] == "doi" or check[0] == "justdoi" -%}
+      {%- assign feed_dois = feed_dois | push: check[1] -%}
+    {%- elsif check[0] == "cito" or check[0] == "mycito" -%}
+      {%- capture doi_intents %}{{ check[2] }}@@{{ check[1] }}{% endcapture -%}
+      {%- assign feed_dois = feed_dois | push: doi_intents -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- capture feed_references %}{% include references.html dois=feed_dois %}{% endcapture -%}
+{%- assign feed_references = feed_references | strip -%}
+{%- if feed_references != "" %}
+<h4>References</h4>
+{{ feed_references }}
+{%- endif -%}

@@ -25,7 +25,8 @@ layout:
       {% endif %}"id": "{{ page_url }}",
       "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
       "title": "{{ post.title | xml_escape }}",
-      "content_html": {{ post.content | strip | jsonify }},
+      {%- capture feed_refs %}{% include feed-references.html tags=post.tags %}{% endcapture %}
+      "content_html": {{ post.content | append: feed_refs | strip | jsonify }},
       "summary": "{{ post.excerpt | strip_html | normalize_whitespace }}",
       {% if post.image %}"image": "{{ post.image | prepend: site.baseurl | prepend: site.url }}",{% endif %}
       "date_published": "{{ post.date | date_to_xmlschema }}",
