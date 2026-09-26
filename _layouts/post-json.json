@@ -1,12 +1,15 @@
 ---
-layout: 
 ---
+{%- comment -%}
+  A JSON Feed with just one post, page.post. These pages are made by _plugins/post_json.rb,
+  one for each post, e.g. /2026/07/13/foo.json next to /2026/07/13/foo.html.
+{%- endcomment -%}
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "{{ site.title | xml_escape }}",
   "description": "{{ site.description | xml_escape }}",
   "home_page_url": "{{ site.url }}{{ site.baseurl }}/",
-  "feed_url": "{{ site.url }}{{ site.baseurl }}/feed.json",
+  "feed_url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
   "icon": "{{ site.url }}{{ site.baseurl }}/assets/images/chem-bla-ics_logo.png",
   "language": "en",
   "authors": [
@@ -16,7 +19,7 @@ layout:
       "_orcid": "0000-0001-7542-0286"
     }
   ],
-  "items": [{% for post in site.posts limit:10 %}
-{% include feed-item.json post=post %}{% unless forloop.last %},{% endunless %}{% endfor %}
+  "items": [
+{% include feed-item.json post=page.post %}
   ]
 }
