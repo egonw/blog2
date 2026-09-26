@@ -2,10 +2,11 @@
 layout: post
 title:  "Where do the WikiPathways come from?"
 date:   2026-02-22
+modified_date: 2026-09-26
 doi: 10.59350/6smn2-ah530
 tags: "wikipathways rdf justdoi:10.1093/database/bar032 sparql justdoi:10.1093/nar/gkt1063 justdoi:10.1093/nar/gkad896
   doi:10.1007/978-3-030-67727-5_73 justdoi:10.1007/s12263-010-0192-8 justdoi:10.1371/journal.pcbi.1004941
-  justdoi:10.1007/s12263-010-0192-8 justdoi:10.37044/osf.io/m37f2_v1"
+  justdoi:10.1007/s12263-010-0192-8 justdoi:10.37044/osf.io/m37f2_v1
 image: /assets/images/wikipathways_authorList.png
 comments:
   host: social.edu.nl
