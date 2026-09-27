@@ -182,8 +182,61 @@ String convert(org.jsoup.nodes.Node node) {
   }
 }
 
+// download images from Blogger into /assets/images/ (links to Posterous images are left as they are)
+imagesDir = new File("../assets/images")
+localImages = [:] // original URL -> local path
+
+// returns the local path of the image, or null if it could not be downloaded
+String localImage(String url) {
+  if (localImages.containsKey(url)) return localImages[url]
+  def bytes, disposition
+  try {
+    def connection = new URL(url).openConnection()
+    bytes = connection.inputStream.bytes
+    disposition = connection.getHeaderField("Content-Disposition") ?: ""
+  } catch (Exception exception) {
+    System.err.println("Warning: could not download ${url}, keeping the original URL: ${exception.message}")
+    return localImages[url] = null
+  }
+  // Blogger gives the original file name, which is not always in the URL
+  def dispositionName = (disposition =~ /filename="?([^";]+)"?/)
+  def name = dispositionName.find() ? dispositionName.group(1) : URLDecoder.decode(url.tokenize("/").last(), "UTF-8")
+  name = name.replaceAll(/[^A-Za-z0-9._-]/, "_")
+  def base = name.replaceAll(/\.\w+$/, "")
+  def ext = name.substring(base.length())
+  // on a file name collision, reuse the existing image if identical, otherwise add a suffix
+  def file = new File(imagesDir, name)
+  for (int i = 1; file.exists() && file.bytes != bytes; i++) file = new File(imagesDir, "${base}-${i}${ext}")
+  if (file.exists()) {
+    println "Reusing the identical ${file.name}"
+  } else {
+    file.bytes = bytes
+    println "Saved ${url} as ${file.name}"
+  }
+  return localImages[url] = "/blog/assets/images/" + file.name
+}
+
 postHtml = org.jsoup.Jsoup.parseBodyFragment(entry.content.text())
 postHtml.outputSettings().prettyPrint(false)
+
+if (!imagesDir.isDirectory()) {
+  System.err.println("Warning: ${imagesDir} not found, so not downloading images. Run this script from the _posts/ folder.")
+} else {
+  def isBlogger = { String url -> url ==~ /https?:\/\/(blogger\.googleusercontent\.com|\d\.bp\.blogspot\.com)\/.*/ }
+  postHtml.select("img").each { img ->
+    // Blogger links a thumbnail to the full size image, so download the latter and drop the link
+    def link = img.parent()
+    def thumbnail = link.tagName() == "a" && link.childNodeSize() == 1 && isBlogger(link.attr("href"))
+    def url = thumbnail ? link.attr("href") : img.attr("src")
+    if (!isBlogger(url) || url.contains("/tracker/")) return
+    def local = localImage(url)
+    if (local == null) return
+    img.attr("src", local)
+    if (thumbnail) link.unwrap()
+  }
+}
+firstImage = localImages.values().find { it != null }
+
 markdown = restore(tidy(children(postHtml.body())).trim()).replace(HARDBR, "  ") + "\n"
 
 content = """---
@@ -191,7 +244,7 @@ layout: post
 title:  "${title.first().attr("content")}"
 date:   ${year}-${month}-${day}
 blogger-link: ${blogpost}
-doi: ${doi}
+doi: ${doi}${firstImage ? "\nimage: " + firstImage : ""}
 tags:
 ---
 
