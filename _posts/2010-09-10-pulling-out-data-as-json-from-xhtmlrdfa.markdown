@@ -5,7 +5,7 @@ date:   2010-09-10
 modified_date: 2026-09-27
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/pulling-out-data-as-json-from-xhtmlrdfa.html
 doi: 10.59350/zjj1y-ave93
-tags: chemistry html rdfa sparql
+tags: chemistry html rdfa sparql json
 ---
 
 I am keen on [RDFa](/blog/tag/rdfa) and [RDF <i class="fa-solid fa-recycle fa-xs"></i>](http://sv.wikipedia.org/wiki/Resource_Description_Framework) in general; that should not be a surprise.
