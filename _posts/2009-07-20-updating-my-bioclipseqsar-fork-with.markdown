@@ -6,11 +6,12 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/07/updating-my-bioclipseqsa
 doi: 10.59350/5sxn7-4va27
 tags: bioclipse git github
 image: /assets/images/githubUpdatingMyFork.png
+modified_date: 2026-09-27
 ---
 
 [GitHub](http://github.com/) makes forking cheap, and I have a [fork](http://github.com/egonw/bioclipse.qsar/tree/master) of the
 [bioclipse.qsar](http://github.com/olas/bioclipse.qsar/tree/master) repository (see
-[Bioclipse moving to GitHub: CIA hooks enabled](http://chem-bla-ics.blogspot.com/2009/07/bioclipse-moving-to-github-cia-hooks.html)),
+[Bioclipse moving to GitHub: CIA hooks enabled <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/07/15/bioclipse-moving-to-github-cia-hooks.html)),
 so that I can easily share my patches with Ola for review. Ola can review them and apply them back into his main version.
 
 I was wondering how I could bring my fork synchronized with Ola's version again, and found the answer in this guide on GitHub.

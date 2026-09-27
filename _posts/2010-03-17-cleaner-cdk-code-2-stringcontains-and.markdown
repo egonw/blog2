@@ -5,9 +5,10 @@ date:   2010-03-17
 blogger-link: https://chem-bla-ics.blogspot.com/2010/03/cleaner-cdk-code-2-stringcontains-and.html
 doi: 10.59350/kf1jt-xmf65
 tags: cdk java
+modified_date: 2026-09-27
 ---
 
-Second in the series (see [#1](http://chem-bla-ics.blogspot.com/2010/03/cleaner-cdk-code-1-list-and-for-each.html)),
+Second in the series (see [#1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/07/cleaner-cdk-code-1-list-and-for-each.html)),
 with two rather small tips.
 
 ## Use String.contains() instead of String.indexOf("foo") != -1

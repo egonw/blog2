@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/10/work-in-progress-open-do
 doi: 10.59350/qfnkc-xtx89
 tags: cdk javadoc java xml
 image: /assets/images/ojdcheckXHTML.png
+modified_date: 2026-09-27
 ---
 
 While it is still very much in progress, I have already made more progress than I had hoped for. The [JavaDoc Doclet API](http://java.sun.com/j2se/1.5.0/docs/guide/javadoc/doclet/spec/index.html)
@@ -16,7 +17,7 @@ DocCheck is [MIA](http://en.wikipedia.org/wiki/Missing_In_Action).
 
 Instead, [PMD](http://pmd.sf.net/) is given nice overviews of what it believes to be wrong with the CDK, and also provides a decent XML
 format which allows extraction of information, which is used by, for example, [SuperNightly](http://pele.farmbio.uu.se/supernightly/) as
-showed yesterday in [PMD 2.4.5 installed in the CDK 1.2.x branch](http://chem-bla-ics.blogspot.com/2009/10/pmd-245-installed-in-cdk-12x-branch.html).
+showed yesterday in [PMD 2.4.5 installed in the CDK 1.2.x branch <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/10/16/pmd-245-installed-in-cdk-12x-branch.html).
 
 I have been pondering about it for a long time now, but writing a JavaDoc checking library is hardly core cheminformatics research;
 at least, you would not get funding for it, despite everyone always complaining about good documentation. *Alas*.

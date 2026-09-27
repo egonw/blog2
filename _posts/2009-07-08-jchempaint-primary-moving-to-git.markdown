@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/07/jchempaint-primary-movin
 doi: 10.59350/vrevg-x5008
 tags: jchempaint git cdk
 image: /assets/images/jcpGit.png
+modified_date: 2026-09-27
 ---
 
 I knew it was going to be painful, but making the [jchempaint-primary branch](http://cdk.svn.sourceforge.net/viewvc/cdk/cdk/branches/jchempaint-primary/)
@@ -28,5 +29,5 @@ work to be done, as is clear from the [Nightly running on the SVN branch](http:/
 
 Finally, I like to note that this git repository collapses a lot of work done by developers at both Uppsala University (Arvid, Ola and me)
 and the EBI ([Gilleain](http://gilleain.blogspot.com/), Stefan and now Mark). While the above git history will not reflect those contributions,
-you can recover this information from the [copyright headers](http://chem-bla-ics.blogspot.com/2009/06/making-patches-attribution-copyright.html).
+you can recover this information from the [copyright headers <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/06/30/making-patches-attribution-copyright.html).
 I also like to thank Lars and Sam for their valuable testing!

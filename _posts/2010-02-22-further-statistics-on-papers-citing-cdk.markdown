@@ -5,10 +5,10 @@ date:   2010-02-22
 blogger-link: https://chem-bla-ics.blogspot.com/2010/02/further-statistics-on-papers-citing-cdk.html
 doi: 10.59350/65fss-f1y18
 tags: cdk doi:10.1021/CI025584Y
-modified_date: 2026-05-05
+modified_date: 2026-09-27
 ---
 
-I already gave a [wordle](http://chem-bla-ics.blogspot.com/2010/02/wordle-of-titles-of-20-most-recent.html) of the titles of papers citing the
+I already gave a [wordle <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/21/wordle-of-titles-of-20-most-recent.html) of the titles of papers citing the
 [first CDK paper](http://pubs.acs.org/doi/abs/10.1021/ci025584y). Below follows some additional statistics: the number of papers that use a particular
 [CDK](http://cdk.sf.net/) package (51). Now, this numbers are a bit rough, and surely any paper that uses the CDK is bound to use the IO or
 SMILES package too. Additionally, for 10 papers I was not sure what CDK functionality they used, so I assigned those to the root package.

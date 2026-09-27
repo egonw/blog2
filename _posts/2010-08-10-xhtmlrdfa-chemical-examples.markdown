@@ -2,15 +2,15 @@
 layout: post
 title:  "XHTML+RDFa: chemical examples"
 date:   2010-08-10
-modified_date: 2026-08-16
+modified_date: 2026-09-27
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-chemical-examples.html
 doi: 10.59350/kkvt7-zpm64
 tags: html rdf justdoi:10.59350/3basz-t0n97 justdoi:10.1021/ja01193a005 rdfa
 ---
 
-Steffen [asked](http://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-template.html?showComment=1281418346085#c5562162287116420044)
+Steffen [asked <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/09/xhtmlrdfa-template.html?showComment=1281418346085#c5562162287116420044)
 me if I could also provide a few examples on how to actually put RDF triples in the HTML, as the
-[template](http://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-template.html) I gave yesterday is a mere empty canvas to draw the
+[template <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/09/xhtmlrdfa-template.html) I gave yesterday is a mere empty canvas to draw the
 triples on. There are actually [various examples <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/tag/rdfa)
 in my blog, which I will summarize here.
 
@@ -20,7 +20,7 @@ will see in the example.
 
 ### A molecule SMILES
 
-The [oldest RDFa example](http://chem-bla-ics.blogspot.com/2006/12/including-smiles-cml-and-inchi-in.html) in my blog is from
+The [oldest RDFa example <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/12/10/including-smiles-cml-and-inchi-in.html) in my blog is from
 2006. That was almost two years before the final [Recommendation](http://www.w3.org/TR/2008/REC-rdfa-syntax-20081014), and
 is not quite accurate anymore. But here's the correct version:
 
@@ -37,7 +37,7 @@ Note that this URI is relative to the URI of the HTML page in which it is embedd
 Yeah, fair point. Just make a point with your publisher when you submit a new paper. It is the duty of the publisher and
 your software vendor to do this right. In 2008 I wrote a small [Ubiquity](https://wiki.mozilla.org/Labs/Ubiquity) script
 to automagically
-[convert an InChI into semantified HTML content](http://chem-bla-ics.blogspot.com/2008/09/ubiquity-fun-entering-semantic-markup.html).
+[convert an InChI into semantified HTML content <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/09/01/ubiquity-fun-entering-semantic-markup.html).
 But I am not sure this script still works. If interesting, let me know, and I will revive the Firefox thingy.
 
 ### And why would I want to do it anyway??
@@ -45,12 +45,12 @@ But I am not sure this script still works. If interesting, let me know, and I wi
 Because software can more easily understand what you mean. This is why Google is now pushing
 [rich snippets](http://googlewebmastercentral.blogspot.com/2009/05/introducing-rich-snippets.html).
 [Chemical blogspace](http://cb.openmolecules.net/) understands them too, allowing you to see
-[blog posts about molecules on other webpages](http://chem-bla-ics.blogspot.com/2007/05/cb-comments-for-inchis.html).
+[blog posts about molecules on other webpages <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/05/05/cb-comments-for-inchis.html).
 With a simple bit of JavaScript you can link from your webpages, you can
-[enrich your HTML sites with semantic chemistry](http://chem-bla-ics.blogspot.com/2007/01/chemistry-in-html-javascript-from.html) yourself.
+[enrich your HTML sites with semantic chemistry <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/02/chemistry-in-html-javascript-from.html) yourself.
 [Bioclipse](http://www.bioclipse.net/) also has no problem with extracting
-[the RDF from HTML](http://chem-bla-ics.blogspot.com/2010/01/semantic-web-features-in-bioclipse-22.html).
-Even [Firefox can understand it](http://chem-bla-ics.blogspot.com/2010/07/scripts-logs-as-htmlrdfa-mix-free-text.html).
+[the RDF from HTML <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/01/28/semantic-web-features-in-bioclipse-22.html).
+Even [Firefox can understand it <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/07/19/scripts-logs-as-htmlrdfa-mix-free-text.html).
 Really, there is no end to it.
 
 Of course, why you should do this comes basically down to Molecular Chemometrics Principle #2, but I have not written that
@@ -59,7 +59,7 @@ on up yet (see also [McPrinciple #1](http://chem-bla-ics.blogspot.com/2010/08/mo
 ### Reporting problems with molecular representations
 
 More recently, I reported about using RDFa in human readable log file for computations I am doing (see
-[Scripts logs as HTML+RDFa: mix free text reporting with CSV](http://chem-bla-ics.blogspot.com/2010/07/scripts-logs-as-htmlrdfa-mix-free-text.html)). 
+[Scripts logs as HTML+RDFa: mix free text reporting with CSV <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/07/19/scripts-logs-as-htmlrdfa-mix-free-text.html)). 
 That code looks like:
 
 <script src="https://gist.github.com/517889.js?file=gistfile1.html"></script>
@@ -70,7 +70,7 @@ the document, e.g. [this one](http://rdf.farmbio.uu.se/uppmax-cdk/results.html).
 
 This code snippet does not define the *um* namespace, which was done elsewhere in the HTML. Moreover, this
 code snippet does not actually reuse existing ontologies, which is highly recommended. The
-[upcoming RDF symposium in Boston](http://chem-bla-ics.blogspot.com/2010/06/it-is-my-great-pleasure-to-present-full.html)
+[upcoming RDF symposium in Boston <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/06/26/it-is-my-great-pleasure-to-present-full.html)
 will tell you all about chemical ontologies in the RDF world (see [this detailed program](http://egonw.github.com/acsrdf2010/),
 which itself is HTML+RDFa!). But, if you would just overlook the ad hoc namespaces used, you might appreciate the
 nesting: besides the compound (*#200234*), a second resource is defined (#error0). In total, this example contains six triples.

@@ -5,12 +5,13 @@ date:   2010-10-26
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/multiple-unit-test-inheritance-with.html
 doi: 10.59350/b3fxm-rg432
 tags: java junit
+modified_date: 2026-09-27
 ---
 
 Two months ago I wrote about [JExample](http://scg.unibe.ch/research/jexample) (see
-[Specifying unit test dependencies with JExample](http://chem-bla-ics.blogspot.com/2010/08/specifying-unit-test-dependencies-with.html)).
+[Specifying unit test dependencies with JExample <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/14/specifying-unit-test-dependencies-with.html)).
 At the time, my examples did not include multiple unit test inheritance, but was informed later by @jexample
-that is possible. I just got time to try it in the [Oscar](http://chem-bla-ics.blogspot.com/2010/10/working-on-oscar-for-three-months.html)
+that is possible. I just got time to try it in the [Oscar <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/15/working-on-oscar-for-three-months.html)
 project:
 
 ```java

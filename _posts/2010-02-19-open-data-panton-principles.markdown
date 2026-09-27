@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Data: the Panton Principles"
 date:   2010-02-19
-modified_date: 2025-03-30
+modified_date: 2026-09-27
 blogger-link: https://chem-bla-ics.blogspot.com/2010/02/open-data-panton-principles.html
 tags: opendata nmrshiftdb
 image: /assets/images/panton_is_it_open_data.png
@@ -77,7 +77,7 @@ The Panton Principles certainly make life easier in Open Data, and initiative li
 from people adopting them.
 
 The Principles do not solve all problems. There is still a lot of 'Open Data' licensed with unrecommended licenses.
-For example, the [NMRShiftDB](http://chem-bla-ics.blogspot.com/2009/09/open-chemical-data-1-nmrshiftdb.html) uses a
+For example, the [NMRShiftDB <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/10/open-chemical-data-1-nmrshiftdb.html) uses a
 GNU FDL license, and data from supplementary material of Open Access journal articles is like Creative Commons.
 
 ![Screenshot of the "Is it Open Data?" website, showing starting points like the "How Does It Work?" button.](/assets/images/panton_is_it_open_data.png)

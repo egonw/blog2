@@ -6,10 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/07/bioclipse-moving-to-gith
 doi: 10.59350/6c3ha-gmy93
 tags: git bioclipse github sourceforge justdoi:10.59350/ps1ms-z0e55
 image: /assets/images/githubHooks.png
-modified_date: 2026-08-16
+modified_date: 2026-09-27
 ---
 
-Following the CDK and [JChemPaint Primary](http://chem-bla-ics.blogspot.com/2009/07/jchempaint-primary-moving-to-git.html),
+Following the CDK and [JChemPaint Primary <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/07/08/jchempaint-primary-moving-to-git.html),
 [Bioclipe](http://www.bioclipse.net/) moved to Git just after the [2.0.0 release](http://bioclipse.blogspot.com/2009/07/biocipse-20-released.html).
 
 We decided to split up the repositories, and have one [benevolent dictator](http://mndoci.com/blog/2009/05/07/benevolent-dicators-and-scientific-collaboration/),

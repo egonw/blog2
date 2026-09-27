@@ -5,6 +5,7 @@ date:   2009-04-24
 blogger-link: https://chem-bla-ics.blogspot.com/2009/04/cdk-workshop-2009-3.html
 doi: 10.59350/j5hd2-45306
 tags: cdk
+modified_date: 2026-09-27
 ---
 
 Last of my writing on the [CDK Workshop](http://apps.sourceforge.net/mediawiki/cdk/index.php?title=CDK_Workshop_2009). It was great fun meeting all the CDK developers
@@ -17,7 +18,7 @@ session at the unconference, which I'll ask Rajarshi to review.
 
 Earlier in this series:
 
-* [CDK Workshop 2009 #2](http://chem-bla-ics.blogspot.com/2009/04/cdk-workshop-2009-2.html)
-* [CDK Workshop 2009 #1](http://chem-bla-ics.blogspot.com/2009/04/cdk-workshop-2009-1.html)
-* [My CDK Workshop 2009 Course Material #2](http://chem-bla-ics.blogspot.com/2009/04/my-cdk-workshop-2009-course-material-2.html)
-* [My CDK Workshop 2009 Course Material](http://chem-bla-ics.blogspot.com/2009/04/my-cdk-workshop-2009-course-material.html)
+* [CDK Workshop 2009 #2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/04/22/cdk-workshop-2009-2.html)
+* [CDK Workshop 2009 #1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/04/21/cdk-workshop-2009-1.html)
+* [My CDK Workshop 2009 Course Material #2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/04/22/my-cdk-workshop-2009-course-material-2.html)
+* [My CDK Workshop 2009 Course Material <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/04/20/my-cdk-workshop-2009-course-material.html)

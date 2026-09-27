@@ -5,9 +5,10 @@ date:   2009-11-18 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/cdk-124-authors.html
 doi: 10.59350/22kw4-c3g34
 tags: cdk git
+modified_date: 2026-09-27
 ---
 
-The [CDK](http://cdk.sf.net/) [1.2.4 changelog](http://chem-bla-ics.blogspot.com/2009/11/cdk-124-changes.html) I posted earlier was directly
+The [CDK](http://cdk.sf.net/) [1.2.4 changelog <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/11/18/cdk-124-changes.html) I posted earlier was directly
 created from git output. [Git](http://git-scm.com/) has many features which makes such thing simple. Here's a list of authors of
 the 1.2.4 change set:
 

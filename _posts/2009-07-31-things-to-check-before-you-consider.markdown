@@ -5,13 +5,14 @@ date:   2009-07-31 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2009/07/things-to-check-before-you-consider.html
 doi: 10.59350/h3v19-vh903
 tags: cdk rse
+modified_date: 2026-09-27
 ---
 
 Mark the *final* in the above title; if you merely seek advice on your patch, feel free to send them in whatever state. However, if you bring up your patch for peer review, make sure to have gone through the following steps, in random order:
 
 * be prepared for peer review feedback
 * realize your code will have to be [LGPL](http://www.gnu.org/copyleft/lesser.html) or LGPL-compatible
-* make sure the copyright lines are properly updated (see [Making patches; Attribution; Copyright and License.](http://chem-bla-ics.blogspot.com/2009/06/making-patches-attribution-copyright.html))
+* make sure the copyright lines are properly updated (see [Making patches; Attribution; Copyright and License. <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/06/30/making-patches-attribution-copyright.html))
 * your code is fully unit tested
 * your code does not cause [PMD](http://pmd.sourceforge.net/) failures
 * your code is fully JavaDoc-umented

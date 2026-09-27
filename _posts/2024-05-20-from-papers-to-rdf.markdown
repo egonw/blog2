@@ -2,7 +2,7 @@
 layout: post
 title:  "New paper: From papers to RDF-based integration of physicochemical data and adverse outcome pathways for nanomaterials"
 date:   2024-05-20
-modified_date: 2026-04-19
+modified_date: 2026-09-27
 tags: fair rdf doi:10.1186/S13321-024-00833-0 doi:10.14573/ALTEX.2102191 doi:10.3390/NANO10102068 erm
   doi:10.1186/S13321-022-00614-7 doi:10.3389/FPHY.2023.1271842 doi:10.3762/BJNANO.6.165
   doi:10.1089/AIVT.2021.0010
@@ -22,7 +22,7 @@ The idea was simple: write up which nanomaterial (type) activates which molecula
 It would simply annotate each material with a unique identifier to link it to databases like
 [eNanoMapper](https://enanomapper.adma.ai/) and [NanoCommons](https://doi.org/10.3389/fphy.2023.1271842)
 and it would use unique identifiers for the
-[Adverse Outcome Pathway](https://chem-bla-ics.blogspot.com/2022/05/new-providing-adverse-outcome-pathways.html)) (AOP) key events.
+[Adverse Outcome Pathway <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2022/05/17/new-providing-adverse-outcome-pathways.html)) (AOP) key events.
 As such, it would make a direct link in the growing linked open data cloud between the AOPs
 and the nanomaterial databases.
 

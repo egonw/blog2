@@ -2,7 +2,7 @@
 layout: post
 title:  "CiTO / CiteULike: publishing innovation"
 date:   2012-02-23
-modified_date: 2024-11-02
+modified_date: 2026-09-27
 blogger-link: https://chem-bla-ics.blogspot.com/2012/02/cito-citeulike-publishing-innovation.html
 tags: citeulike cito justdoi:10.1186/2041-1480-1-S1-S6 rdf rdfa
 image: /assets/images/culcito1.png
@@ -11,7 +11,7 @@ cited-in: cito:citesAsEvidence:10.1186/s13321-020-00448-1
 ---
 
 Readers of my blog know I have been using the Citation Typing Ontology, CiTO (doi:[10.1186/2041-1480-1-S1-S6](http://dx.doi.org/10.1186/2041-1480-1-S1-S6)).
-I allows me to see [how the CDK](http://chem-bla-ics.blogspot.com/2010/02/citing-chemistry-development-kit.html) is
+I allows me to see [how the CDK <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/18/citing-chemistry-development-kit.html) is
 [cited and used <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/31/citeulike-cito-use-case-1-wordles.html). CiteULike is currently adding more CiTO more functionality,
 which they [started <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/09/17/list-of-things-i-miss-in-citeulike.html) doing almost one and a half years ago.
 

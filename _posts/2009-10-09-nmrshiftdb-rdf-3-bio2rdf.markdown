@@ -6,13 +6,13 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/10/nmrshiftdb-rdf-3-bio2rdf
 doi: 10.59350/rnjv0-tj350
 tags: nmrshiftdb rdf bio2rdf
 image: /assets/images/nmrRDF1.png
-modified_date: 2026-05-05
+modified_date: 2026-09-27
 ---
 
 My might have seen my efforts to convert the [NMRShiftDB](http://www.nmrshiftdb.org/) data into RDF:
 
 * [NMRShiftDB RDF #2: Some statistics <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/05/nmrshiftdb-rdf-2-some-statistics.html)
-* [NMRShiftDB RDF #1: Spectra by InChI ](http://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-rdf-1-spectra-by-inchi.html)
+* [NMRShiftDB RDF #1: Spectra by InChI  <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/05/nmrshiftdb-rdf-1-spectra-by-inchi.html)
 * [NMRShiftDB enters rdf.openmolecules.net #2: SPARQL end point with Virtuoso <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/04/nmrshiftdb-enters-rdfopenmoleculesnet-2.html)
 
 [Peter Ansell](http://bio2rdf.blogspot.com/) has shortly after that copied the data into [Bio2RDF](http://bio2rdf.org/),

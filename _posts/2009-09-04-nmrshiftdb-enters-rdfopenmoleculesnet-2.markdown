@@ -5,10 +5,10 @@ date:   2009-09-04
 blogger-link: https://chem-bla-ics.blogspot.com/2009/09/nmrshiftdb-enters-rdfopenmoleculesnet-2.html
 doi: 10.59350/nv925-tje87
 tags: rdf sparql nmrshiftdb cheminf
-modified_date: 2026-08-01
+modified_date: 2026-09-27
 ---
 
-About 6 months ago I [reported](http://chem-bla-ics.blogspot.com/2009/03/nmrshiftdb-enters-rdfopenmoleculesnet.html) about my efforts to RDF-ize the data from the
+About 6 months ago I [reported <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/03/18/nmrshiftdb-enters-rdfopenmoleculesnet.html) about my efforts to RDF-ize the data from the
 [NMRShiftDB](http://www.nmrshiftdb.org/). Since then, time was consumed by many other things, but now that [Bioclipse](http://www.bioclipse.net/) can query
 [SPARQL](http://en.wikipedia.org/wiki/SPARQL) end points, that I want to contribute the triple set (it is [GNU FDL](http://www.gnu.org/copyleft/fdl.html)-licensed)
 to [Bio2RDF](http://www.bio2rdf.org/), that a student started working in my group (now larger than just me :) on reasoning on life sciences data, and that I

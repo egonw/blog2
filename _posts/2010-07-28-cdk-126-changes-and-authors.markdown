@@ -5,12 +5,13 @@ date:   2010-07-28
 blogger-link: https://chem-bla-ics.blogspot.com/2010/07/cdk-126-changes-and-authors.html
 doi: 10.59350/89dx1-stx14
 tags: cdk
+modified_date: 2026-09-27
 ---
 
 Like all release in the 1.2 series after [CDK](http://cdk.sf.net/) 1.2.0, release [1.2.6](https://sourceforge.net/projects/cdk/files/cdk/1.2.6/)
 is a bug fix release. Anyone running a CDK 1.2 version is advised to upgrade. New in this release is the availability of a
 [torrent for the cdk-1.2.6.jar](http://www.biotorrents.net/details.php?id=95) (see
-[BitTorrents for Science](http://chem-bla-ics.blogspot.com/2010/04/bittorrents-for-science.html)).
+[BitTorrents for Science <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/18/bittorrents-for-science.html)).
 Please find below the changes and the authors that contributed to this release.
 
 ### The changes

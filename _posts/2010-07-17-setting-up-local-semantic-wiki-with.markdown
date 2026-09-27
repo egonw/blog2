@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/07/setting-up-local-semanti
 doi: 10.59350/ms1t8-8zm32
 tags: rdf sparql wiki bio2rdf bioclipse
 image: /assets/images/rdfImport.png
+modified_date: 2026-09-27
 ---
 
 
@@ -72,7 +73,7 @@ manual annotation:
 ![](/assets/images/rdfImport.png)
 
 If you are wondering about the use case, this RDF import is ideal for building up knowledge bases, as detailed in my
-[Critical mass for Open Notebook Science wikis by prepopulation with RDF data](http://chem-bla-ics.blogspot.com/2010/06/critical-mass-for-open-notebook-science.html)
+[Critical mass for Open Notebook Science wikis by prepopulation with RDF data <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/06/26/critical-mass-for-open-notebook-science.html)
 post last month. Just aggregate the info on the web you can find (yes, that's another story), put it in your wiki
 and complement it with your local knowledge, import into [Bioclipse](http://www.bioclipse.net/),
 and run your analyses to verify your hypotheses!

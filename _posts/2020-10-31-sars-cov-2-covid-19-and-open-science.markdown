@@ -7,6 +7,7 @@ doi: 10.59350/krqxd-hfw15
 tags: covid19 wikipathways doi:10.1038/S41597-020-0477-8 doi:10.1101/2020.10.26.356014 wikidata
   doi:10.7554/ELife.52614 doi:10.1101/2020.04.05.026336
 image: /assets/images/Screenshot_20201031_100753.png
+modified_date: 2026-09-27
 ---
 
 <div style="float: right; width: 300px">
@@ -46,7 +47,7 @@ Further reading:
 ## Interoperability with Wikidata
 
 <div style="float: right; width: 300px"><img src="/assets/images/Screenshot_20201031_104646.png" /></div>
-Because I see an [essential role](https://chem-bla-ics.blogspot.com/2020/03/new-paper-wikidata-as-knowledge-graph.html) for
+Because I see an [essential role <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2020/03/19/new-paper-wikidata-as-knowledge-graph.html) for
 [Wikidata](https://wikidata.org/) in Open Science, and because regular databases did not provide identifiers for the molecular building blocks,
 we created them in Wikidata. This was essential, because I wanted to use [Scholia](https://scholia.toolforge.org/) (see screenshot on the
 right) to track the research output (something that by now has become quite a challenge; btw, checkout

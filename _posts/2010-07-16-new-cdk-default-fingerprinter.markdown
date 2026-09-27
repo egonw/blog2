@@ -2,7 +2,7 @@
 layout: post
 title:  "A new CDK default fingerprinter?"
 date:   2010-07-16
-modified_date: 2011-05-22
+modified_date: 2026-09-27
 blogger-link: https://chem-bla-ics.blogspot.com/2010/07/new-cdk-default-fingerprinter.html
 doi: 10.59350/485a6-g8f87
 tags: cdk fingerprint
@@ -10,7 +10,7 @@ image: /assets/images/hybridFP.png
 ---
 
 The current default fingerprinter in the [CDK](http://cdk.sf.net/) depends on aromaticity, but that concept is algorithmically difficult
-to define, and even experimentally there are [multiple dimensions](http://chem-bla-ics.blogspot.com/2007/11/evidence-of-aromaticity.html)
+to define, and even experimentally there are [multiple dimensions <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/11/06/evidence-of-aromaticity.html)
 to this concept. Moreover, calculating aromaticity is not cheap, as it requires detecting of ring systems. The purpose why aromaticity
 is actually included is this: people expect a [ethenol](http://en.wikipedia.org/wiki/Vinyl_alcohol) moiety to match
 [phenol](http://en.wikipedia.org/wiki/Phenol).

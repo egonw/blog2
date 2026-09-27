@@ -6,9 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/05/cip-rules-2-parsing-and-
 doi: 10.59350/n8f2y-adq94
 tags: cdk iupac justdoi:10.1351/pac200678101897
 image: /blog//assets/images/wedgeChirality.png
+modified_date: 2026-09-27
 ---
 
-I [recently wrote](https://chem-bla-ics.blogspot.com/2010/04/cip-rules-for-stereochemistry.html) about a project for a (partial) CIP implementation.
+I [recently wrote <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/04/22/cip-rules-for-stereochemistry.html) about a project for a (partial) CIP implementation.
 This implementation is in place, and we are working towards setting up an extensive test suite. The data set we had in mind was available as SMILES
 and as MDL molfile. Now, the latter does not really specify the stereochemistry of the tetrahedral centers, and relies on wedge bonding. Actually,
 a few years ago Jonathan Brecher wrote up the IUPAC recommendation for the use of the wedge bond for chirality specification

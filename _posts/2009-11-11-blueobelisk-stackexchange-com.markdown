@@ -6,11 +6,11 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/11/blueobelisk-stackexchang
 doi: 10.59350/nvdsb-ygz96
 tags: blue-obelisk
 image: /assets/images/boExchangeScreeny.png
-modified_date: 2026-05-05
+modified_date: 2026-09-27
 ---
 
 Oh no, not another communication channel?! We already have [Google <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/02/google-wave-robot-for-cdk-functionality.html)
-[Wave](http://chem-bla-ics.blogspot.com/2009/10/google-wave-invite-but-you-need-to-work.html)! (BTW, I have quite some new invites...)
+[Wave <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/10/01/google-wave-invite-but-you-need-to-work.html)! (BTW, I have quite some new invites...)
 
 Well, you are right. But I could not resist: [blueobelisk.stackexchange.com](http://blueobelisk.stackexchange.com/)...
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "My favourite chemistry things"
 date:   2010-05-13
-modified_date: 2026-08-01
+modified_date: 2026-09-27
 blogger-link: https://chem-bla-ics.blogspot.com/2010/05/my-favourite-chemistry-things.html
 doi: 10.59350/be00d-tn533
 tags: chemistry justdoi:10.1021/cg060872y
@@ -82,9 +82,9 @@ world wide. Oh, and this meme is picked up nicely:
 No, not the database, but the nice graphical article abstracts in chemistry journals. [ChemFeeds](http://www.chemfeeds.com/)
 gets is all together. BTW, there remains very much to be done about improving publishing chemistry.
 [I <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/09/08/chemical-archeology-oscar3-to.html)
-[blogged](http://chem-bla-ics.blogspot.com/2007/02/rsc-first-publisher-to-go-semantic.html)
+[blogged <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/02/01/rsc-first-publisher-to-go-semantic.html)
 [about <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/03/22/journal-of-cheminformatics-i-hope.html)
-[that](http://chem-bla-ics.blogspot.com/2007/10/how-blogosphere-changes-publishing.html)
+[that <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/01/how-blogosphere-changes-publishing.html)
 [repeatedly <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/03/19/nature-chemistry-improves-publishing.html).
 
 ### 9. organometallics

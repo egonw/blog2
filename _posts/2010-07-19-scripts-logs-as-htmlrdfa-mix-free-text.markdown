@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/07/scripts-logs-as-htmlrdfa
 doi: 10.59350/tb3sc-ggw42
 tags: html rdf sparql rdfa
 image: /assets/images/rdfaLogfiles.png
+modified_date: 2026-09-27
 ---
 
 [Richard](http://blogs.talis.com/nodalities/author/richard-wallis/) ([Talis](http://www.talis.com/)) wrote up a
@@ -18,7 +19,7 @@ related, read on :)
 Two days later, today, I ran my first analysis. Still a test run, but using the [CDK](http://cdk.sf.net/) to perceive
 atom types on the first 2.5 GB of [PubChem](http://pubchem.ncbi.nlm.nih.gov/) data. The full data set is now 80 GB,
 and I will start doing this analysis today. You might remember this already two years ago (see
-[Wicked chemistry and unit testing](http://chem-bla-ics.blogspot.com/2008/05/wicked-chemistry-and-unit-testing.html))
+[Wicked chemistry and unit testing <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/05/03/wicked-chemistry-and-unit-testing.html))
 for a small subset, but only now have the power to analyze all compounds. The UPPMAX system I work on has 348, each
 with 8 cores. Each core has 3 GB of memory, but I am using the
 [IteratingPCCompoundXMLReader](http://pele.farmbio.uu.se/nightly-1.2.3/cdk-javadoc-1.2.4/org/openscience/cdk/io/iterator/IteratingPCCompoundXMLReader.html)
@@ -70,7 +71,7 @@ thing (e.g. use a service like [Schemapedia](http://schemapedia.com/)).
 
 Now, I can easily open up this file in a web browser (follow [this link](http://rdf.farmbio.uu.se/uppmax-cdk/results.html))
 and get the same view as above. But I can also import the file directly into Bioclipse (see
-[Semantic Web features in Bioclipse 2.2](http://chem-bla-ics.blogspot.com/2010/01/semantic-web-features-in-bioclipse-22.html)),
+[Semantic Web features in Bioclipse 2.2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/01/28/semantic-web-features-in-bioclipse-22.html)),
 or in any other tool that supports RDFa. I can then use SPARQL to do some first analysis, for example, with:
 
 ```sparql
@@ -84,7 +85,7 @@ SELECT ?elem (count(*) AS ?count) WHERE {
 ```
 
 Combine that with the [RDFaDev](http://rdfadev.sourceforge.net/) tool I wrote about last week (see
-[RDFaDev: HTML+RDFa development with FireFox](http://chem-bla-ics.blogspot.com/2010/07/rdfadev-htmlrdfa-development-with.html)).
+[RDFaDev: HTML+RDFa development with FireFox <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/07/16/rdfadev-htmlrdfa-development-with.html)).
 Now you should get some feeling of the advantages of using Open Standards: I can do some initial analysis of the results,
 just right there in the web browser you have open anyway:
 

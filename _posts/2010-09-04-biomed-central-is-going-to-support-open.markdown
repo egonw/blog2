@@ -5,9 +5,10 @@ date:   2010-09-04
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/biomed-central-is-going-to-support-open.html
 doi: 10.59350/ybsdg-8bz80
 tags: opendata bmc publishing
+modified_date: 2026-09-27
 ---
 
-I had a glance at the plans already in the [ACS in Boston](http://chem-bla-ics.blogspot.com/2010/08/skyline-of-boston-walking-to-convention.html),
+I had a glance at the plans already in the [ACS in Boston <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/22/skyline-of-boston-walking-to-convention.html),
 but this week [BioMed Central](http://www.biomedcentral.com/) announced a [draft call](http://blogs.openaccesscentral.com/blogs/bmcblog/entry/join_the_data_debate_draft)
 for Open Data in their journals:
 
@@ -18,7 +19,7 @@ for Open Data in their journals:
 
 Now, as the journal already allows reuse of papers ([CC-BY](http://creativecommons.org/licenses/by/3.0/) license), this also applies to
 data (and in at least several countries data cannot be copyrighted at all, but we need a world-wide solution; it's the 21st century).
-However, earlier this year the [Panton Principles](http://chem-bla-ics.blogspot.com/2010/02/open-data-panton-principles.html) were
+However, earlier this year the [Panton Principles <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/19/open-data-panton-principles.html) were
 introduced which formalize the idea behind public domain waiving, and suggest the [CC0 waiver](http://creativecommons.org/choose/zero/)
 as one valid approach. This is where BioMed Central wants to go too; they write:
 

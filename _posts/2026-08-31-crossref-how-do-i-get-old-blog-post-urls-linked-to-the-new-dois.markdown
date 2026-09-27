@@ -8,6 +8,7 @@ comments:
   host: social.edu.nl
   username: egonw
   id: 117191782409428183
+modified_date: 2026-09-27
 ---
 
 Now that [Rogue Scholar](https://rogue-scholar.org/) is getting [serious about citations to blog posts](https://doi.org/10.53731/zyg15-qv911)
@@ -25,4 +26,4 @@ Crossref, how do I get the old blog post URLs also linked to the DOI?
 
 For example, the doi [10.59350/65nqr-3w351](https://doi.org/10.59350/65nqr-3w351) links now to
 [https://chem-bla-ics.linkedchemistry.info/2023/08/18/last-post-here-freebie-model-online.html](https://chem-bla-ics.linkedchemistry.info/2023/08/18/last-post-here-freebie-model-online.html)
-but originally the URL was [https://chem-bla-ics.blogspot.com/2023/08/last-post-here-freebie-model-online.html](https://chem-bla-ics.blogspot.com/2023/08/last-post-here-freebie-model-online.html).
+but originally the URL was [https://chem-bla-ics.blogspot.com/2023/08/last-post-here-freebie-model-online.html <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2023/08/18/last-post-here-freebie-model-online.html).

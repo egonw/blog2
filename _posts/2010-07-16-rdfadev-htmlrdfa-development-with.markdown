@@ -6,10 +6,11 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/07/rdfadev-htmlrdfa-develop
 doi: 10.59350/ttjvx-9pw87
 tags: rdf html rdfa
 image: /assets/images/ffRDFa1.png
+modified_date: 2026-09-27
 ---
 
 [Celso](http://www.blogger.com/profile/14759936105694870796) informed me in [this old post](http://chem-bla-ics.blogspot.com/2007/06/chemical-rdfa-with-operator-in-firefox.html)
-about an alternative to [Operator](http://chem-bla-ics.blogspot.com/2007/08/operator-08-released-new-sechemtic-user.html) for RDFa handling in browsers, or
+about an alternative to [Operator <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/08/22/operator-08-released-new-sechemtic-user.html) for RDFa handling in browsers, or
 [Firefox](http://firefox.com/) in this case: the [RDFaDev add-on](http://rdfadev.sourceforge.net/). It works quite well, extracts the RDFa, reports common problems, and
 even allows running SPARQL directly on the web page, all from within a browser pop up window:
 

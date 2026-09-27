@@ -6,10 +6,11 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/06/my-opentox-workshop-cont
 doi: 10.59350/wpk6t-snh54
 tags: opentox bioclipse justdoi:10.1016/j.mrrev.2008.05.003
 image: /assets/images/metaprint2d.png
+modified_date: 2026-09-27
 ---
 
 During the nice presentations at the recent [OpenTox Workshop](http://www.opentox.org/data/blogentries/public/opentoxworkshoppotsdam2010), I noted that
-[My OpenTox Workshop contribution: Linking explicit and implicit knowledge](http://chem-bla-ics.blogspot.com/2010/05/my-opentox-workshop-contribution.html)
+[My OpenTox Workshop contribution: Linking explicit and implicit knowledge <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/05/30/my-opentox-workshop-contribution.html)
 was lacking two slides. The slides should have had screenshot of the excellent [Bioclipse](http://www.bioclipse.net/) applications
 [Ola Spjuth](http://se.linkedin.com/in/olaspjuth) has written in the area of computational toxicology. But here they are.
 

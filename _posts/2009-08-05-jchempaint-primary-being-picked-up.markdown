@@ -6,10 +6,10 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/08/jchempaint-primary-being
 doi: 10.59350/wkk5p-56y41
 tags: jchempaint justdoi:10.59350/c8h7w-n4922
 image: /assets/images/compound.png
-modified_date: 2026-08-16
+modified_date: 2026-09-27
 ---
 
-Backporting the [JChemPaint-Primary patch for master](http://chem-bla-ics.blogspot.com/2009/07/maintaining-jchempaint-primary-patch.html) to the cdk-1.2.x
+Backporting the [JChemPaint-Primary patch for master <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/07/31/maintaining-jchempaint-primary-patch.html) to the cdk-1.2.x
 branch turned out to be fairly easy, but is a major step forward as we now have a patch to extend CDK 1.2.x with rendering support again, a major thing we
 lost when going from the CDK 1.0 to the 1.2 series.
 

@@ -5,10 +5,11 @@ date:   2010-04-24
 blogger-link: https://chem-bla-ics.blogspot.com/2010/04/chem4word-goes-apache-20.html
 doi: 10.59350/m4x3w-52604
 tags:
+modified_date: 2026-09-27
 ---
 
 Early March I reported about [Konstantin](http://sourceforge.net/users/annulen)'s [JChemPaint](http://jchempaint.sf.net/)-based
-[chemistry plugin for OpenOffice](http://chem-bla-ics.blogspot.com/2010/03/oochemistry-01-released-call-for.html), but there is (friendly)
+[chemistry plugin for OpenOffice <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/06/oochemistry-01-released-call-for.html), but there is (friendly)
 competition: [Chem4Word](http://chem4word.codeplex.com/). Being for Microsoft Word, the plugin only works on top of proprietary software,
 unfortunately; therefore, I cannot tell you if Chem4Word release is any good, but what Jim has showed me about a year ago, it is pretty
 cool. Another big difference is that Microsoft gave the Chem4Word a big grant, and Konstantin does not have such funding, AFAIK, and

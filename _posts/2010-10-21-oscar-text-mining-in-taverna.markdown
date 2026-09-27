@@ -2,7 +2,7 @@
 layout: post
 title:  "Oscar text mining in Taverna"
 date:   2010-10-21
-modified_date: 2025-03-05
+modified_date: 2026-09-27
 doi: 10.59350/7njvw-s6q24
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/oscar-text-mining-in-taverna.html
 tags: oscar taverna inchikey:OKKJLVBELUTLKV-UHFFFAOYSA-N inchikey:LFQSCWFLJHTTHZ-UHFFFAOYSA-N inchikey:SPSSULHKWOKEEL-UHFFFAOYSA-N
@@ -22,7 +22,7 @@ workflow looks like:
 Example input would be: *This is a list of ethanol, methanol, and 2,4,6-trinitrotoluene.*
 
 The plain text input can be linked to the pdf2text [SADI service](http://www.slideshare.net/markmoby/sadi-in-taverna-tutorial),
-and the CML is suitable for the [CDK-Taverna plugin](http://chem-bla-ics.blogspot.com/2010/03/cdk-taverna-paper-published.html),
+and the CML is suitable for the [CDK-Taverna plugin <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/29/cdk-taverna-paper-published.html),
 which is currently being updated by Andreas, Achim, and [Christoph](http://www.steinbeck-molecular.de/steinblog/) for
 Taverna 2.2. As soon as the update site is properly working, I will upload a demo workflow to
 [MyExperiment.org](http://www.myexperiment.org/).

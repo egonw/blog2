@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/03/oxford-august-2010-echem
 doi: 10.59350/46jj1-62e14
 tags: bioclipse qsar toxicology opentox ambit
 image: /assets/images/bioclipseOpenTox.png
+modified_date: 2026-09-27
 ---
 
 The first week of August I will attend the [eCheminfo Predictive ADME & Toxicology Workshop](http://echeminfo.com/COMTY_oxfordadmet10)
@@ -43,5 +44,5 @@ for (set=0; set<datasets.size(); set++) {
 ```
 
 Behind this plugin is again the RDF plugin, as OpenTox uses RDF too, a few simple SPARQL queries was all that needed to be defined.
-And [again](http://chem-bla-ics.blogspot.com/2010/03/rdf-powered-qsar-wizard-sparql-end.html), the Bioclipse pluigin
+And [again <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/15/rdf-powered-qsar-wizard-sparql-end.html), the Bioclipse pluigin
 code base is pretty small.

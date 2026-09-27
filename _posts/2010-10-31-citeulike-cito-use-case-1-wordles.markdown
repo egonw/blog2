@@ -2,7 +2,7 @@
 layout: post
 title:  "CiteULike CiTO Use Case #1: Wordles"
 date:   2010-10-31
-modified_date: 2026-05-05
+modified_date: 2026-09-27
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/citeulike-cito-use-case-1-wordles.html
 tags: justdoi:10.1186/2041-1480-1-S1-S6 cito citeulike cdk wordle doi:10.1021/CI025584Y
 doi: 10.59350/npbqm-gfa49
@@ -16,7 +16,7 @@ doi:[10.1186/2041-1480-1-S1-S6](https://doi.org/10.1186/2041-1480-1-S1-S6)), a g
 I promised the CiTO author, [David](http://www.zoo.ox.ac.uk/staff/academics/shotton_dm.htm), my use cases, but have been horribly
 busy in the past few weeks with my new position, wrapping up my past position, and thinking on my position after Cambridge. But finally, here it is. Based on source code I
 [wrote and released earlier](http://github.com/egonw/groovy-citeulike), the first use case I represent is the
-[Wordle](http://www.wordle.net/) one, which I [showed with manual work in February](http://chem-bla-ics.blogspot.com/2010/02/wordle-of-titles-of-20-most-recent.html).
+[Wordle](http://www.wordle.net/) one, which I [showed with manual work in February <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/21/wordle-of-titles-of-20-most-recent.html).
 
 Now that all the data is semantically marked up in CiteULike, I can easily extract all paper titles (or whatever is available in CiteULike) for all papers that cite the first
 [CDK](http://cdk.sf.net/) paper (doi:[10.1021/ci025584y](http://dx.doi.org/10.1021/ci025584y)). Using the JSON interface, I have

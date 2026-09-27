@@ -5,10 +5,11 @@ date:   2010-08-04 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/using-bioclipse-to-upload-data-to.html
 doi: 10.59350/f0s4t-znm21
 tags: bioclipse opentox cheminf myexperiment
+modified_date: 2026-09-27
 ---
 
 As part of a continuing mashup of [Bioclipse](http://www.bioclipse.net/) and [OpenTox](http://www.opentox.org/), I sat down with Nina in
-[Oxford](http://chem-bla-ics.blogspot.com/2010/08/oxford.html) to implement uploading molecules from within Bioclipse with JavaScript to
+[Oxford <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/01/oxford.html) to implement uploading molecules from within Bioclipse with JavaScript to
 OpenTox servers. This opens the route to calculate QSAR descriptors using the
 [OpenTox API](http://opentox.org/dev/apis/api-1.1/).
 

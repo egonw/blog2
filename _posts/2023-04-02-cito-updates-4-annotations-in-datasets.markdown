@@ -2,7 +2,7 @@
 layout: post
 title:  "CiTO updates #4: annotations in datasets"
 date:   2023-04-02
-modified_date: 2025-12-29
+modified_date: 2026-09-27
 doi: 10.59350/jakew-pe809
 blogger-link: https://chem-bla-ics.blogspot.com/2023/04/cito-updates-4-annotations-in-datasets.html
 tags: cito data scholia doi:10.1186/s13321-023-00683-2 justdoi:10.1186/s13321-023-00684-1 justdoi:10.1186/s13321-022-00656-x
@@ -73,7 +73,7 @@ Some more history
 * 2020: [CiTO updates #2: annotation migration to Wikidata and first Scholia patch <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2020/11/01/cito-updates-2-annotation-migration-to.html)
 * 2020: [CiTO updates #1: first research paper in the Journal of Cheminformatics with CiTO annotation published <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2020/11/01/cito-updates-1-first-research-paper-in.html)
 * July 2020: [New Editorial: "Adoption of the Citation Typing Ontology by the Journal of Cheminformatics"](https://chem-bla-ics.blogspot.com/2020/07/new-editorial-adoption-of-citation.html)
-* 2015: ["What You're Doing Is Rather Desperate"](https://chem-bla-ics.blogspot.com/2015/03/what-youre-doing-is-rather-desperate.html)
+* 2015: ["What You're Doing Is Rather Desperate" <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2015/03/22/what-youre-doing-is-rather-desperate.html)
 * 2012: [CiTO / CiteULike: publishing innovation <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2012/02/23/cito-citeulike-publishing-innovation.html)
 * 2010: [CiteULike CiTO Use Case #1: Wordles <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/31/citeulike-cito-use-case-1-wordles.html)
 * September 2010: [A list of things I miss in CiteULike <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/09/17/list-of-things-i-miss-in-citeulike.html)
