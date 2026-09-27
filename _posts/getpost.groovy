@@ -112,6 +112,25 @@ String wrap(String marker, String text) {
   return m.group(1) + marker + m.group(2) + marker + m.group(3)
 }
 
+// breaks lines of 75 or more characters at the first next whitespace; kept text is never broken,
+// headings are left alone, and no line break is added where it would start a new Markdown block
+String breakLines(String text, int indent = 0) {
+  return text.split("\n", -1).collect { line ->
+    if (line.startsWith("#")) return line
+    def out = new StringBuilder()
+    int length = indent
+    (line =~ /(\s*)(\S+)/).each { all, space, word ->
+      def restored = restore(word)
+      def startsBlock = restored ==~ /(?s)([-+*>#=|:~<]|\d+[.)]).*/
+      if (out.length() > 0 && length >= 75 && !startsBlock) { out << "\n"; length = indent }
+      else { out << space; length += space.length() }
+      out << word
+      length += restored.length()
+    }
+    return out.toString()
+  }.join("\n")
+}
+
 String children(org.jsoup.nodes.Node node) { return node.childNodes().collect { convert(it) }.join("") }
 
 // RDFa markup is kept as HTML
@@ -148,7 +167,7 @@ String convert(org.jsoup.nodes.Node node) {
     case ["span", "font"]: return span(el)
     case ["i", "em", "cite"]: return wrap("*", children(el))
     case ["b", "strong"]: return wrap("**", children(el))
-    case ["code", "tt"]: return el.text().contains("`") ? keep(el.outerHtml()) : "`" + el.text() + "`"
+    case ["code", "tt"]: return el.text().contains("`") ? keep(el.outerHtml()) : keep("`" + el.text() + "`")
     case ~/h[1-6]/:
       return block("#" * (tag.substring(1) as int) + " " + restore(tidy(children(el))).replaceAll(/\s+/, " ").trim())
     case "a":
@@ -165,12 +184,12 @@ String convert(org.jsoup.nodes.Node node) {
       def marker = (tag == "ol") ? "1. " : "* "
       def pad = " " * marker.length()
       def items = el.children().findAll { it.tagName() == "li" }.collect { li ->
-        def body = restore(tidy(children(li)).replaceAll(/\n{2,}/, "\n").trim())
+        def body = restore(breakLines(tidy(children(li)).replaceAll(/\n{2,}/, "\n").trim(), marker.length()))
         marker + body.split("\n").join("\n" + pad)
       }
       return block(keep(items.join("\n")))
     case "blockquote":
-      def body = restore(tidy(children(el)).trim())
+      def body = restore(breakLines(tidy(children(el)).trim(), 2))
       return block(keep(body.split("\n").collect { it.isEmpty() ? ">" : "> " + it }.join("\n")))
     case "hr": return block("---")
     case "iframe":
@@ -237,7 +256,7 @@ if (!imagesDir.isDirectory()) {
 }
 firstImage = localImages.values().find { it != null }
 
-markdown = restore(tidy(children(postHtml.body())).trim()).replace(HARDBR, "  ") + "\n"
+markdown = restore(breakLines(tidy(children(postHtml.body())).trim())).replace(HARDBR, "  ") + "\n"
 
 // match the Blogger labels of the post against the local tags in /tag/, ignoring case, spaces, and punctuation
 tagMappings = [
