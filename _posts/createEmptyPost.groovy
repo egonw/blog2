@@ -18,7 +18,7 @@ if (args.length < 1) {
 
 title = args.join(" ")
 
-key = title.replace(" ", "-").toLowerCase().replace(":", "")
+key = title.replace(" ", "-").toLowerCase().replace(":", "").replace("?", "")
 
 def sout = new StringBuilder(), serr = new StringBuilder()
 def proc = 'commonmeta encode 10.59350'.execute()
