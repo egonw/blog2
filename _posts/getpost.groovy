@@ -239,13 +239,38 @@ firstImage = localImages.values().find { it != null }
 
 markdown = restore(tidy(children(postHtml.body())).trim()).replace(HARDBR, "  ") + "\n"
 
+// match the Blogger labels of the post against the local tags in /tag/, ignoring case, spaces, and punctuation
+String normalizeTag(String text) { return text.toLowerCase().replaceAll(/[^a-z0-9]/, "") }
+bloggerLabels = entry.category.findAll { it.@scheme.text() == "http://www.blogger.com/atom/ns#" }.collect { it.@term.text() }
+tagsDir = new File("../tag")
+localTags = [:] // normalized name or title -> tag
+if (!tagsDir.isDirectory()) {
+  System.err.println("Warning: ${tagsDir} not found, so not matching tags. Run this script from the _posts/ folder.")
+} else {
+  // first the titles, so that the tag names themselves take precedence
+  tagsDir.eachFileMatch(~/.*\.markdown/) { file ->
+    def tag = file.name.replace(".markdown", "")
+    def titleMatcher = (file.text =~ /(?m)^title:\s*"?Tag:\s*(.*?)"?\s*$/)
+    if (titleMatcher.find()) localTags[normalizeTag(titleMatcher.group(1))] = tag
+  }
+  tagsDir.eachFileMatch(~/.*\.markdown/) { file ->
+    def tag = file.name.replace(".markdown", "")
+    localTags[normalizeTag(tag)] = tag
+  }
+}
+tags = bloggerLabels.collect { localTags[normalizeTag(it)] }.findAll { it != null }.unique()
+missingLabels = bloggerLabels.findAll { localTags[normalizeTag(it)] == null }
+if (tagsDir.isDirectory() && !missingLabels.isEmpty()) {
+  println "Blogger labels without a local tag: " + missingLabels.join(", ")
+}
+
 content = """---
 layout: post
 title:  "${title.first().attr("content")}"
 date:   ${year}-${month}-${day}
 blogger-link: ${blogpost}
 doi: ${doi}${firstImage ? "\nimage: " + firstImage : ""}
-tags:
+tags:${tags ? " " + tags.join(" ") : ""}
 ---
 
 ${markdown}"""
