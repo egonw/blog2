@@ -2,13 +2,14 @@
 layout: post
 title:  "\"What You're Doing Is Rather Desperate\""
 date:   2015-03-22
+modified_date: 2026-09-27
 blogger-link: https://chem-bla-ics.blogspot.com/2015/03/what-youre-doing-is-rather-desperate.html
 doi: 10.59350/ef06k-1xh03
 tags: citeulike cito publishing pubmed justdoi:10.1038/srep08889
 ---
 
 <span style="width: 30%; display: block; margin-left: auto; margin-right: auto; float: right">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gustave_Courbet_auto-retrato.jpg/732px-Gustave_Courbet_auto-retrato.jpg" /> <br />
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Gustave_Courbet_auto-retrato.jpg/330px-Gustave_Courbet_auto-retrato.jpg" /> <br />
 Self-protrait by <a href="https://en.wikipedia.org/wiki/Gustave_Courbet">Gustave Courbet</a>.<br />
 Source: Wikipedia. <a href="https://commons.wikimedia.org/wiki/File:Gustave_Courbet_auto-retrato.jpg">CC-BY-SA</a>
 </span>
