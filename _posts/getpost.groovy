@@ -240,7 +240,14 @@ firstImage = localImages.values().find { it != null }
 markdown = restore(tidy(children(postHtml.body())).trim()).replace(HARDBR, "  ") + "\n"
 
 // match the Blogger labels of the post against the local tags in /tag/, ignoring case, spaces, and punctuation
-String normalizeTag(String text) { return text.toLowerCase().replaceAll(/[^a-z0-9]/, "") }
+tagMappings = [
+  "cheminformatics": "cheminf"
+]
+String normalizeTag(String text) {
+  text = text.toLowerCase().replaceAll(/[^a-z0-9]/, "")
+  if (tagMappings.containsKey(text)) text = tagMappings.get(text)
+  return text
+}
 bloggerLabels = entry.category.findAll { it.@scheme.text() == "http://www.blogger.com/atom/ns#" }.collect { it.@term.text() }
 tagsDir = new File("../tag")
 localTags = [:] // normalized name or title -> tag
