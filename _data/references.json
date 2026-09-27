@@ -402,6 +402,7 @@
   "10.5281/ZENODO.345997": "Linda Rieswijk, J. C. (2016). <i>Deliverable Report D5.6 User Application for Conformance to Reporting and Curation Standards</i>. Zenodo. https://doi.org/10.5281/ZENODO.345997",
   "10.5281/ZENODO.346000": "Philip Doganis, G. T. (2015). <i>Deliverable Report D4.1 Analysis and Modelling Specifications</i>. Zenodo. https://doi.org/10.5281/ZENODO.346000",
   "10.5281/ZENODO.3551852": "Willighagen, E. (2009). Linking Open Drug Data to Cheminformatics and Proteochemometrics. <i>Zenodo</i>. https://doi.org/10.5281/ZENODO.3551852",
+  "10.5281/ZENODO.3563519": "Willighagen, E. (2010). Teaching Scientific Communication. <i>Zenodo</i>. https://doi.org/10.5281/ZENODO.3563519",
   "10.5281/ZENODO.375609": "Philip Doganis, G. T. (2015). <i>Deliverable Report D4.2 Descriptor Calculation Algorithms and Methods</i>. Zenodo. https://doi.org/10.5281/ZENODO.375609",
   "10.5281/ZENODO.375610": "Charalambos Chomenidis, P. D. (2015). <i>Deliverable Raport D4.3 nQSAR Modelling infrastructure</i>. Zenodo. https://doi.org/10.5281/ZENODO.375610",
   "10.5281/ZENODO.375613": "Friederike Ehrhart, P. N. (2016). <i>Deliverable Report D4.4 Mechanism-ofaction Modelling Tools</i>. Zenodo. https://doi.org/10.5281/ZENODO.375613",
@@ -535,4 +536,4 @@
   "10.7717/peerj-cs.112": "Krewinkel, A., &#38; Winkler, R. (2017). Formatting Open Science: agilely creating multiple document formats for academic manuscripts with Pandoc Scholar. <i>PeerJ Computer Science</i>, <i>3</i>, e112. https://doi.org/10.7717/peerj-cs.112",
   "10.7717/peerj-cs.214": "Willighagen, L. G. (2019). Citation.js: a format-independent, modular bibliography tool for the browser and command line. <i>PeerJ Computer Science</i>, <i>5</i>, e214. https://doi.org/10.7717/peerj-cs.214",
   "10.7717/peerj-cs.86": "Smith, A. M., Katz, D. S., &#38; Niemeyer, K. E. (2016). Software citation principles. <i>PeerJ Computer Science</i>, <i>2</i>, e86. https://doi.org/10.7717/peerj-cs.86"
-}
+  }
