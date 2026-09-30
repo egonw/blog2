@@ -2,18 +2,18 @@
 layout: post
 title:  "Using PubChem to create CDK unit tests"
 date:   2010-09-26
-modified_date: 2011-09-26
+modified_date: 2026-09-30
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/using-pubchem-to-create-cdk-unit-tests.html
 doi: 10.59350/9bw3h-3mr91
 tags: cdk pubchem mcprinciples
 ---
 
-In 2008 I posted about [Wicked chemistry and unit testing](http://chem-bla-ics.blogspot.com/2008/05/wicked-chemistry-and-unit-testing.html)
-and was using [BeanShell](http://en.wikipedia.org/wiki/BeanShell) at the time
-to convert a structure on [PubChem](http://pubchem.ncbi.nlm.nih.gov/) into [CDK](http://cdk.sf.net)
-source code. But since I rather use [Groovy](http://en.wikipedia.org/wiki/Groovy_%28programming_language%29)
-now, I have updated the code. I used [CDK 1.3.6](http://chem-bla-ics.blogspot.com/2010/09/cdk-137-changes-authors-and-reviewers.html)
-and the PubChem XML format now.:
+In 2008 I posted about [Wicked chemistry and unit testing](https://chem-bla-ics.blogspot.com/2008/05/wicked-chemistry-and-unit-testing.html)
+and was using [BeanShell](https://en.wikipedia.org/wiki/BeanShell) at the time
+to convert a structure on [PubChem](https://pubchem.ncbi.nlm.nih.gov/) into [CDK](http://cdk.sf.net)
+source code. But since I rather use [Groovy](https://en.wikipedia.org/wiki/Groovy_%28programming_language%29)
+now, I have updated the code. I used [CDK 1.3.6](https://chem-bla-ics.blogspot.com/2010/09/cdk-137-changes-authors-and-reviewers.html)
+and the PubChem XML format now:
 
 <pre>import org.openscience.cdk.Molecule;
 import org.openscience.cdk.io.*;
