@@ -2,6 +2,7 @@
 layout: post
 title:  "Using PubChem to create CDK unit tests"
 date:   2010-09-26
+modified_date: 2011-09-26
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/using-pubchem-to-create-cdk-unit-tests.html
 doi: 10.59350/9bw3h-3mr91
 tags: cdk pubchem mcprinciples
@@ -41,3 +42,9 @@ writer.close();
 
 System.out.print(stringWriter.toString());
 </pre>
+
+**Update** An observant reader would have noticed that the output of the current
+CDKSourceCodeWriter is actually producing code that does not compile. The CDK
+API has changed, but the created output was not updated accordingly. Apparently,
+no one is actually using this class, or those who have were not interested in
+that piece of functionality to file a bug report.
