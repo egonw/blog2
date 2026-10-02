@@ -4,7 +4,7 @@ title:  "Visualizing data embedded in XHTML+RDFa"
 date:   2010-09-27
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/visualizing-data-embedded-in-xhtmlrdfa.html
 doi: 10.59350/fqvqj-ced74
-image: /blog/assets/images/sparqlGraphing.png
+image: /assets/images/sparqlGraphing.png
 tags: chemistry rdf sparql mcprinciples
 ---
 
@@ -14,13 +14,13 @@ and made an web based application to graph data from one of my [XHTML-RDFa pages
 Well done! He wrote [his work](http://www.pharmash.com/posts/2010-09-27-sparql-to-chart.html)
 up in his blog of which the results looks like:
 
-![](/blog/assets/images/sparqlGraphing.png)
+![](/assets/images/sparqlGraphing.png)
 
 The text field shows the SPARQL used to aggregate the data, which is then visualized
 in the plot below that field. You can edit the SPARQL and, for example, plot
 the boiling point (t) as function of the number of carbons (p):
 
-![](/blog/assets/images/sparqlGraphing1.png)
+![](/assets/images/sparqlGraphing1.png)
 
 This work nicely shows some interesting McPrinciples: it shows what happens
 if we allow reuse and share our knowledge; it shows that nice graphics and semantic

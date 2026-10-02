@@ -232,7 +232,7 @@ String localImage(String url) {
     file.bytes = bytes
     println "Saved ${url} as ${file.name}"
   }
-  return localImages[url] = "/blog/assets/images/" + file.name
+  return localImages[url] = "/assets/images/" + file.name
 }
 
 postHtml = org.jsoup.Jsoup.parseBodyFragment(entry.content.text())

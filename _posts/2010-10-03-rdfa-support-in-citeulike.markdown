@@ -4,7 +4,7 @@ title:  "RDFa support in CiteULike"
 date:   2010-10-03
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/rdfa-support-in-citeulike.html
 doi: 10.59350/h3sra-rxw72
-image: /blog/assets/images/culRDFa.png
+image: /assets/images/culRDFa.png
 tags: citeulike rdf rdfa
 ---
 
@@ -15,6 +15,6 @@ web interface](http://www.citeulike.org/user/egonw/article/7812280). Of course,
 you will not see this in the browser, unless you use something like the [RDFaDev
 plugin in Firefox](http://chem-bla-ics.blogspot.com/2010/07/rdfadev-htmlrdfa-development-with.html):
 
-![](/blog/assets/images/culRDFa.png)
+![](/assets/images/culRDFa.png)
 
 Cheers to the [CiteULike developers team](http://blog.citeulike.org/)!
