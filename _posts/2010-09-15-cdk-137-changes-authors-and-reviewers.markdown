@@ -5,12 +5,13 @@ date:   2010-09-15
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/cdk-137-changes-authors-and-reviewers.html
 doi: 10.59350/0dk0s-f3c43
 tags: cdk cheminf java
+modified_date: 2026-10-02
 ---
 
 The list of changes is particularly long for this development release. Therefore,
 I will list the authors and reviewers first. Note that this release also includes
 the changes of the [1.2.6](http://chem-bla-ics.blogspot.com/2010/07/cdk-126-changes-and-authors.html)
-and [CDK 1.2.7 release](http://chem-bla-ics.blogspot.com/2010/09/cdk-127-changes-authors-and-reviewers.html).
+and [CDK 1.2.7 release <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info//2010/09/12/cdk-127-changes-authors-and-reviewers.html).
 
 **The authors**  
 I am mildly impressed by this release's list of authors... it is certainly not
@@ -41,7 +42,7 @@ and [Syed](http://sites.google.com/site/chembioinfo/) as active reviewers.
 
 **The changes**  
 The changes include bug fixes (see also the [1.2.6](http://chem-bla-ics.blogspot.com/2010/07/cdk-126-changes-and-authors.html)
-and [1.2.7 release notes](http://chem-bla-ics.blogspot.com/2010/09/cdk-127-changes-authors-and-reviewers.html)),
+and [1.2.7 release notes <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info//2010/09/12/cdk-127-changes-authors-and-reviewers.html)),
 but also an updated SMSD engine, a rename of the *IAtomType* method *getHydrogenCount()*
 into *getImplicitHydrogenCount()* and of *MDLWriter* into *MDLV2000Writer*,
 and the addition of the [signature code by Gilleain](http://gilleain.blogspot.com/2009/06/faulons-signatures-possible.html),

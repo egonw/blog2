@@ -2,7 +2,7 @@
 layout: post
 title:  "Pulling out data as JSON from XHTML+RDFa"
 date:   2010-09-10
-modified_date: 2026-09-27
+modified_date: 2026-10-02
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/pulling-out-data-as-json-from-xhtmlrdfa.html
 doi: 10.59350/zjj1y-ave93
 tags: chemistry html rdfa sparql json
@@ -12,7 +12,7 @@ I am keen on [RDFa](/blog/tag/rdfa) and [RDF <i class="fa-solid fa-recycle fa-xs
 RDFa is a serialization of RDF triples embedded in (X)HTML. I recently posted about [chemical examples of XHTML+RDFa](http://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-chemical-examples.html).
 Now, the reason for putting data in HTML as RDFa is that we can easily pull it out again, e.g. with [this distiller](http://www.w3.org/2007/08/pyRdfa/).
 But the fun goes on, and we can actually also run SPARQL directly on it, for example with RDFaDev which I
-[recently blogged about](http://chem-bla-ics.blogspot.com/2010/07/scripts-logs-as-htmlrdfa-mix-free-text.html).
+[recently blogged about <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/07/19/scripts-logs-as-htmlrdfa-mix-free-text.html).
 
 Now, consider we have all these nice visualization tools written in JavaScript which can visualize data from [JSON](http://www.json.org/) sources,
 the mashup requires a JSON serialization of that data embedded in HTML pages. Now, I have no experience with the cool JavaScript tools, and hope

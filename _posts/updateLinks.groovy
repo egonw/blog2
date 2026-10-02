@@ -27,6 +27,7 @@ mappings = [
   "2010/12/status-update-on-bjoc-analysis-with.html": "2010/12/11/status-update-on-bjoc-analysis-with.html",
   "2010/10/multiple-unit-test-inheritance-with.html": "2010/10/26/multiple-unit-test-inheritance-with.html",
   "2010/10/working-on-oscar-for-three-months.html": "2010/10/15/working-on-oscar-for-three-months.html",
+  "2010/09/cdk-127-changes-authors-and-reviewers.html": "/2010/09/12/cdk-127-changes-authors-and-reviewers.html",
   "2010/08/skyline-of-boston-walking-to-convention.html": "2010/08/22/skyline-of-boston-walking-to-convention.html",
   "2010/08/specifying-unit-test-dependencies-with.html": "2010/08/14/specifying-unit-test-dependencies-with.html",
   "2010/08/xhtmlrdfa-template.html": "2010/08/09/xhtmlrdfa-template.html",
