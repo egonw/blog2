@@ -2,9 +2,10 @@
 layout: post
 title:  "Royce Murray and Caveat Emptor"
 date:   2010-10-16
+modified_date: 2026-10-03
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/royce-murray-and-caveat-emptor.html
 doi: 10.59350/h969z-19581
-tags: blogging publishing science
+tags: blogging publishing science justdoi:10.1021/ac102628p
 ---
 
 [Derek's blog](http://pipeline.corante.com/archives/2010/10/15/those_chemistry_bloggers.php)
@@ -40,6 +41,3 @@ the editorial: *In the above light, I believe that the current phenomenon of
 “bloggers” should be of serious concern to scientists.* I consider myself a
 blogger, not unreasonable giving the fact that I blog, and feel personally attacked.
 Hence, the title of this post: **Royce Murray and Caveat Emptor**.
-
-<span style="float: left; padding: 5px;"><a href="http://www.researchblogging.org"><img alt="ResearchBlogging.org" src="http://www.researchblogging.org/public/citation_icons/rb2_large_gray.png" style="border:0;"></a></span>  
-<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=Analytical+chemistry&amp;rft_id=info%3Apmid%2F20939598&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=Science+Blogs+and+Caveat+Emptor.&amp;rft.issn=0003-2700&amp;rft.date=2010&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=&amp;rft.epage=&amp;rft.artnum=&amp;rft.au=Murray+R&amp;rfe_dat=bpr3.included=1;bpr3.tags=Chemistry%2CResearch+%2F+Scholarship%2CAnalytical+Chemistry%2C+Ethics%2C+Publishing">Murray R (2010). Science Blogs and Caveat Emptor. <span style="font-style: italic;">Analytical chemistry</span> PMID: <a rev="review" href="http://www.ncbi.nlm.nih.gov/pubmed/20939598">20939598</a></span>
