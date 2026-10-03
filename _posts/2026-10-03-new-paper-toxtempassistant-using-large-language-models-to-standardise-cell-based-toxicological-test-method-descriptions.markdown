@@ -15,7 +15,7 @@ comments:
 
 [Jente Houweling](https://orcid.org/0009-0005-3680-0645) published her first PhD thesis chapter earlier this year:
 "ToxTempAssistant: using large language models to standardise cell-based toxicological test method descriptions"
-(doi:[10.1080/2833373X.2026.2638036](https://doi.org/10.1080/2833373X.2026.2638036)). So far, I have been blogging about
+(doi [10.1080/2833373X.2026.2638036](https://doi.org/10.1080/2833373X.2026.2638036)). So far, I have been blogging about
 many of the articles on which I am (co-)author. To put it in context. To reflect on the work. I have been postponing
 writing about this paper because there is a lot to reflect on. I will pick out two things. First, I look at the use
 of AI. The second is the unique, innovative publishing model of the journal where the article was published.
@@ -94,12 +94,12 @@ if it gets rejected from EBT, do you use the EBT preprint server when submitting
 a new version (after all, you should address some of the comments why it was rejected) to another preprint server?
 
 The EBT preprint gets a record and revisions are uploaded as new versions to the same Zenodo record
-(doi[10.5281/zenodo.17192970](https://doi.org/10.5281/zenodo.17192970)):
+(doi [10.5281/zenodo.17192970](https://doi.org/10.5281/zenodo.17192970)):
 
 ![](/assets/images/ebt_preprint_tta.png)
 
 Because EBT uses open peer review, there is a parallel Zenodo entry with the reviews
-(doi[10.5281/zenodo.17278785](https://doi.org/10.5281/zenodo.17278785)):
+(doi [10.5281/zenodo.17278785](https://doi.org/10.5281/zenodo.17278785)):
 
 ![](/assets/images/ebt_preprint_tta_reviews.png)
 
@@ -108,7 +108,7 @@ The last version here is the acceptance notice:
 ![](/assets/images/ebt_preprint_tta_acceptance.png)
 
 One of the reviewer suggestions was to use the TRIPOD-LLM template
-(doi:[10.1038/s41591-024-03425-5](https://doi.org/10.1038/s41591-024-03425-5)), which was included in a
+(doi [10.1038/s41591-024-03425-5](https://doi.org/10.1038/s41591-024-03425-5)), which was included in a
 later revision. That made a lot of sense and is a nice example how the journal actively works
 on applying open science ideas. The journal webpage writes:
 
