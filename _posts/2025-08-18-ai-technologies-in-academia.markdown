@@ -4,7 +4,7 @@ title:  "AI Technologies in Academia"
 date:   2025-08-18
 modified_data: 2025-08-18 11:13
 doi: 10.59350/hr4y6-kwq16
-tags: cheminf chemometrics justdoi:10.1515/9783110782844-010 openscience
+tags: cheminf chemometrics justdoi:10.1515/9783110782844-010 openscience llm
 comments:
   host: social.edu.nl
   username: egonw
