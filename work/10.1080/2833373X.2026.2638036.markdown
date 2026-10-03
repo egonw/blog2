@@ -1,0 +1,7 @@
+---
+layout: work
+title: "Work: ToxTempAssistant: using large language models to standardise cell-based toxicological test method descriptions"
+type: ScholarlyArticle
+tag: doi:10.1080/2833373X.2026.2638036
+doi: doi:10.1080/2833373X.2026.2638036
+---
