@@ -7,10 +7,10 @@ tags: fair llm vhp4safety mycito:discusses:10.1080/2833373X.2026.2638036 cito:ci
   openscience cito:citesAsEvidence:10.5281/zenodo.17278785 cito:citesAsEvidence:10.5281/zenodo.17192970
   cito:discusses:10.1038/s41591-024-03425-5
 image: /assets/images/ebt_preprint_tta_acceptance.png
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 117376077138627798
 ---
 
 [Jente Houweling](https://orcid.org/0009-0005-3680-0645) published her first PhD thesis chapter earlier this year:
