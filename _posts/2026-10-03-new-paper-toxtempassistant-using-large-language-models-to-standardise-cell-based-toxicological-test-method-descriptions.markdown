@@ -18,7 +18,7 @@ comments:
 (doi:[10.1080/2833373X.2026.2638036](https://doi.org/10.1080/2833373X.2026.2638036)). So far, I have been blogging about
 many of the articles on which I am (co-)author. To put it in context. To reflect on the work. I have been postponing
 writing about this paper because there is a lot to reflect on. I will pick out two things. First, I look at the use
-of AI. The second is the unique, innovatie publishing model of the journal where the article was published.
+of AI. The second is the unique, innovative publishing model of the journal where the article was published.
 If you want to just see it in action, ToxTempAssistant is [running](https://toxtempassistant.vhp4safety.nl/)
 on the Virtual Human Platform for safety assessment.
 
@@ -33,8 +33,8 @@ Before we go there, just a quick note on what ToxTemps are and ToxTempAssistent 
 ## The LLM aspects
 
 AI is very old. Arguably, [my PhD thesis](https://chem-bla-ics.linkedchemistry.info/2009/05/04/thesis-and-copyright-transfer.html)
-had this as key topic, though I prefered to use to term chemometric or machine learning.
-Critial thinking has been essential to this field for a long time, and much of the PhD thesis is actually
+had this as key topic, though I preferred to use to term chemometric or machine learning.
+Critical thinking has been essential to this field for a long time, and much of the PhD thesis is actually
 about critically assessing the performance of the methods used in the thesis. There is decades of research
 how you do this. Sadly, when it comes to Large Language Models (LLMs), these are not routinely used.
 
@@ -86,7 +86,7 @@ The ToxTempAssistant paper is published in the relatively new journal [Evidence-
 > evidence-based methods in toxicology and environmental health.
 
 So, CC-BY license (gold open access) and support for Open Science. And Open Peer Review, as we will see. Also,
-I undestand it is not a diamond open access journal, so expect APCs.
+I understand it is not a diamond open access journal, so expect APCs.
 
 The journal has [a community on Zenodo](https://zenodo.org/communities/ebt/records) for preprints and peer-reviews.
 I think this is a really nice choice. Of course, a journal specific preprint server has downsides too. For example,
@@ -98,7 +98,7 @@ The EBT preprint gets a record and revisions are uploaded as new versions to the
 
 ![](/assets/images/ebt_preprint_tta.png)
 
-But because EBT uses open peer review, there is a parallel Zenodo entry with the reviews
+Because EBT uses open peer review, there is a parallel Zenodo entry with the reviews
 (doi[10.5281/zenodo.17278785](https://doi.org/10.5281/zenodo.17278785)):
 
 ![](/assets/images/ebt_preprint_tta_reviews.png)
@@ -125,7 +125,7 @@ Another comment is that it seems the journal website's page for the article does
 link to the preprints nor the peer-review reports (or acceptance note). So, in time, these
 open science aspects of this article will likely get lost in time. Who will find those reports
 if the article does not cite them? This will require Taylor&Francis to modernize the publishing
-model, and I sincerly doubt that that will ever happen.
+model, and I sincerely doubt that that will ever happen.
 
 Prof. [Anne Kienhuis](https://orcid.org/0000-0002-6465-4498), one of the co-authors, suggested
 this journal lead by Prof. [Paul Whaley](https://orcid.org/0000-0003-4021-0785).
