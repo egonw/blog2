@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "The 100th CDK 2003 paper"
+date:   2010-10-08
+blogger-link: https://chem-bla-ics.blogspot.com/2010/10/100th-cdk-2003-paper.html
+doi: 10.59350/chq8n-y6905
+image: /blog/assets/images/cdk100.png
+tags: cdk jchempaint doi:10.1021/CI025584Y justdoi:10.1021/ci100061d
+---
+
+We got a winner! Crabtree just published the paper *An Open-Source Java Platform
+for Automated Reaction Mapping* (doi:[10.1021/ci100061d](http://dx.doi.org/10.1021/ci100061d)),
+and is, according to Web of Science, the 100th paper to cite the CDK 2003 paper
+(doi:[10.1021/ci025584y](http://dx.doi.org/10.1021/ci025584y))!
+
+![](/blog/assets/images/cdk100.png)
+
+The paper uses the rendering functionality of the CDK. The authors write:
+
+> The viewer application uses code from the Chemistry Development Kit (31) (CDK) to display graphical representations
+> of the compounds involved in the reactions. The CDK source code was altered to enable the color-coded display of
+> the bonds that were broken or formed during the reaction as shown in Figure 7. In addition, we created a “transition
+> state” molecule that shows the transitory combination of reactant molecules that occurs at a potential energy
+> maximum. The CDK source code was also modified to support the display of the transition state.
+
+The source code is, as the title promises, open source, and available from the
+[armsrc project on SourceForge](https://sourceforge.net/projects/armsrc/).
