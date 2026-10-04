@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Multiple unit test inheritance with JExample"
-date:   2010-10-26
+date:   2010-10-26 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/multiple-unit-test-inheritance-with.html
 doi: 10.59350/b3fxm-rg432
 tags: java junit
