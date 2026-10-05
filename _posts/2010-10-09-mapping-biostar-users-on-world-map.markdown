@@ -4,7 +4,7 @@ title:  "Mapping BioStar users onto the world map"
 date:   2010-10-09
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/mapping-biostar-users-on-world-map.html
 doi: 10.59350/03tgj-qev49
-image: /blog/assets/images/biostarUsers.png
+image: /assets/images/biostarUsers.png
 tags: bioinfo blue-obelisk cheminf rstats
 ---
 
@@ -23,7 +23,7 @@ only hours later](http://nsaunders.wordpress.com/2010/10/09/biostar-users-of-the
 with [this map](http://www.zeemaps.com/185997). Here are the BioStar users from
 my region:
 
-![](/blog/assets/images/biostarUsers.png)
+![](/assets/images/biostarUsers.png)
 
 Now, who will be my new cheminformatics hero, and make a map for the Blue Obelisk
 eXchange? ;)

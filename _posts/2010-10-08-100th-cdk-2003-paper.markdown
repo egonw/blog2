@@ -4,7 +4,7 @@ title:  "The 100th CDK 2003 paper"
 date:   2010-10-08
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/100th-cdk-2003-paper.html
 doi: 10.59350/chq8n-y6905
-image: /blog/assets/images/cdk100.png
+image: /assets/images/cdk100.png
 tags: cdk jchempaint doi:10.1021/CI025584Y justdoi:10.1021/ci100061d
 ---
 
@@ -13,7 +13,7 @@ for Automated Reaction Mapping* (doi:[10.1021/ci100061d](http://dx.doi.org/10.10
 and is, according to Web of Science, the 100th paper to cite the CDK 2003 paper
 (doi:[10.1021/ci025584y](http://dx.doi.org/10.1021/ci025584y))!
 
-![](/blog/assets/images/cdk100.png)
+![](/assets/images/cdk100.png)
 
 The paper uses the rendering functionality of the CDK. The authors write:
 

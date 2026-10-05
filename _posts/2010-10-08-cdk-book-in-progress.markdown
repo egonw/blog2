@@ -4,7 +4,7 @@ title:  "CDK Book in progress"
 date:   2010-10-08
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/cdk-book-in-progress.html
 doi: 10.59350/x7ddh-98k05
-image: /blog/assets/images/cdkBook.png
+image: /assets/images/cdkBook.png
 tags: cdk groovy latex publishing cdkbook
 ---
 
@@ -43,4 +43,4 @@ Groovy script run.
 
 Since last year, I have pimped the output a bit, and the above now looks like:
 
-![](/blog/assets/images/cdkBook.png)
+![](/assets/images/cdkBook.png)
