@@ -2,7 +2,7 @@
 layout: post
 title:  "Oxford..."
 date:   2010-08-01
-modified_date: 2025-03-30
+modified_date: 2026-10-05
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/oxford.html
 tags: oxford oxfordadmet2010 publishing science toxicology conference
 doi: 10.59350/ap7n7-58v06
@@ -18,7 +18,7 @@ internet connection :)
 
 Anyways, going to the [Predictive Toxicology <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20111001000000*/http://echeminfo.com/comty_oxfordadmet10) workshop, thanx to the bursary award I received from
 [echeminfo <i class="fa-solid fa-box-archive fa-xs"></i>](https://web.archive.org/web/20110207193345/http://echeminfo.com/)
-(see [Oxford, August 2010: eCheminfo Predictive ADME & Toxicology 2010 Workshop](http://chem-bla-ics.blogspot.com/2010/03/oxford-august-2010-echeminfo-predictive.html)).
+(see [Oxford, August 2010: eCheminfo Predictive ADME & Toxicology 2010 Workshop <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/22/oxford-august-2010-echeminfo-predictive.html)).
 
 This afternoon I walked around a bit, watching all the old buildings. But I guess being here without anyone to share it with,
 and that it looks just like [Cambridge](http://en.wikipedia.org/wiki/Cambridge), makes me not-so-much impressed. Moreover, it's too

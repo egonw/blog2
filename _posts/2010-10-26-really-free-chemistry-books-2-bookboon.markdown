@@ -5,9 +5,10 @@ date:   2010-10-26
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/really-free-chemistry-books-2-bookboon.html
 doi: 10.59350/qb1s3-8qa26
 tags: publishing
+modified_date: 2026-10-05
 ---
 
-About a year ago I wrote about [free chemistry books](http://chem-bla-ics.blogspot.com/2009/09/really-free-chemistry-books.html).
+About a year ago I wrote about [free chemistry books <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/17/really-free-chemistry-books.html).
 No, not illegal copied books, but really free books (though, not necessarily
 Open). Actually, the books I discussed last year, those are out of copyright,
 as they are old. But, just today I ran into an advertisement for free books

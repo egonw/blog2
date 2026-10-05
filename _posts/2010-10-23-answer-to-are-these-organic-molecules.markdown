@@ -5,6 +5,7 @@ date:   2010-10-23
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/answer-to-are-these-organic-molecules.html
 doi: 10.59350/k2b7s-tdt62
 tags: mcprinciples
+modified_date: 2026-10-05
 ---
 
 Ten days ago I asked my readers if two molecules were the same or not. I guessed
@@ -40,4 +41,4 @@ in his brilliant [blog](http://www.ch.ic.ac.uk/rzepa/blog/). Well, most of the
 time anyway. Look for the 'Click for 3D' statements behind the figures, and
 just give it a try, e.g. in [this post on I(CN)7](http://www.ch.ic.ac.uk/rzepa/blog/?p=2619).
 
-BTW, a clear example of [McPrinciple #2](http://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-2-be.html).
+BTW, a clear example of [McPrinciple #2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/12/molecular-chemometrics-principles-2-be.html).

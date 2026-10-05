@@ -5,13 +5,14 @@ date:   2010-10-30 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/calculating-molecular-descriptors-with.html
 doi: 10.59350/7pbp8-f6q28
 tags: bioclipse cdk opentox qsar
+modified_date: 2026-10-05
 ---
 
-While working during *office hours* on [Oscar](http://chem-bla-ics.blogspot.com/2010/10/oscar4-java-api-chemical-name.html),
+While working during *office hours* on [Oscar <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html),
 I am also trying to finish up some work left from Uppsala. One such thing is
 the Bioclipse-OpenTox project (see [Using Bioclipse to upload data to an OpenTox
-server](http://chem-bla-ics.blogspot.com/2010/08/using-bioclipse-to-upload-data-to.html)
-and [Oxford, August 2010: eCheminfo Predictive ADME & Toxicology 2010 Workshop](http://chem-bla-ics.blogspot.com/2010/03/oxford-august-2010-echeminfo-predictive.html)).
+server <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/04/using-bioclipse-to-upload-data-to.html)
+and [Oxford, August 2010: eCheminfo Predictive ADME & Toxicology 2010 Workshop <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/22/oxford-august-2010-echeminfo-predictive.html)).
 Today I finished calculating molecular descriptor values with OpenTox servers:
 
 ```javascript
