@@ -6,7 +6,7 @@ modified_date: 2025-02-15
 doi: 10.59350/8my4k-rfz51
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/groovy-cheminformatics.html
 tags: cdk java cheminf cdkbook
-image: /assets/images/cdkBook.png
+image: /assets/images/cdkBookLulu.png
 ---
 
 **Update**: the [fourth edition <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2012/01/15/groovy-cheminformatics-4th-edition.html) is out.
@@ -16,7 +16,7 @@ publishing-on-demand, here I introduce the release-soon, release-often equivalen
 [Groovy Cheminformatics with the Chemistry Development Kit](http://www.lulu.com/product/paperback/groovy-cheminformatics-with-the-chemistry-development-kit/14745007)
 book:
 
-![](/assets/images/cdkBook.png)
+![](/assets/images/cdkBookLulu.png)
 
 With a serious discount for just being the first edition (1.3.8-0), but still counting at 72 pages with 75 code examples, this edition
 marks a personal milestone (and probably not much more than that). There remains much to do, but I promised a release by tomorrow, so
