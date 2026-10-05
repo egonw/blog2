@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "TTT it is"
+date:   2010-11-03
+blogger-link: https://chem-bla-ics.blogspot.com/2010/11/ttt-it-is.html
+doi: 10.59350/ghzf5-a8s61
+tags: blue-obelisk cheminf
+---
+
+The fact that [Piet Hein said it](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2739),
+gives it an extra (fourth) dimension. **T**hings **T**ake **T**ime.
+
+But, as Peter indicated, we are getting there in cheminformatics. We see the
+commercial entities experimenting and contributing to Open Source cheminformatics
+and the [Blue Obelisk](http://www.blueobelisk.org/) has reached critical mass
+a few years ago. Next year is the year of Open Source cheminformatics on the
+desktop ;)
+
+We are not their yet, and Piet Hein makes a truely wise choice here. My association
+with Piet Hein is [Piet Hein the Dutch sailor](http://en.wikipedia.org/wiki/Piet_Pieterszoon_Hein),
+not [Piet Hein the Danish scientist and author](http://en.wikipedia.org/wiki/Piet_Hein_%28Denmark%29)
+who gave us the quote. Semantic chemistry is one of those areas where Open Source
+cheminformatics is doing really well.
+
+Things do take time, but after more than 15 years of Open Source chemistry,
+it is time to harvest. Peter has [a few crops](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/?p=2668)
+in mind.
+
+Meanwhile... finding a nice, permanent academic position educating students
+in modern cheminformatics... TTT :(
