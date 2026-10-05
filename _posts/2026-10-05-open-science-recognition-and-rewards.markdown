@@ -4,10 +4,10 @@ title:  "Open Science and Recognition & Rewards"
 date:   2026-10-05
 doi: 10.59350/gt194-05b24
 tags: openscience rnr maastricht
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 117387377001032699
 ---
 
 In the past 10~ish years there has been a national push towards two themes aimed to improve things
