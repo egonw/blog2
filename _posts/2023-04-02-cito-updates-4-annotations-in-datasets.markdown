@@ -2,11 +2,11 @@
 layout: post
 title:  "CiTO updates #4: annotations in datasets"
 date:   2023-04-02
-modified_date: 2026-09-27
+modified_date: 2026-10-07
 doi: 10.59350/jakew-pe809
 blogger-link: https://chem-bla-ics.blogspot.com/2023/04/cito-updates-4-annotations-in-datasets.html
-tags: cito data scholia doi:10.1186/s13321-023-00683-2 justdoi:10.1186/s13321-023-00684-1 justdoi:10.1186/s13321-022-00656-x
-  justdoi:10.1186/s13321-022-00673-w justdoi:10.1186/s13321-022-00677-6 doi:10.1186/s13321-023-00701-3
+tags: cito data scholia doi:10.1186/S13321-023-00683-2 justdoi:10.1186/s13321-023-00684-1 justdoi:10.1186/s13321-022-00656-x
+  justdoi:10.1186/s13321-022-00673-w justdoi:10.1186/s13321-022-00677-6 doi:10.1186/S13321-023-00701-3
   justdoi:10.1162/QSS_A_00222 justdoi:10.5281/zenodo.5155219 doi:10.21105/joss.02558 doi:10.5281/ZENODO.7368209
 image: /assets/images/Screenshot_20230402_085317.png
 ---
