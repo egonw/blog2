@@ -2,7 +2,7 @@
 layout: post
 title:  "Curation is an essential part of doing research"
 date:   2025-06-29
-modified_date: 2026-03-07
+modified_date: 2026-10-07
 doi: 10.59350/c4k5q-h8849
 tags: curation openscience justdoi:10.1038/455047A doi:10.1021/CI050400B nmrshiftdb
   europepmc
@@ -63,7 +63,7 @@ But since I have been updating [my CV anyway](https://egonw.github.io/cv/), I du
 of:
 
 * the Dictionary on Organic Chemistry, which no longer exists, but it started my Open Science chemistry research
-* the [Blue Obelisk Data Repositry](Blue Obelisk Data Repository) (BODR), which has been part of various
+* the [Blue Obelisk Data Repositry](https://github.com/BlueObelisk/bodr) (BODR), which has been part of various
   GNU/Linux distributions (see also doi:[10.1021/ci050400b](https://doi.org/10.1021/ci050400b)).
   A new version is [long overdue](https://chem-bla-ics.blogspot.com/2013/08/the-blue-obelisk-data-repositorys-10.html)
 * I contributed hundreds of NMR spectra with uncommon nuclei to [NMRShiftDb](https://sourceforge.net/projects/nmrshiftdb2/files/data/)
