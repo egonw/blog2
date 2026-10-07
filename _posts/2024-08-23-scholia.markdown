@@ -2,7 +2,7 @@
 layout: post
 title:  "Scholia configurability"
 date:   2024-08-23
-modified_date: 2024-09-05
+modified_date: 2024-10-07
 tags: scholia doi:10.1007/978-3-319-70407-4_36 wikidata sparql
 doi: 10.59350/epanj-4t315
 ---
@@ -87,7 +87,7 @@ scholia run
 
 Then I can have two browser windows along side and compare Scholia pages againt the current
 Scholia instance and when running against another SPARQL endpoint. For now, I can test how well
-Scholia runs on the [QLever instance of Wikidata](qlever.cs.uni-freiburg.de/wikidata) (superfast and
+Scholia runs on the [QLever instance of Wikidata](https://qlever.cs.uni-freiburg.de/wikidata) (superfast and
 updated data once a week). Here the configuration I have is not entirely complete, and many
 SPARQL queries do not work against QLever, including anything with graphical depiction. But
 that said, I can use this configuration:
