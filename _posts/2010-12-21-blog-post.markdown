@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Commercial or Proprietary?"
+date:   2010-12-21
+blogger-link: https://chem-bla-ics.blogspot.com/2010/12/blog-post.html
+doi: 10.59350/y5t7f-5gd18
+image: /blog/assets/images/prop_vs_commercial.png
+tags: cheminf opensource justdoi:10.1002/ddr.20404
+---
+
+Khanna and Ranganathan wrote up a review paper on molecular similarity (doi:[10.1002/ddr.20404](http://dx.doi.org/10.1002/ddr.20404)).
+I have not fully read it yet, but my eye fell on Table 1, which lists a number
+of programs that can be used to calculate QSAR descriptors, both open source
+and proprietary. However, the table features a column *Availability* which has
+two options: Public, Commercial. They qualify Bioclipse, CDK, and RDKit as *public*,
+and Dragon, MOE, CODESSA and others are commercial. Effectively, it seems to
+suggest that they classify them as open source versus commercial, though I am
+not entirely sure what they mean with *public*.
+
+The authors and referees would not be the first to make this common mistake:
+not express the difference between two orthogonal axis: free-versus-commercial
+and open source-versus-proprietary. To clarify these axes, I created this diagram
+(CC-BY, [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) source
+available upon request):
+
+![](/blog/assets/images/prop_vs_commercial.png)
+
+It is very important to realize the Open Source software can be commercial.
+For example, you can get commercial support for [Bioclipse](http://www.bioclipse.net)
+and [CDK](http://cdk.sf.net) with [GenettaSoft](http://www.genettasoft.com/).
+It is also really important to realize that free software (public?) does not
+mean it is Open Source (or visa versa). [E-Dragon](http://www.vcclab.org/lab/edragon/start.html)
+is an example here: you can freely use, but the source code is proprietary.
+Some years after open source cheminformatics took off, commercial providers
+started to provide free-for-academic-use packages, which fits into this category
+too.
+
+Readers of my blog know that I advocate Open Source, not gratis software (see
+also [Re: Why I and you should avoid NC licences](http://chem-bla-ics.blogspot.com/2010/12/re-why-i-and-you-should-avoid-nc.html)),
+even though you can download many of the Open Source cheminformatics tools I
+worked on for free. Here it is important to realize that the CDK and Bioclipse
+are not free: it is just that the tax-payer covered the cost via academic institutes
+mostly, as well as hobbyists working out-of-office, like I have done for many,
+many years, and companies who saw mutual benefit. Maybe something to consider
+the next time you are wondering about donating money to an Open Source cheminformatics
+project, and *pay* some respect to the project contributors of the software
+you use.
+
+Off-topic: there is a second inaccuracy in this table. For each software, they
+list the number of descriptors, but without *units*. Units, units?? Yes. For
+example, for the CDK they list ">40" descriptors, while for Dragon "3,224" (it
+puzzles me why you can count accurately above 3000, but not below 50. But the
+point here is that the CDK count is really the number of Java classes, reflecting *descriptor
+algorithms*. One algorithm can calculate more than one *descriptor value*, and
+those are counted for Dragon. The columns is comparing apples with oranges.
+While I have never really counted it, and you every CDK user can in fact tune
+it, the number of calculated CDK descriptor values approaches a thousand. Well,
+I guess that is ">40" too :(
