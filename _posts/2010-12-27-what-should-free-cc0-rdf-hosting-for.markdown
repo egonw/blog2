@@ -5,9 +5,12 @@ date:   2010-12-27
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/what-should-free-cc0-rdf-hosting-for.html
 doi: 10.59350/n2w5d-83856
 tags: copyright rdf
+image: /blog/assets/images/rdfHostS30.png
 ---
 
-![](http://posterous.com/getfile/files.posterous.com/egonw/pgJglZxRgTIGKrof89dPmSrC4GdNVrHFwOU1aj3GWgMzMo9CNvKhfoksdXBP/rdfHostS30.png)
+&nbsp;
+
+![](/blog/assets/images/rdfHostS30.png)
 
 What if scientists could host small amounts of [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 data for free? Something like computation results, e.g. outputted as [HTML+RDFa](http://chem-bla-ics.blogspot.com/2010/07/scripts-logs-as-htmlrdfa-mix-free-text.html)?
@@ -22,5 +25,3 @@ to see on the summary page. Some things I can think of are:
 * the upload page should probably a separate tab
 
 That would be a good start. What else should be there?
-
-[Posted via email](http://posterous.com) from [Egon's posterous](http://egonw.posterous.com/what-should-a-free-cc0-rdf-hosting-for-scient)
