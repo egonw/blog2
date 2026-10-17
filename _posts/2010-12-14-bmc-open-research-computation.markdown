@@ -4,7 +4,7 @@ title:  "Open Research Computation, ORC,  #openrescomp"
 date:   2010-12-14 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/bmc-open-research-computation.html
 doi: 10.59350/eb8a9-cyr70
-image: /blog/assets/images/orc.png
+image: /assets/images/orc.png
 tags: opensource publishing
 ---
 
@@ -17,4 +17,4 @@ is special. This new journal is called [Open Research Computation](http://www.op
 [it](http://nsaunders.wordpress.com/2010/12/13/can-a-journal-make-a-difference-lets-find-out/)
 [too](http://plindenbaum.blogspot.com/2010/12/new-journal-bmc-open-research.html).
 
-![](/blog/assets/images/orc.png)
+![](/assets/images/orc.png)

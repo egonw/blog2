@@ -12,7 +12,7 @@ about an issue that recently came up: the role of the Non-Commercial clause
 in [Creative Commons](http://creativecommons.org/) licenses. This clause goes
 like:
 
-> ![](/blog/assets/images/noncomm.gif) NonCommercial NonCommercial nc
+> ![](/assets/images/noncomm.gif) NonCommercial NonCommercial nc
 > <hr />
 > You let others copy, distribute, display, perform, and (unless you have chosen NoDerivatives)
 > modify and use your work for any purpose other than commercially unless they get your permission first.

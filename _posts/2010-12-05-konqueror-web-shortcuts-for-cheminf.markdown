@@ -4,7 +4,7 @@ title:  "Konqueror Web Shortcuts for CHEMINF"
 date:   2010-12-05
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/konqueror-web-shortcuts-for-cheminf.html
 doi: 10.59350/45pje-3mc88
-image: /blog/assets/images/ws1.png
+image: /assets/images/ws1.png
 tags: cdk cheminf kde ontologies
 ---
 
@@ -35,17 +35,17 @@ After all, a web shortcut is nothing more than an simple expansion.
 Open Konqueror's *Settings* -> *Configure Konqueror* dialog, and select that *Web
 Shortcuts* page:
 
-![](/blog/assets/images/ws1.png)
+![](/assets/images/ws1.png)
 
 Click new New button on the right:
 
-![](/blog/assets/images/ws3.png)
+![](/assets/images/ws3.png)
 
 and fill out the dialog like this:
 
-![](/blog/assets/images/ws2.png)
+![](/assets/images/ws2.png)
 
 Now, I can open the *cheminf:000000* URI in Konqueror and get the information
 about a CHEMINF resource:
 
-![](/blog/assets/images/ws5.png)
+![](/assets/images/ws5.png)

@@ -5,12 +5,12 @@ date:   2010-12-27
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/my-first-encounter-with-open-source.html
 doi: 10.59350/cm3sc-c5y96
 tags: opensource cheminf
-image: /blog/assets/images/oscheminfo.png
+image: /assets/images/oscheminfo.png
 ---
 
 &nbsp;
 
-![](/blog/assets/images/oscheminfo.png)
+![](/assets/images/oscheminfo.png)
 
 One of my first encounters with open source cheminformatics was the [XYZ file
 viewer applet by Sun](http://stuff.mit.edu/afs/athena.mit.edu/software/java/java_v1.1.6/distrib/i386_rh9/demo/MoleculeViewer/).

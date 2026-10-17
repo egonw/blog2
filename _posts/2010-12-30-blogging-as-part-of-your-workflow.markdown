@@ -4,7 +4,7 @@ title:  "Blogging as part of your workflow"
 date:   2010-12-30
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/blogging-as-part-of-your-workflow.html
 doi: 10.59350/t8ezx-6pg64
-image: /blog/assets/images/blogVisitors.png
+image: /assets/images/blogVisitors.png
 tags: blogging oscar workflow
 ---
 
@@ -27,11 +27,11 @@ bit to the audience. Now, by just posting it in a blog, I removed the need for
 tuning, and as a bonus, would reach a much larger audience too. Actually, with
 more then 300 unique visitors a week, I cannot complain.
 
-![](/blog/assets/images/blogVisitors.png)
+![](/assets/images/blogVisitors.png)
 
 Neither can I complain about the amount of discussion it triggers. It's like
 having my own private symposium:
 
-![](/blog/assets/images/blogVisitors1.png)
+![](/assets/images/blogVisitors1.png)
 
 Anyways, time to go back to blogging about Oscar...

@@ -5,13 +5,13 @@ date:   2010-12-10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/how-many-hydrogen-bond-acceptor-groups.html
 doi: 10.59350/em56e-x5385
 tags: beilstein cdk cheminf chemistry chemspider pubchem inchikey:NSPMIYGKQJPBQR-UHFFFAOYSA-N
-image: /blog/assets/images/1,2,4-triazole.png
+image: /assets/images/1,2,4-triazole.png
 ---
 
 [Andrew](http://en.wikipedia.org/wiki/Andrew_S.I.D._Lang) asked me about the
 H-bond donor capabilities of [1,2,4-triazole](http://en.wikipedia.org/wiki/1,2,4-Triazole):
 
-![](/blog/assets/images/1,2,4-triazole.png)
+![](/assets/images/1,2,4-triazole.png)
 
 Apparently, the way he uses the [CDK](http://cdk.sf.net) library, it returns
 [zero H-bond donor groups](https://sourceforge.net/tracker/index.php?func=detail&aid=3133610&group_id=20024&atid=120024),

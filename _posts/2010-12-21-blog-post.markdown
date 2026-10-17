@@ -4,7 +4,7 @@ title:  "Commercial or Proprietary?"
 date:   2010-12-21
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/blog-post.html
 doi: 10.59350/y5t7f-5gd18
-image: /blog/assets/images/prop_vs_commercial.png
+image: /assets/images/prop_vs_commercial.png
 tags: cheminf opensource justdoi:10.1002/ddr.20404
 ---
 
@@ -23,7 +23,7 @@ and open source-versus-proprietary. To clarify these axes, I created this diagra
 (CC-BY, [SVG](http://en.wikipedia.org/wiki/Scalable_Vector_Graphics) source
 available upon request):
 
-![](/blog/assets/images/prop_vs_commercial.png)
+![](/assets/images/prop_vs_commercial.png)
 
 It is very important to realize the Open Source software can be commercial.
 For example, you can get commercial support for [Bioclipse](http://www.bioclipse.net)

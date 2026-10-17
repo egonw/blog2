@@ -5,7 +5,7 @@ date:   2010-12-06 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/trust-has-no-place-in-science.html
 doi: 10.59350/7rktt-6w969
 tags: chemistry science
-image: /blog/assets/images/trust.png
+image: /assets/images/trust.png
 ---
 
 One discussion I had often had in the past year, is about trust in science.
@@ -21,7 +21,7 @@ last week the community to answer a questionnaire, which turned out the be about
 our trust in online chemical database. He presented the [results at the EBI](http://www.slideshare.net/AntonyWilliams/chemspider-connecting-and-curating-online-chemistry-resources?from=ss_embed).
 This is the slide that summarizes the results from that questionnaire:
 
-![](/blog/assets/images/trust.png)
+![](/assets/images/trust.png)
 
 We see that trust clearly has a very significant place in science. How disappointing.
 You can spot me in these results easily: I am the one that consequently answered
