@@ -13,10 +13,11 @@ tags: wikipathways publishing justdoi:10.1016/j.drudis.2010.08.002 justdoi:10.10
   justdoi:10.3389/fsysb.2023.1074749 justdoi:10.1007/s12079-022-00714-x justdoi:10.1007/s12079-022-00700-3
   justdoi:10.1007/s12079-022-00672-4 justdoi:10.1007/s12079-021-00640-4 justdoi:10.1007/s12079-021-00614-6
   justdoi:10.1007/s12079-021-00652-0
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+image: /assets/images/jcellcommsignal.png
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 117455140939115795
 ---
 
 Earlier this year I [blogged](https://chem-bla-ics.linkedchemistry.info/2026/02/22/where-do-the-wikipathways-come-from.html) about a few
