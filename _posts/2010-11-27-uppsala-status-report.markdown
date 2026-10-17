@@ -9,6 +9,7 @@ tags: bioclipse bioinfo cdk cheminf chemistry chemometrics postdoc uppsala
   doi:10.3390/50100093 justdoi:10.1093/bioinformatics/btn397 justdoi:10.1093/bioinformatics/bth361
   doi:10.1080/10408340600969601 justdoi:10.1186/1471-2105-11-362 doi:10.1186/1471-2105-11-159
   doi:10.1093/BIOINFORMATICS/BTQ476
+modified_date: 2026-10-17
 ---
 
 As you know, my post-doc in [Uppsala](http://www.farmbio.uu.se/) ended. It was
@@ -20,7 +21,7 @@ department, and hope this is not the end of the collaboration yet.
 
 Like with new year, the end of a contract is a good time to reflect on ones
 accomplishments. It's been a bit delayed, but as you know, I already in my next
-[project in Cambridge](http://chem-bla-ics.blogspot.com/2010/10/working-on-oscar-for-three-months.html),
+[project in Cambridge <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/15/working-on-oscar-for-three-months.html),
 and will start in January with yet a longer term position in predictive toxicology
 (more on that soon). This makes this a really crowded period, on top of birthdays,
 [Sinterklaas](http://sv.wikipedia.org/wiki/Sinterklaas), x-mas, and sorts.

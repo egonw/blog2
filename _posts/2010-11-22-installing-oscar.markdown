@@ -5,9 +5,10 @@ date:   2010-11-22 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/11/installing-oscar.html
 doi: 10.59350/g30hd-nnd21
 tags: oscar textmining
+modified_date: 2026-10-17
 ---
 
-About half-way my Oscar project now. I blogged about the Oscar [Java API](http://chem-bla-ics.blogspot.com/2010/10/oscar4-java-api-chemical-name.html),
+About half-way my Oscar project now. I blogged about the Oscar [Java API <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html),
 the [command line utility](http://chem-bla-ics.blogspot.com/2010/11/oscar4-command-line-utilities.html),
 and the [Taverna plugin](http://chem-bla-ics.blogspot.com/2010/10/oscar-text-mining-in-taverna.html)
 (all in development). Also, David Jessop joined in, boosting the refactoring.
@@ -73,7 +74,7 @@ cp target/oscar4-cli-4.0-SNAPSHOT-jar-with-dependencies.jar \\
 
 That should do: the created *oscar4-cli-4.0-SNAPSHOT.jar* can be used now to
 run the [command line utilities](http://chem-bla-ics.blogspot.com/2010/11/oscar4-command-line-utilities.html).
-Actually, it should also do fine for using the [Oscar4 Java API](ttp://chem-bla-ics.blogspot.com/2010/10/oscar4-java-api-chemical-name.html).
+Actually, it should also do fine for using the [Oscar4 Java API <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html).
 
 **Provide feedback**
 We most welcome feedback, or any kind. Feature requests can be posted [here](http://sourceforge.net/tracker/?group_id=169991&atid=852565),

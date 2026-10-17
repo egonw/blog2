@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/12/trust-has-no-place-in-sc
 doi: 10.59350/7rktt-6w969
 tags: chemistry science
 image: /assets/images/trust.png
+modified_date: 2026-10-17
 ---
 
 One discussion I had often had in the past year, is about trust in science.
@@ -41,7 +42,7 @@ Further reading in my blog:
 
 * [Why you have not heard me much about chemometrics recently...](http://chem-bla-ics.blogspot.com/2010/11/why-you-have-not-heard-me-much-about.html)
 * [The Molecular Chemometrics Principles #3: stand on shoulders](http://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-3.html)
-* [The Molecular Chemometrics Principles #2: be clear in what you mean](http://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-2-be.html)
+* [The Molecular Chemometrics Principles #2: be clear in what you mean <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/12/molecular-chemometrics-principles-2-be.html)
 * [The Molecular Chemometrics Principles #1: access to data](http://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-1.html)
 
 **Update**: if you liked this post, you will also like blogs posts [like this](http://bjoern.brembs.net/news.php?item.684.11)

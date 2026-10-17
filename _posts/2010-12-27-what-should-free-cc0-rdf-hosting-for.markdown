@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/12/what-should-free-cc0-rdf
 doi: 10.59350/n2w5d-83856
 tags: copyright rdf
 image: /assets/images/rdfHostS30.png
+modified_date: 2026-10-17
 ---
 
 &nbsp;
@@ -13,7 +14,7 @@ image: /assets/images/rdfHostS30.png
 ![](/assets/images/rdfHostS30.png)
 
 What if scientists could host small amounts of [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
-data for free? Something like computation results, e.g. outputted as [HTML+RDFa](http://chem-bla-ics.blogspot.com/2010/07/scripts-logs-as-htmlrdfa-mix-free-text.html)?
+data for free? Something like computation results, e.g. outputted as [HTML+RDFa <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/07/19/scripts-logs-as-htmlrdfa-mix-free-text.html)?
 Without having to worry about setting up triple store, etc? Well, that future
 might be near. The above screenshot shows a first go. Not by me, but in response
 to a feature request by me. So, the question right now is, what would be like
