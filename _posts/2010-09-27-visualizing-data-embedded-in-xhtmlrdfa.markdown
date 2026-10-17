@@ -6,10 +6,11 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/09/visualizing-data-embedde
 doi: 10.59350/fqvqj-ced74
 image: /assets/images/sparqlGraphing.png
 tags: chemistry rdf sparql mcprinciples
+modified_date: 2026-10-17
 ---
 
 [Orion](https://web.archive.org/web/20160826091118/http://www.pharmash.com/posts/2010-09-27-sparql-to-chart.html)
-picked up [my challenge](http://chem-bla-ics.blogspot.com/2010/09/pulling-out-data-as-json-from-xhtmlrdfa.html)
+picked up [my challenge <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/09/10/pulling-out-data-as-json-from-xhtmlrdfa.html)
 and made an web based application to graph data from one of my [XHTML-RDFa pages](http://egonw.github.com/cheminformatics.classics/classic1.html).
 Well done! He wrote [his work](http://www.pharmash.com/posts/2010-09-27-sparql-to-chart.html)
 up in his blog of which the results looks like:

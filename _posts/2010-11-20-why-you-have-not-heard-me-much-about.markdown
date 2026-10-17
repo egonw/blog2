@@ -5,10 +5,11 @@ date:   2010-11-20
 blogger-link: https://chem-bla-ics.blogspot.com/2010/11/why-you-have-not-heard-me-much-about.html
 doi: 10.59350/btban-6fp18
 tags: cheminf chemometrics odosos opendata qsar doi:10.1080/10408340600969601
+modified_date: 2026-10-17
 ---
 
 A casual reader my not know the background of the title of my blog. A bit over
-five years ago, when I started this blog, [I defined chemblaics](http://chem-bla-ics.blogspot.com/2005/10/chem-bla-ics.html):
+five years ago, when I started this blog, [I defined chemblaics <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2005/10/15/chem-bla-ics.html):
 
 > Chemblaics (pronounced chem-bla-ics) is the science that uses computers to address and possibly
 > solve problems in the area of chemistry, biochemistry and related fields. The general denomiter

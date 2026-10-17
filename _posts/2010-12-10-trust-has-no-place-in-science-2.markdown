@@ -5,11 +5,12 @@ date:   2010-12-10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/trust-has-no-place-in-science-2.html
 doi: 10.59350/h2rj3-04e17
 tags: chemistry odosos science
+modified_date: 2026-10-17
 ---
 
 Thanks to all who replied and shared their views. Particular thanx to [Christina](http://scientopia.org/blogs/christinaslisrant/)
 who replied in [her blog](http://scientopia.org/blogs/christinaslisrant/2010/12/06/the-role-of-trust-in-science/).
-With [Saml](http://chem-bla-ics.blogspot.com/2010/12/trust-has-no-place-in-science.html?showComment=1291834410259#c629729480067400710),
+With [Saml <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/06/trust-has-no-place-in-science.html?showComment=1291834410259#c629729480067400710),
 and [Cameron and Bill](http://friendfeed.com/cpikas/ed2c2155/new-post-role-of-trust-in-science)
 they think this is about semantics. Linguistic tricks. I hope not; this is too
 serious to get away with such. "Reliable, trustworthy, assumptions": it's all
@@ -37,7 +38,7 @@ they affect the conclusions I draw when I use this data. That is what actually
 matter. **Trust has no place in science**. Error has.
 
 Sadly, this is basically the hypothesis of the VR grant I wrote up but [did
-not get awarded](http://chem-bla-ics.blogspot.com/2010/11/more-fails-aka-no-vr-grant-awarded.html).
+not get awarded <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/22/more-fails-aka-no-vr-grant-awarded.html).
 But I trust I do better next time.
 
 Why this matters? Well, this is what [ODOSOS](http://www.acronymattic.com/ODOSOS.html)

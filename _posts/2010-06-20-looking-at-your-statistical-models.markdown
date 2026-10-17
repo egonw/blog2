@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/06/looking-at-your-statisti
 doi: 10.59350/6948f-pbe89
 tags: chemometrics justdoi:10.1021/ci990038z doi:10.1021/CI050282S qsar
 image: /assets/images/badModel.png
+modified_date: 2026-10-17
 ---
 
 I do not think I have ever blogged the paper that played an important role in my thesis (doi:[10.1021/ci990038z](http://dx.doi.org/10.1021/ci990038z));
@@ -43,7 +44,7 @@ of representations, but, in retrospect and looking at this plot, I wonder if the
 
 Since then, I always make these kind of plots, just to see what my model is like. Since then, I distrust papers that only show RMSEP, Q², or other
 quality statistics. Now, the tricky part is, you need those statistics if you want to automate model selection; the variance on those model quality
-statistics is actually so high (see also [my other post today](http://chem-bla-ics.blogspot.com/2010/06/qspr-modeling-with-signatures.html)),
+statistics is actually so high (see also [my other post today <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/06/20/qspr-modeling-with-signatures.html)),
 that you must carefully validate that model selection too, visually of course.
 
 I have been long thinking what to do with these observations. I did not dare publish them in my thesis; I did not dare write a letter to the editor.

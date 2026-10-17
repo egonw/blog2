@@ -5,7 +5,7 @@ date:   2010-10-30 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/calculating-molecular-descriptors-with.html
 doi: 10.59350/7pbp8-f6q28
 tags: bioclipse cdk opentox qsar
-modified_date: 2026-10-05
+modified_date: 2026-10-17
 ---
 
 While working during *office hours* on [Oscar <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html),
@@ -39,4 +39,4 @@ opentox.calculateDescriptor(
 ```
 
 The first descriptor happens to be a model for predicting the pKa (see [Algorithm
-or Model: OpenTox API quiz](http://chem-bla-ics.blogspot.com/2010/10/algorithm-or-model-opentox-api-quiz.html)).
+or Model: OpenTox API quiz <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/30/algorithm-or-model-opentox-api-quiz.html)).

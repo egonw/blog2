@@ -5,7 +5,7 @@ date:   2010-09-04
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/biomed-central-is-going-to-support-open.html
 doi: 10.59350/ybsdg-8bz80
 tags: opendata bmc publishing
-modified_date: 2026-09-27
+modified_date: 2026-10-17
 ---
 
 I had a glance at the plans already in the [ACS in Boston <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/22/skyline-of-boston-walking-to-convention.html),
@@ -40,7 +40,7 @@ as one valid approach. This is where BioMed Central wants to go too; they write:
 
 The above quoted text are extracted from the draft, and your comments are most welcome. You can leave them
 [as comment here](http://blogs.openaccesscentral.com/blogs/bmcblog/entry/join_the_data_debate_draft#comments), which I strongly
-encourage you to do. If even just to support the idea (see [McPrinciple3](http://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-3.html)).
+encourage you to do. If even just to support the idea (see [McPrinciple3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/14/molecular-chemometrics-principles-3.html)).
 
 The draft also touches the issue of Open Standards, but I feel this problem with resolve itself. More interestingly, it is now time
 for the journal *editors* to make a move, and let the community know if they will require these open data waivers for there journal.

@@ -9,8 +9,8 @@ modified_date: 2026-10-17
 ---
 
 About half-way my Oscar project now. I blogged about the Oscar [Java API <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html),
-the [command line utility](http://chem-bla-ics.blogspot.com/2010/11/oscar4-command-line-utilities.html),
-and the [Taverna plugin](http://chem-bla-ics.blogspot.com/2010/10/oscar-text-mining-in-taverna.html)
+the [command line utility <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/18/oscar4-command-line-utilities.html),
+and the [Taverna plugin <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/21/oscar-text-mining-in-taverna.html)
 (all in development). Also, David Jessop joined in, boosting the refactoring.
 The meeting with the [ChEBI](http://www.ebi.ac.uk/chebi/) team last week was
 great too. We worked out details for the use cases, involving Oscar and Lezan's
@@ -73,7 +73,7 @@ cp target/oscar4-cli-4.0-SNAPSHOT-jar-with-dependencies.jar \\
 ```
 
 That should do: the created *oscar4-cli-4.0-SNAPSHOT.jar* can be used now to
-run the [command line utilities](http://chem-bla-ics.blogspot.com/2010/11/oscar4-command-line-utilities.html).
+run the [command line utilities <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/18/oscar4-command-line-utilities.html).
 Actually, it should also do fine for using the [Oscar4 Java API <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html).
 
 **Provide feedback**

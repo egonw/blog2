@@ -2,7 +2,7 @@
 layout: post
 title:  "Dereferencable InChIs: OpenMolecules RDF"
 date:   2012-04-15
-modified_date: 2026-09-27
+modified_date: 2026-10-17
 blogger-link: https://chem-bla-ics.blogspot.com/2012/04/dereferencable-inchis-openmolecules-rdf.html
 doi: 10.59350/eg04s-efd96
 tags: chemistry rdf inchi opendata doi:10.1038/NPRE.2010.4918.1 doi:10.1002/9781118026038.CH24
@@ -44,7 +44,7 @@ and another book chapter (Guha, 2011).
 
 This blog features a few more use cases, such as the ability to use these URIs to bookmark molecules or to
 [annotate them with tags with Connotea <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/09/19/tagging-molecules-mashup-of-connotea.html)
-(which resulted in a nice [lunch with the Nature people at the time](http://chem-bla-ics.blogspot.com/2007/10/lunch-at-nature-hq-with-euan-joanna-ian.html)).
+(which resulted in a nice [lunch with the Nature people at the time <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/16/lunch-at-nature-hq-with-euan-joanna-ian.html)).
 The link to Connotea is disabled at the moment, though.
 
 At this moment the system still holds, though there is problem in that browsers can put practical limits on

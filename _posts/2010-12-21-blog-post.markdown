@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/12/blog-post.html
 doi: 10.59350/y5t7f-5gd18
 image: /assets/images/prop_vs_commercial.png
 tags: cheminf opensource justdoi:10.1002/ddr.20404
+modified_date: 2026-10-17
 ---
 
 Khanna and Ranganathan wrote up a review paper on molecular similarity (doi:[10.1002/ddr.20404](http://dx.doi.org/10.1002/ddr.20404)).
@@ -36,7 +37,7 @@ started to provide free-for-academic-use packages, which fits into this category
 too.
 
 Readers of my blog know that I advocate Open Source, not gratis software (see
-also [Re: Why I and you should avoid NC licences](http://chem-bla-ics.blogspot.com/2010/12/re-why-i-and-you-should-avoid-nc.html)),
+also [Re: Why I and you should avoid NC licences <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/19/re-why-i-and-you-should-avoid-nc.html)),
 even though you can download many of the Open Source cheminformatics tools I
 worked on for free. Here it is important to realize that the CDK and Bioclipse
 are not free: it is just that the tax-payer covered the cost via academic institutes

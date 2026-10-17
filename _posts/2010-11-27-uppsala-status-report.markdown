@@ -62,14 +62,14 @@ and KNIME.
 
 Where I hoped to do some research in proteochemometrics, events lead me into
 different areas, which I explained in [Why you have not heard me much about
-chemometrics recently...](http://chem-bla-ics.blogspot.com/2010/11/why-you-have-not-heard-me-much-about.html).
+chemometrics recently... <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/20/why-you-have-not-heard-me-much-about.html).
 
 But, Bioclipse provides me with the tools I need to take molecular chemometrics
 (doi:[10.1080/10408340600969601](https://doi.org/10.1080/10408340600969601))
 forward.
 
 **Results**  
-So, what has this resulted in, besides a number of [unsuccessful](http://chem-bla-ics.blogspot.com/2010/11/more-fails-aka-no-vr-grant-awarded.html)
+So, what has this resulted in, besides a number of [unsuccessful <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/22/more-fails-aka-no-vr-grant-awarded.html)
 grant applications? We're still counting, but two book chapters, a book on [pharmaceutical
 bioinformatics](http://www.pharmbio.org/), one proceedings paper, five research
 papers, seven oral presentations at international meetings, and a ACS conference
@@ -110,7 +110,7 @@ Bioclipse 2 (see citation below) adds one important new feature: scripting.
 My work in this paper focuses on doing making sure the cheminformatics library
 was properly integrated, continued development of JChemPaint (yet unpublished,
 and in collaboration with the [EBI](http://www.ebi.ac.uk/steinbeck/), but see
-for example [this blog post](http://chem-bla-ics.blogspot.com/2008/06/httpchem-bla-icsblogspotcom200805develo.html)),
+for example [this blog post <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/06/18/httpchem-bla-icsblogspotcom200805develo.html)),
 and helping Ola and other to properly use the CDK in their applications (MetaPrint2D
 (doi:[10.1186/1471-2105-11-362](https://doi.org/10.1186/1471-2105-11-362)),
 etc.). The impact of this work goes far beyond the papers on which I am author,

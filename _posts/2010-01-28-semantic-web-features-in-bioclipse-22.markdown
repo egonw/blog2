@@ -2,7 +2,7 @@
 layout: post
 title:  "Semantic Web features in Bioclipse 2.2"
 date:   2010-01-28
-modified_date: 2026-09-27
+modified_date: 2026-10-17
 blogger-link: https://chem-bla-ics.blogspot.com/2010/01/semantic-web-features-in-bioclipse-22.html
 doi: 10.59350/6m8qd-xed40
 tags: java bioclipse rdf sparql rdfa
@@ -19,7 +19,7 @@ today, and asked me to show case the semantic web functionality in Bioclipse. I 
 * [Bioclipse and SPARQL end points <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/08/16/bioclipse-and-sparql-end-points.html)
 * [Solubility Data in Bioclipse #2: handling RDF <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/22/solubility-data-in-bioclipse-2-handling.html)
 * [Solubility Data in Bioclipse #3: Finding ChEBI IDs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/27/solubility-data-in-bioclipse-3-finding.html)
-* [Solubility Data in Bioclipse #4: Finding ChEBI IDs (Again, but better)](http://chem-bla-ics.blogspot.com/2009/03/solubility-data-in-bioclipse-4-finding.html)
+* [Solubility Data in Bioclipse #4: Finding ChEBI IDs (Again, but better) <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/03/01/solubility-data-in-bioclipse-4-finding.html)
 * [/me is having Bioclipse/XMPP/RDF fun <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/05/07/me-is-having-bioclipsexmpprdf-fun.html)
 
 Or check this screenshot from [a Posterous post about a MyExperiment workflow

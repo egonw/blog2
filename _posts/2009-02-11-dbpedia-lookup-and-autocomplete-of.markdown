@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2009/02/dbpedia-lookup-and-autoc
 doi: 10.59350/wbb63-gv107
 tags: rdf dbpedia wikipedia smiles inchi
 image: /assets/images/dbpediaAutocomplete.png
+modified_date: 2026-10-17
 ---
 
 On the [DBPedia](http://dbpedia.org/) [discussion mailing list](https://lists.sourceforge.net/lists/listinfo/dbpedia-discussion) there was a post on a
@@ -15,7 +16,7 @@ nice web page which allows you to look up things, and which features a autocompl
 
 If you are not ware of this, adding content to DBPedia is as easy as adding something to [WikiPedia](http://www.wikipedia.org/). Literally: DBPedia is
 the [RDF](http://en.wikipedia.org/wiki/Resource_Description_Framework) flavour of WikiPedia. It extracts the information from the info boxes, as I
-discussed before (see [Molecules in Wikipedia](http://chem-bla-ics.blogspot.com/2007/08/molecules-in-wikipedia.html)).
+discussed before (see [Molecules in Wikipedia <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/08/02/molecules-in-wikipedia.html)).
 
 BTW, one can take advantage of DBPedia to see what WikiPedia has to offer in terms of chemistry. For example, to list all molecules which have a SMILES, one can use this simple SPARQL query:
 

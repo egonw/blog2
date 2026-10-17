@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/12/blogging-as-part-of-your
 doi: 10.59350/t8ezx-6pg64
 image: /assets/images/blogVisitors.png
 tags: blogging oscar workflow
+modified_date: 2026-10-17
 ---
 
 Today is the last day I work on [Oscar](http://oscar3-chem.sourceforge.net/)
@@ -19,8 +20,8 @@ So, today it is time for me to write up a report for the last three months.
 This blog item is basically a prelude, or procrastination, or so. People sometimes
 ask me how I find time to blog so much. The trick is just make blogging part
 of your workflow. So, small scripts I use in finishing another task form a blog
-post (e.g. [Converting JSON to RDF/XML with Groovy](http://chem-bla-ics.blogspot.com/2010/12/converting-json-to-rdfxml-with-groovy.html)).
-I started blogging ([in 2005](http://chem-bla-ics.blogspot.com/2005/10/chem-bla-ics.html))
+post (e.g. [Converting JSON to RDF/XML with Groovy <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/29/converting-json-to-rdfxml-with-groovy.html)).
+I started blogging ([in 2005 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2005/10/15/chem-bla-ics.html))
 to actually optimize my workflow. I was sending the same message ("*have you
 seen this interesting webpage*") to several mailing lists, often tuning it a
 bit to the audience. Now, by just posting it in a blog, I removed the need for

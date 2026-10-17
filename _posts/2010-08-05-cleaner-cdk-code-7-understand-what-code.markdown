@@ -5,7 +5,7 @@ date:   2010-08-05
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/cleaner-cdk-code-7-understand-what-code.html
 doi: 10.59350/0a1n4-5q396
 tags: cdk
-modified_date: 2026-09-27
+modified_date: 2026-10-17
 ---
 
 It has been a while since I posted a blog post in this series (see below for a full list so far), but was fixing a problem for Nina
@@ -17,7 +17,7 @@ CDK code. Well, in particular, patching CDK code in this case.
 Understanding what [CDK](http://cdk.sf.net/) code is doing is not always obvious. Theoretically, the mix of clean code, JavaDoc,
 and code comments explain enough, but sometimes it is not. Then, it is useful to see how code has evolved: who wrote the code;
 what was the commit message around that code (further documentation); what did the code look like before that change. This is
-where *git blame* comes in (see also how [GitHub used this](http://chem-bla-ics.blogspot.com/2010/05/how-to-use-github-for-cdkbioclipse-code.html)).
+where *git blame* comes in (see also how [GitHub used this <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/05/10/how-to-use-github-for-cdkbioclipse-code.html)).
 
 Now, to see the history of a source file, we do, for example:
 
@@ -84,5 +84,5 @@ And then we can continue again.
 * [Cleaner CDK Code #5: develop against interfaces <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/05/15/cleaner-cdk-code-5-developer-against.html)
 * [Cleaner CDK Code #4: inheriting JavaDoc from super classes and interfaces <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/30/cleaner-cdk-code-4-inheriting-javadoc.html)
 * [Cleaner CDK Code #3: run the PMD tests <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/26/cleaner-cdk-code-3-run-pmd-tests.html)
-* [Cleaner CDK Code #2: String.contains() and logger messages](http://chem-bla-ics.blogspot.com/2010/03/cleaner-cdk-code-2-stringcontains-and.html)
+* [Cleaner CDK Code #2: String.contains() and logger messages <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/17/cleaner-cdk-code-2-stringcontains-and.html)
 * [Cleaner CDK Code #1: List and the for-each loop <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/07/cleaner-cdk-code-1-list-and-for-each.html)

@@ -6,13 +6,14 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/10/cdk-book-in-progress.htm
 doi: 10.59350/x7ddh-98k05
 image: /assets/images/cdkBook.png
 tags: cdk groovy latex publishing cdkbook
+modified_date: 2026-10-17
 ---
 
 Very much overdue, but still in progress, is my book on CDK programming. I am
 in love with the writing environment, a mix of [make](http://en.wikipedia.org/wiki/Make_%28software%29),
 [Groovy](http://en.wikipedia.org/wiki/Groovy_%28programming_language%29) and
 [LaTeX](http://en.wikipedia.org/wiki/LaTeX), where the code snippets are written
-in Groovy and embedded into LaTeX (see [CDK - The Documentation](http://chem-bla-ics.blogspot.com/2009/04/cdk-documentation.html)).
+in Groovy and embedded into LaTeX (see [CDK - The Documentation <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/04/05/cdk-documentation.html)).
 The Groovy script is actually run by the build system, allowing me to embed
 the output too.
 

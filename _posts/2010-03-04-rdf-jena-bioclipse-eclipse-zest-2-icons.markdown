@@ -6,11 +6,11 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/03/rdf-jena-bioclipse-eclip
 doi: 10.59350/11ezg-n8811
 tags: rdf bioclipse jena
 image: /assets/images/rdfEditorIcons.png
-modified_date: 2026-05-05
+modified_date: 2026-10-17
 ---
 
 [Jonathan](http://se.linkedin.com/in/jonathanalvarssson) worked this week on new features for the [Bioclipse](http://www.bioclipse.net/)
-RDF editor (see [these](http://chem-bla-ics.blogspot.com/2010/02/rdf-jena-bioclipse-eclipse-zest-mashups.html)
+RDF editor (see [these <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/07/rdf-jena-bioclipse-eclipse-zest-mashups.html)
 [two <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/11/bioclipse-understands-ontologies-note.html) earlier items). This version still does
 not edit, but only display using [Zest](http://www.eclipse.org/mylyn/zest.php). Jonathan created for me an extension point so
 that anyone can make the editor aware of domain objects, by simply registering the extension implementation along with the

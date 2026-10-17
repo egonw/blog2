@@ -2,7 +2,7 @@
 layout: post
 title:  "Text mining chemistry from Dutch or Swedish texts"
 date:   2010-12-30
-modified_date: 2026-05-05
+modified_date: 2026-10-17
 doi: 10.59350/k1tea-hnb50
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/text-mining-chemistry-from-dutch-or.html
 tags: oscar textmining justdoi:10.59350/vtadn-tdt17 justdoi:10.59350/nbtxd-kdz73
@@ -20,7 +20,7 @@ aspects of Oscar4 at several occasions:
 * [Multiple unit test inheritance with JExample <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/26/multiple-unit-test-inheritance-with.html)
 * [Oscar4 Java API: chemical name dictionaries <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/28/oscar4-java-api-chemical-name.html)
 * [Oscar4 command line utilities <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/18/oscar4-command-line-utilities.html)
-* [Installing Oscar](http://chem-bla-ics.blogspot.com/2010/11/installing-oscar.html)
+* [Installing Oscar <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/22/installing-oscar.html)
 * [Adding a new dictionary to Oscar <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/11/29/adding-new-dictionary-to-oscar.html)
 * [Status update on BJOC analysis with Oscar and ChemicalTagger <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/11/status-update-on-bjoc-analysis-with.html)
 * [Status update on BJOC analysis with Oscar and ChemicalTagger #2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/11/status-update-on-bjoc-analysis-with_11.html)

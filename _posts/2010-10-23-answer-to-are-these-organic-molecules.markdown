@@ -5,11 +5,11 @@ date:   2010-10-23
 blogger-link: https://chem-bla-ics.blogspot.com/2010/10/answer-to-are-these-organic-molecules.html
 doi: 10.59350/k2b7s-tdt62
 tags: mcprinciples
-modified_date: 2026-10-05
+modified_date: 2026-10-17
 ---
 
 Ten days ago I asked my readers if two molecules were the same or not. I guessed
-they were not, when I was asked [Are these organic molecules the same?](http://chem-bla-ics.blogspot.com/2010/10/are-these-organic-molecules-same.html)
+they were not, when I was asked [Are these organic molecules the same? <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/10/14/are-these-organic-molecules-same.html)
 The people who replied to my post were quite convinced they were, and [Peter](http://wwmm.ch.cam.ac.uk/blogs/murrayrust/)
 gave the context of the pub quiz: assumptions may not be correct.
 

@@ -5,7 +5,7 @@ date:   2010-08-09
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/cleaner-cdk-code-8-java-naming.html
 doi: 10.59350/bvf3b-aag58
 tags: cdk java
-modified_date: 2026-09-27
+modified_date: 2026-10-17
 ---
 
 Another simple approach to make your code more readable, is to adhere to the Java naming conventions. They prescribe that variables start with a
@@ -25,5 +25,5 @@ name, to enforce some meaningful naming, which is required by Oracle's conventio
 * [Cleaner CDK Code #5: develop against interfaces <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/05/15/cleaner-cdk-code-5-developer-against.html)
 * [Cleaner CDK Code #4: inheriting JavaDoc from super classes and interfaces <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/30/cleaner-cdk-code-4-inheriting-javadoc.html)
 * [Cleaner CDK Code #3: run the PMD tests <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/26/cleaner-cdk-code-3-run-pmd-tests.html)
-* [Cleaner CDK Code #2: String.contains() and logger messages](http://chem-bla-ics.blogspot.com/2010/03/cleaner-cdk-code-2-stringcontains-and.html)
+* [Cleaner CDK Code #2: String.contains() and logger messages <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/17/cleaner-cdk-code-2-stringcontains-and.html)
 * [Cleaner CDK Code #1: List and the for-each loop <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/03/07/cleaner-cdk-code-1-list-and-for-each.html)

@@ -6,7 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2010/06/qspr-modeling-with-signa
 doi: 10.59350/8d6w8-avm05
 tags: cdk chemometrics justdoi:10.1021/ci020345w doi:10.1021/ci050282s
 image: /assets/images/signaturePrediction.png
-modified_date: 2026-09-27
+modified_date: 2026-10-17
 ---
 
 I had to dig deep to find posts on QSAR modeling. There are quite a few on [QSAR in Bioclipse](http://chem-bla-ics.blogspot.com/search?q=qsar+bioclipse),
@@ -19,7 +19,7 @@ Given the prominent place [QSAR has in my thesis <i class="fa-solid fa-recycle f
 this is somewhat surprising. Anyway, here is some more QSAR modeling talk.
 
 [Gilleain](http://gilleain.blogspot.com/) [implemented](http://www.blogger.com/github.com/gilleain/signatures) the signature descriptors developed by Faulon et al.
-(see doi:[10.1021/ci020345w](https://doi.org/10.1021/ci020345w); I [mentioned the paper in 2006](http://chem-bla-ics.blogspot.com/2006/02/novel-qsar-and-qspr-descriptors_24.html)),
+(see doi:[10.1021/ci020345w](https://doi.org/10.1021/ci020345w); I [mentioned the paper in 2006 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2006/02/24/novel-qsar-and-qspr-descriptors_24.html)),
 and the [CDK patch](http://sourceforge.net/tracker/?func=detail&aid=3017759&group_id=20024&atid=320024) is currently being reviewed.
 With some transformations, the atomic signatures for a molecule can be transformed into a fixed-length numerical representation:
 `[70:1, 54:1, 23:1, 22:1, 9:9, 45:2]`. This string means that atomic signature 70 occurs once in this molecule and signature 9 occurs

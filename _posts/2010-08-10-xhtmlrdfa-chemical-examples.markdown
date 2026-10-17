@@ -2,7 +2,7 @@
 layout: post
 title:  "XHTML+RDFa: chemical examples"
 date:   2010-08-10
-modified_date: 2026-09-27
+modified_date: 2026-10-17
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/xhtmlrdfa-chemical-examples.html
 doi: 10.59350/kkvt7-zpm64
 tags: html rdf justdoi:10.59350/3basz-t0n97 justdoi:10.1021/ja01193a005 rdfa
@@ -54,7 +54,7 @@ Even [Firefox can understand it <i class="fa-solid fa-recycle fa-xs"></i>](https
 Really, there is no end to it.
 
 Of course, why you should do this comes basically down to Molecular Chemometrics Principle #2, but I have not written that
-on up yet (see also [McPrinciple #1](http://chem-bla-ics.blogspot.com/2010/08/molecular-chemometrics-principles-1.html)).
+on up yet (see also [McPrinciple #1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/08/09/molecular-chemometrics-principles-1.html)).
 
 ### Reporting problems with molecular representations
 

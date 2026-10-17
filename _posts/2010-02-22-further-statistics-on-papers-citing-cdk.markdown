@@ -5,7 +5,7 @@ date:   2010-02-22
 blogger-link: https://chem-bla-ics.blogspot.com/2010/02/further-statistics-on-papers-citing-cdk.html
 doi: 10.59350/65fss-f1y18
 tags: cdk doi:10.1021/CI025584Y
-modified_date: 2026-09-27
+modified_date: 2026-10-17
 ---
 
 I already gave a [wordle <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/21/wordle-of-titles-of-20-most-recent.html) of the titles of papers citing the
@@ -30,9 +30,9 @@ org.openscience.cdk.graph.matrix: 1
 org.openscience.cdk.io: 1
 ```
 
-From this we learn what parts of the CDK are used. From the various CDK Literature blogs ([#1](http://chem-bla-ics.blogspot.com/2007/01/cdk-literature-1.html),
-[#2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/14/cdk-literature-2.html), [#3](http://chem-bla-ics.blogspot.com/2008/01/cdk-literature-3.html),
-[#4 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/01/06/cdk-literature-4.html), and [#5](http://chem-bla-ics.blogspot.com/2008/07/cdk-literature-5.html))
+From this we learn what parts of the CDK are used. From the various CDK Literature blogs ([#1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/01/14/cdk-literature-1.html),
+[#2 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/07/14/cdk-literature-2.html), [#3 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/01/03/cdk-literature-3.html),
+[#4 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/01/06/cdk-literature-4.html), and [#5 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/07/26/cdk-literature-5.html))
 I already knew the the descriptor calculation was much used, as well as the fingerprinter and the isomorphism checker which also provide the
 maximum-common substructure functionality. What I was not aware of, is the our 3D model builder had been used in published studies too,
 which was a pleasant surprise.

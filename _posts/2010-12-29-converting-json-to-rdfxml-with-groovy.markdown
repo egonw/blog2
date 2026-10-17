@@ -2,14 +2,14 @@
 layout: post
 title:  "Converting JSON to RDF/XML with Groovy"
 date:   2010-12-29
-modified_date: 2025-02-15
+modified_date: 2026-10-17
 doi: 10.59350/2repm-7m232
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/converting-json-to-rdfxml-with-groovy.html
 tags: groovy chemistry rdf json
 ---
 
 Mark's new [CCO/RDF hosting functionality](http://www.science3point0.com/blog/2010/12/29/cc0-rdf-hosting-for-scientists/)
-(see also [my post two days ago](http://chem-bla-ics.blogspot.com/2010/12/what-should-free-cc0-rdf-hosting-for.html))
+(see also [my post two days ago <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/27/what-should-free-cc0-rdf-hosting-for.html))
 requires [RDF/XML format](http://www.w3.org/TR/REC-rdf-syntax/), so I updated my code to convert the
 [Chempedia Substances](http://chempedia.com/substances) data into RDF/XML instead of N3 (I have asked
 [Rich](http://depth-first.com/) to put a new download link online). This is the

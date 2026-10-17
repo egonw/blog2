@@ -5,10 +5,11 @@ date:   2010-09-26 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2010/09/quo-vadis-cdk.html
 doi: 10.59350/vkwj2-rg523
 tags: cdk cheminf opensource justdoi:10.1021/ja00051a040
+modified_date: 2026-10-17
 ---
 
 Tomorrow it is [10 years ago that the CDK was founded](https://sourceforge.net/apps/mediawiki/cdk/index.php?title=10th_Anniversary).
-The project has considerably grown and has a [high impact on science](http://chem-bla-ics.blogspot.com/2010/09/cdk-2003-paper-is-now-cited-99-times.html).
+The project has considerably grown and has a [high impact on science <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/09/17/cdk-2003-paper-is-now-cited-99-times.html).
 The CDK code base did not start 10 years ago, but was founded on the code bases
 of CompChem, JChemPaint, and [Jmol](http://www.jmol.org), but has seen several
 reincarnations since the start.

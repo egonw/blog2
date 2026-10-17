@@ -5,7 +5,7 @@ date:   2009-11-19
 blogger-link: https://chem-bla-ics.blogspot.com/2009/11/open-notebook-science-solubility-sparql.html
 doi: 10.59350/tezva-0ty37
 tags: chemistry rdf sparql
-modified_date: 2026-05-05
+modified_date: 2026-10-17
 ---
 
 The [Open Notebook Science Solubility](http://onschallenge.wikispaces.com/) challenge is an project crowd sourcing solubility
@@ -14,7 +14,7 @@ of organic compounds in non-aqueous solvents. I have been working on RDF-ing thi
 * [Solubility Data in Bioclipse #1 <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/11/18/solubility-data-in-bioclipse-1.html)
 * [Solubility Data in Bioclipse #2: handling RDF <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/22/solubility-data-in-bioclipse-2-handling.html)
 * [Solubility Data in Bioclipse #3: Finding ChEBI IDs <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/02/27/solubility-data-in-bioclipse-3-finding.html)
-* [Solubility Data in Bioclipse #4: Finding ChEBI IDs (Again, but better)](http://chem-bla-ics.blogspot.com/2009/03/solubility-data-in-bioclipse-4-finding.html)
+* [Solubility Data in Bioclipse #4: Finding ChEBI IDs (Again, but better) <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/03/01/solubility-data-in-bioclipse-4-finding.html)
 
 And this resulted in a joint chapter in the nice [Beatiful Data](http://oreilly.com/catalog/9780596157128) book.
 

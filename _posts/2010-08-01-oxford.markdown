@@ -2,7 +2,7 @@
 layout: post
 title:  "Oxford..."
 date:   2010-08-01
-modified_date: 2026-10-05
+modified_date: 2026-10-17
 blogger-link: https://chem-bla-ics.blogspot.com/2010/08/oxford.html
 tags: oxford oxfordadmet2010 publishing science toxicology conference
 doi: 10.59350/ap7n7-58v06
@@ -39,7 +39,7 @@ and since I have been writing several book chapters right now, perhaps this is a
 But the question is, of course, how long will we keep reading books... they're the
 [hamburgers <i class="fa-solid fa-recycle fa-xs"></i>](https://blogs.ch.cam.ac.uk/pmr/2008/04/29/why-pdf-is-a-hamburger/) of educational material... Kindle and alikes will soon drop in
 price, and cost some €30 euro. But e-book prices will have to drop too, and I still do not get why an e-book is more expensive than a paperback...
-(see [Amazon, the Kindle edition is more expensive than the paperback??](http://chem-bla-ics.blogspot.com/2010/07/amazon-kindle-edition-is-more-expensive.html)).
+(see [Amazon, the Kindle edition is more expensive than the paperback?? <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/07/18/amazon-kindle-edition-is-more-expensive.html)).
 But then again... they are rich, and I am not.
 
 There was some recent talk about the fact that no one can be Open to the full. You either do Open Data or Open Source, and

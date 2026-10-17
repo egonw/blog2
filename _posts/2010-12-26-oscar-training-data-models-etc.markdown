@@ -6,6 +6,7 @@ doi: 10.59350/pa72q-ykk64
 blogger-link: https://chem-bla-ics.blogspot.com/2010/12/oscar-training-data-models-etc.html
 tags: oscar textmining justdoi:10.1186/1471-2105-9-S11-S4 inchikey:QTBSBXVTEAMEQO-UHFFFAOYSA-N
   inchikey:CSCPPACGZOOCGX-UHFFFAOYSA-N
+modified_date: 2026-10-17
 ---
 
 [Oscar](https://sourceforge.net/projects/oscar3-chem/) uses a Maximum Entropy Markov Model (MEMM) based on [n-grams](http://en.wikipedia.org/wiki/N-gram).
@@ -32,8 +33,8 @@ train new MEMM models. The SciBorg corpus was used to train the current Oscar3 a
 (copyright [RSC](http://rsc.org/)) will very likely be available under a [Creative Commons](http://creativecommons.org/licenses/)
 license (RSC++), but may have the NC clause, which would not be good for developing a business model around
 the opensource Oscar (such as providing a high-performance web service via a subscription service). I have
-recently written up [the problems the NC clause introduces](http://chem-bla-ics.blogspot.com/2010/12/re-why-i-and-you-should-avoid-nc.html),
-and some [examples of commercial Open Source cheminformatics projects](http://chem-bla-ics.blogspot.com/2010/12/blog-post.html).
+recently written up [the problems the NC clause introduces <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/19/re-why-i-and-you-should-avoid-nc.html),
+and some [examples of commercial Open Source cheminformatics projects <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/12/21/blog-post.html).
 
 We need not focus only on this SciBorg data, however. In fact, we will need multiple models anyway. For
 example, the SciBorg papers (42 if not mistaken) are around a particular kind of literature. So, it

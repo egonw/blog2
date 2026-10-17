@@ -5,9 +5,10 @@ date:   2010-06-26
 blogger-link: https://chem-bla-ics.blogspot.com/2010/06/critical-mass-for-open-notebook-science.html
 doi: 10.59350/bbxyy-j5334
 tags: openscience opendata sparql wiki gsoc
+modified_date: 2026-10-17
 ---
 
-One of the problems with Open Data, - Source, and Standards ([ODOSOS](http://chem-bla-ics.blogspot.com/2007/10/why-odosos-is-important.html)) is
+One of the problems with Open Data, - Source, and Standards ([ODOSOS <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2007/10/14/why-odosos-is-important.html)) is
 to get critical mass: for the project to move forward, you need both a good user community and an active developers community. The first is the
 crucial reward for the latter: people using your work is the incentive. Sometimes, a project does not succeed in doing that; Rich was
 [questioning](http://depth-first.com/) if his [ChemPedia](http://chempedia.com/) project [built up enough mass](http://depth-first.com/articles/2010/06/22/what-about-chempedia).

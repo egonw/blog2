@@ -2,7 +2,7 @@
 layout: post
 title:  "The 9th International Conference on Chemical Structures (ICCS)"
 date:   2011-01-17
-modified_date: 2025-06-08
+modified_date: 2026-10-17
 blogger-link: https://chem-bla-ics.blogspot.com/2011/01/9th-international-conference-on.html
 doi: 10.59350/x4cvj-yw944
 tags: iccs
@@ -23,7 +23,7 @@ Cheminformatics can be so nice! The photo was taken during a calmer part of that
 Back to the ICCS. It's one of the bigger cheminformatics meetings, and likely the best after the yearly
 [GCC meetings](http://www.gdch.de/gcc2010/). Mind you, the term cheminformatics reflects more the methods than the domains.
 Indeed, the meeting's [Call for Papers](http://www.int-conf-chem-structures.org/call-for-papers.html) lists many topics
-highly relevant to [my position here at KI](http://chem-bla-ics.blogspot.com/2011/01/karolinska-institutet.html),
+highly relevant to [my position here at KI <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2011/01/12/karolinska-institutet.html),
 including chemogenomics, (Q)SAR, literature mining, "integration of medical and biological information" (including
 semantic web technologies), and in-silico analysis of toxicology, drug safety, and adverse events.
 
