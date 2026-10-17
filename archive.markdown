@@ -6,11 +6,9 @@ permalink: /archive/
 
 {% assign grouped_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 {% for year in grouped_by_year %}
-### {{ year.name }}
-  {% assign grouped_by_month = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
+### [{{ year.name }}]({{ '/archive/' | append: year.name | append: '/' | relative_url }})
+  {% assign grouped_by_month = year.items | group_by_exp: "post", "post.date | date: '%m'" %}
   {% for month in grouped_by_month %}
-#### {{ month.name }}
-{% for post in month.items %}* [{{ post.title | replace: "|", "\|" }}]({{ post.url | prepend: site.baseurl | prepend: site.url }})
-{% endfor %}
+* [{{ month.items.first.date | date: '%B' }}]({{ '/archive/' | append: year.name | append: '/' | append: month.name | append: '/' | relative_url }}) ({{ month.items.size }})
   {% endfor %}
 {% endfor %}
