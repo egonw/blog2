@@ -14,7 +14,7 @@ layout: base
   <div class="post-content">
     {% if page.months %}
       {% for month in page.months %}
-    <h3><a href="{{ '/archive/' | append: page.year | append: '/' | append: month.number | append: '/' | relative_url }}">{{ month.name }}</a></h3>
+    <h3>{{ month.name }} <a href="{{ '/archive/' | append: page.year | append: '/' | append: month.number | append: '/' | relative_url }}"><i class="fa-solid fa-link" style="font-size: 70%"></i></a></h3>
     <ul>
         {% for post in month.posts %}
       <li><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title | escape }}</a></li>
