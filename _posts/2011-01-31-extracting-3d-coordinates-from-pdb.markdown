@@ -2,6 +2,7 @@
 layout: post
 title:  "Extracting 3D coordinates from PDB files with Groovy CDK"
 date:   2011-01-31
+modified_date: 2026-10-21
 blogger-link: https://chem-bla-ics.blogspot.com/2011/01/extracting-3d-coordinates-from-pdb.html
 doi: 10.59350/my5bc-38a88
 tags: cdk groovy pdb doi:10.1186/1471-2105-10-397
@@ -40,5 +41,5 @@ for (container in
 }
 ```
 
-Wondering what the [Bioclipse Scripting Language](http://www.biomedcentral.com/1471-2105/10/397)
+Wondering what the [Bioclipse Scripting Language <i class="fa-solid fa-recycle fa-xs"></i>](https://doi.org/10.1186/1471-2105-10-397)
 version would look like... and, it can likely be done with Jmol script too.
