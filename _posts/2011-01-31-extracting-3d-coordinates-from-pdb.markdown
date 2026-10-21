@@ -8,10 +8,10 @@ doi: 10.59350/my5bc-38a88
 tags: cdk groovy pdb doi:10.1186/1471-2105-10-397
 ---
 
-[BioStar](http://biostar.stackexchange.com/) featured a question today about
-[how to extract 3D coordinates from PDB files](http://biostar.stackexchange.com/questions/1638/how-to-extract-just-the-coordinate-values-from-a-pdb-file-converted-to-a-text-fil).
-Now, a simple script may actually do, and [BioJava was mentioned too](http://biostar.stackexchange.com/questions/1638/how-to-extract-just-the-coordinate-values-from-a-pdb-file-converted-to-a-text-fil/1640#1640).
-Of course, it can also be done with the [CDK](http://cdk.sf.net). For example
+[BioStar <i class="fa-solid fa-recycle fa-xs"></i>](https://www.biostars.org/) featured a question today about
+[how to extract 3D coordinates from PDB files <i class="fa-solid fa-recycle fa-xs"></i>](https://www.biostars.org/p/1637/).
+Now, a simple script may actually do, and [BioJava was mentioned too <i class="fa-solid fa-recycle fa-xs"></i>](https://www.biostars.org/p/1637/#1640).
+Of course, it can also be done with the [CDK <i class="fa-solid fa-recycle fa-xs"></i>](https://cdk.github.io). For example
 using this Groovy code:
 
 ```groovy
