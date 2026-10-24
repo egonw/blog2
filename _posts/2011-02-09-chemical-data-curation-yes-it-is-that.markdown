@@ -5,6 +5,8 @@ date:   2011-02-09
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/chemical-data-curation-yes-it-is-that.html
 doi: 10.59350/1k4qd-9tc04
 tags: chemistry chemspider inchi opendata qsar justdoi:10.1007/s10822-010-9335-7
+  inchikey:ROBVIMPUHSLWNV-UHFFFAOYSA-N
+image: /blog/assets/images/depict2060.png
 ---
 
 The readers of [Antony's blog](http://www.chemconnector.com/chemunicating/)
@@ -60,7 +62,7 @@ The sixth had the more well-known problem, I think. I may be blind, but I would
 say [this drug](http://www.chemspider.com/Chemical-Structure.2060.html) has
 a stereocenter:
 
-[![](http://www.chemspider.com/ImagesHandler.ashx?id=2060&w=200&h=200)](http://www.chemspider.com/Chemical-Structure.2060.html)
+![](/blog/assets/images/depict2060.png)
 
 But none of the databases I checked so far (including ChemSpider) defines the
 stereochemistry! I thought we settled that some decades ago? Stereochemistry
