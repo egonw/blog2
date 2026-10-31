@@ -5,10 +5,10 @@ date:   2026-10-30
 modified_date: 2026-10-31
 doi: 10.59350/tyyke-w9649
 tags: pra3006 sparql wikidata wikipathways chembl
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 117534537625989348
 ---
 
 Fourteen years ago we [started](https://chem-bla-ics.linkedchemistry.info/2013/10/05/programming-in-life-sciences-1-six-day.html) the
