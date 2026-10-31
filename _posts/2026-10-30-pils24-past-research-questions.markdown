@@ -52,3 +52,7 @@ interesting in itself. Some years students worked in small teams, some years alo
 Originally, the course started with the OpenPHACTS SPARQL endpoint, tho it was hidden behind a REST API.
 Wikidata is now are default SPARQL endpoint, but it is nice to see that other life sciences SPARQL endpoints
 are used too: UniProtKB, ChEMBL-RDF, AOP-Wiki RDF, and Bio2RDF.
+
+Huge thanks to all the [Maastricht Science Programme](https://www.maastrichtuniversity.nl/education/bachelor/programmes/maastricht-science-programme)
+students for their creative projects! I like to stress, the course only runs for 5 weeks, with one practical day of 5 hours.
+And each year, they surprise me with how much they learned and got done.
