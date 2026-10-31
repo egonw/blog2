@@ -2,12 +2,16 @@
 layout: post
 title:  "Things are looking blue... (for #bioclipse)"
 date:   2011-02-14
+modified_date: 2026-10-31
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/things-are-looking-blue-for-bioclipse.html
 doi: 10.59350/6r2jy-nzq56
 tags: bioclipse
+image: /blog/assets/images/hudsonBlue.png
 ---
 
-[![](http://posterous.com/getfile/files.posterous.com/egonw/3cLxROF8XngL1KYW8yIdWe2owtFpvHpwwp0uum7H4MoeUafFoIqS1eubrT11/hudsonBlue.png.scaled.500.jpg)](http://posterous.com/getfile/files.posterous.com/egonw/NHxSTTNKi9gRZ2ufos6eSqDoIwneHpaxMjcfu9uCda5ux2T0QojrZqfffuFJ/hudsonBlue.png)
+&nbsp;
+
+![](/blog/assets/images/hudsonBlue.png)
 
 Last Friday a virus kicked in. Don't know whether flu or cold, but it had already
 ruined my 5-6 February weekend too. I need high fever to keep bed, otherwise
@@ -28,5 +32,3 @@ And building on the seminal work by Arvid++ on setting up [Hudson for Bioclipse]
 genetic algorithm-like approach well known in IT: change everything one by one,
 and keep the best solutions. And, to my excitement, things are now looking blue
 for Bioclipse :)
-
-[Posted via email](http://posterous.com) from [Egon's posterous](http://egonw.posterous.com/things-are-looking-blue-for-bioclipse)
