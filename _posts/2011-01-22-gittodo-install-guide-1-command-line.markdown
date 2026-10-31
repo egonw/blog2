@@ -5,11 +5,12 @@ date:   2011-01-22
 blogger-link: https://chem-bla-ics.blogspot.com/2011/01/gittodo-install-guide-1-command-line.html
 doi: 10.59350/4s8yg-wa197
 tags:
+modified_date: 2026-10-31
 ---
 
 Some years ago I was in need of a todo list tool. Of course, the requirements
 were simple: distributed, version controlled, command line support (I must be
-able to access it with minimal requirements). I also [hooked it up](http://chem-bla-ics.blogspot.com/2008/10/gittodo-support-for-freemind-graphical.html)
+able to access it with minimal requirements). I also [hooked it up <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2008/10/20/gittodo-support-for-freemind-graphical.html)
 with the [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)
 mindmapping tool. I am in the process of installing it on my new laptop, so
 thought a walk-through might be useful.

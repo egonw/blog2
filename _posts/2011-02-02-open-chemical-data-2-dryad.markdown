@@ -6,6 +6,7 @@ blogger-link: https://chem-bla-ics.blogspot.com/2011/02/open-chemical-data-2-dry
 doi: 10.59350/wj5cy-zhc95
 image: /assets/images/ccoChemRSS.png
 tags: chemistry friendfeed rss
+modified_date: 2026-10-31
 ---
 
 [Nico](http://scimantica.com/blog/) asked recently about the [availability of
@@ -16,7 +17,7 @@ very apparent.
 
 About 1.5 years ago I started a [FriedFeed room Open Chemical Data](http://friendfeed.com/openchemicaldata)
 where RSS feeds of new chemical data are aggregated. It started with the [RSS
-feed from the NMRShiftDB](http://chem-bla-ics.blogspot.com/2009/09/open-chemical-data-1-nmrshiftdb.html),
+feed from the NMRShiftDB <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/09/10/open-chemical-data-1-nmrshiftdb.html),
 and later ChemPedia Substances was added (which is expected to go EOL). I was
 informed, however, about [Dryad](http://datadryad.org/). It is a website that
 allows deposition of data published in journals, *as CC0*. That latter is amazing!
