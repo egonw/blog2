@@ -6,12 +6,12 @@ modified_date: 2026-10-31
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/things-are-looking-blue-for-bioclipse.html
 doi: 10.59350/6r2jy-nzq56
 tags: bioclipse
-image: /blog/assets/images/hudsonBlue.png
+image: /assets/images/hudsonBlue.png
 ---
 
 &nbsp;
 
-![](/blog/assets/images/hudsonBlue.png)
+![](/assets/images/hudsonBlue.png)
 
 Last Friday a virus kicked in. Don't know whether flu or cold, but it had already
 ruined my 5-6 February weekend too. I need high fever to keep bed, otherwise

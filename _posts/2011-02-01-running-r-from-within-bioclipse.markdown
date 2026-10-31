@@ -6,12 +6,12 @@ modified_date: 2026-10-21
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/running-r-from-within-bioclipse.html
 doi: 10.59350/39hkv-v9m76
 tags: bioclipse chemometrics
-image: /blog/assets/images/bcR.png
+image: /assets/images/bcR.png
 ---
 
 &nbsp;
 
-![](/blog/assets/images/bcR.png)
+![](/assets/images/bcR.png)
 
 One rarely know feature of [Bioclipse](http://www.bioclipse.net) is that you
 use it to run [R](http://www.r-project.org/) code. This functionality has been

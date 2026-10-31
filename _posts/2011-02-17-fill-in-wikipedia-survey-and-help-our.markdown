@@ -4,7 +4,7 @@ title:  "\"Fill in the #Wikipedia Survey and Help Our Community\""
 date:   2011-02-17
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/fill-in-wikipedia-survey-and-help-our.html
 doi: 10.59350/tx4rp-67s56
-image: /blog/assets/images/showoff.png
+image: /assets/images/showoff.png
 tags: cb wikipedia
 ---
 
@@ -19,6 +19,6 @@ scientists use and do not use Wikipedia to spread knowledge.
 As a nice spin-off if gives you a star rating for how well you are into the
 social science networks:
 
-![](/blog/assets/images/showoff.png)
+![](/assets/images/showoff.png)
 
 I got eleven stars, but that should not surprise you.

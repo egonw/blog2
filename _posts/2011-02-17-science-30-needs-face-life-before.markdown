@@ -4,14 +4,14 @@ title:  "Science 3.0 needs a facelift before ..."
 date:   2011-02-17
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/science-30-needs-face-life-before.html
 doi: 10.59350/b4ctf-72705
-image: /blog/assets/images/s30fail.png
+image: /assets/images/s30fail.png
 tags: friendfeed
 ---
 
 [Science 3.0](http://www.science3point0.com/activity/) needs a facelift before
 I can switch away from [FriendFeed](http://friendfeed.com/):
 
-![](/blog/assets/images/s30fail.png)
+![](/assets/images/s30fail.png)
 
 It comes down to the fact that the website has way too much information, and
 uses way too much space for things that do not matter. The interesting content

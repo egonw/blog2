@@ -4,7 +4,7 @@ title:  "My professional network (according to LinkedIn)"
 date:   2011-01-25
 blogger-link: https://chem-bla-ics.blogspot.com/2011/01/my-professional-network-according-to.html
 doi: 10.59350/yacs6-1yh55
-image: /blog/assets/images/linkedin.png
+image: /assets/images/linkedin.png
 tags:
 ---
 
@@ -14,7 +14,7 @@ like it focuses on work-relationships. This new app visualizes [my professional
 network](http://inmaps.linkedinlabs.com/share/Egon_Willighagen/149921088879074886534505277271900685716),
 and colors it by network organization:
 
-![](/blog/assets/images/linkedin.png)
+![](/assets/images/linkedin.png)
 
 This one is just a static image, but as creator, you get a zoomable and interactive
 version. In the image I have labeled the various colored groups that were mined

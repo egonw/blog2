@@ -4,7 +4,7 @@ title:  "Open Chemical Data #2: Dryad"
 date:   2011-02-02
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/open-chemical-data-2-dryad.html
 doi: 10.59350/wj5cy-zhc95
-image: /blog/assets/images/ccoChemRSS.png
+image: /assets/images/ccoChemRSS.png
 tags: chemistry friendfeed rss
 ---
 
@@ -29,4 +29,4 @@ to set up [this Yahoo Pipe](http://pipes.yahoo.com/ryscher/dryadchemical).
 So, Dryad is now part of the [Open Chemical Data](http://friendfeed.com/openchemicaldata)
 room (second item):
 
-![](/blog/assets/images/ccoChemRSS.png)
+![](/assets/images/ccoChemRSS.png)

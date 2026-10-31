@@ -4,7 +4,7 @@ title:  "DIY: Running R from within Bioclipse"
 date:   2011-02-01 00:10
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/diy-running-r-from-within-bioclipse.html
 doi: 10.59350/rqgjr-7b013
-image: /blog/assets/images/bc26statsUpdateSite3.png
+image: /assets/images/bc26statsUpdateSite3.png
 tags: bioclipse chemometrics
 ---
 
@@ -67,18 +67,18 @@ New Software...* dialog from the *Help* menu, and add (with the *Add* button)
 the Bioclipse Statistics update site on Hudson at [this Location](http://pele.farmbio.uu.se/hudson/view/Release/job/Bioclipse.statistics/lastSuccessfulBuild/artifact/buckminster.output/net.bioclipse.statistics_site_1.0.0-eclipse.feature/site.p2/)
 (copy/paste the Location URL into the below dialog):
 
-![](/blog/assets/images/bc26statsUpdateSite3.png)
+![](/assets/images/bc26statsUpdateSite3.png)
 
 When back in the Available Software dialog, select the new update site, and
 mark the *Bioclipse-R Integration* feature to be installed:
 
-![](/blog/assets/images/bc26statsUpdateSite2.png)
+![](/assets/images/bc26statsUpdateSite2.png)
 
 After the install is completed, which will require a reboot of Bioclipse (why?!?!),
 you can open the R console by opening a dialog from the Window -> Show View ->
 Other... menu:
 
-![](/blog/assets/images/bc26statsUpdateSite4.png)
+![](/assets/images/bc26statsUpdateSite4.png)
 
 The *R Console* will then show up as view, as depicted in my [earlier post](http://chem-bla-ics.blogspot.com/2011/02/running-r-from-within-bioclipse.html).
 
