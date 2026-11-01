@@ -7,10 +7,10 @@ tags: iupac cheminf cito:citesForInformation:10.1186/s13321-021-00512-4 justdoi:
   opensource openscience cito:citesAsPotentialSolution:10.48550/arXiv.2607.26113
   cito:citesAsPotentialSolution:10.26434/chemrxiv.15006114/v2 cito:citesAsPotentialSolution:10.26434/chemrxiv.15009769/v1
   cito:citesAsAuthority:10.1021/CI100384D
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 117541449562031686
 ---
 
 Language models model languages. The simpler the language, the simpler the model. Large language models (LLMs)
