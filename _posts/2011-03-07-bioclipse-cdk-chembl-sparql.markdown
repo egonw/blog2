@@ -4,7 +4,7 @@ title:  "Bioclipse-CDK-ChEMBL-SPARQL-Chemometrics mashup paper published"
 date:   2011-03-07
 blogger-link: https://chem-bla-ics.blogspot.com/2011/03/bioclipse-cdk-chembl-sparql.html
 doi: 10.59350/mdznq-2sp59
-image: /blog/assets/images/jbiomedPaper.png
+image: /assets/images/jbiomedPaper.png
 tags: bioclipse cdk chembl rdf semweb sparql doi:10.1186/2041-1480-2-S1-S6
 ---
 
@@ -15,7 +15,7 @@ where we use the CC-SA-BY-licensed [ChEMBL database](https://www.ebi.ac.uk/chemb
 as example data source, based on a [presentation I gave](http://chem-bla-ics.blogspot.com/2009/11/swat4ls-linking-open-drug-data-to.html)
 in Amsterdam back then.
 
-![](/blog/assets/images/jbiomedPaper.png)
+![](/assets/images/jbiomedPaper.png)
 
 This is a Figure from our paper, but the other papers are very interesting too,
 and are worth checking out!
