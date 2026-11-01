@@ -5,6 +5,7 @@ date:   2011-02-21
 blogger-link: https://chem-bla-ics.blogspot.com/2011/02/ckan-and-rdf-nice-example-on-why.html
 doi: 10.59350/qgd1w-x2514
 tags: chembl nmrshiftdb rdf
+modified_date: 2026-11-01
 ---
 
 <img src="https://assets.okfn.org/p/ckan/img/ckan_logo_box.png" style="width: 30%; display: block; margin-left: auto; margin-right: auto; float: right" />
@@ -17,10 +18,10 @@ really worth blogging about if the two are not being mashed up. Members from
 both sides are interested in learning how Open (think [Is It Open Data?](http://www.isitopendata.org/))
 the *open data* from the LODD network really is.
 
-In fact, the Open Data definition as outlined in the [Panton Principles](http://chem-bla-ics.blogspot.com/2010/02/open-data-panton-principles.html)
+In fact, the Open Data definition as outlined in the [Panton Principles <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/19/open-data-panton-principles.html)
 does not allow for a non-commercial clause, which several LODD data sets are
 labeled with. Clear copyright and license statements are really important. This
-[applies to source code](http://chem-bla-ics.blogspot.com/2009/06/making-patches-attribution-copyright.html),
+[applies to source code <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/06/30/making-patches-attribution-copyright.html),
 but most certainly to data too.
 
 So, early March there will be a virtual, online hack session on making a start
@@ -61,7 +62,7 @@ is missing from the list though, affecting the [ChEMBL record](http://ckan.net/p
 
 **Redistribution?**  
 Another issue that must be addressed in CKAN is how to deal with redistributions.
-For example, the above cited ChEMBL data is also available as [SPARQL end](http://chem-bla-ics.blogspot.com/2010/02/chembl-rdf-1sparql-end-point.html)
+For example, the above cited ChEMBL data is also available as [SPARQL end <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2010/02/09/chembl-rdf-1sparql-end-point.html)
 point by me, and this end point currently has a [different record](http://ckan.net/package/farmbio-chembl).
 Should those records be merged? I guess not, because there is only place for
 one maintainer. So, perhaps a CKAN catalog record is not even a dataset, but

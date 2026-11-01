@@ -6,13 +6,14 @@ blogger-link: https://chem-bla-ics.blogspot.com/2011/03/bioclipse-cdk-chembl-spa
 doi: 10.59350/mdznq-2sp59
 image: /assets/images/jbiomedPaper.png
 tags: bioclipse cdk chembl rdf semweb sparql doi:10.1186/2041-1480-2-S1-S6
+modified_date: 2026-11-01
 ---
 
 Our (peer-reviewed) [Bioclipse](http://www.bioclipse.net/)-[CDK](http://cdk.sf.net/)-SPARQL-Chemometrics
 mashup paper was just published online (doi:<span class="Apple-style-span" style="font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 14px;"><a href="http://dx.doi.org/10.1186/2041-1480-2-S1-S6">10.1186/2041-1480-2-S1-S6</a></span>)
 as part of the [SWAT4LS 2009](http://www.swat4ls.org/2009/) [supplement](http://www.jbiomedsem.com/supplements/2/S1),
 where we use the CC-SA-BY-licensed [ChEMBL database](https://www.ebi.ac.uk/chembldb/)
-as example data source, based on a [presentation I gave](http://chem-bla-ics.blogspot.com/2009/11/swat4ls-linking-open-drug-data-to.html)
+as example data source, based on a [presentation I gave <i class="fa-solid fa-recycle fa-xs"></i>](https://chem-bla-ics.linkedchemistry.info/2009/11/21/swat4ls-linking-open-drug-data-to.html)
 in Amsterdam back then.
 
 ![](/assets/images/jbiomedPaper.png)
