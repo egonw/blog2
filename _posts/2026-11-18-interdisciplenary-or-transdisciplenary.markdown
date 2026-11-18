@@ -13,10 +13,10 @@ grants:
     funder:
       name: "Dutch Research Council"
       ror: 04jsz6e67
-#comments:
-#  host: social.edu.nl
-#  username: egonw
-#  id: ...
+comments:
+  host: social.edu.nl
+  username: egonw
+  id: 117637003549538289
 ---
 
 [Jente Houweling](https://orcid.org/0009-0005-3680-0645) introduced me some time ago to the term
