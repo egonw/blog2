@@ -20,7 +20,7 @@ grants:
 ---
 
 [Jente Houweling](https://orcid.org/0009-0005-3680-0645) introduced me some time ago to the term
-[transisciplenary](https://www.uu.nl/en/education/educational-development-training/knowledge-dossiers/interdisciplinary-education-and-cel/multi-inter-and-transdisciplinarity-what-is-what).
+[transdisciplenary](https://www.uu.nl/en/education/educational-development-training/knowledge-dossiers/interdisciplinary-education-and-cel/multi-inter-and-transdisciplinarity-what-is-what).
 Where interdisciplenary combines modules of knowledge from multiple fields, transisciplenary
 create more than the sums by integrating those modules of knowledge.
 
