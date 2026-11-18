@@ -1,0 +1,7 @@
+---
+layout: work
+title: "The Chemical Translation Service—a web-based tool to improve standardization of metabolomic reports"
+type: ScholarlyArticle
+tag: doi:10.1093/BIOINFORMATICS/BTQ476
+doi: doi:10.1093/BIOINFORMATICS/BTQ476
+---
